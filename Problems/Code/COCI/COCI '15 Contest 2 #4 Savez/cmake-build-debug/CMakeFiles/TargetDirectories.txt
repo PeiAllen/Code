@@ -1,3 +1,0 @@
-C:/Users/allen/CLionProjects/COCI '15 Contest 2 #4 Savez/cmake-build-debug/CMakeFiles/COCI__15_Contest_2__4_Savez.dir
-C:/Users/allen/CLionProjects/COCI '15 Contest 2 #4 Savez/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/allen/CLionProjects/COCI '15 Contest 2 #4 Savez/cmake-build-debug/CMakeFiles/rebuild_cache.dir

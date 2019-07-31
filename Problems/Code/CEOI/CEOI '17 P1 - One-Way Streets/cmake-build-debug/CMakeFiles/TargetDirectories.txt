@@ -1,3 +1,0 @@
-C:/Users/allen/Documents/GitHub/Code/Code/CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/CEOI__17_P1___One_Way_Streets.dir
-C:/Users/allen/Documents/GitHub/Code/Code/CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/allen/Documents/GitHub/Code/Code/CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-C:/Users/allen/CLionProjects/IOI '05 P2 - Mean Sequence/cmake-build-debug/CMakeFiles/IOI__05_P2___Mean_Sequence.dir
-C:/Users/allen/CLionProjects/IOI '05 P2 - Mean Sequence/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/allen/CLionProjects/IOI '05 P2 - Mean Sequence/cmake-build-debug/CMakeFiles/rebuild_cache.dir
