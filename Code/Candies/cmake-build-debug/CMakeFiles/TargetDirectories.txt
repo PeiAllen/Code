@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/Candies/cmake-build-debug/CMakeFiles/Candies.dir
+C:/Users/allen/CLionProjects/Candies/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/Candies/cmake-build-debug/CMakeFiles/rebuild_cache.dir

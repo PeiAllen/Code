@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/Leapfrog Ch. 1/cmake-build-debug/CMakeFiles/Leapfrog_Ch__1.dir
+C:/Users/allen/CLionProjects/Leapfrog Ch. 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/Leapfrog Ch. 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

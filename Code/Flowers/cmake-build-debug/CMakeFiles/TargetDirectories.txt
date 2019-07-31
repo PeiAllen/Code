@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/Flowers/cmake-build-debug/CMakeFiles/Flowers.dir
+C:/Users/allen/CLionProjects/Flowers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/Flowers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

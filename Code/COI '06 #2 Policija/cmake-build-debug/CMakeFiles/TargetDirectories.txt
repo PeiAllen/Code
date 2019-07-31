@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/COI '06 #2 Policija/cmake-build-debug/CMakeFiles/COI__06__2_Policija.dir
+C:/Users/allen/CLionProjects/COI '06 #2 Policija/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/COI '06 #2 Policija/cmake-build-debug/CMakeFiles/rebuild_cache.dir
