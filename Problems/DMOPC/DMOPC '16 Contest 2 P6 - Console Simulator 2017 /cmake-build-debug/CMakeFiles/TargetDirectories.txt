@@ -1,3 +1,0 @@
-/Users/allen/CLionProjects/DMOPC '16 Contest 2 P6 - Console Simulator 2017 /cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/allen/CLionProjects/DMOPC '16 Contest 2 P6 - Console Simulator 2017 /cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/allen/CLionProjects/DMOPC '16 Contest 2 P6 - Console Simulator 2017 /cmake-build-debug/CMakeFiles/DMOPC__16_Contest_2_P6___Console_Simulator_2017_.dir

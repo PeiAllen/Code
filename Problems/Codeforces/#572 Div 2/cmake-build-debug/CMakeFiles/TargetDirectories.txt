@@ -1,3 +1,0 @@
-C:/Users/allen/CLionProjects/#572 Div 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/allen/CLionProjects/#572 Div 2/cmake-build-debug/CMakeFiles/_572_Div_2.dir
-C:/Users/allen/CLionProjects/#572 Div 2/cmake-build-debug/CMakeFiles/edit_cache.dir

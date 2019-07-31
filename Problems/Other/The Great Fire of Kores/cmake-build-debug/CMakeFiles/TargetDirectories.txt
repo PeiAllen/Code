@@ -1,3 +1,0 @@
-C:/Users/allen/CLionProjects/The Great Fire of Kores/cmake-build-debug/CMakeFiles/The_Great_Fire_of_Kores.dir
-C:/Users/allen/CLionProjects/The Great Fire of Kores/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/allen/CLionProjects/The Great Fire of Kores/cmake-build-debug/CMakeFiles/rebuild_cache.dir
