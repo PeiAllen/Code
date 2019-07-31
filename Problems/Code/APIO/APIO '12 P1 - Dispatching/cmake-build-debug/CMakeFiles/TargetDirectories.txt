@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/APIO '12 P1 - Dispatching/cmake-build-debug/CMakeFiles/APIO__12_P1___Dispatching.dir
+C:/Users/allen/CLionProjects/APIO '12 P1 - Dispatching/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/APIO '12 P1 - Dispatching/cmake-build-debug/CMakeFiles/rebuild_cache.dir

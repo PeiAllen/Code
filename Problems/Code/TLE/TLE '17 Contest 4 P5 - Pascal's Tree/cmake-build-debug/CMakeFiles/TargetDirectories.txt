@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/TLE '17 Contest 4 P5 - Pascal's Tree/cmake-build-debug/CMakeFiles/TLE__17_Contest_4_P5___Pascal_s_Tree.dir
+C:/Users/allen/CLionProjects/TLE '17 Contest 4 P5 - Pascal's Tree/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/TLE '17 Contest 4 P5 - Pascal's Tree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
