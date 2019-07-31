@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/allen/CLionProjects/Connecting Islands/main.cpp" "C:/Users/allen/CLionProjects/Connecting Islands/cmake-build-debug/CMakeFiles/Connecting_Islands.dir/main.cpp.obj"
+  "C:/Users/allen/Documents/GitHub/Code/Code/Other/Connecting Islands/main.cpp" "C:/Users/allen/Documents/GitHub/Code/Code/Other/Connecting Islands/cmake-build-debug/CMakeFiles/Connecting_Islands.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
