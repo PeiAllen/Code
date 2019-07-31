@@ -1,4 +1,4 @@
-# Install script for directory: /Users/allen/CLionProjects/APIO '12 P1 - Dispatching 
+# Install script for directory: /Users/allen/Documents/GitHub/Code/Code/APIO/APIO '12 P1 - Dispatching2 
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/allen/CLionProjects/APIO '12 P1 - Dispatching /cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/allen/Documents/GitHub/Code/Code/APIO/APIO '12 P1 - Dispatching2 /cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
