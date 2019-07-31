@@ -1,6 +1,0 @@
-cmake_minimum_required(VERSION 3.14)
-project(Mock_CCC__19_Contest_2_J5___Tudor_Drinks_Even_More_Tea)
-
-set(CMAKE_CXX_STANDARD 14)
-
-add_executable(Mock_CCC__19_Contest_2_J5___Tudor_Drinks_Even_More_Tea main.cpp)

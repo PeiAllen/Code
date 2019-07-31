@@ -1,3 +1,0 @@
-C:/Users/allen/CLionProjects/Power Eggs/cmake-build-debug/CMakeFiles/Power_Eggs.dir
-C:/Users/allen/CLionProjects/Power Eggs/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/allen/CLionProjects/Power Eggs/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-C:/Users/allen/CLionProjects/Prime Checking/cmake-build-debug/CMakeFiles/Prime_Checking.dir
-C:/Users/allen/CLionProjects/Prime Checking/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/allen/CLionProjects/Prime Checking/cmake-build-debug/CMakeFiles/rebuild_cache.dir

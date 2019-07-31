@@ -1,3 +1,0 @@
-C:/Users/allen/CLionProjects/COCI '07 Contest 3 #6 Redoks/cmake-build-debug/CMakeFiles/COCI__07_Contest_3__6_Redoks.dir
-C:/Users/allen/CLionProjects/COCI '07 Contest 3 #6 Redoks/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/allen/CLionProjects/COCI '07 Contest 3 #6 Redoks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
