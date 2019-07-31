@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(DWITE__07_R4__4___Shortest_path_around_)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(DWITE__07_R4__4___Shortest_path_around_ main.cpp)
