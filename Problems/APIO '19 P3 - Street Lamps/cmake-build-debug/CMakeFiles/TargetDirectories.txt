@@ -1,3 +1,0 @@
-C:/Users/allen/CLionProjects/APIO '19 P3 - Street Lamps/cmake-build-debug/CMakeFiles/APIO__19_P3___Street_Lamps.dir
-C:/Users/allen/CLionProjects/APIO '19 P3 - Street Lamps/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/allen/CLionProjects/APIO '19 P3 - Street Lamps/cmake-build-debug/CMakeFiles/rebuild_cache.dir
