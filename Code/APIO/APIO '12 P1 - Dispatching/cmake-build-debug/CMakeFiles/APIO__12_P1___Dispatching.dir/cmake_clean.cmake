@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/APIO__12_P1___Dispatching.dir/main.cpp.obj"
+  "CMakeFiles/APIO__12_P1___Dispatching.dir/main.cpp.o"
   "APIO__12_P1___Dispatching.pdb"
-  "APIO__12_P1___Dispatching.exe"
-  "APIO__12_P1___Dispatching.exe.manifest"
-  "libAPIO__12_P1___Dispatching.dll.a"
+  "APIO__12_P1___Dispatching"
 )
 
 # Per-language clean rules from dependency scanning.
