@@ -3,4 +3,4 @@ project(Power_Eggs)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Power_Eggs main.cpp)
+add_executable(Power_Eggs2 main.cpp)
