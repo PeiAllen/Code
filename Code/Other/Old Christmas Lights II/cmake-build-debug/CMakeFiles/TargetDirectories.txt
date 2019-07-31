@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/Old Christmas Lights II/cmake-build-debug/CMakeFiles/Old_Christmas_Lights_II.dir
+C:/Users/allen/CLionProjects/Old Christmas Lights II/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/Old Christmas Lights II/cmake-build-debug/CMakeFiles/rebuild_cache.dir

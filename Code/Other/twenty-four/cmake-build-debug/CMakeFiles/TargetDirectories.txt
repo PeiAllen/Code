@@ -1,0 +1,3 @@
+/Users/allen/CLionProjects/twenty-four/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/allen/CLionProjects/twenty-four/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/allen/CLionProjects/twenty-four/cmake-build-debug/CMakeFiles/twenty_four.dir

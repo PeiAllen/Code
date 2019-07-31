@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/codeforces1/cmake-build-debug/CMakeFiles/codeforces1.dir
+C:/Users/allen/CLionProjects/codeforces1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/codeforces1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

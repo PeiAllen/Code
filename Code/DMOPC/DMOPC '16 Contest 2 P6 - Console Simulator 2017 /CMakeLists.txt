@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(DMOPC__16_Contest_2_P6___Console_Simulator_2017_)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(DMOPC__16_Contest_2_P6___Console_Simulator_2017_ main.cpp)
