@@ -1,0 +1,20 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /Users/allen/CLionProjects/DWITE '07 R4 #4 - Shortest path around /cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_5cdb0/fast 
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_5cdb0.dir/build.make CMakeFiles/cmTC_5cdb0.dir/build
+make[1]: *** No rule to make target `/Users/allen/CLionProjects/DWITE '07 R4\', needed by `CMakeFiles/cmTC_5cdb0.dir/feature_tests.c.o'.  Stop.
+make: *** [cmTC_5cdb0/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /Users/allen/CLionProjects/DWITE '07 R4 #4 - Shortest path around /cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_18fb2/fast 
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_18fb2.dir/build.make CMakeFiles/cmTC_18fb2.dir/build
+make[1]: *** No rule to make target `/Users/allen/CLionProjects/DWITE '07 R4\', needed by `CMakeFiles/cmTC_18fb2.dir/feature_tests.cxx.o'.  Stop.
+make: *** [cmTC_18fb2/fast] Error 2
+
+
+

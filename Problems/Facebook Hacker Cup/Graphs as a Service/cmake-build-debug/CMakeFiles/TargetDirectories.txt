@@ -1,0 +1,3 @@
+/Users/allen/CLionProjects/Graphs as a Service/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/allen/CLionProjects/Graphs as a Service/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/allen/CLionProjects/Graphs as a Service/cmake-build-debug/CMakeFiles/Graphs_as_a_Service.dir

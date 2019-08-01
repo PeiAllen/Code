@@ -1,0 +1,3 @@
+/Users/allen/CLionProjects/Range Max Query/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/allen/CLionProjects/Range Max Query/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/allen/CLionProjects/Range Max Query/cmake-build-debug/CMakeFiles/Range_Max_Query.dir
