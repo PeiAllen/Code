@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/Bubble Cup V8 H Bots/cmake-build-debug/CMakeFiles/Bubble_Cup_V8_H_Bots.dir
+C:/Users/allen/CLionProjects/Bubble Cup V8 H Bots/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/Bubble Cup V8 H Bots/cmake-build-debug/CMakeFiles/rebuild_cache.dir

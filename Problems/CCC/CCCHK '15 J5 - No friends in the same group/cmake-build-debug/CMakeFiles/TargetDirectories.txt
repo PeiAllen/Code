@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/CCCHK '15 J5 - No friends in the same group/cmake-build-debug/CMakeFiles/CCCHK__15_J5___No_friends_in_the_same_group.dir
+C:/Users/allen/CLionProjects/CCCHK '15 J5 - No friends in the same group/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/CCCHK '15 J5 - No friends in the same group/cmake-build-debug/CMakeFiles/rebuild_cache.dir

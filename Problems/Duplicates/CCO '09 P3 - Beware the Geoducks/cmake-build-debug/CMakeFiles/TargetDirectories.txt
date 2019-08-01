@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/CCO '09 P3 - Beware the Geoducks/cmake-build-debug/CMakeFiles/CCO__09_P3___Beware_the_Geoducks.dir
+C:/Users/allen/CLionProjects/CCO '09 P3 - Beware the Geoducks/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/CCO '09 P3 - Beware the Geoducks/cmake-build-debug/CMakeFiles/rebuild_cache.dir

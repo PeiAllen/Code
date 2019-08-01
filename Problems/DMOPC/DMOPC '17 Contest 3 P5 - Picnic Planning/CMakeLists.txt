@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(DMOPC__17_Contest_3_P5___Picnic_Planning)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(DMOPC__17_Contest_3_P5___Picnic_Planning main.cpp)

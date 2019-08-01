@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/ IOI '11 P2 - Race/cmake-build-debug/CMakeFiles/_IOI__11_P2___Race.dir
+C:/Users/allen/CLionProjects/ IOI '11 P2 - Race/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/ IOI '11 P2 - Race/cmake-build-debug/CMakeFiles/rebuild_cache.dir

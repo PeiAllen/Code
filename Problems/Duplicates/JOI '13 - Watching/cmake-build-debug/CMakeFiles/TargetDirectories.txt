@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/JOI '13 - Watching/cmake-build-debug/CMakeFiles/JOI__13___Watching.dir
+C:/Users/allen/CLionProjects/JOI '13 - Watching/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/JOI '13 - Watching/cmake-build-debug/CMakeFiles/rebuild_cache.dir

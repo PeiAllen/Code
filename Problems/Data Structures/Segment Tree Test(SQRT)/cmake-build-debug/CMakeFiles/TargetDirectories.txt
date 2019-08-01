@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/Segment Tree Test(SQRT)/cmake-build-debug/CMakeFiles/Segment_Tree_Test_SQRT_.dir
+C:/Users/allen/CLionProjects/Segment Tree Test(SQRT)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/Segment Tree Test(SQRT)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/IOI '13 P6 - Game/cmake-build-debug/CMakeFiles/IOI__13_P6___Game.dir
+C:/Users/allen/CLionProjects/IOI '13 P6 - Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/IOI '13 P6 - Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/BOI 2007 P1 - Escape/cmake-build-debug/CMakeFiles/BOI_2007_P1___Escape.dir
+C:/Users/allen/CLionProjects/BOI 2007 P1 - Escape/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/BOI 2007 P1 - Escape/cmake-build-debug/CMakeFiles/rebuild_cache.dir

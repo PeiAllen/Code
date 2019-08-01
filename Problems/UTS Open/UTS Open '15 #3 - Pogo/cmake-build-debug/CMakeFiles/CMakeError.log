@@ -1,0 +1,26 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: C:/Users/allen/CLionProjects/UTS Open '15 #3 - Pogo/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_cc9fc/fast 
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_cc9fc.dir\build.make CMakeFiles/cmTC_cc9fc.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/allen/CLionProjects/UTS Open '15 #3 - Pogo/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: Leaving directory 'C:/Users/allen/CLionProjects/UTS Open '15 #3 - Pogo/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target 'C:/Users/allen/CLionProjects/UTS Open '15\', needed by 'CMakeFiles/cmTC_cc9fc.dir/feature_tests.c.obj'.  Stop.
+Makefile:120: recipe for target 'cmTC_cc9fc/fast' failed
+mingw32-make.exe: *** [cmTC_cc9fc/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: C:/Users/allen/CLionProjects/UTS Open '15 #3 - Pogo/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_620aa/fast 
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_620aa.dir\build.make CMakeFiles/cmTC_620aa.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/allen/CLionProjects/UTS Open '15 #3 - Pogo/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: Leaving directory 'C:/Users/allen/CLionProjects/UTS Open '15 #3 - Pogo/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target 'C:/Users/allen/CLionProjects/UTS Open '15\', needed by 'CMakeFiles/cmTC_620aa.dir/feature_tests.cxx.obj'.  Stop.
+Makefile:120: recipe for target 'cmTC_620aa/fast' failed
+mingw32-make.exe: *** [cmTC_620aa/fast] Error 2
+
+
+

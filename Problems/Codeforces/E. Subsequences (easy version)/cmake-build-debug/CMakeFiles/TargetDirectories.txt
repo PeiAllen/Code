@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/E. Subsequences (easy version)/cmake-build-debug/CMakeFiles/E__Subsequences__easy_version_.dir
+C:/Users/allen/CLionProjects/E. Subsequences (easy version)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/E. Subsequences (easy version)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

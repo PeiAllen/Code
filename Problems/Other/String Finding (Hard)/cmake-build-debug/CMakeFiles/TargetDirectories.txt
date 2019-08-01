@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/String Finding (Hard)/cmake-build-debug/CMakeFiles/String_Finding__Hard_.dir
+C:/Users/allen/CLionProjects/String Finding (Hard)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/String Finding (Hard)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

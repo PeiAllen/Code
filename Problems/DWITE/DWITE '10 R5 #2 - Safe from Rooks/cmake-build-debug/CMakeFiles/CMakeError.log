@@ -1,0 +1,52 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: C:/Users/allen/CLionProjects/DWITE '10 R5 #2 - Safe from Rooks/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_55de0/fast 
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_55de0.dir\build.make CMakeFiles/cmTC_55de0.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/allen/CLionProjects/DWITE '10 R5 #2 - Safe from Rooks/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: Leaving directory 'C:/Users/allen/CLionProjects/DWITE '10 R5 #2 - Safe from Rooks/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target 'C:/Users/allen/CLionProjects/DWITE '10 R5\', needed by 'CMakeFiles/cmTC_55de0.dir/feature_tests.c.obj'.  Stop.
+Makefile:120: recipe for target 'cmTC_55de0/fast' failed
+mingw32-make.exe: *** [cmTC_55de0/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: C:/Users/allen/CLionProjects/DWITE '10 R5 #2 - Safe from Rooks/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_9237a/fast 
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_9237a.dir\build.make CMakeFiles/cmTC_9237a.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/allen/CLionProjects/DWITE '10 R5 #2 - Safe from Rooks/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: Leaving directory 'C:/Users/allen/CLionProjects/DWITE '10 R5 #2 - Safe from Rooks/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target 'C:/Users/allen/CLionProjects/DWITE '10 R5\', needed by 'CMakeFiles/cmTC_9237a.dir/feature_tests.cxx.obj'.  Stop.
+Makefile:120: recipe for target 'cmTC_9237a/fast' failed
+mingw32-make.exe: *** [cmTC_9237a/fast] Error 2
+
+
+
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: C:/Users/allen/CLionProjects/DWITE '10 R5 #2 - Safe from Rooks/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_dbe89/fast 
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_dbe89.dir\build.make CMakeFiles/cmTC_dbe89.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/allen/CLionProjects/DWITE '10 R5 #2 - Safe from Rooks/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: Leaving directory 'C:/Users/allen/CLionProjects/DWITE '10 R5 #2 - Safe from Rooks/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target 'C:/Users/allen/CLionProjects/DWITE '10 R5\', needed by 'CMakeFiles/cmTC_dbe89.dir/feature_tests.c.obj'.  Stop.
+Makefile:120: recipe for target 'cmTC_dbe89/fast' failed
+mingw32-make.exe: *** [cmTC_dbe89/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: C:/Users/allen/CLionProjects/DWITE '10 R5 #2 - Safe from Rooks/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_12263/fast 
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_12263.dir\build.make CMakeFiles/cmTC_12263.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/allen/CLionProjects/DWITE '10 R5 #2 - Safe from Rooks/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: Leaving directory 'C:/Users/allen/CLionProjects/DWITE '10 R5 #2 - Safe from Rooks/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target 'C:/Users/allen/CLionProjects/DWITE '10 R5\', needed by 'CMakeFiles/cmTC_12263.dir/feature_tests.cxx.obj'.  Stop.
+Makefile:120: recipe for target 'cmTC_12263/fast' failed
+mingw32-make.exe: *** [cmTC_12263/fast] Error 2
+
+
+

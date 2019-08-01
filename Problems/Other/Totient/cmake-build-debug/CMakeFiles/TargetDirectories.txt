@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/Totient/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/Totient/cmake-build-debug/CMakeFiles/Totient.dir
+C:/Users/allen/CLionProjects/Totient/cmake-build-debug/CMakeFiles/rebuild_cache.dir

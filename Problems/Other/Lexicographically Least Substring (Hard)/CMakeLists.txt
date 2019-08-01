@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(Lexicographically_Least_Substring__Hard_)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Lexicographically_Least_Substring__Hard_ main.cpp)

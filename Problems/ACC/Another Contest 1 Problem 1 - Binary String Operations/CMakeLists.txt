@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(Another_Contest_1_Problem_1___Binary_String_Operations)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Another_Contest_1_Problem_1___Binary_String_Operations main.cpp)

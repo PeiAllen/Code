@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/Lexicographically Least Substring (Hard)/cmake-build-debug/CMakeFiles/Lexicographically_Least_Substring__Hard_.dir
+C:/Users/allen/CLionProjects/Lexicographically Least Substring (Hard)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/Lexicographically Least Substring (Hard)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

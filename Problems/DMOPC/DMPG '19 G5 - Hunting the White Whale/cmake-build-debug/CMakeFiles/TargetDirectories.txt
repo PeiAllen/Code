@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/DMPG '19 G5 - Hunting the White Whale/cmake-build-debug/CMakeFiles/DMPG__19_G5___Hunting_the_White_Whale.dir
+C:/Users/allen/CLionProjects/DMPG '19 G5 - Hunting the White Whale/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/DMPG '19 G5 - Hunting the White Whale/cmake-build-debug/CMakeFiles/rebuild_cache.dir

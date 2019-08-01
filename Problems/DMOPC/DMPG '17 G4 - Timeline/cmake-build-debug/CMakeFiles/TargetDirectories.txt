@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/DMPG '17 G4 - Timeline/cmake-build-debug/CMakeFiles/DMPG__17_G4___Timeline.dir
+C:/Users/allen/CLionProjects/DMPG '17 G4 - Timeline/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/DMPG '17 G4 - Timeline/cmake-build-debug/CMakeFiles/rebuild_cache.dir

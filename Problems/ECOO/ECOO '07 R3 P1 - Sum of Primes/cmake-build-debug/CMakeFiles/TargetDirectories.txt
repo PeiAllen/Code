@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/ECOO '07 R3 P1 - Sum of Primes/cmake-build-debug/CMakeFiles/ECOO__07_R3_P1___Sum_of_Primes.dir
+C:/Users/allen/CLionProjects/ECOO '07 R3 P1 - Sum of Primes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/ECOO '07 R3 P1 - Sum of Primes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

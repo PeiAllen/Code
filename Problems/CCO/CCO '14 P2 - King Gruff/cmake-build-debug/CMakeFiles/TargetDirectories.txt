@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/CCO '14 P2 - King Gruff/cmake-build-debug/CMakeFiles/CCO__14_P2___King_Gruff.dir
+C:/Users/allen/CLionProjects/CCO '14 P2 - King Gruff/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/CCO '14 P2 - King Gruff/cmake-build-debug/CMakeFiles/rebuild_cache.dir

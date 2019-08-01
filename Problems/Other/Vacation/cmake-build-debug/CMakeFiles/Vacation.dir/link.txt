@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.1.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Vacation.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Vacation.dir/objects.a @CMakeFiles\Vacation.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Vacation.dir/objects.a -Wl,--no-whole-archive  -o Vacation.exe -Wl,--out-implib,libVacation.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Vacation.dir\linklibs.rsp

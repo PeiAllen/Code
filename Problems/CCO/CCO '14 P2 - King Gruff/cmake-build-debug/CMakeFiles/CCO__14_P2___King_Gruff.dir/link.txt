@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.1.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\CCO__14_P2___King_Gruff.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\CCO__14_P2___King_Gruff.dir/objects.a @CMakeFiles\CCO__14_P2___King_Gruff.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\CCO__14_P2___King_Gruff.dir/objects.a -Wl,--no-whole-archive  -o CCO__14_P2___King_Gruff.exe -Wl,--out-implib,libCCO__14_P2___King_Gruff.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CCO__14_P2___King_Gruff.dir\linklibs.rsp

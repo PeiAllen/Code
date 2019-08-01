@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/UTS Open '15 #3 - Pogo/cmake-build-debug/CMakeFiles/UTS_Open__15__3___Pogo.dir
+C:/Users/allen/CLionProjects/UTS Open '15 #3 - Pogo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/UTS Open '15 #3 - Pogo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

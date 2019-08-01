@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/Factors/cmake-build-debug/CMakeFiles/Factors.dir
+C:/Users/allen/CLionProjects/Factors/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/Factors/cmake-build-debug/CMakeFiles/rebuild_cache.dir

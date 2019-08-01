@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/Ostap and Grasshopper/cmake-build-debug/CMakeFiles/Ostap_and_Grasshopper.dir
+C:/Users/allen/CLionProjects/Ostap and Grasshopper/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/Ostap and Grasshopper/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/Vacation/cmake-build-debug/CMakeFiles/Vacation.dir
+C:/Users/allen/CLionProjects/Vacation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/Vacation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
