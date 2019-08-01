@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/codejamR2P1/cmake-build-debug/CMakeFiles/codejamR2P1.dir
+C:/Users/allen/CLionProjects/codejamR2P1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/codejamR2P1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/COCI '17 Contest 1 #5 Deda/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/COCI '17 Contest 1 #5 Deda/cmake-build-debug/CMakeFiles/COCI__17_Contest_1__5_Deda.dir
+C:/Users/allen/CLionProjects/COCI '17 Contest 1 #5 Deda/cmake-build-debug/CMakeFiles/rebuild_cache.dir
