@@ -12,53 +12,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c65d303e-2cc6-40a6-be3f-b450af225002" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CEOI__17_P1___One_Way_Streets.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CEOI__17_P1___One_Way_Streets.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/3.14.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/3.14.3/CMakeCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/3.14.3/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/3.14.3/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/3.14.3/CMakeRCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/3.14.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/3.14.3/CMakeSystem.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/CEOI__17_P1___One_Way_Streets.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/CEOI__17_P1___One_Way_Streets.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/CEOI__17_P1___One_Way_Streets.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/CEOI__17_P1___One_Way_Streets.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/CEOI__17_P1___One_Way_Streets.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/CEOI__17_P1___One_Way_Streets.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/CEOI__17_P1___One_Way_Streets.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/CEOI__17_P1___One_Way_Streets.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/CEOI__17_P1___One_Way_Streets.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/CEOI__17_P1___One_Way_Streets.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/CEOI__17_P1___One_Way_Streets.dir/linklibs.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/CEOI__17_P1___One_Way_Streets.dir/objects1.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" afterPath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../CEOI/CEOI '17 P1 - One-Way Streets/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Dynamic_Range_K_th_Number_Query_2_.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Dynamic_Range_K_th_Number_Query_2_.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Dynamic_Range_K_th_Number_Query_2_.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Dynamic_Range_K_th_Number_Query_2_.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Dynamic_Range_K_th_Number_Query_2_.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Dynamic_Range_K_th_Number_Query_2_.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Dynamic_Range_K_th_Number_Query_2_.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Dynamic_Range_K_th_Number_Query_2_.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Dynamic_Range_K_th_Number_Query_2_.dir/main.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Dynamic_Range_K_th_Number_Query_2_.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Dynamic_Range_K_th_Number_Query_2_.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ECOO '17 R3 P4 - Ice Cream Beach /.idea/ECOO '17 R3 P4 - Ice Cream Beach .iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ECOO '17 R3 P4 - Ice Cream Beach /.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ECOO '17 R3 P4 - Ice Cream Beach /.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ECOO '17 R3 P4 - Ice Cream Beach /.idea/vcs.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="117">
-              <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+              <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -112,7 +69,17 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Dynamic_Range_K_th_Number_Query_2_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dynamic Range K-th Number Query 2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -154,17 +121,17 @@
       <updated>1564259931202</updated>
       <workItem from="1564259932494" duration="4669000" />
       <workItem from="1564846225063" duration="263000" />
+      <workItem from="1564861809351" duration="24000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4932000" />
+    <option name="totallyTimeSpent" value="4956000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="720" y="23" width="720" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25663716" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2640118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -196,7 +163,7 @@
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
-          <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
         </state>
       </provider>
     </entry>
