@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CEOI__17_P1___One_Way_Streets.dir/main.cpp.obj"
+  "CMakeFiles/CEOI__17_P1___One_Way_Streets.dir/main.cpp.o"
   "CEOI__17_P1___One_Way_Streets.pdb"
-  "CEOI__17_P1___One_Way_Streets.exe"
-  "CEOI__17_P1___One_Way_Streets.exe.manifest"
-  "libCEOI__17_P1___One_Way_Streets.dll.a"
+  "CEOI__17_P1___One_Way_Streets"
 )
 
 # Per-language clean rules from dependency scanning.

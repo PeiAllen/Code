@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/allen/CLionProjects/Dynamic Range K-th Number Query 2 /main.cpp" "/Users/allen/CLionProjects/Dynamic Range K-th Number Query 2 /cmake-build-debug/CMakeFiles/Dynamic_Range_K_th_Number_Query_2_.dir/main.cpp.o"
+  "/Users/allen/Documents/GitHub/Code/Problems/Other/Dynamic Range K-th Number Query 2/main.cpp" "/Users/allen/Documents/GitHub/Code/Problems/Other/Dynamic Range K-th Number Query 2/cmake-build-debug/CMakeFiles/Dynamic_Range_K_th_Number_Query_2_.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
