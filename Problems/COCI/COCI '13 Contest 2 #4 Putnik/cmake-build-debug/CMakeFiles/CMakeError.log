@@ -1,20 +1,24 @@
 Detecting C [-std=c11] compiler features failed to compile with the following output:
-Change Dir: /Users/allen/Documents/GitHub/Code/Problems/COCI/COCI '13 Contest 2 #4 Putnik/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/allen/Documents/Code/Problems/COCI/COCI '13 Contest 2 #4 Putnik/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/usr/bin/make cmTC_cfb92/fast 
-/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_cfb92.dir/build.make CMakeFiles/cmTC_cfb92.dir/build
-make[1]: *** No rule to make target `/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI '13 Contest 2\', needed by `CMakeFiles/cmTC_cfb92.dir/feature_tests.c.o'.  Stop.
-make: *** [cmTC_cfb92/fast] Error 2
+Run Build Command(s):C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe cmTC_0d153/fast 
+C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f CMakeFiles\cmTC_0d153.dir\build.make CMakeFiles/cmTC_0d153.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/allen/Documents/Code/Problems/COCI/COCI '13 Contest 2 #4 Putnik/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target 'C:/Users/allen/Documents/Code/Problems/COCI/COCI '13 Contest 2\', needed by 'CMakeFiles/cmTC_0d153.dir/feature_tests.c.obj'.  Stop.
+mingw32-make.exe[1]: Leaving directory 'C:/Users/allen/Documents/Code/Problems/COCI/COCI '13 Contest 2 #4 Putnik/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:120: cmTC_0d153/fast] Error 2
 
 
 
-Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
-Change Dir: /Users/allen/Documents/GitHub/Code/Problems/COCI/COCI '13 Contest 2 #4 Putnik/cmake-build-debug/CMakeFiles/CMakeTmp
+Detecting CXX [-std=c++2a] compiler features failed to compile with the following output:
+Change Dir: C:/Users/allen/Documents/Code/Problems/COCI/COCI '13 Contest 2 #4 Putnik/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/usr/bin/make cmTC_ed449/fast 
-/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_ed449.dir/build.make CMakeFiles/cmTC_ed449.dir/build
-make[1]: *** No rule to make target `/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI '13 Contest 2\', needed by `CMakeFiles/cmTC_ed449.dir/feature_tests.cxx.o'.  Stop.
-make: *** [cmTC_ed449/fast] Error 2
+Run Build Command(s):C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe cmTC_290ae/fast 
+C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f CMakeFiles\cmTC_290ae.dir\build.make CMakeFiles/cmTC_290ae.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/allen/Documents/Code/Problems/COCI/COCI '13 Contest 2 #4 Putnik/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target 'C:/Users/allen/Documents/Code/Problems/COCI/COCI '13 Contest 2\', needed by 'CMakeFiles/cmTC_290ae.dir/feature_tests.cxx.obj'.  Stop.
+mingw32-make.exe[1]: Leaving directory 'C:/Users/allen/Documents/Code/Problems/COCI/COCI '13 Contest 2 #4 Putnik/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:120: cmTC_290ae/fast] Error 2
 
 
 

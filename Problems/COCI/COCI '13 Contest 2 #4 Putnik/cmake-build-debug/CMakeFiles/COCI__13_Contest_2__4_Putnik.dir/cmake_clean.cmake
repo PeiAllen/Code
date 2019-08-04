@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/COCI__13_Contest_2__4_Putnik.dir/main.cpp.o"
+  "CMakeFiles/COCI__13_Contest_2__4_Putnik.dir/main.cpp.obj"
   "COCI__13_Contest_2__4_Putnik.pdb"
-  "COCI__13_Contest_2__4_Putnik"
+  "COCI__13_Contest_2__4_Putnik.exe"
+  "COCI__13_Contest_2__4_Putnik.exe.manifest"
+  "libCOCI__13_Contest_2__4_Putnik.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Putnik.dir/main.cpp.o"
+  "CMakeFiles/Putnik.dir/main.cpp.obj"
   "Putnik.pdb"
-  "Putnik"
+  "Putnik.exe"
+  "Putnik.exe.manifest"
+  "libPutnik.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
