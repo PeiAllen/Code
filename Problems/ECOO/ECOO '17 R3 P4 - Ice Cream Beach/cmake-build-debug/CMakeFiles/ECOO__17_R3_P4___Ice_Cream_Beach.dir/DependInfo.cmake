@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/allen/Documents/GitHub/Code/Problems/ECOO/ECOO '17 R3 P4 - Ice Cream Beach/main.cpp" "/Users/allen/Documents/GitHub/Code/Problems/ECOO/ECOO '17 R3 P4 - Ice Cream Beach/cmake-build-debug/CMakeFiles/ECOO__17_R3_P4___Ice_Cream_Beach.dir/main.cpp.o"
+  "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/ECOO/ECOO '17 R3 P4 - Ice Cream Beach/main.cpp" "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/ECOO/ECOO '17 R3 P4 - Ice Cream Beach/cmake-build-debug/CMakeFiles/ECOO__17_R3_P4___Ice_Cream_Beach.dir/main.cpp.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
