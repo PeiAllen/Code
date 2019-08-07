@@ -16,28 +16,17 @@ struct node{
 		amount=1+((child[0]?child[0]->amount:0)+(child[1]?child[1]->amount:0));
 	}
 	void split(int a,node* & left, node* & right){
-		int ch=(a>=data);
-		if(child[ch]) {
-			child[ch]->split(a, ch?child[ch]:left,ch?right:child[ch]);//everything larger becomes right child ot viceversa
-			((!ch)?right:left) = this;
-			((!ch)?right:left)->recalc();
-			return;
+		if(data<a){
+			if(child[1])child[1]->split(a,child[1],right),left=this;
+			else child[1]=NULL,right=NULL,left=this;
 		}
-		(ch?child[ch]:left)=NULL;
-		(ch?right:child[ch])=NULL;
-		((!ch)?right:left) = this;
-		((!ch)?right:left)->recalc();
+		else{
+			if(child[0])child[0]->split(a,left,child[0]),right=this;
+			else left=NULL,child[0]=NULL,right=this;
+		}
 	}
 	void merge(node* & ret,node* chi[]){
-		if(!chi[0]||!chi[1]){
-			ret=(chi[0]?chi[0]:chi[1]);
-			return;
-		}
-		int ch=(chi[0]->priority<chi[1]->priority);
-		node* temp[2]={ch?chi[!ch]:chi[ch]->child[!ch],ch?chi[ch]->child[!ch]:chi[!ch]};// combine upnode's opposite tree with opposite tree
-		merge(chi[ch]->child[!ch],temp);
-		ret=chi[ch];
-		chi[ch]->recalc();
+
 	}
 	void insert(int a, unsigned int r, node *& ret){
 		if(data==INT_MAX){
