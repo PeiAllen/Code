@@ -10,61 +10,30 @@ void reverarray(int l, int r){
 		swap(arr[l++],arr[r--]);
 	}
 }
-bool issorted(int l, int r){
-	for(int i=l;i<r;i++)if(arr[i]>arr[i+1])return false;
-	return true;
-}
-int findmid(int l, int r){
+int findmid(int l, int mid,int r){
 	vector<int> te;
 	te.insert(te.begin(),arr+l,arr+r+1);
 	sort(te.begin(),te.end());
-	return te[(r-l)/2];
+	return te[mid-l];
+}
+void merge(int l, int mid, int r){//mid inclusive, not nessccarily half half
+	if(mid<l||mid>=r||r<l)return;
+	if(arr[mid]<=arr[mid+1])return;
+	int temid=findmid(l,mid,r);
+	int lestart=(upper_bound(arr+l,arr+mid+1,temid)-(arr+l))+l;
+	int riend=mid+1+(mid-lestart);//inclusive
+	reverarray(lestart,mid);
+	reverarray(mid+1,riend);
+	reverarray(lestart,riend);
+	merge(l,lestart-1,mid);
+	merge(mid+1,riend,r);
 }
 void mergesort(int l, int r){
+	if(l==r)return;
 	int mid=(l+r)/2;
-	if(r-l+1<=3){
-		if(l==r)return;
-		if(r-l+1==2) {
-			if (arr[l] > arr[r]) {
-				moves.push_back({l, r});
-				swap(arr[l], arr[r]);
-			}
-			return;
-		}
-		if(arr[l]>arr[l+1]){
-			moves.push_back({l, l+1});
-			swap(arr[l], arr[l+1]);
-		}
-		if(arr[l+1]>arr[r]){
-			moves.push_back({l+1, r});
-			swap(arr[l+1], arr[r]);
-		}
-		if(arr[l]>arr[l+1]){
-			moves.push_back({l, l+1});
-			swap(arr[l], arr[l+1]);
-		}
-		return;
-	}
-	mergesort(l, mid);
-	mergesort(mid + 1, r);
-	int midval=findmid(l,r);
-	int le=l;
-	while(le<=mid&&arr[le]<=midval){
-		le++;
-	}
-	int ri=r;
-	while(ri>mid&&arr[ri]>midval){
-		ri--;
-	}
-	reverarray(le,mid);
-	reverarray(mid+1,ri);
-	int temid=((ri-le+1)%2?mid-1:mid);
-	for(int i=0;i<(ri-mid);i++){
-		swap(arr[temid-i],arr[mid+i+1]);
-		moves.push_back({temid-i,mid+i+1});
-	}
-	if(!issorted(l,mid))mergesort(l,mid);
-	if(!issorted(mid+1,r))mergesort(mid+1,r);
+	mergesort(l,mid);
+	mergesort(mid+1,r);
+	merge(l,mid,r);
 }
 int main(){
     cin.tie(NULL);

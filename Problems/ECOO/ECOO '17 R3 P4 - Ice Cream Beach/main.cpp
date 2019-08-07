@@ -4,14 +4,14 @@ typedef long long int lli;
 typedef pair<lli,lli> pll;
 lli lepre[4002][4002];
 lli ripre[4002][4002];
-//lli lepremid[4002];
-//lli ripremid[4002];
+lli lepremid[4002];
+lli ripremid[4002];
 lli arr[4001];
 lli rel[4001];
 lli dp[21][4001];
 int n, m;
 inline lli waht(int l, int mid, int r){
-	return lepre[mid][mid]-lepre[mid][l]+ripre[mid][mid]-ripre[r+1][mid];
+	return lepremid[mid]-lepre[mid][l]+ripremid[mid]-ripre[r+1][mid];
 }
 int main(){
 	cin.tie(NULL);
@@ -34,10 +34,10 @@ int main(){
 				ripre[j][i] = ripre[j+1][i] + rel[j]*(arr[j] - arr[i]);
 			}
 		}
-//		for(int i=1;i<=n;i++){
-//			lepremid[i]=lepre[i][i];
-//			ripremid[i]=ripre[i][i];
-//		}
+		for(int i=1;i<=n;i++){
+			lepremid[i]=lepre[i][i];
+			ripremid[i]=ripre[i][i];
+		}
 		for(int i=1;i<=m;i++){
 			dp[i][0]=0;
 			for(int j=1;j<=n;j++){

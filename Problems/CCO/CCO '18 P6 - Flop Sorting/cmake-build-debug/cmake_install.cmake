@@ -1,8 +1,8 @@
-# Install script for directory: /Users/allen/Documents/GitHub/Code/Problems/CCO/CCO '18 P6 - Flop Sorting
+# Install script for directory: C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO '18 P6 - Flop Sorting
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/usr/local")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/CCO__18_P6___Flop_Sorting_")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/allen/Documents/GitHub/Code/Problems/CCO/CCO '18 P6 - Flop Sorting /cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

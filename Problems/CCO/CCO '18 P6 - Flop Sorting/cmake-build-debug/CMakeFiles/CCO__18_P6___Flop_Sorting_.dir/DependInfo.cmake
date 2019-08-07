@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/allen/Documents/GitHub/Code/Problems/CCO/CCO '18 P6 - Flop Sorting /main.cpp" "/Users/allen/Documents/GitHub/Code/Problems/CCO/CCO '18 P6 - Flop Sorting /cmake-build-debug/CMakeFiles/CCO__18_P6___Flop_Sorting_.dir/main.cpp.o"
+  "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO '18 P6 - Flop Sorting/main.cpp" "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/CCO__18_P6___Flop_Sorting_.dir/main.cpp.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
