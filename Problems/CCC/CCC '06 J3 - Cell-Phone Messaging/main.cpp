@@ -14,7 +14,7 @@ int main(){
     		int te=a[i]-'a';
     		if(te>=18){
     			te-=1;
-    			if(te==18)time+=1;
+    			if(te==17)time+=1;
     		}
     		if(te==24){
     			te-=1;
