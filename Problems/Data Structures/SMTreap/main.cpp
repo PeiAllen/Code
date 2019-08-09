@@ -1,131 +1,40 @@
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
+
 using namespace std;
+typedef long long int lli;
+typedef pair<int, int> pii;
+typedef pair <lli, lli> pll;
 random_device rd;
-struct node{
-	int data,amount;
+struct node {
+	int data, size;
+	struct node *child[2];
 	unsigned int priority;
-	struct node* child[2];
-	node(int a=INT_MAX, unsigned int b=rd(), int c=1){
-		data=a;
-		priority=b;
-		amount=c;
-		child[0]=NULL;
-		child[1]=NULL;
-	}
-	void recalc(){
-		amount=1+((child[0]?child[0]->amount:0)+(child[1]?child[1]->amount:0));
-	}
-	void split(int a,node* & left, node* & right){
-		if(data<a){
-			if(child[1])child[1]->split(a,child[1],right),left=this;
-			else child[1]=NULL,right=NULL,left=this;
-		}
-		else{
-			if(child[0])child[0]->split(a,left,child[0]),right=this;
-			else left=NULL,child[0]=NULL,right=this;
-		}
-	}
-	void merge(node* & ret,node* chi[]){
-
-	}
-	void insert(int a, unsigned int r, node *& ret){
-		if(data==INT_MAX){
-			data=a;
-			priority=r;
-			amount=1;
-			return;
-		}
-		int ch=(a>=data);
-		if(!child[ch]){
-			child[ch]=new node(a,r);
-			recalc();
-			return;
-		}
-		if(priority<r) {
-			node *te = new node(a,r);
-			split(a, te->child[0], te->child[1]);
-			ret=te;
-			te->recalc();
-			return;
-		}
-		child[ch]->insert(a,r,child[ch]);
-		recalc();
-	}
-	void remove(int a, node* & ret,bool root){
-		if(a==data){
-			if(!child[0]&&!child[1]&&root){
-				data=INT_MAX;
-				priority=0;
-				amount=0;
-				return;
-			}
-			merge(ret,child);
-			ret->recalc();
-		}
-		if(child[(a>=data)]) {
-			child[(a >= data)]->remove(a, child[(a >= data)],false);
-			recalc();
-		}
-	}
-
-	void print(){
-		if(child[0])child[0]->print();
-		printf("%d ",data,amount);
-		if(child[1])child[1]->print();
-	}
-	int lefa(){
-		return (child[0]?child[0]->amount:0);
-	}
-	int find(int a, int smaller) {
-		int lefty = child[0] == NULL ? 0 : child[0]->amount;
-		if (data == a) {
-			if (child[0] != NULL) {
-				int temp = child[0]->find(a, smaller);
-				if (temp != -1)return temp;
-			}
-			return lefty + smaller + 1;
-		}
-		int ch=data<=a;
-		if (child[ch] == NULL)return -1;
-		return child[ch]->find(a, smaller+(ch?lefty+1:0));
-	}
-	int at(int a) {
-		int lefty = child[0] == NULL ? 0 : child[0]->amount;
-		if (a == lefty + 1)  return data;
-		int ch=a > lefty;
-		if (child[ch] == NULL) return -1;
-		return child[ch]->at(a-(ch?lefty+1:0));
+	node() {
+		size = 1;
+		data = 0;
+		child[0] = NULL;
+		child[1] = NULL;
+		priority = rd();
 	}
 };
-int main(int argc, char** argv) {
-	ios_base::sync_with_stdio(false);
-	cin.tie(NULL);
-	node* root = new node();
-	int n, m;
-	cin >> n>>m;
-	int in;
-	for (int i = 0; i < n; i++) {
-		cin>>in;
-		root->insert(in,rd(),root);
-	}
-	int last = 0;
-	char c;
-	for (int i = 0; i < m; i++) {
-		cin>>c;
-		cin>>in;
-		in ^= last;
-		if (c == 'I') {
-			root->insert(in,rd(),root);
-		} else if (c == 'R') {
-			root->remove(in,root,true);
-		} else if (c == 'S') {
-			last = root->at(in);
-			printf("%d\n", last);
+struct SMTreap {
+	int gtsz(int a) { return (child[a] ? child[a]->size : 0); }
+	void recalc() { size = gtsz(0) + gtsz(1) + 1; }
+	void split(int key, node *&left, node *&right) {//inclusive left
+		if (gtsz(0) + 1 <= key) {
+			if (child[1])child[1]->split(key, child[1], right), left = this;
+			else right = NULL, left = this;
 		} else {
-			last = root->find(in,0);
-			printf("%d\n", last);
+			if (child[0])child[0]->split(key, left, child[0]), right = this;
+			else left = NULL, right = this;
 		}
+		recalc();
 	}
-	root->print();
+	void merge()
+};
+int main() {
+	cin.tie(NULL);
+	ios_base::sync_with_stdio(false);
+
 	return 0;
 }
