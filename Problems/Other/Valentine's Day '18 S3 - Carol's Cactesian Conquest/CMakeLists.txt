@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(Valentine_s_Day__18_S3___Carol_s_Cactesian_Conquest)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Valentine_s_Day__18_S3___Carol_s_Cactesian_Conquest main.cpp)
