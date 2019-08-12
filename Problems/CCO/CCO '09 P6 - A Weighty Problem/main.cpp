@@ -8,6 +8,8 @@ typedef pair <lli, lli> pll;
 int main() {
 	cin.tie(NULL);
 	ios_base::sync_with_stdio(false);
-	int
+	int c,d,k;
+	cin>>c>>d>>k;
+
 	return 0;
 }

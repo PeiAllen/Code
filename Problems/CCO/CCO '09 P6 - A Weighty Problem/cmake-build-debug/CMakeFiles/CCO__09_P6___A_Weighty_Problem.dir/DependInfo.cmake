@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/allen/Documents/Code/Problems/CCO/CCO '09 P6 - A Weighty Problem/main.cpp" "C:/Users/allen/Documents/Code/Problems/CCO/CCO '09 P6 - A Weighty Problem/cmake-build-debug/CMakeFiles/CCO__09_P6___A_Weighty_Problem.dir/main.cpp.obj"
+  "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO '09 P6 - A Weighty Problem/main.cpp" "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO '09 P6 - A Weighty Problem/cmake-build-debug/CMakeFiles/CCO__09_P6___A_Weighty_Problem.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
