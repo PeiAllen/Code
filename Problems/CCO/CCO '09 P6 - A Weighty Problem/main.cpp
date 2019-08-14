@@ -11,5 +11,6 @@ int main() {
 	int c,d,k;
 	cin>>c>>d>>k;
 
+
 	return 0;
 }

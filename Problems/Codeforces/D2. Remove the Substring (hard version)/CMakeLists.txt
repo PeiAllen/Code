@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(D2__Remove_the_Substring__hard_version_)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(D2__Remove_the_Substring__hard_version_ main.cpp)
