@@ -33,19 +33,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2019.1.2\bin\cmake\win\bin\cmake.exe"
+CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2019.1.3\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "C:\Program Files\JetBrains\CLion 2019.1.2\bin\cmake\win\bin\cmake.exe" -E remove -f
+RM = "C:\Program Files\JetBrains\CLion 2019.1.3\bin\cmake\win\bin\cmake.exe" -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\BTS\Back To School '19 Problem 7"
+CMAKE_SOURCE_DIR = "C:\Users\allen\Documents\Code\Problems\BTS\Back To School '19 Problem 7"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\BTS\Back To School '19 Problem 7\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\allen\Documents\Code\Problems\BTS\Back To School '19 Problem 7\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Back_To_School__19_Problem_7.dir/depend.make
@@ -58,16 +58,16 @@ include CMakeFiles/Back_To_School__19_Problem_7.dir/flags.make
 
 CMakeFiles/Back_To_School__19_Problem_7.dir/main.cpp.obj: CMakeFiles/Back_To_School__19_Problem_7.dir/flags.make
 CMakeFiles/Back_To_School__19_Problem_7.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\BTS\Back To School '19 Problem 7\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Back_To_School__19_Problem_7.dir/main.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Back_To_School__19_Problem_7.dir\main.cpp.obj -c "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\BTS\Back To School '19 Problem 7\main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\allen\Documents\Code\Problems\BTS\Back To School '19 Problem 7\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Back_To_School__19_Problem_7.dir/main.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Back_To_School__19_Problem_7.dir\main.cpp.obj -c "C:\Users\allen\Documents\Code\Problems\BTS\Back To School '19 Problem 7\main.cpp"
 
 CMakeFiles/Back_To_School__19_Problem_7.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Back_To_School__19_Problem_7.dir/main.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\BTS\Back To School '19 Problem 7\main.cpp" > CMakeFiles\Back_To_School__19_Problem_7.dir\main.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\allen\Documents\Code\Problems\BTS\Back To School '19 Problem 7\main.cpp" > CMakeFiles\Back_To_School__19_Problem_7.dir\main.cpp.i
 
 CMakeFiles/Back_To_School__19_Problem_7.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Back_To_School__19_Problem_7.dir/main.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\BTS\Back To School '19 Problem 7\main.cpp" -o CMakeFiles\Back_To_School__19_Problem_7.dir\main.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\allen\Documents\Code\Problems\BTS\Back To School '19 Problem 7\main.cpp" -o CMakeFiles\Back_To_School__19_Problem_7.dir\main.cpp.s
 
 # Object files for target Back_To_School__19_Problem_7
 Back_To_School__19_Problem_7_OBJECTS = \
@@ -81,7 +81,7 @@ Back_To_School__19_Problem_7.exe: CMakeFiles/Back_To_School__19_Problem_7.dir/bu
 Back_To_School__19_Problem_7.exe: CMakeFiles/Back_To_School__19_Problem_7.dir/linklibs.rsp
 Back_To_School__19_Problem_7.exe: CMakeFiles/Back_To_School__19_Problem_7.dir/objects1.rsp
 Back_To_School__19_Problem_7.exe: CMakeFiles/Back_To_School__19_Problem_7.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\BTS\Back To School '19 Problem 7\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Back_To_School__19_Problem_7.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\allen\Documents\Code\Problems\BTS\Back To School '19 Problem 7\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Back_To_School__19_Problem_7.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Back_To_School__19_Problem_7.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -94,6 +94,6 @@ CMakeFiles/Back_To_School__19_Problem_7.dir/clean:
 .PHONY : CMakeFiles/Back_To_School__19_Problem_7.dir/clean
 
 CMakeFiles/Back_To_School__19_Problem_7.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\BTS\Back To School '19 Problem 7" "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\BTS\Back To School '19 Problem 7" "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\BTS\Back To School '19 Problem 7\cmake-build-debug" "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\BTS\Back To School '19 Problem 7\cmake-build-debug" "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\BTS\Back To School '19 Problem 7\cmake-build-debug\CMakeFiles\Back_To_School__19_Problem_7.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\allen\Documents\Code\Problems\BTS\Back To School '19 Problem 7" "C:\Users\allen\Documents\Code\Problems\BTS\Back To School '19 Problem 7" "C:\Users\allen\Documents\Code\Problems\BTS\Back To School '19 Problem 7\cmake-build-debug" "C:\Users\allen\Documents\Code\Problems\BTS\Back To School '19 Problem 7\cmake-build-debug" "C:\Users\allen\Documents\Code\Problems\BTS\Back To School '19 Problem 7\cmake-build-debug\CMakeFiles\Back_To_School__19_Problem_7.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/Back_To_School__19_Problem_7.dir/depend
 

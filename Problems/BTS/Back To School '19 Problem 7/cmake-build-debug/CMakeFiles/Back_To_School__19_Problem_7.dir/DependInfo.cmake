@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/BTS/Back To School '19 Problem 7/main.cpp" "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/BTS/Back To School '19 Problem 7/cmake-build-debug/CMakeFiles/Back_To_School__19_Problem_7.dir/main.cpp.obj"
+  "C:/Users/allen/Documents/Code/Problems/BTS/Back To School '19 Problem 7/main.cpp" "C:/Users/allen/Documents/Code/Problems/BTS/Back To School '19 Problem 7/cmake-build-debug/CMakeFiles/Back_To_School__19_Problem_7.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

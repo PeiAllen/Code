@@ -6,12 +6,11 @@ typedef pair<int,int> pii;
 typedef pair<lli,lli> pll;
 lli n,x,y;
 lli mod=998244353;
-lli memo[2][30000];
+lli eulermod=998244352;
+double logx,logy;
+const int maxpow=600;
+lli stoream[maxpow][maxpow];
 lli fastpow(lli a, lli b){
-	int wh=2;
-	if(a==x)wh=0;
-	else if(a==y)wh=1;
-	if(wh!=2&&memo[wh][b]!=0)return memo[wh][b];
 	lli ans=1;
 	for(lli i=1;i<=b;i<<=1){
 		if(b&i){
@@ -19,7 +18,6 @@ lli fastpow(lli a, lli b){
 		}
 		a=a*a%mod;
 	}
-	if(wh!=2)memo[wh][b]=ans;
 	return ans;
 }
 struct comp{
@@ -29,22 +27,21 @@ struct comp{
 		pair<double,double> fi;
 		pair<double,double> se;
 		if(a.first==xm){
-			fi={y,a.second-tm};
+			fi={logy,a.second-tm};
 		}
 		else{
-			fi={x,a.first-xm};
+			fi={logx,a.first-xm};
 		}
 		if(b.first==xm){
-			se={y,b.second-tm};
+			se={logy,b.second-tm};
 		}
 		else{
-			se={x,b.first-xm};
+			se={logx,b.first-xm};
 		}
-		return fi.second*log(fi.first)<se.second*log(se.first);
+		return fi.second*fi.first>se.second*se.first;
 	}
 };
-
-lli modmut(lli a, lli b){
+lli minmut(lli a, lli b){
 	lli ans=0;
 	for(lli i=1;i<=b;i<<=1){
 		if(b&i)ans=min(n,ans+a);
@@ -57,36 +54,57 @@ int main(){
     ios_base::sync_with_stdio(false);
 	int t;
 	cin>>t;
+	map<pair<lli,pll>,lli> ans;
 	while(t--){
 		cin>>n>>x>>y;
-		memset(memo,0,sizeof(memo));
-		//slow(n,x,y);
-		map<pll,lli,comp> store;
-		store[{1,1}]=1;
-		lli prod=x*y%mod;
+		if(ans.count({n,{x,y}}))printf("%lli\n",ans[{n,{x,y}}]);
+		logx=log(x);
+		logy=log(y);
+		memset(stoream,0, sizeof(stoream));
+	//	slow(n,x,y);
+		priority_queue<pll,vector<pll>,comp> store;
+		store.push({1,1});
+		stoream[1][1]=1;
+		lli xpow=1;
+		lli ypow=1;
 		vector<pair<pll,lli>> storage;
 		storage.push_back({{1,0},1});
 		storage.push_back({{0,1},1});
 		while(n){
-			auto a=*store.begin();
-			store.erase(store.begin());
-			lli touse=min(n,a.second);
-			//printf("%lli %lli\n",fastpow(x,a.first.first)*fastpow(y,a.first.second)%mod,a.second);
-			//printf("%lli %lli %lli %d %d\n",n,a.second,fastpow(x,a.first.first)*fastpow(y,a.first.second)%mod,a.first.first,a.first.second);
-			prod=prod*fastpow(fastpow(x,a.first.first)*fastpow(y,a.first.second)%mod,touse)%mod;
+			pll a=store.top();
+			store.pop();
+			lli team=stoream[a.first][a.second];
+			lli touse=min(n,team);
+			xpow=(xpow+(a.first*touse%eulermod))%eulermod;
+			ypow=(ypow+(a.second*touse%eulermod))%eulermod;
 			n-=touse;
 			if(n) {
+				bool done=false;
 				for (auto b:storage) {
-					pll te={a.first.first+b.first.first,a.first.second+b.first.second};
-					store[te] =min(n,store[te]+modmut(b.second,a.second));
+					lli tea=a.first+b.first.first;
+					lli teb=a.second+b.first.second;
+					if(stoream[tea][teb]==0)store.push({tea,teb});
+					stoream[tea][teb] =min(n,stoream[tea][teb]+minmut(b.second,team));
+					if(stoream[tea][teb]==n){
+						done=true;
+						break;
+					}
 				}
-				if(a.second>1){
-					pll te={a.first.first*2,a.first.second*2};
-					store[te]=min(n,store[te]+(modmut(a.second,a.second-1)*499122177%mod));
+				if(team>1&&!done){
+					lli tea=a.first*2;
+					lli teb=a.second*2;
+					lli oth=team-1;
+					lli othoth=team;
+					if(othoth%2==0)othoth/=2;
+					else oth/=2;
+					if(stoream[tea][teb]==0)store.push({tea,teb});
+					stoream[tea][teb]=min(n,stoream[tea][teb]+(minmut(othoth,oth)));
 				}
 			}
-			storage.push_back({a.first,a.second});
+			storage.push_back({a,team});
 		}
+		lli prod=fastpow(x,xpow)*fastpow(y,ypow)%mod;
+		ans[{n,{x,y}}]=prod;
 		printf("%lli\n",prod);
 	}
 	return 0;
