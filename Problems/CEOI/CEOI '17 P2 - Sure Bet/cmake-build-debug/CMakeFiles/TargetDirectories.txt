@@ -1,3 +1,0 @@
-C:/Users/allen/Documents/Code/Problems/CEOI/CEOI '17 P2 - Sure Bet/cmake-build-debug/CMakeFiles/CEOI__17_P2___Sure_Bet.dir
-C:/Users/allen/Documents/Code/Problems/CEOI/CEOI '17 P2 - Sure Bet/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/allen/Documents/Code/Problems/CEOI/CEOI '17 P2 - Sure Bet/cmake-build-debug/CMakeFiles/rebuild_cache.dir
