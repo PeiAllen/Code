@@ -11,7 +11,39 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce8c7d34-9dbb-4aa9-bcb9-ca681cb65b6b" name="Default Changelist" comment="">
+    <list default="true" id="8ca3f129-7f2e-4dfd-a600-4c4645c0ae55" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CCO__18_P6___Flop_Sorting_.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CCO__18_P6___Flop_Sorting_.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/3.14.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/3.14.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/3.14.3/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/3.14.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/3.14.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/3.14.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/CCO__18_P6___Flop_Sorting_.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/CCO__18_P6___Flop_Sorting_.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/CCO__18_P6___Flop_Sorting_.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/CCO__18_P6___Flop_Sorting_.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/CCO__18_P6___Flop_Sorting_.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/CCO__18_P6___Flop_Sorting_.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/CCO__18_P6___Flop_Sorting_.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/CCO__18_P6___Flop_Sorting_.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/CCO__18_P6___Flop_Sorting_.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/CCO__18_P6___Flop_Sorting_.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/CCO__18_P6___Flop_Sorting_.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/CCO__18_P6___Flop_Sorting_.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/CCO__18_P6___Flop_Sorting_.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/CCO__18_P6___Flop_Sorting_.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/CCO__18_P6___Flop_Sorting_.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/CCO__18_P6___Flop_Sorting_.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/CCO__18_P6___Flop_Sorting_.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" afterPath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../CCO/CCO '18 P6 - Flop Sorting/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CEOI__17_P1___One_Way_Streets.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CEOI__17_P1___One_Way_Streets.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
@@ -19,17 +51,14 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeCXXCompiler.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeRCCompiler.cmake" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeSystem.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/a.out" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CEOI__17_P1___One_Way_Streets.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CEOI__17_P1___One_Way_Streets.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CEOI__17_P1___One_Way_Streets.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CEOI__17_P1___One_Way_Streets.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CEOI__17_P1___One_Way_Streets.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CEOI__17_P1___One_Way_Streets.dir/cmake_clean.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CEOI__17_P1___One_Way_Streets.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CEOI__17_P1___One_Way_Streets.dir/flags.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CEOI__17_P1___One_Way_Streets.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CEOI__17_P1___One_Way_Streets.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CEOI__17_P1___One_Way_Streets.dir/linklibs.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CEOI__17_P1___One_Way_Streets.dir/objects1.rsp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
@@ -42,8 +71,8 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Other/Permutation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Other/Permutation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ECOO/ECOO '17 R3 P4 - Ice Cream Beach/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ECOO/ECOO '17 R3 P4 - Ice Cream Beach/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ECOO/ECOO '17 R3 P4 - Ice Cream Beach/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ECOO/ECOO '17 R3 P4 - Ice Cream Beach/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,7 +86,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor" />
@@ -66,8 +95,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1240">
-              <caret line="91" column="8" selection-start-line="91" selection-start-column="8" selection-end-line="91" selection-end-column="8" />
+            <state relative-caret-position="357">
+              <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -84,11 +113,13 @@
       </list>
     </option>
   </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="BmyLgaiS" />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="720" />
-    <option name="y" value="23" />
-    <option name="width" value="720" />
-    <option name="height" value="877" />
+    <option name="x" value="1273" />
+    <option name="width" value="1294" />
+    <option name="height" value="1407" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -96,13 +127,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
@@ -131,46 +163,71 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ce8c7d34-9dbb-4aa9-bcb9-ca681cb65b6b" name="Default Changelist" comment="" />
-      <created>1565453240443</created>
+      <changelist id="8ca3f129-7f2e-4dfd-a600-4c4645c0ae55" name="Default Changelist" comment="" />
+      <created>1564603580354</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1565453240443</updated>
-      <workItem from="1565453241531" duration="4579000" />
+      <updated>1564603580354</updated>
+      <workItem from="1564603581701" duration="1245000" />
+      <workItem from="1564604897011" duration="22000" />
+      <workItem from="1564773497246" duration="1295000" />
+      <workItem from="1564798743544" duration="1915000" />
+      <workItem from="1564846154959" duration="69000" />
+      <workItem from="1564933895654" duration="29000" />
+      <workItem from="1565140100200" duration="340000" />
     </task>
+    <task id="LOCAL-00001" summary="push">
+      <created>1564804484916</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564804484916</updated>
+    </task>
+    <task id="LOCAL-00002" summary="push">
+      <created>1564804503877</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564804503877</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4579000" />
+    <option name="totallyTimeSpent" value="4915000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="720" y="23" width="720" height="877" extended-state="0" />
+    <frame x="1273" y="0" width="1294" height="1407" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24926254" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15559158" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.3299363" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="CMake" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="CMake" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Cargo" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="push" />
+    <option name="LAST_COMMIT_MESSAGE" value="push" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
@@ -178,8 +235,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1240">
-          <caret line="91" column="8" selection-start-line="91" selection-start-column="8" selection-end-line="91" selection-end-column="8" />
+        <state relative-caret-position="357">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
         </state>
       </provider>
     </entry>

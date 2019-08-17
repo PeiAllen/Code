@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/CCO '19 P4 - Card Scoring/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/CCO '19 P4 - Card Scoring/cmake-build-debug/CMakeFiles/CCO__19_P4___Card_Scoring.dir
+C:/Users/allen/CLionProjects/CCO '19 P4 - Card Scoring/cmake-build-debug/CMakeFiles/rebuild_cache.dir

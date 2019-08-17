@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/CCO '18 P5 - Boring Lectures (Online Version)/cmake-build-debug/CMakeFiles/CCO__18_P5___Boring_Lectures__Online_Version_.dir
+C:/Users/allen/CLionProjects/CCO '18 P5 - Boring Lectures (Online Version)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/CCO '18 P5 - Boring Lectures (Online Version)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
