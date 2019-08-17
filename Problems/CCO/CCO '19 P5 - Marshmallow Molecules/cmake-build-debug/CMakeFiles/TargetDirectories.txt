@@ -1,3 +1,0 @@
-C:/Users/allen/Documents/Code/Problems/CCO/CCO '19 P5 - Marshmallow Molecules/cmake-build-debug/CMakeFiles/CCO__19_P5___Marshmallow_Molecules_.dir
-C:/Users/allen/Documents/Code/Problems/CCO/CCO '19 P5 - Marshmallow Molecules/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/allen/Documents/Code/Problems/CCO/CCO '19 P5 - Marshmallow Molecules/cmake-build-debug/CMakeFiles/rebuild_cache.dir
