@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="CEOI__18_P5___Toys" targetName="CEOI__18_P5___Toys" />
+      <config projectName="CEOI__18_P1___Cloud_Computing" targetName="CEOI__18_P1___Cloud_Computing" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,8 +11,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b514ce45-d89d-4fe7-809a-8a5b26e5c811" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    <list default="true" id="1563adc1-51b5-44d9-a8d3-9bc980bf57ef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../CEOI '18 P5 - Toys/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CEOI '18 P5 - Toys/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CEOI '18 P5 - Toys/cmake-build-debug/CMakeFiles/CEOI__18_P5___Toys.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../CEOI '18 P5 - Toys/cmake-build-debug/CMakeFiles/CEOI__18_P5___Toys.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CEOI '18 P5 - Toys/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../CEOI '18 P5 - Toys/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+            <state relative-caret-position="314">
+              <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -53,6 +55,16 @@
       </list>
     </option>
   </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/CEOI '18 P1 - Cloud Computing.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="720" />
     <option name="y" value="23" />
@@ -66,14 +78,24 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CEOI__18_P1___Cloud_Computing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CEOI '18 P1 - Cloud Computing" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RunDashboard">
@@ -89,7 +111,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="CEOI__18_P5___Toys" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CEOI__18_P5___Toys" TARGET_NAME="CEOI__18_P5___Toys" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CEOI__18_P5___Toys" RUN_TARGET_NAME="CEOI__18_P5___Toys">
+    <configuration name="CEOI__18_P1___Cloud_Computing" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CEOI__18_P1___Cloud_Computing" TARGET_NAME="CEOI__18_P1___Cloud_Computing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CEOI__18_P1___Cloud_Computing" RUN_TARGET_NAME="CEOI__18_P1___Cloud_Computing">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -100,17 +122,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b514ce45-d89d-4fe7-809a-8a5b26e5c811" name="Default Changelist" comment="" />
-      <created>1566055950260</created>
+      <changelist id="1563adc1-51b5-44d9-a8d3-9bc980bf57ef" name="Default Changelist" comment="" />
+      <created>1566057983421</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1566055950260</updated>
-      <workItem from="1566055951363" duration="1394000" />
+      <updated>1566057983421</updated>
+      <workItem from="1566057984533" duration="2855000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1394000" />
+    <option name="totallyTimeSpent" value="2855000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="720" y="23" width="720" height="877" extended-state="0" />
@@ -147,8 +169,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        <state relative-caret-position="314">
+          <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
         </state>
       </provider>
     </entry>
