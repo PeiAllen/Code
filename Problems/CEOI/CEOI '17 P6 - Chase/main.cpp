@@ -6,6 +6,9 @@ typedef pair<lli,lli> pll;
 const int MAXN=1e5+1;
 vector<int> matrix[MAXN];
 lli cnt[MAXN];
+void dfs(int loc, int parent){
+
+}
 int main() {
 	cin.tie(NULL);
 	ios_base::sync_with_stdio(false);
@@ -18,6 +21,6 @@ int main() {
 		matrix[a].push_back(b);
 		matrix[b].push_back(a);
 	}
-	void dfs(1,)
+
 	return 0;
 }
