@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CEOI__17_P6___Chase.dir/main.cpp.o"
+  "CMakeFiles/CEOI__17_P6___Chase.dir/main.cpp.obj"
   "CEOI__17_P6___Chase.pdb"
-  "CEOI__17_P6___Chase"
+  "CEOI__17_P6___Chase.exe"
+  "CEOI__17_P6___Chase.exe.manifest"
+  "libCEOI__17_P6___Chase.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
