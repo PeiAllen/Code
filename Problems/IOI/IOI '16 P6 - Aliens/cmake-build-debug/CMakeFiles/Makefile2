@@ -49,19 +49,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2019.1.2\bin\cmake\win\bin\cmake.exe"
+CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2019.1.3\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "C:\Program Files\JetBrains\CLion 2019.1.2\bin\cmake\win\bin\cmake.exe" -E remove -f
+RM = "C:\Program Files\JetBrains\CLion 2019.1.3\bin\cmake\win\bin\cmake.exe" -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\IOI\IOI '16 P6 - Aliens"
+CMAKE_SOURCE_DIR = "C:\Users\allen\Documents\Code\Problems\IOI\IOI '16 P6 - Aliens"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\IOI\IOI '16 P6 - Aliens\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\allen\Documents\Code\Problems\IOI\IOI '16 P6 - Aliens\cmake-build-debug"
 
 #=============================================================================
 # Target rules for target CMakeFiles/IOI__16_P6___Aliens.dir
@@ -70,7 +70,7 @@ CMAKE_BINARY_DIR = "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\IOI\I
 CMakeFiles/IOI__16_P6___Aliens.dir/all:
 	$(MAKE) -f CMakeFiles\IOI__16_P6___Aliens.dir\build.make CMakeFiles/IOI__16_P6___Aliens.dir/depend
 	$(MAKE) -f CMakeFiles\IOI__16_P6___Aliens.dir\build.make CMakeFiles/IOI__16_P6___Aliens.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\IOI\IOI '16 P6 - Aliens\cmake-build-debug\CMakeFiles" --progress-num=1,2 "Built target IOI__16_P6___Aliens"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\allen\Documents\Code\Problems\IOI\IOI '16 P6 - Aliens\cmake-build-debug\CMakeFiles" --progress-num=1,2 "Built target IOI__16_P6___Aliens"
 .PHONY : CMakeFiles/IOI__16_P6___Aliens.dir/all
 
 # Include target in all.
@@ -80,9 +80,9 @@ all: CMakeFiles/IOI__16_P6___Aliens.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/IOI__16_P6___Aliens.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\IOI\IOI '16 P6 - Aliens\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\allen\Documents\Code\Problems\IOI\IOI '16 P6 - Aliens\cmake-build-debug\CMakeFiles" 2
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/IOI__16_P6___Aliens.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\IOI\IOI '16 P6 - Aliens\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\allen\Documents\Code\Problems\IOI\IOI '16 P6 - Aliens\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/IOI__16_P6___Aliens.dir/rule
 
 # Convenience name for target.

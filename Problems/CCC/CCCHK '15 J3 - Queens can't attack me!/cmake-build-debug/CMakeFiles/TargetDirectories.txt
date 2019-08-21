@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Code/Problems/CCC/CCCHK '15 J3 - Queens can't attack me!/cmake-build-debug/CMakeFiles/CCCHK__15_J3___Queens_can_t_attack_me_.dir
+C:/Users/allen/Documents/Code/Problems/CCC/CCCHK '15 J3 - Queens can't attack me!/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Code/Problems/CCC/CCCHK '15 J3 - Queens can't attack me!/cmake-build-debug/CMakeFiles/rebuild_cache.dir
