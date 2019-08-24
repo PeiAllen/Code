@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/COCI/COCI '18 Contest 5 #5 Transport/main.cpp" "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/COCI/COCI '18 Contest 5 #5 Transport/cmake-build-debug/CMakeFiles/COCI__18_Contest_5__5_Transport.dir/main.cpp.obj"
+  "C:/Users/allen/Documents/Code/Problems/COCI/COCI '18 Contest 5 #5 Transport/main.cpp" "C:/Users/allen/Documents/Code/Problems/COCI/COCI '18 Contest 5 #5 Transport/cmake-build-debug/CMakeFiles/COCI__18_Contest_5__5_Transport.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

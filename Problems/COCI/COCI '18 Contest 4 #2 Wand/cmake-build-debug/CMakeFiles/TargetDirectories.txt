@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Code/Problems/COCI/COCI '18 Contest 4 #2 Wand/cmake-build-debug/CMakeFiles/COCI__18_Contest_4__2_Wand.dir
+C:/Users/allen/Documents/Code/Problems/COCI/COCI '18 Contest 4 #2 Wand/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Code/Problems/COCI/COCI '18 Contest 4 #2 Wand/cmake-build-debug/CMakeFiles/rebuild_cache.dir

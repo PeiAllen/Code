@@ -239,10 +239,10 @@ CMAKE_STRIP:FILEPATH=C:/MinGW/bin/strip.exe
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
 //Value Computed by CMake
-IOI__16_P6___Aliens_BINARY_DIR:STATIC=C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/IOI/IOI '16 P6 - Aliens/cmake-build-debug
+IOI__16_P6___Aliens_BINARY_DIR:STATIC=C:/Users/allen/Documents/Code/Problems/IOI/IOI '16 P6 - Aliens/cmake-build-debug
 
 //Value Computed by CMake
-IOI__16_P6___Aliens_SOURCE_DIR:STATIC=C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/IOI/IOI '16 P6 - Aliens
+IOI__16_P6___Aliens_SOURCE_DIR:STATIC=C:/Users/allen/Documents/Code/Problems/IOI/IOI '16 P6 - Aliens
 
 
 ########################
@@ -252,7 +252,7 @@ IOI__16_P6___Aliens_SOURCE_DIR:STATIC=C:/Users/allen/OneDrive/Documents/GitHub/C
 //ADVANCED property for variable: CMAKE_AR
 CMAKE_AR-ADVANCED:INTERNAL=1
 //This is the directory where this CMakeCache.txt was created
-CMAKE_CACHEFILE_DIR:INTERNAL=c:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/IOI/IOI '16 P6 - Aliens/cmake-build-debug
+CMAKE_CACHEFILE_DIR:INTERNAL=c:/Users/allen/Documents/Code/Problems/IOI/IOI '16 P6 - Aliens/cmake-build-debug
 //Major version of cmake used to create the current loaded cache
 CMAKE_CACHE_MAJOR_VERSION:INTERNAL=3
 //Minor version of cmake used to create the current loaded cache
@@ -335,7 +335,7 @@ CMAKE_GENERATOR_PLATFORM:INTERNAL=
 CMAKE_GENERATOR_TOOLSET:INTERNAL=
 //Source directory with the top level CMakeLists.txt file for this
 // project
-CMAKE_HOME_DIRECTORY:INTERNAL=C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/IOI/IOI '16 P6 - Aliens
+CMAKE_HOME_DIRECTORY:INTERNAL=C:/Users/allen/Documents/Code/Problems/IOI/IOI '16 P6 - Aliens
 //ADVANCED property for variable: CMAKE_LINKER
 CMAKE_LINKER-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_MAKE_PROGRAM

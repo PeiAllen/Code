@@ -9,15 +9,13 @@ struct node {
 	int data, size;
 	struct node *child[2];
 	unsigned int priority;
-	node() {
+	node(int a) {
 		size = 1;
-		data = 0;
+		data = a;
 		child[0] = NULL;
 		child[1] = NULL;
 		priority = rd();
 	}
-};
-struct SMTreap {
 	int gtsz(int a) { return (child[a] ? child[a]->size : 0); }
 	void recalc() { size = gtsz(0) + gtsz(1) + 1; }
 	void split(int key, node *&left, node *&right) {//inclusive left
@@ -30,7 +28,21 @@ struct SMTreap {
 		}
 		recalc();
 	}
-	void merge()
+	void merge(node* & toset, node* left, node * right) {
+		if (!left || !right)toset = (left ? left : right);
+		else if (left->priority > right->priority)merge(left->child[1], left->child[1], right), toset = left;
+		else merge(right->child[0], left, right->child[0]), toset = right;
+		toset->recalc();
+	}
+	struct node* insert(te a){
+		int ch=
+	}
+	struct node* del(int a){
+
+	}
+};
+struct SMTreap {
+
 };
 int main() {
 	cin.tie(NULL);
