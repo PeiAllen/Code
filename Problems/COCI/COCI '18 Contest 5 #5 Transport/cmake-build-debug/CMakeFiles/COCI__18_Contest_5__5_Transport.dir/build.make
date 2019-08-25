@@ -33,19 +33,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2019.1.2\bin\cmake\win\bin\cmake.exe"
+CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2019.1.3\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "C:\Program Files\JetBrains\CLion 2019.1.2\bin\cmake\win\bin\cmake.exe" -E remove -f
+RM = "C:\Program Files\JetBrains\CLion 2019.1.3\bin\cmake\win\bin\cmake.exe" -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\COCI\COCI '18 Contest 5 #5 Transport"
+CMAKE_SOURCE_DIR = "C:\Users\allen\Documents\Code\Problems\COCI\COCI '18 Contest 5 #5 Transport"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\COCI\COCI '18 Contest 5 #5 Transport\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\allen\Documents\Code\Problems\COCI\COCI '18 Contest 5 #5 Transport\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/COCI__18_Contest_5__5_Transport.dir/depend.make
@@ -58,16 +58,16 @@ include CMakeFiles/COCI__18_Contest_5__5_Transport.dir/flags.make
 
 CMakeFiles/COCI__18_Contest_5__5_Transport.dir/main.cpp.obj: CMakeFiles/COCI__18_Contest_5__5_Transport.dir/flags.make
 CMakeFiles/COCI__18_Contest_5__5_Transport.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\COCI\COCI '18 Contest 5 #5 Transport\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/COCI__18_Contest_5__5_Transport.dir/main.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\COCI__18_Contest_5__5_Transport.dir\main.cpp.obj -c "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\COCI\COCI '18 Contest 5 #5 Transport\main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\allen\Documents\Code\Problems\COCI\COCI '18 Contest 5 #5 Transport\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/COCI__18_Contest_5__5_Transport.dir/main.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\COCI__18_Contest_5__5_Transport.dir\main.cpp.obj -c "C:\Users\allen\Documents\Code\Problems\COCI\COCI '18 Contest 5 #5 Transport\main.cpp"
 
 CMakeFiles/COCI__18_Contest_5__5_Transport.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/COCI__18_Contest_5__5_Transport.dir/main.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\COCI\COCI '18 Contest 5 #5 Transport\main.cpp" > CMakeFiles\COCI__18_Contest_5__5_Transport.dir\main.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\allen\Documents\Code\Problems\COCI\COCI '18 Contest 5 #5 Transport\main.cpp" > CMakeFiles\COCI__18_Contest_5__5_Transport.dir\main.cpp.i
 
 CMakeFiles/COCI__18_Contest_5__5_Transport.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/COCI__18_Contest_5__5_Transport.dir/main.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\COCI\COCI '18 Contest 5 #5 Transport\main.cpp" -o CMakeFiles\COCI__18_Contest_5__5_Transport.dir\main.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\allen\Documents\Code\Problems\COCI\COCI '18 Contest 5 #5 Transport\main.cpp" -o CMakeFiles\COCI__18_Contest_5__5_Transport.dir\main.cpp.s
 
 # Object files for target COCI__18_Contest_5__5_Transport
 COCI__18_Contest_5__5_Transport_OBJECTS = \
@@ -81,7 +81,7 @@ COCI__18_Contest_5__5_Transport.exe: CMakeFiles/COCI__18_Contest_5__5_Transport.
 COCI__18_Contest_5__5_Transport.exe: CMakeFiles/COCI__18_Contest_5__5_Transport.dir/linklibs.rsp
 COCI__18_Contest_5__5_Transport.exe: CMakeFiles/COCI__18_Contest_5__5_Transport.dir/objects1.rsp
 COCI__18_Contest_5__5_Transport.exe: CMakeFiles/COCI__18_Contest_5__5_Transport.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\COCI\COCI '18 Contest 5 #5 Transport\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable COCI__18_Contest_5__5_Transport.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\allen\Documents\Code\Problems\COCI\COCI '18 Contest 5 #5 Transport\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable COCI__18_Contest_5__5_Transport.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\COCI__18_Contest_5__5_Transport.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -94,6 +94,6 @@ CMakeFiles/COCI__18_Contest_5__5_Transport.dir/clean:
 .PHONY : CMakeFiles/COCI__18_Contest_5__5_Transport.dir/clean
 
 CMakeFiles/COCI__18_Contest_5__5_Transport.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\COCI\COCI '18 Contest 5 #5 Transport" "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\COCI\COCI '18 Contest 5 #5 Transport" "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\COCI\COCI '18 Contest 5 #5 Transport\cmake-build-debug" "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\COCI\COCI '18 Contest 5 #5 Transport\cmake-build-debug" "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\COCI\COCI '18 Contest 5 #5 Transport\cmake-build-debug\CMakeFiles\COCI__18_Contest_5__5_Transport.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\allen\Documents\Code\Problems\COCI\COCI '18 Contest 5 #5 Transport" "C:\Users\allen\Documents\Code\Problems\COCI\COCI '18 Contest 5 #5 Transport" "C:\Users\allen\Documents\Code\Problems\COCI\COCI '18 Contest 5 #5 Transport\cmake-build-debug" "C:\Users\allen\Documents\Code\Problems\COCI\COCI '18 Contest 5 #5 Transport\cmake-build-debug" "C:\Users\allen\Documents\Code\Problems\COCI\COCI '18 Contest 5 #5 Transport\cmake-build-debug\CMakeFiles\COCI__18_Contest_5__5_Transport.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/COCI__18_Contest_5__5_Transport.dir/depend
 
