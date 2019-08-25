@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CCO__09_P6___A_Weighty_Problem.dir/main.cpp.obj"
+  "CMakeFiles/CCO__09_P6___A_Weighty_Problem.dir/main.cpp.o"
   "CCO__09_P6___A_Weighty_Problem.pdb"
-  "CCO__09_P6___A_Weighty_Problem.exe"
-  "CCO__09_P6___A_Weighty_Problem.exe.manifest"
-  "libCCO__09_P6___A_Weighty_Problem.dll.a"
+  "CCO__09_P6___A_Weighty_Problem"
 )
 
 # Per-language clean rules from dependency scanning.

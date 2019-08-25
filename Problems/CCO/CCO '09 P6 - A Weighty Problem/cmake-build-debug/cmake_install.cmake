@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO '09 P6 - A Weighty Problem
+# Install script for directory: /Users/allen/Documents/GitHub/Code/Problems/CCO/CCO '09 P6 - A Weighty Problem
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/CCO__09_P6___A_Weighty_Problem")
+  set(CMAKE_INSTALL_PREFIX "/usr/local")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO '09 P6 - A Weighty Problem/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/allen/Documents/GitHub/Code/Problems/CCO/CCO '09 P6 - A Weighty Problem/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
