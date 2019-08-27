@@ -33,19 +33,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2019.1.3\bin\cmake\win\bin\cmake.exe"
+CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2019.1.2\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "C:\Program Files\JetBrains\CLion 2019.1.3\bin\cmake\win\bin\cmake.exe" -E remove -f
+RM = "C:\Program Files\JetBrains\CLion 2019.1.2\bin\cmake\win\bin\cmake.exe" -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\allen\Documents\Code\Problems\OCC\OCC '19 S3 - Playing with Numbers"
+CMAKE_SOURCE_DIR = "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\OCC\OCC '19 S3 - Playing with Numbers"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\allen\Documents\Code\Problems\OCC\OCC '19 S3 - Playing with Numbers\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\OCC\OCC '19 S3 - Playing with Numbers\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/OCC__19_S3___Playing_with_Numbers.dir/depend.make
@@ -58,16 +58,16 @@ include CMakeFiles/OCC__19_S3___Playing_with_Numbers.dir/flags.make
 
 CMakeFiles/OCC__19_S3___Playing_with_Numbers.dir/main.cpp.obj: CMakeFiles/OCC__19_S3___Playing_with_Numbers.dir/flags.make
 CMakeFiles/OCC__19_S3___Playing_with_Numbers.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\allen\Documents\Code\Problems\OCC\OCC '19 S3 - Playing with Numbers\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/OCC__19_S3___Playing_with_Numbers.dir/main.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\OCC__19_S3___Playing_with_Numbers.dir\main.cpp.obj -c "C:\Users\allen\Documents\Code\Problems\OCC\OCC '19 S3 - Playing with Numbers\main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\OCC\OCC '19 S3 - Playing with Numbers\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/OCC__19_S3___Playing_with_Numbers.dir/main.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\OCC__19_S3___Playing_with_Numbers.dir\main.cpp.obj -c "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\OCC\OCC '19 S3 - Playing with Numbers\main.cpp"
 
 CMakeFiles/OCC__19_S3___Playing_with_Numbers.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OCC__19_S3___Playing_with_Numbers.dir/main.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\allen\Documents\Code\Problems\OCC\OCC '19 S3 - Playing with Numbers\main.cpp" > CMakeFiles\OCC__19_S3___Playing_with_Numbers.dir\main.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\OCC\OCC '19 S3 - Playing with Numbers\main.cpp" > CMakeFiles\OCC__19_S3___Playing_with_Numbers.dir\main.cpp.i
 
 CMakeFiles/OCC__19_S3___Playing_with_Numbers.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OCC__19_S3___Playing_with_Numbers.dir/main.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\allen\Documents\Code\Problems\OCC\OCC '19 S3 - Playing with Numbers\main.cpp" -o CMakeFiles\OCC__19_S3___Playing_with_Numbers.dir\main.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\OCC\OCC '19 S3 - Playing with Numbers\main.cpp" -o CMakeFiles\OCC__19_S3___Playing_with_Numbers.dir\main.cpp.s
 
 # Object files for target OCC__19_S3___Playing_with_Numbers
 OCC__19_S3___Playing_with_Numbers_OBJECTS = \
@@ -81,7 +81,7 @@ OCC__19_S3___Playing_with_Numbers.exe: CMakeFiles/OCC__19_S3___Playing_with_Numb
 OCC__19_S3___Playing_with_Numbers.exe: CMakeFiles/OCC__19_S3___Playing_with_Numbers.dir/linklibs.rsp
 OCC__19_S3___Playing_with_Numbers.exe: CMakeFiles/OCC__19_S3___Playing_with_Numbers.dir/objects1.rsp
 OCC__19_S3___Playing_with_Numbers.exe: CMakeFiles/OCC__19_S3___Playing_with_Numbers.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\allen\Documents\Code\Problems\OCC\OCC '19 S3 - Playing with Numbers\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable OCC__19_S3___Playing_with_Numbers.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\OCC\OCC '19 S3 - Playing with Numbers\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable OCC__19_S3___Playing_with_Numbers.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\OCC__19_S3___Playing_with_Numbers.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -94,6 +94,6 @@ CMakeFiles/OCC__19_S3___Playing_with_Numbers.dir/clean:
 .PHONY : CMakeFiles/OCC__19_S3___Playing_with_Numbers.dir/clean
 
 CMakeFiles/OCC__19_S3___Playing_with_Numbers.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\allen\Documents\Code\Problems\OCC\OCC '19 S3 - Playing with Numbers" "C:\Users\allen\Documents\Code\Problems\OCC\OCC '19 S3 - Playing with Numbers" "C:\Users\allen\Documents\Code\Problems\OCC\OCC '19 S3 - Playing with Numbers\cmake-build-debug" "C:\Users\allen\Documents\Code\Problems\OCC\OCC '19 S3 - Playing with Numbers\cmake-build-debug" "C:\Users\allen\Documents\Code\Problems\OCC\OCC '19 S3 - Playing with Numbers\cmake-build-debug\CMakeFiles\OCC__19_S3___Playing_with_Numbers.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\OCC\OCC '19 S3 - Playing with Numbers" "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\OCC\OCC '19 S3 - Playing with Numbers" "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\OCC\OCC '19 S3 - Playing with Numbers\cmake-build-debug" "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\OCC\OCC '19 S3 - Playing with Numbers\cmake-build-debug" "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\OCC\OCC '19 S3 - Playing with Numbers\cmake-build-debug\CMakeFiles\OCC__19_S3___Playing_with_Numbers.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/OCC__19_S3___Playing_with_Numbers.dir/depend
 
