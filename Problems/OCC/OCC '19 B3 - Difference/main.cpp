@@ -1,0 +1,14 @@
+#include <bits/stdc++.h>
+using namespace std;
+#define pb push_back;
+typedef long long int lli;
+typedef pair<int,int> pii;
+typedef pair<lli,lli> pll;
+int main(){
+    cin.tie(NULL);
+    ios_base::sync_with_stdio(false);
+    int n;
+    cin>>n;
+    cout<<(n%4==1||n%4==2?"No\n":"Yes\n");
+    return 0;
+}

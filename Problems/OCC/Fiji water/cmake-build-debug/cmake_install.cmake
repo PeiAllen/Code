@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/allen/CLionProjects/Fiji water
+# Install script for directory: C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/OCC/Fiji water
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/allen/CLionProjects/Fiji water/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/OCC/Fiji water/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

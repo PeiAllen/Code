@@ -11,7 +11,92 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2646db8c-8b67-42c6-a643-923f362428ce" name="Default Changelist" comment="" />
+    <list default="true" id="2646db8c-8b67-42c6-a643-923f362428ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OCC '19 B5 - Gold/.idea/OCC '19 B5 - Gold.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OCC '19 B5 - Gold/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OCC '19 B5 - Gold/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OCC '19 B5 - Gold/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OCC '19 S6 - City TollsGEN/.idea/OCC '19 S6 - City TollsGEN.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OCC '19 S6 - City TollsGEN/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OCC '19 S6 - City TollsGEN/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OCC '19 S6 - City TollsGEN/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structures/SMTreap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Structures/SMTreap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structures/SMTreap/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Structures/SMTreap/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fiji_water.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fiji_water.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fiji_water.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fiji_water.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fiji_water.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fiji_water.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fiji_water.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fiji_water.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fiji_water.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fiji_water.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fiji_water.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fiji_water.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Fiji_water.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Fiji_water.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Fiji_water.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Fiji_water.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S3 - Playing with Numbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OCC '19 S3 - Playing with Numbers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S3 - Playing with Numbers/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../OCC '19 S3 - Playing with Numbers/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S3 - Playing with NumbersBRUTE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OCC '19 S3 - Playing with NumbersBRUTE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/.idea/OCC '19 S5 - City Tolls.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/3.14.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/3.14.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/3.14.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/3.14.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/OCC__19_S5___City_Tolls.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/OCC__19_S5___City_Tolls.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/OCC__19_S5___City_Tolls.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/OCC__19_S5___City_Tolls.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/OCC__19_S5___City_Tolls.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/OCC__19_S5___City_Tolls.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/OCC__19_S5___City_Tolls.dir/linklibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/OCC__19_S5___City_Tolls.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/OCC__19_S5___City_Tolls.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/OCC__19_S5___City_Tolls.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCC '19 S5 - City Tolls/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Other/Allen's Combination Sum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Other/Allen's Combination Sum/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Other/Allen's Combination Sum/cmake-build-debug/Allen_s_Combination_Sum.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Other/Allen's Combination Sum/cmake-build-debug/Allen_s_Combination_Sum.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Other/Allen's Combination Sum/cmake-build-debug/CMakeFiles/Allen_s_Combination_Sum.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Other/Allen's Combination Sum/cmake-build-debug/CMakeFiles/Allen_s_Combination_Sum.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Other/Allen's Combination Sum/cmake-build-debug/CMakeFiles/Allen_s_Combination_Sum.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../../Other/Allen's Combination Sum/cmake-build-debug/CMakeFiles/Allen_s_Combination_Sum.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Other/Allen's Combination Sum/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Other/Allen's Combination Sum/main.cpp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,13 +118,16 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="476">
+              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -56,6 +144,7 @@
     <option name="width" value="1294" />
     <option name="height" value="1407" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -66,7 +155,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
@@ -102,17 +193,20 @@
       <updated>1560451976767</updated>
       <workItem from="1560451978288" duration="863000" />
       <workItem from="1560464615188" duration="21000" />
+      <workItem from="1567113428977" duration="128000" />
+      <workItem from="1567113648644" duration="867000" />
+      <workItem from="1567174739061" duration="30000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="884000" />
+    <option name="totallyTimeSpent" value="1909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1294" height="1407" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25364667" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26580226" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -144,8 +238,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        <state relative-caret-position="476">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
         </state>
       </provider>
     </entry>

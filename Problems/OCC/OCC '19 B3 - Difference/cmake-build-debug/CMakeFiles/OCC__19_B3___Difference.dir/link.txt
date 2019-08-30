@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.1.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\OCC__19_B3___Difference.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\OCC__19_B3___Difference.dir/objects.a @CMakeFiles\OCC__19_B3___Difference.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\OCC__19_B3___Difference.dir/objects.a -Wl,--no-whole-archive  -o OCC__19_B3___Difference.exe -Wl,--out-implib,libOCC__19_B3___Difference.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\OCC__19_B3___Difference.dir\linklibs.rsp
