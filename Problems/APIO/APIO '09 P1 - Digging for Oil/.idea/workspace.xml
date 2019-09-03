@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="COCI__14_Contest_7__4_Janje" targetName="COCI__14_Contest_7__4_Janje" />
+      <config projectName="APIO__09_P1___Digging_for_Oil" targetName="APIO__09_P1___Digging_for_Oil" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df28aa62-8c1a-4fae-9ea5-b0bd7bc119b8" name="Default Changelist" comment="" />
+    <list default="true" id="c203e30a-a5d4-4b9d-bdd0-472ff3e4c5dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/APIO '09 P1 - Digging for Oil.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../COCI/COCI '14 Contest 7 #4 Janje/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../COCI/COCI '14 Contest 7 #4 Janje/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="291">
+              <caret line="36" column="91" lean-forward="true" selection-start-line="36" selection-start-column="91" selection-end-line="36" selection-end-column="91" />
             </state>
           </provider>
         </entry>
@@ -87,7 +93,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="COCI__14_Contest_7__4_Janje" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="COCI__14_Contest_7__4_Janje" TARGET_NAME="COCI__14_Contest_7__4_Janje" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="COCI__14_Contest_7__4_Janje" RUN_TARGET_NAME="COCI__14_Contest_7__4_Janje">
+    <configuration name="APIO__09_P1___Digging_for_Oil" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="APIO__09_P1___Digging_for_Oil" TARGET_NAME="APIO__09_P1___Digging_for_Oil" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="APIO__09_P1___Digging_for_Oil" RUN_TARGET_NAME="APIO__09_P1___Digging_for_Oil">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -98,33 +104,34 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="df28aa62-8c1a-4fae-9ea5-b0bd7bc119b8" name="Default Changelist" comment="" />
-      <created>1567466757054</created>
+      <changelist id="c203e30a-a5d4-4b9d-bdd0-472ff3e4c5dc" name="Default Changelist" comment="" />
+      <created>1567529975616</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1567466757054</updated>
-      <workItem from="1567466758332" duration="197000" />
+      <updated>1567529975616</updated>
+      <workItem from="1567529976991" duration="2134000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="197000" />
+    <option name="totallyTimeSpent" value="2134000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="720" y="23" width="720" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24926254" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24926254" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="CMake" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" weight="0.3299363" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="CMake" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -144,8 +151,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="291">
+          <caret line="36" column="91" lean-forward="true" selection-start-line="36" selection-start-column="91" selection-end-line="36" selection-end-column="91" />
         </state>
       </provider>
     </entry>
