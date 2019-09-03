@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(OCC__19_G5___King_kobortor_s_Infrastructure)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(OCC__19_G5___King_kobortor_s_Infrastructure main.cpp)

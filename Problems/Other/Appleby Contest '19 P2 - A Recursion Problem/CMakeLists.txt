@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(Appleby_Contest__19_P2___A_Recursion_Problem)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Appleby_Contest__19_P2___A_Recursion_Problem main.cpp)

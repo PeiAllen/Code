@@ -1,0 +1,20 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /Users/allen/Documents/GitHub/Code/Problems/COCI/COCI '14 Contest 7 #4 Janje/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_2c9a0/fast 
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_2c9a0.dir/build.make CMakeFiles/cmTC_2c9a0.dir/build
+make[1]: *** No rule to make target `/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI '14 Contest 7\', needed by `CMakeFiles/cmTC_2c9a0.dir/feature_tests.c.o'.  Stop.
+make: *** [cmTC_2c9a0/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /Users/allen/Documents/GitHub/Code/Problems/COCI/COCI '14 Contest 7 #4 Janje/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_f9078/fast 
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_f9078.dir/build.make CMakeFiles/cmTC_f9078.dir/build
+make[1]: *** No rule to make target `/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI '14 Contest 7\', needed by `CMakeFiles/cmTC_f9078.dir/feature_tests.cxx.o'.  Stop.
+make: *** [cmTC_f9078/fast] Error 2
+
+
+

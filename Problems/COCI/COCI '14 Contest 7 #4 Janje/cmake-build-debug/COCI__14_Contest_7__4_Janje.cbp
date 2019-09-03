@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="COCI__14_Contest_7__4_Janje"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI &apos;14 Contest 7 #4 Janje/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI\ &apos;14\ Contest\ 7\ #4\ Janje/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI\ &apos;14\ Contest\ 7\ #4\ Janje/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI\ &apos;14\ Contest\ 7\ #4\ Janje/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI\ &apos;14\ Contest\ 7\ #4\ Janje/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI &apos;14 Contest 7 #4 Janje/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI\ &apos;14\ Contest\ 7\ #4\ Janje/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI\ &apos;14\ Contest\ 7\ #4\ Janje/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI\ &apos;14\ Contest\ 7\ #4\ Janje/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI\ &apos;14\ Contest\ 7\ #4\ Janje/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI &apos;14 Contest 7 #4 Janje/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI\ &apos;14\ Contest\ 7\ #4\ Janje/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI\ &apos;14\ Contest\ 7\ #4\ Janje/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI\ &apos;14\ Contest\ 7\ #4\ Janje/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI\ &apos;14\ Contest\ 7\ #4\ Janje/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="COCI__14_Contest_7__4_Janje">
+				<Option output="/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI &apos;14 Contest 7 #4 Janje/cmake-build-debug/COCI__14_Contest_7__4_Janje" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI &apos;14 Contest 7 #4 Janje/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI\ &apos;14\ Contest\ 7\ #4\ Janje/cmake-build-debug/Makefile&quot;  VERBOSE=1 COCI__14_Contest_7__4_Janje"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI\ &apos;14\ Contest\ 7\ #4\ Janje/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI\ &apos;14\ Contest\ 7\ #4\ Janje/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI\ &apos;14\ Contest\ 7\ #4\ Janje/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="COCI__14_Contest_7__4_Janje/fast">
+				<Option output="/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI &apos;14 Contest 7 #4 Janje/cmake-build-debug/COCI__14_Contest_7__4_Janje" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI &apos;14 Contest 7 #4 Janje/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI\ &apos;14\ Contest\ 7\ #4\ Janje/cmake-build-debug/Makefile&quot;  VERBOSE=1 COCI__14_Contest_7__4_Janje/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI\ &apos;14\ Contest\ 7\ #4\ Janje/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI\ &apos;14\ Contest\ 7\ #4\ Janje/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI\ &apos;14\ Contest\ 7\ #4\ Janje/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI &apos;14 Contest 7 #4 Janje/main.cpp">
+			<Option target="COCI__14_Contest_7__4_Janje"/>
+		</Unit>
+		<Unit filename="/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI &apos;14 Contest 7 #4 Janje/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
