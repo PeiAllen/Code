@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/allen/Documents/GitHub/Code/Problems/IOI/IOI '19 P2 - Split the Attractions/main.cpp" "/Users/allen/Documents/GitHub/Code/Problems/IOI/IOI '19 P2 - Split the Attractions/cmake-build-debug/CMakeFiles/IOI__19_P2___Split_the_Attractions.dir/main.cpp.o"
+  "C:/Users/allen/Documents/Code/Problems/IOI/IOI '19 P2 - Split the Attractions/main.cpp" "C:/Users/allen/Documents/Code/Problems/IOI/IOI '19 P2 - Split the Attractions/cmake-build-debug/CMakeFiles/IOI__19_P2___Split_the_Attractions.dir/main.cpp.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
