@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.1.3\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\APIO__19_P2___Bridges.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\APIO__19_P2___Bridges.dir/objects.a @CMakeFiles\APIO__19_P2___Bridges.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\APIO__19_P2___Bridges.dir/objects.a -Wl,--no-whole-archive  -o APIO__19_P2___Bridges.exe -Wl,--out-implib,libAPIO__19_P2___Bridges.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\APIO__19_P2___Bridges.dir\linklibs.rsp
