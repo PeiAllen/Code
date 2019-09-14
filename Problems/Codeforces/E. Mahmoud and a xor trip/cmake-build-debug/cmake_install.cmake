@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/E. Mahmoud and a xor trip
+# Install script for directory: C:/Users/allen/Documents/Code/Problems/Codeforces/E. Mahmoud and a xor trip
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/E. Mahmoud and a xor trip/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/allen/Documents/Code/Problems/Codeforces/E. Mahmoud and a xor trip/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

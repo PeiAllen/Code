@@ -33,19 +33,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2019.1.2\bin\cmake\win\bin\cmake.exe"
+CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2019.1.3\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "C:\Program Files\JetBrains\CLion 2019.1.2\bin\cmake\win\bin\cmake.exe" -E remove -f
+RM = "C:\Program Files\JetBrains\CLion 2019.1.3\bin\cmake\win\bin\cmake.exe" -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\Codeforces\E. Mahmoud and a xor trip"
+CMAKE_SOURCE_DIR = "C:\Users\allen\Documents\Code\Problems\Codeforces\E. Mahmoud and a xor trip"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\Codeforces\E. Mahmoud and a xor trip\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\allen\Documents\Code\Problems\Codeforces\E. Mahmoud and a xor trip\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/E__Mahmoud_and_a_xor_trip.dir/depend.make
@@ -58,16 +58,16 @@ include CMakeFiles/E__Mahmoud_and_a_xor_trip.dir/flags.make
 
 CMakeFiles/E__Mahmoud_and_a_xor_trip.dir/main.cpp.obj: CMakeFiles/E__Mahmoud_and_a_xor_trip.dir/flags.make
 CMakeFiles/E__Mahmoud_and_a_xor_trip.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\Codeforces\E. Mahmoud and a xor trip\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/E__Mahmoud_and_a_xor_trip.dir/main.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\E__Mahmoud_and_a_xor_trip.dir\main.cpp.obj -c "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\Codeforces\E. Mahmoud and a xor trip\main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\allen\Documents\Code\Problems\Codeforces\E. Mahmoud and a xor trip\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/E__Mahmoud_and_a_xor_trip.dir/main.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\E__Mahmoud_and_a_xor_trip.dir\main.cpp.obj -c "C:\Users\allen\Documents\Code\Problems\Codeforces\E. Mahmoud and a xor trip\main.cpp"
 
 CMakeFiles/E__Mahmoud_and_a_xor_trip.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/E__Mahmoud_and_a_xor_trip.dir/main.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\Codeforces\E. Mahmoud and a xor trip\main.cpp" > CMakeFiles\E__Mahmoud_and_a_xor_trip.dir\main.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\allen\Documents\Code\Problems\Codeforces\E. Mahmoud and a xor trip\main.cpp" > CMakeFiles\E__Mahmoud_and_a_xor_trip.dir\main.cpp.i
 
 CMakeFiles/E__Mahmoud_and_a_xor_trip.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/E__Mahmoud_and_a_xor_trip.dir/main.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\Codeforces\E. Mahmoud and a xor trip\main.cpp" -o CMakeFiles\E__Mahmoud_and_a_xor_trip.dir\main.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\allen\Documents\Code\Problems\Codeforces\E. Mahmoud and a xor trip\main.cpp" -o CMakeFiles\E__Mahmoud_and_a_xor_trip.dir\main.cpp.s
 
 # Object files for target E__Mahmoud_and_a_xor_trip
 E__Mahmoud_and_a_xor_trip_OBJECTS = \
@@ -81,7 +81,7 @@ E__Mahmoud_and_a_xor_trip.exe: CMakeFiles/E__Mahmoud_and_a_xor_trip.dir/build.ma
 E__Mahmoud_and_a_xor_trip.exe: CMakeFiles/E__Mahmoud_and_a_xor_trip.dir/linklibs.rsp
 E__Mahmoud_and_a_xor_trip.exe: CMakeFiles/E__Mahmoud_and_a_xor_trip.dir/objects1.rsp
 E__Mahmoud_and_a_xor_trip.exe: CMakeFiles/E__Mahmoud_and_a_xor_trip.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\Codeforces\E. Mahmoud and a xor trip\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable E__Mahmoud_and_a_xor_trip.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\allen\Documents\Code\Problems\Codeforces\E. Mahmoud and a xor trip\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable E__Mahmoud_and_a_xor_trip.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\E__Mahmoud_and_a_xor_trip.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -94,6 +94,6 @@ CMakeFiles/E__Mahmoud_and_a_xor_trip.dir/clean:
 .PHONY : CMakeFiles/E__Mahmoud_and_a_xor_trip.dir/clean
 
 CMakeFiles/E__Mahmoud_and_a_xor_trip.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\Codeforces\E. Mahmoud and a xor trip" "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\Codeforces\E. Mahmoud and a xor trip" "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\Codeforces\E. Mahmoud and a xor trip\cmake-build-debug" "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\Codeforces\E. Mahmoud and a xor trip\cmake-build-debug" "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\Codeforces\E. Mahmoud and a xor trip\cmake-build-debug\CMakeFiles\E__Mahmoud_and_a_xor_trip.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\allen\Documents\Code\Problems\Codeforces\E. Mahmoud and a xor trip" "C:\Users\allen\Documents\Code\Problems\Codeforces\E. Mahmoud and a xor trip" "C:\Users\allen\Documents\Code\Problems\Codeforces\E. Mahmoud and a xor trip\cmake-build-debug" "C:\Users\allen\Documents\Code\Problems\Codeforces\E. Mahmoud and a xor trip\cmake-build-debug" "C:\Users\allen\Documents\Code\Problems\Codeforces\E. Mahmoud and a xor trip\cmake-build-debug\CMakeFiles\E__Mahmoud_and_a_xor_trip.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/E__Mahmoud_and_a_xor_trip.dir/depend
 
