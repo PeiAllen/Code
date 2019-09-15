@@ -1,3 +1,3 @@
-C:/Users/allen/Documents/Code/Problems/Codeforces/B. Neko Performs Cat Furrier Transform/cmake-build-debug/CMakeFiles/B__Neko_Performs_Cat_Furrier_Transform.dir
-C:/Users/allen/Documents/Code/Problems/Codeforces/B. Neko Performs Cat Furrier Transform/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/allen/Documents/Code/Problems/Codeforces/B. Neko Performs Cat Furrier Transform/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/allen/Documents/GitHub/Code/Problems/Codeforces/B. Neko Performs Cat Furrier Transform/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/allen/Documents/GitHub/Code/Problems/Codeforces/B. Neko Performs Cat Furrier Transform/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/allen/Documents/GitHub/Code/Problems/Codeforces/B. Neko Performs Cat Furrier Transform/cmake-build-debug/CMakeFiles/B__Neko_Performs_Cat_Furrier_Transform.dir

@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/B__Neko_Performs_Cat_Furrier_Transform.dir/main.cpp.obj"
+  "CMakeFiles/B__Neko_Performs_Cat_Furrier_Transform.dir/main.cpp.o"
   "B__Neko_Performs_Cat_Furrier_Transform.pdb"
-  "B__Neko_Performs_Cat_Furrier_Transform.exe"
-  "B__Neko_Performs_Cat_Furrier_Transform.exe.manifest"
-  "libB__Neko_Performs_Cat_Furrier_Transform.dll.a"
+  "B__Neko_Performs_Cat_Furrier_Transform"
 )
 
 # Per-language clean rules from dependency scanning.
