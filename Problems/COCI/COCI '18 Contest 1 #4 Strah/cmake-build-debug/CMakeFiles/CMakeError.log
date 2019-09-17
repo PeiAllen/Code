@@ -1,0 +1,20 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /Users/allen/Documents/GitHub/Code/Problems/COCI/COCI '18 Contest 1 #4 Strah/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_ebe99/fast 
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_ebe99.dir/build.make CMakeFiles/cmTC_ebe99.dir/build
+make[1]: *** No rule to make target `/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI '18 Contest 1\', needed by `CMakeFiles/cmTC_ebe99.dir/feature_tests.c.o'.  Stop.
+make: *** [cmTC_ebe99/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /Users/allen/Documents/GitHub/Code/Problems/COCI/COCI '18 Contest 1 #4 Strah/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_47f57/fast 
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_47f57.dir/build.make CMakeFiles/cmTC_47f57.dir/build
+make[1]: *** No rule to make target `/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI '18 Contest 1\', needed by `CMakeFiles/cmTC_47f57.dir/feature_tests.cxx.o'.  Stop.
+make: *** [cmTC_47f57/fast] Error 2
+
+
+
