@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/COCI/COCI '08 Contest 6 4 Cuskija/cmake-build-debug/CMakeFiles/COCI__08_Contest_6_4_Cuskija.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/COCI/COCI '08 Contest 6 4 Cuskija/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/COCI/COCI '08 Contest 6 4 Cuskija/cmake-build-debug/CMakeFiles/rebuild_cache.dir
