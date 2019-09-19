@@ -20,12 +20,14 @@ lli c[MAXN],r[MAXN];
 int main(){
     cin.tie(NULL);
     ios_base::sync_with_stdio(false);
-    freopen("/Users/allen/Downloads/b2in1.txt","r",stdin);
-	int n;
+    int n;
 	sc(n);
 	rep(i,0,n)sc(c[i]);
 	rep(i,0,n)sc(r[i]);
 	sort(c,c+n),sort(r,r+n);
+	if(c[n-1]!=r[n-1]){
+		prl("-1");return 0;
+	}
 	int p=-1;
 	lli pre=0,ans=0;
 	rep(i,0,n){
