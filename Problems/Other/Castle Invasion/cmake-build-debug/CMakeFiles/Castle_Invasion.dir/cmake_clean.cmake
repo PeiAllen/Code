@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Castle_Invasion.dir/main.cpp.obj"
+  "CMakeFiles/Castle_Invasion.dir/main.cpp.o"
   "Castle_Invasion.pdb"
-  "Castle_Invasion.exe"
-  "Castle_Invasion.exe.manifest"
-  "libCastle_Invasion.dll.a"
+  "Castle_Invasion"
 )
 
 # Per-language clean rules from dependency scanning.

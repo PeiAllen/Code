@@ -15,13 +15,14 @@ void prl(T a){cout<<a<<"\n";}
 template<typename T,typename... Args>
 void prl(T a, Args... args) {cout<<a<<" ",prl(args...);}
 #define rep(i, begin, end) for (__typeof(end) i = (begin) - ((begin) > (end)); i != (end) - ((begin) > (end)); i += 1 - 2 * ((begin) > (end)))
-
+const int MAXN=1e6;
+lli c[MAXN],r[MAXN];
 int main(){
     cin.tie(NULL);
     ios_base::sync_with_stdio(false);
+    freopen("/Users/allen/Downloads/b2in1.txt","r",stdin);
 	int n;
 	sc(n);
-	lli c[n],r[n];
 	rep(i,0,n)sc(c[i]);
 	rep(i,0,n)sc(r[i]);
 	sort(c,c+n),sort(r,r+n);
