@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(Educational_Codeforces_Round_73__Rated_for_Div__2_)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Educational_Codeforces_Round_73__Rated_for_Div__2_ main.cpp)
