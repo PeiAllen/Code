@@ -1,6 +1,3 @@
-#pragma GCC optimize "Ofast"
-#pragma GCC optimize "unroll-loops"
-#pragma GCC target "sse,sse2,sse3,sse4,abm,avx,mmx,popcnt,tune=native"
 #include <bits/stdc++.h>
 using namespace std;
 typedef pair<int,int> pii;
@@ -12,10 +9,10 @@ vector<pii> colranges[MAXN][MAXN];
 int preloc[MAXN];
 int sufloc[MAXN];
 pii deq[MAXN];
-void update(int loc, int val){
+inline void update(int loc, int val){
 	for(;loc<=n;loc+=loc&-loc)bit[loc]+=val;
 }
-int sum(int loc){
+inline int sum(int loc){
 	int ans=0;
 	for(;loc>0;loc-=loc&-loc)ans+=bit[loc];
 	return ans;
