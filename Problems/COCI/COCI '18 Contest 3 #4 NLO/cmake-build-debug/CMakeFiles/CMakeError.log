@@ -1,0 +1,20 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /Users/allen/Documents/GitHub/Code/Problems/COCI/COCI '18 Contest 3 #4 NLO/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_b15f1/fast 
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_b15f1.dir/build.make CMakeFiles/cmTC_b15f1.dir/build
+make[1]: *** No rule to make target `/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI '18 Contest 3\', needed by `CMakeFiles/cmTC_b15f1.dir/feature_tests.c.o'.  Stop.
+make: *** [cmTC_b15f1/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /Users/allen/Documents/GitHub/Code/Problems/COCI/COCI '18 Contest 3 #4 NLO/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a264f/fast 
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_a264f.dir/build.make CMakeFiles/cmTC_a264f.dir/build
+make[1]: *** No rule to make target `/Users/allen/Documents/GitHub/Code/Problems/COCI/COCI '18 Contest 3\', needed by `CMakeFiles/cmTC_a264f.dir/feature_tests.cxx.o'.  Stop.
+make: *** [cmTC_a264f/fast] Error 2
+
+
+
