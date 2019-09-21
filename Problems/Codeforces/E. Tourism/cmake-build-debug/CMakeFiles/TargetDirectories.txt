@@ -1,3 +1,3 @@
-C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/E. Tourism/cmake-build-debug/CMakeFiles/E__Tourism.dir
-C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/E. Tourism/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/E. Tourism/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/allen/Documents/Code/Problems/Codeforces/E. Tourism/cmake-build-debug/CMakeFiles/E__Tourism.dir
+C:/Users/allen/Documents/Code/Problems/Codeforces/E. Tourism/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Code/Problems/Codeforces/E. Tourism/cmake-build-debug/CMakeFiles/rebuild_cache.dir
