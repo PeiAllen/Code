@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CEOI/CEOI '19 Practice P2 - Separator/cmake-build-debug/CMakeFiles/CEOI__19_Practice_P2___Separator.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CEOI/CEOI '19 Practice P2 - Separator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CEOI/CEOI '19 Practice P2 - Separator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
