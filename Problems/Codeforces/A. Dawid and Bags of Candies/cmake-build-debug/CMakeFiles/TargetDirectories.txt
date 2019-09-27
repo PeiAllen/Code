@@ -1,0 +1,3 @@
+/Users/allen/Documents/GitHub/Code/Problems/Codeforces/A. Dawid and Bags of Candies/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/allen/Documents/GitHub/Code/Problems/Codeforces/A. Dawid and Bags of Candies/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/allen/Documents/GitHub/Code/Problems/Codeforces/A. Dawid and Bags of Candies/cmake-build-debug/CMakeFiles/A__Dawid_and_Bags_of_Candies.dir

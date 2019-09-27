@@ -32,13 +32,20 @@ struct node{
 		ans=min(left->ans,right->ans);
 		int r=(int)right->suf.size()-1;
 		bitset<51> used;
+		bitset<51> noice;
+		for(pii x:right->suf)noice[x.second]=true;
 		for(pii x:left->suf){
 			used[x.second]=true;
+			noice[x.second]=true;
 			while(r>=0&&used[right->pre[r].second])r--;
-			int rl=(r>=0?right->pre[r].first:left->ri);
-			ans=min(ans,rl-x.first+1);
+			if(noice.count()==k) {
+				int rl = (r >= 0 ? right->pre[r].first : left->ri);
+				ans = min(ans, rl - x.first + 1);
+			}
 		}
 		used.reset();
+		pre.clear();
+		suf.clear();
 		for(pii x:left->pre){
 			used[x.second]=true;
 			pre.push_back(x);
