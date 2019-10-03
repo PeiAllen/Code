@@ -21,6 +21,6 @@ int main(){
     ios_base::sync_with_stdio(false);
     vector<int> a;
     rep(i,0,100)a.push_back(i);
-
+	prl("NANI");
     return 0;
 }

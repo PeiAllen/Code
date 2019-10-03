@@ -60,15 +60,15 @@ include CMakeFiles/gcctest.dir/flags.make
 CMakeFiles/gcctest.dir/main.cpp.o: CMakeFiles/gcctest.dir/flags.make
 CMakeFiles/gcctest.dir/main.cpp.o: ../main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/allen/Documents/GitHub/Code/Problems/Other/gcctest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/gcctest.dir/main.cpp.o"
-	/usr/bin/gcc  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/gcctest.dir/main.cpp.o -c /Users/allen/Documents/GitHub/Code/Problems/Other/gcctest/main.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/gcctest.dir/main.cpp.o -c /Users/allen/Documents/GitHub/Code/Problems/Other/gcctest/main.cpp
 
 CMakeFiles/gcctest.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/gcctest.dir/main.cpp.i"
-	/usr/bin/gcc $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/allen/Documents/GitHub/Code/Problems/Other/gcctest/main.cpp > CMakeFiles/gcctest.dir/main.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/allen/Documents/GitHub/Code/Problems/Other/gcctest/main.cpp > CMakeFiles/gcctest.dir/main.cpp.i
 
 CMakeFiles/gcctest.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/gcctest.dir/main.cpp.s"
-	/usr/bin/gcc $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/allen/Documents/GitHub/Code/Problems/Other/gcctest/main.cpp -o CMakeFiles/gcctest.dir/main.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/allen/Documents/GitHub/Code/Problems/Other/gcctest/main.cpp -o CMakeFiles/gcctest.dir/main.cpp.s
 
 # Object files for target gcctest
 gcctest_OBJECTS = \
