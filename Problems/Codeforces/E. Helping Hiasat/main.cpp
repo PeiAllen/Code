@@ -14,13 +14,45 @@ template<typename T>
 void prl(T a){cout<<a<<"\n";}
 template<typename T,typename... Args>
 void prl(T a, Args... args) {cout<<a<<" ",prl(args...);}
-template<typename T>
 int sz(const T &a){return (int)a.size();}
 #define rep(i, begin, end) for (__typeof(end) i = (begin) - ((begin) > (end)); i != (end) - ((begin) > (end)); i += 1 - 2 * ((begin) > (end)))
 
 int main(){
     cin.tie(NULL);
     ios_base::sync_with_stdio(false);
-
+	int n,m;
+	sc(n,m);
+	bitset<40> bad[m];
+	rep(i,0,m)bad[i]=0;
+	int in;
+	string na;
+	set<int> peeps;
+	map<string,int> conver;
+	rep(i,0,n){
+		sc(in);
+		if(in==1){
+			bitset<40> te=0;
+			for(int x:peeps){
+				te[x]=true;
+			}
+			for(int x:peeps){
+				te[x]=false;
+				bad[x]|=te;
+				te[x]=true;
+			}
+			peeps.clear();
+		}
+		else{
+			sc(na);
+			if(!conver.count(na)) {
+				conver[na]=sz(conver);
+			}
+			peeps.insert(conver[na]);
+		}
+	}
+	int half=m/2;
+	rep(i,0,1<<half){
+		
+	}
     return 0;
 }
