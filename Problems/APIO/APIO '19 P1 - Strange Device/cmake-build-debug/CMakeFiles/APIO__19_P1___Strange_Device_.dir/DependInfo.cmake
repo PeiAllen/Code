@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/allen/CLionProjects/APIO '19 P1 - Strange Device /main.cpp" "/Users/allen/CLionProjects/APIO '19 P1 - Strange Device /cmake-build-debug/CMakeFiles/APIO__19_P1___Strange_Device_.dir/main.cpp.o"
+  "/Users/allen/Documents/GitHub/Code/Problems/APIO/APIO '19 P1 - Strange Device/main.cpp" "/Users/allen/Documents/GitHub/Code/Problems/APIO/APIO '19 P1 - Strange Device/cmake-build-debug/CMakeFiles/APIO__19_P1___Strange_Device_.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

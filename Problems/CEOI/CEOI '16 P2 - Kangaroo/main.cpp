@@ -30,12 +30,18 @@ int main(){
 				dp[i][j]=(dp[i-1][j]+(dp[i-1][j+1]*(j+1)%mod))%mod;
 			}
 			else{
-				// become own block then merge two blocks, since youre larger than both numbers
-				dp[i][j]=((j>0?dp[i-1][j-1]:0)+(dp[i-1][j+1]*((((j+1)*j%mod)/*left and right block*/+(j+1)*(i>a)+(j+1)*(i>b)/*combine with start and end blocks, since they don't add to blockcount*/)%mod)%mod))%mod;
+				if(j)dp[i][j]=dp[i-1][j-1];//become own block
+				lli x=j+1;
+				lli y=j;
+				if(j)dp[i][j]=(dp[i][j]+(dp[i-1][j+1]*x%mod*y%mod))%mod;//merge two blocks
+				dp[i][j]=(dp[i][j]+(dp[i-1][j+1]*((i>a)*(j+1)%mod)%mod))%mod;//merge start with a block
+				dp[i][j]=(dp[i][j]+(dp[i-1][j+1]*((i>b)*(j+1)%mod)%mod))%mod;//merge end with a block
+				// become own block then merge two blocks, since youre larger than both numbers,or merge a start with a block, or end with a block
+				//dp[i][j]=((j>0?dp[i-1][j-1]:0)+(dp[i-1][j+1]*((((j+1)*j%mod)/*left and right block*/+(j+1)*(i>a)+(j+1)*(i>b)/*combine with start and end blocks, since they don't add to blockcount*/)%mod)%mod))%mod;
 			}
 		}
 	}
-	prl(dp[n][0]);
+	prl(dp[n-1][0]);//for merging the start and end
     return 0;
 }
 /*

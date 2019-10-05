@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CEOI__16_P2___Kangaroo.dir/main.cpp.obj"
+  "CMakeFiles/CEOI__16_P2___Kangaroo.dir/main.cpp.o"
   "CEOI__16_P2___Kangaroo.pdb"
-  "CEOI__16_P2___Kangaroo.exe"
-  "CEOI__16_P2___Kangaroo.exe.manifest"
-  "libCEOI__16_P2___Kangaroo.dll.a"
+  "CEOI__16_P2___Kangaroo"
 )
 
 # Per-language clean rules from dependency scanning.
