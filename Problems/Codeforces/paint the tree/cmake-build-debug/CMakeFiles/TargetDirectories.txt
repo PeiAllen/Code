@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Code/Problems/Codeforces/paint the tree/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Code/Problems/Codeforces/paint the tree/cmake-build-debug/CMakeFiles/paint_the_tree.dir
+C:/Users/allen/Documents/Code/Problems/Codeforces/paint the tree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
