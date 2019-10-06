@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CCO__19_P3___Winter_Driving.dir/main.cpp.o"
+  "CMakeFiles/CCO__19_P3___Winter_Driving.dir/main.cpp.obj"
   "CCO__19_P3___Winter_Driving.pdb"
-  "CCO__19_P3___Winter_Driving"
+  "CCO__19_P3___Winter_Driving.exe"
+  "CCO__19_P3___Winter_Driving.exe.manifest"
+  "libCCO__19_P3___Winter_Driving.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

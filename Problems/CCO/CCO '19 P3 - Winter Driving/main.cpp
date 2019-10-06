@@ -17,12 +17,36 @@ void prl(T a, Args... args) {cout<<a<<" ",prl(args...);}
 template<typename T>
 int sz(const T &a){return (int)a.size();}
 #define rep(i, begin, end) for (__typeof(end) i = (begin) - ((begin) > (end)); i != (end) - ((begin) > (end)); i += 1 - 2 * ((begin) > (end)))
-
+const int MAXN=2e5+1;
+vector<int> matrix[MAXN];
+lli peeps[MAXN];
+lli subtreesize[MAXN];
+lli dfssize(int loc, int parent){
+	subtreesize[loc]=1;
+	for(int x:matrix[loc])if(x!=parent)subtreesize[loc]+=dfssize(x,loc);
+	return subtreesize[loc];
+}
+int findcent(int loc, int parent, int siz){
+	for(int x:matrix[loc]){
+		if(x!=parent&&subtreesize[x]>siz)return findcent(x,loc,siz);
+	}
+	return loc;
+}
 int main(){
     cin.tie(NULL);
     ios_base::sync_with_stdio(false);
     int n;
     sc(n);
-    
+    rep(i,1,n+1){
+    	sc(peeps[i]);
+    }
+    int a;
+    rep(i,1,n){
+    	sc(a);
+    	matrix[i].push_back(a);
+    	matrix[a].push_back(i);
+    }
+    int cent=findcent(1,0,dfssize(1,0));
+
     return 0;
 }

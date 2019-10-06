@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/allen/Documents/GitHub/Code/Problems/CCO/CCO '19 P3 - Winter Driving/main.cpp" "/Users/allen/Documents/GitHub/Code/Problems/CCO/CCO '19 P3 - Winter Driving/cmake-build-debug/CMakeFiles/CCO__19_P3___Winter_Driving.dir/main.cpp.o"
+  "C:/Users/allen/Documents/Code/Problems/CCO/CCO '19 P3 - Winter Driving/main.cpp" "C:/Users/allen/Documents/Code/Problems/CCO/CCO '19 P3 - Winter Driving/cmake-build-debug/CMakeFiles/CCO__19_P3___Winter_Driving.dir/main.cpp.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
