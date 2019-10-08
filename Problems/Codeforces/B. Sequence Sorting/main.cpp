@@ -17,29 +17,13 @@ void prl(T a, Args... args) {cout<<a<<" ",prl(args...);}
 template<typename T>
 int sz(const T &a){return (int)a.size();}
 #define rep(i, begin, end) for (__typeof(end) i = (begin) - ((begin) > (end)); i != (end) - ((begin) > (end)); i += 1 - 2 * ((begin) > (end)))
-const int MAXN=3e5+9;
-int bit[MAXN];
-int n;
-void update(int loc, int am){
-	for(;loc>0;loc-=loc&-loc)bit[loc]=min(bit[loc],am);
-}
-void reset(int loc){
-	for(;loc>0;loc-=loc&-loc)bit[loc]=INT_MAX;
-}
-int query(int loc){
-	int mi=INT_MAX;
-	for(;loc<=n+3;loc+=loc&-loc){
-		mi=min(mi,bit[loc]);
-	}
-	return mi;
-}
 int main(){
     cin.tie(NULL);
     ios_base::sync_with_stdio(false);
     int q;
     sc(q);
-    rep(i,0,(int)MAXN)bit[i]=INT_MAX;
     while(q--) {
+    	int n;
 	    sc(n);
 	    int arr[n+1];
 	    vector<pii> nums;
@@ -59,16 +43,12 @@ int main(){
 	    nums.push_back({INT_MAX,INT_MAX});
 	    int dp[sz(nums)];
 	    dp[sz(nums)-1]=0;
-	    update(n+1,sz(nums)-1);
+	    int ma=0;
 	    rep(i,sz(nums)-1,0){
-	    	dp[i]=max(dp[i+1],1+dp[query(nums[i].second+1)]);
-	    	update(nums[i].first,i);
+	    	dp[i]=1+(nums[i].second<nums[i+1].first?dp[i+1]:0);
+	    	ma=max(ma,dp[i]);
 	    }
-	    reset(n+1);
-	    rep(i,sz(nums)-1,0){
-	    	reset(nums[i].first);
-	    }
-	    prl(sz(nums)-dp[0]-1);
+	    prl(sz(nums)-ma-1);
     }
     return 0;
 }

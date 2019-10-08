@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/allen/Documents/Code/Problems/CCO/CCO '19 P3 - Winter Driving/main.cpp" "C:/Users/allen/Documents/Code/Problems/CCO/CCO '19 P3 - Winter Driving/cmake-build-debug/CMakeFiles/CCO__19_P3___Winter_Driving.dir/main.cpp.obj"
+  "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO '19 P3 - Winter Driving/main.cpp" "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO '19 P3 - Winter Driving/cmake-build-debug/CMakeFiles/CCO__19_P3___Winter_Driving.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -1,8 +1,8 @@
-# Install script for directory: /Users/allen/Documents/GitHub/Code/Problems/Codeforces/B. Sequence Sorting
+# Install script for directory: C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/B. Sequence Sorting
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/usr/local")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/B__Sequence_Sorting")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/allen/Documents/GitHub/Code/Problems/Codeforces/B. Sequence Sorting/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/B. Sequence Sorting/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
