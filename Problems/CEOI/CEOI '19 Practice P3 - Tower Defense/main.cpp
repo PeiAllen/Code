@@ -30,6 +30,7 @@ int main(){
     }
     if(dist%2!=d%2){
     	prl("impossible");
+	    return 0;
     }
     if(dist==d){
     	prl(0);
@@ -40,7 +41,11 @@ int main(){
     	return 0;
     }
     if(abs(xe-xh)==1&&abs(ye-yh)==1){
-		lli needed=d-dist;
+    	if(d==4){
+		    prl("impossible");
+		    return 0;
+    	}
+		lli needed=d-dist-2;
 		if(needed>10000){
 			prl("impossible");
 			return 0;

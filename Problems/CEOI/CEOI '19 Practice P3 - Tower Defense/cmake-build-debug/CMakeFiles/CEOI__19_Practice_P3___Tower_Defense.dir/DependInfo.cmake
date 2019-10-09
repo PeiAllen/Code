@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/allen/Documents/GitHub/Code/Problems/CEOI/CEOI '19 Practice P3 - Tower Defense/main.cpp" "/Users/allen/Documents/GitHub/Code/Problems/CEOI/CEOI '19 Practice P3 - Tower Defense/cmake-build-debug/CMakeFiles/CEOI__19_Practice_P3___Tower_Defense.dir/main.cpp.o"
+  "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CEOI/CEOI '19 Practice P3 - Tower Defense/main.cpp" "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CEOI/CEOI '19 Practice P3 - Tower Defense/cmake-build-debug/CMakeFiles/CEOI__19_Practice_P3___Tower_Defense.dir/main.cpp.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
