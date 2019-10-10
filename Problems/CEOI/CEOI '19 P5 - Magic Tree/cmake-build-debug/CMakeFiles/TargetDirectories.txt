@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CEOI/CEOI '19 P5 - Magic Tree/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CEOI/CEOI '19 P5 - Magic Tree/cmake-build-debug/CMakeFiles/CEOI__19_P5___Magic_Tree.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CEOI/CEOI '19 P5 - Magic Tree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
