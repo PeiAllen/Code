@@ -13,7 +13,7 @@ void pr(T a, Args... args) {cout<<a<<" ",pr(args...);}
 template<typename T>
 void prl(T a){cout<<a<<"\n";}
 template<typename T,typename... Args>
-voidprl(T a, Args... args) {cout<<a<<" ",prl(args...);}
+void prl(T a, Args... args) {cout<<a<<" ",prl(args...);}
 template<typename T>
 int sz(const T &a){return (int)a.size();}
 #define rep(i, begin, end) for (__typeof(end) i = (begin) - ((begin) > (end)); i != (end) - ((begin) > (end)); i += 1 - 2 * ((begin) > (end)))

@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/E__Keyboard_Purchase.dir/main.cpp.obj"
+  "CMakeFiles/E__Keyboard_Purchase.dir/main.cpp.o"
   "E__Keyboard_Purchase.pdb"
-  "E__Keyboard_Purchase.exe"
-  "E__Keyboard_Purchase.exe.manifest"
-  "libE__Keyboard_Purchase.dll.a"
+  "E__Keyboard_Purchase"
 )
 
 # Per-language clean rules from dependency scanning.

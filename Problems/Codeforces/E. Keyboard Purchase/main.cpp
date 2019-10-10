@@ -17,7 +17,8 @@ void prl(T a, Args... args) {cout<<a<<" ",prl(args...);}
 template<typename T>
 int sz(const T &a){return (int)a.size();}
 #define rep(i, begin, end) for (__typeof(end) i = (begin) - ((begin) > (end)); i != (end) - ((begin) > (end)); i += 1 - 2 * ((begin) > (end)))
-
+lli dp[(1<<20)];
+lli am[20][20];
 int main(){
     cin.tie(NULL);
     ios_base::sync_with_stdio(false);
@@ -25,5 +26,12 @@ int main(){
 	sc(n,m);
 	string s;
 	sc(s);
+	rep(i,0,n-1){
+		am[s[i]-'a'][s[i+1]-'a']+=1;
+	}
+	rep(i,0,(1<<m)){
+		int cur=__builtin_popcount(i)-1;
+
+	}
     return 0;
 }
