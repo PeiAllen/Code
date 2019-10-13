@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/allen/Documents/GitHub/Code/Problems/Codeforces/E. Keyboard Purchase/main.cpp" "/Users/allen/Documents/GitHub/Code/Problems/Codeforces/E. Keyboard Purchase/cmake-build-debug/CMakeFiles/E__Keyboard_Purchase.dir/main.cpp.o"
+  "C:/Users/allen/Documents/Code/Problems/Codeforces/E. Keyboard Purchase/main.cpp" "C:/Users/allen/Documents/Code/Problems/Codeforces/E. Keyboard Purchase/cmake-build-debug/CMakeFiles/E__Keyboard_Purchase.dir/main.cpp.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
