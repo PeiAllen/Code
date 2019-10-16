@@ -1,0 +1,20 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /Users/allen/Documents/GitHub/Code/Problems/Other/TSOC '15 Contest 2 #3 - Funny Anagrams/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_ce3a0/fast 
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_ce3a0.dir/build.make CMakeFiles/cmTC_ce3a0.dir/build
+make[1]: *** No rule to make target `/Users/allen/Documents/GitHub/Code/Problems/Other/TSOC '15 Contest 2\', needed by `CMakeFiles/cmTC_ce3a0.dir/feature_tests.c.o'.  Stop.
+make: *** [cmTC_ce3a0/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /Users/allen/Documents/GitHub/Code/Problems/Other/TSOC '15 Contest 2 #3 - Funny Anagrams/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_c0180/fast 
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_c0180.dir/build.make CMakeFiles/cmTC_c0180.dir/build
+make[1]: *** No rule to make target `/Users/allen/Documents/GitHub/Code/Problems/Other/TSOC '15 Contest 2\', needed by `CMakeFiles/cmTC_c0180.dir/feature_tests.cxx.o'.  Stop.
+make: *** [cmTC_c0180/fast] Error 2
+
+
+

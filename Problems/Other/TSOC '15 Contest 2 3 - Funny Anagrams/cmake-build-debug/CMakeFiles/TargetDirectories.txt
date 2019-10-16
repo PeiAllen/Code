@@ -1,0 +1,3 @@
+/Users/allen/Documents/GitHub/Code/Problems/Other/TSOC '15 Contest 2 3 - Funny Anagrams/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/allen/Documents/GitHub/Code/Problems/Other/TSOC '15 Contest 2 3 - Funny Anagrams/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/allen/Documents/GitHub/Code/Problems/Other/TSOC '15 Contest 2 3 - Funny Anagrams/cmake-build-debug/CMakeFiles/TSOC__15_Contest_2_3___Funny_Anagrams.dir
