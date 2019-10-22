@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/WAC/Wesley's Anger Contest 2 Problem 3/cmake-build-debug/CMakeFiles/CMakeTmp
+# Install script for directory: C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/WAC/Wesley's Anger Contest 2 Problem 3
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/CMAKE_TRY_COMPILE")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Wesley_s_Anger_Contest_2_Problem_3")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -12,7 +12,7 @@ if(NOT DEFINED CMAKE_INSTALL_CONFIG_NAME)
     string(REGEX REPLACE "^[^A-Za-z0-9_]+" ""
            CMAKE_INSTALL_CONFIG_NAME "${BUILD_TYPE}")
   else()
-    set(CMAKE_INSTALL_CONFIG_NAME "")
+    set(CMAKE_INSTALL_CONFIG_NAME "Debug")
   endif()
   message(STATUS "Install configuration: \"${CMAKE_INSTALL_CONFIG_NAME}\"")
 endif()
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/WAC/Wesley's Anger Contest 2 Problem 3/cmake-build-debug/CMakeFiles/CMakeTmp/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/WAC/Wesley's Anger Contest 2 Problem 3/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

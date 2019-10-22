@@ -23,9 +23,6 @@ SUFFIXES =
 .SUFFIXES: .hpux_make_needs_suffix_list
 
 
-# Produce verbose output by default.
-VERBOSE = 1
-
 # Suppress display of executed commands.
 $(VERBOSE).SILENT:
 
@@ -50,17 +47,17 @@ RM = "C:\Program Files\JetBrains\CLion 2019.1.2\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\WAC\Wesley's Anger Contest 2 Problem 3\cmake-build-debug\CMakeFiles\CMakeTmp"
+CMAKE_SOURCE_DIR = "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\WAC\Wesley's Anger Contest 2 Problem 3"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\WAC\Wesley's Anger Contest 2 Problem 3\cmake-build-debug\CMakeFiles\CMakeTmp"
+CMAKE_BINARY_DIR = "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\WAC\Wesley's Anger Contest 2 Problem 3\cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
 
 # Special rule for the target edit_cache
 edit_cache:
-	@echo No interactive CMake dialog available...
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
 	"C:\Program Files\JetBrains\CLion 2019.1.2\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
 .PHONY : edit_cache
 
@@ -71,7 +68,7 @@ edit_cache/fast: edit_cache
 
 # Special rule for the target rebuild_cache
 rebuild_cache:
-	@echo Running CMake to regenerate build system...
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
 	"C:\Program Files\JetBrains\CLion 2019.1.2\bin\cmake\win\bin\cmake.exe" -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
@@ -81,10 +78,10 @@ rebuild_cache/fast: rebuild_cache
 .PHONY : rebuild_cache/fast
 
 # The main all target
-all:
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\WAC\Wesley's Anger Contest 2 Problem 3\cmake-build-debug\CMakeFiles\CMakeTmp\CMakeFiles" "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\WAC\Wesley's Anger Contest 2 Problem 3\cmake-build-debug\CMakeFiles\CMakeTmp\CMakeFiles\progress.marks"
+all: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\WAC\Wesley's Anger Contest 2 Problem 3\cmake-build-debug\CMakeFiles" "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\WAC\Wesley's Anger Contest 2 Problem 3\cmake-build-debug\CMakeFiles\progress.marks"
 	$(MAKE) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\WAC\Wesley's Anger Contest 2 Problem 3\cmake-build-debug\CMakeFiles\CMakeTmp\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\WAC\Wesley's Anger Contest 2 Problem 3\cmake-build-debug\CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -107,61 +104,74 @@ preinstall/fast:
 	$(MAKE) -f CMakeFiles\Makefile2 preinstall
 .PHONY : preinstall/fast
 
+# clear depends
+depend:
+	$(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
+.PHONY : depend
+
 #=============================================================================
-# Target rules for targets named cmTC_c20bd
+# Target rules for targets named Wesley_s_Anger_Contest_2_Problem_3
 
 # Build rule for target.
-cmTC_c20bd:
-	$(MAKE) -f CMakeFiles\Makefile2 cmTC_c20bd
-.PHONY : cmTC_c20bd
+Wesley_s_Anger_Contest_2_Problem_3: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Wesley_s_Anger_Contest_2_Problem_3
+.PHONY : Wesley_s_Anger_Contest_2_Problem_3
 
 # fast build rule for target.
-cmTC_c20bd/fast:
-	$(MAKE) -f CMakeFiles\cmTC_c20bd.dir\build.make CMakeFiles/cmTC_c20bd.dir/build
-.PHONY : cmTC_c20bd/fast
+Wesley_s_Anger_Contest_2_Problem_3/fast:
+	$(MAKE) -f CMakeFiles\Wesley_s_Anger_Contest_2_Problem_3.dir\build.make CMakeFiles/Wesley_s_Anger_Contest_2_Problem_3.dir/build
+.PHONY : Wesley_s_Anger_Contest_2_Problem_3/fast
 
-feature_tests.obj: feature_tests.cxx.obj
+main.obj: main.cpp.obj
 
-.PHONY : feature_tests.obj
+.PHONY : main.obj
 
 # target to build an object file
-feature_tests.cxx.obj:
-	$(MAKE) -f CMakeFiles\cmTC_c20bd.dir\build.make CMakeFiles/cmTC_c20bd.dir/feature_tests.cxx.obj
-.PHONY : feature_tests.cxx.obj
+main.cpp.obj:
+	$(MAKE) -f CMakeFiles\Wesley_s_Anger_Contest_2_Problem_3.dir\build.make CMakeFiles/Wesley_s_Anger_Contest_2_Problem_3.dir/main.cpp.obj
+.PHONY : main.cpp.obj
 
-feature_tests.i: feature_tests.cxx.i
+main.i: main.cpp.i
 
-.PHONY : feature_tests.i
+.PHONY : main.i
 
 # target to preprocess a source file
-feature_tests.cxx.i:
-	$(MAKE) -f CMakeFiles\cmTC_c20bd.dir\build.make CMakeFiles/cmTC_c20bd.dir/feature_tests.cxx.i
-.PHONY : feature_tests.cxx.i
+main.cpp.i:
+	$(MAKE) -f CMakeFiles\Wesley_s_Anger_Contest_2_Problem_3.dir\build.make CMakeFiles/Wesley_s_Anger_Contest_2_Problem_3.dir/main.cpp.i
+.PHONY : main.cpp.i
 
-feature_tests.s: feature_tests.cxx.s
+main.s: main.cpp.s
 
-.PHONY : feature_tests.s
+.PHONY : main.s
 
 # target to generate assembly for a file
-feature_tests.cxx.s:
-	$(MAKE) -f CMakeFiles\cmTC_c20bd.dir\build.make CMakeFiles/cmTC_c20bd.dir/feature_tests.cxx.s
-.PHONY : feature_tests.cxx.s
+main.cpp.s:
+	$(MAKE) -f CMakeFiles\Wesley_s_Anger_Contest_2_Problem_3.dir\build.make CMakeFiles/Wesley_s_Anger_Contest_2_Problem_3.dir/main.cpp.s
+.PHONY : main.cpp.s
 
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
 	@echo ... all (the default if no target is provided)
 	@echo ... clean
-	@echo ... cmTC_c20bd
+	@echo ... depend
+	@echo ... Wesley_s_Anger_Contest_2_Problem_3
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... feature_tests.obj
-	@echo ... feature_tests.i
-	@echo ... feature_tests.s
+	@echo ... main.obj
+	@echo ... main.i
+	@echo ... main.s
 .PHONY : help
 
 
 
 #=============================================================================
 # Special targets to cleanup operation of make.
+
+# Special rule to run CMake to check the build system integrity.
+# No rule that depends on this can have commands that come from listfiles
+# because they might be regenerated.
+cmake_check_build_system:
+	$(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 0
+.PHONY : cmake_check_build_system
 
