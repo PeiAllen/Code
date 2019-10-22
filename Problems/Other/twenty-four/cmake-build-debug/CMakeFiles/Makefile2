@@ -59,10 +59,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/allen/CLionProjects/twenty-four
+CMAKE_SOURCE_DIR = /Users/allen/Documents/GitHub/Code/Problems/Other/twenty-four
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/allen/CLionProjects/twenty-four/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/allen/Documents/GitHub/Code/Problems/Other/twenty-four/cmake-build-debug
 
 #=============================================================================
 # Target rules for target CMakeFiles/twenty_four.dir
@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = /Users/allen/CLionProjects/twenty-four/cmake-build-debug
 CMakeFiles/twenty_four.dir/all:
 	$(MAKE) -f CMakeFiles/twenty_four.dir/build.make CMakeFiles/twenty_four.dir/depend
 	$(MAKE) -f CMakeFiles/twenty_four.dir/build.make CMakeFiles/twenty_four.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/allen/CLionProjects/twenty-four/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target twenty_four"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/allen/Documents/GitHub/Code/Problems/Other/twenty-four/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target twenty_four"
 .PHONY : CMakeFiles/twenty_four.dir/all
 
 # Include target in all.
@@ -81,9 +81,9 @@ all: CMakeFiles/twenty_four.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/twenty_four.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/allen/CLionProjects/twenty-four/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/allen/Documents/GitHub/Code/Problems/Other/twenty-four/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/twenty_four.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/allen/CLionProjects/twenty-four/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/allen/Documents/GitHub/Code/Problems/Other/twenty-four/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/twenty_four.dir/rule
 
 # Convenience name for target.

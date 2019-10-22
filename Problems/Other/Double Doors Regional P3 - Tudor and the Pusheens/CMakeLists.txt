@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(Double_Doors_Regional_P3___Tudor_and_the_Pusheens)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Double_Doors_Regional_P3___Tudor_and_the_Pusheens main.cpp)

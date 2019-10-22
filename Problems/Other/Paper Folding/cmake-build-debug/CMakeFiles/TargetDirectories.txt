@@ -1,0 +1,3 @@
+/Users/allen/Documents/GitHub/Code/Problems/Other/Paper Folding/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/allen/Documents/GitHub/Code/Problems/Other/Paper Folding/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/allen/Documents/GitHub/Code/Problems/Other/Paper Folding/cmake-build-debug/CMakeFiles/Paper_Folding.dir

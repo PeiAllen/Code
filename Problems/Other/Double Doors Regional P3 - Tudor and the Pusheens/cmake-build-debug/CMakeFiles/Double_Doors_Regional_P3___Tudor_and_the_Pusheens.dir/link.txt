@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Double_Doors_Regional_P3___Tudor_and_the_Pusheens.dir/main.cpp.o  -o Double_Doors_Regional_P3___Tudor_and_the_Pusheens 
