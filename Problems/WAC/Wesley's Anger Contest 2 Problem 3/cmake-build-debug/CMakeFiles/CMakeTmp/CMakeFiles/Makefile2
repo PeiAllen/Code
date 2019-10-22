@@ -67,39 +67,39 @@ CMAKE_SOURCE_DIR = "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\WAC\W
 CMAKE_BINARY_DIR = "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\WAC\Wesley's Anger Contest 2 Problem 3\cmake-build-debug\CMakeFiles\CMakeTmp"
 
 #=============================================================================
-# Target rules for target CMakeFiles/cmTC_b793b.dir
+# Target rules for target CMakeFiles/cmTC_c20bd.dir
 
 # All Build rule for target.
-CMakeFiles/cmTC_b793b.dir/all:
-	$(MAKE) -f CMakeFiles\cmTC_b793b.dir\build.make CMakeFiles/cmTC_b793b.dir/depend
-	$(MAKE) -f CMakeFiles\cmTC_b793b.dir\build.make CMakeFiles/cmTC_b793b.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\WAC\Wesley's Anger Contest 2 Problem 3\cmake-build-debug\CMakeFiles\CMakeTmp\CMakeFiles" --progress-num=1,2 "Built target cmTC_b793b"
-.PHONY : CMakeFiles/cmTC_b793b.dir/all
+CMakeFiles/cmTC_c20bd.dir/all:
+	$(MAKE) -f CMakeFiles\cmTC_c20bd.dir\build.make CMakeFiles/cmTC_c20bd.dir/depend
+	$(MAKE) -f CMakeFiles\cmTC_c20bd.dir\build.make CMakeFiles/cmTC_c20bd.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\WAC\Wesley's Anger Contest 2 Problem 3\cmake-build-debug\CMakeFiles\CMakeTmp\CMakeFiles" --progress-num=1,2 "Built target cmTC_c20bd"
+.PHONY : CMakeFiles/cmTC_c20bd.dir/all
 
 # Include target in all.
-all: CMakeFiles/cmTC_b793b.dir/all
+all: CMakeFiles/cmTC_c20bd.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/cmTC_b793b.dir/rule:
+CMakeFiles/cmTC_c20bd.dir/rule:
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\WAC\Wesley's Anger Contest 2 Problem 3\cmake-build-debug\CMakeFiles\CMakeTmp\CMakeFiles" 2
-	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/cmTC_b793b.dir/all
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/cmTC_c20bd.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\WAC\Wesley's Anger Contest 2 Problem 3\cmake-build-debug\CMakeFiles\CMakeTmp\CMakeFiles" 0
-.PHONY : CMakeFiles/cmTC_b793b.dir/rule
+.PHONY : CMakeFiles/cmTC_c20bd.dir/rule
 
 # Convenience name for target.
-cmTC_b793b: CMakeFiles/cmTC_b793b.dir/rule
+cmTC_c20bd: CMakeFiles/cmTC_c20bd.dir/rule
 
-.PHONY : cmTC_b793b
-
-# clean rule for target.
-CMakeFiles/cmTC_b793b.dir/clean:
-	$(MAKE) -f CMakeFiles\cmTC_b793b.dir\build.make CMakeFiles/cmTC_b793b.dir/clean
-.PHONY : CMakeFiles/cmTC_b793b.dir/clean
+.PHONY : cmTC_c20bd
 
 # clean rule for target.
-clean: CMakeFiles/cmTC_b793b.dir/clean
+CMakeFiles/cmTC_c20bd.dir/clean:
+	$(MAKE) -f CMakeFiles\cmTC_c20bd.dir\build.make CMakeFiles/cmTC_c20bd.dir/clean
+.PHONY : CMakeFiles/cmTC_c20bd.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/cmTC_c20bd.dir/clean
 
 .PHONY : clean
 

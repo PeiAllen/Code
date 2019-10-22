@@ -108,52 +108,52 @@ preinstall/fast:
 .PHONY : preinstall/fast
 
 #=============================================================================
-# Target rules for targets named cmTC_b793b
+# Target rules for targets named cmTC_c20bd
 
 # Build rule for target.
-cmTC_b793b:
-	$(MAKE) -f CMakeFiles\Makefile2 cmTC_b793b
-.PHONY : cmTC_b793b
+cmTC_c20bd:
+	$(MAKE) -f CMakeFiles\Makefile2 cmTC_c20bd
+.PHONY : cmTC_c20bd
 
 # fast build rule for target.
-cmTC_b793b/fast:
-	$(MAKE) -f CMakeFiles\cmTC_b793b.dir\build.make CMakeFiles/cmTC_b793b.dir/build
-.PHONY : cmTC_b793b/fast
+cmTC_c20bd/fast:
+	$(MAKE) -f CMakeFiles\cmTC_c20bd.dir\build.make CMakeFiles/cmTC_c20bd.dir/build
+.PHONY : cmTC_c20bd/fast
 
-feature_tests.obj: feature_tests.c.obj
+feature_tests.obj: feature_tests.cxx.obj
 
 .PHONY : feature_tests.obj
 
 # target to build an object file
-feature_tests.c.obj:
-	$(MAKE) -f CMakeFiles\cmTC_b793b.dir\build.make CMakeFiles/cmTC_b793b.dir/feature_tests.c.obj
-.PHONY : feature_tests.c.obj
+feature_tests.cxx.obj:
+	$(MAKE) -f CMakeFiles\cmTC_c20bd.dir\build.make CMakeFiles/cmTC_c20bd.dir/feature_tests.cxx.obj
+.PHONY : feature_tests.cxx.obj
 
-feature_tests.i: feature_tests.c.i
+feature_tests.i: feature_tests.cxx.i
 
 .PHONY : feature_tests.i
 
 # target to preprocess a source file
-feature_tests.c.i:
-	$(MAKE) -f CMakeFiles\cmTC_b793b.dir\build.make CMakeFiles/cmTC_b793b.dir/feature_tests.c.i
-.PHONY : feature_tests.c.i
+feature_tests.cxx.i:
+	$(MAKE) -f CMakeFiles\cmTC_c20bd.dir\build.make CMakeFiles/cmTC_c20bd.dir/feature_tests.cxx.i
+.PHONY : feature_tests.cxx.i
 
-feature_tests.s: feature_tests.c.s
+feature_tests.s: feature_tests.cxx.s
 
 .PHONY : feature_tests.s
 
 # target to generate assembly for a file
-feature_tests.c.s:
-	$(MAKE) -f CMakeFiles\cmTC_b793b.dir\build.make CMakeFiles/cmTC_b793b.dir/feature_tests.c.s
-.PHONY : feature_tests.c.s
+feature_tests.cxx.s:
+	$(MAKE) -f CMakeFiles\cmTC_c20bd.dir\build.make CMakeFiles/cmTC_c20bd.dir/feature_tests.cxx.s
+.PHONY : feature_tests.cxx.s
 
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
 	@echo ... all (the default if no target is provided)
 	@echo ... clean
+	@echo ... cmTC_c20bd
 	@echo ... edit_cache
-	@echo ... cmTC_b793b
 	@echo ... rebuild_cache
 	@echo ... feature_tests.obj
 	@echo ... feature_tests.i
