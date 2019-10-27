@@ -18,9 +18,9 @@ template<typename T>
 int sz(const T &a){return (int)a.size();}
 #define rep(i, begin, end) for (__typeof(end) i = (begin) - ((begin) > (end)); i != (end) - ((begin) > (end)); i += 1 - 2 * ((begin) > (end)))
 const int MAXN=501;
-const int MAXO=5001;
+const int MAXO=3001;
 lli dp[MAXN][MAXO];
-pair<lli,int> dp2[MAXN][MAXO];
+lli dp2[MAXO];
 int fuel[MAXN];
 pll cash[MAXN];
 vector<int> matrix[MAXO];
@@ -40,9 +40,24 @@ void dfs(int loc, int parent){
 int main(){
     cin.tie(NULL);
     ios_base::sync_with_stdio(false);
+	std::clock_t start;
+	double duration;
+	start = std::clock();
+    freopen("/Users/allen/Downloads/data 2/1.6.in","r",stdin);
 	int n,q,f,k;
 	sc(n,q,f,k);
-	rep(i,1,n+1)sc(fuel[i],cash[i].first,cash[i].second);
+	vector<int> amounts;
+	int am=k-1;
+	int inc=1;
+	while(am>=inc){
+		amounts.push_back(inc);
+		am-=inc;
+		inc*=2;
+	}
+	if(am)amounts.push_back(am);
+	rep(i,1,n+1){
+		sc(fuel[i],cash[i].first,cash[i].second);
+	}
 	int in;
 	rep(i,1,q+1){
 		sc(in,change[i].first,change[i].second.first,change[i].second.second);
@@ -50,10 +65,13 @@ int main(){
 	}
 	for(int x:matrix[0])dfs(x,0);
 	int loc=0;
-	int block=sqrt(2*q);
+	int block=sqrt(5*q);
 	lli ans[q+1];
-	while(loc<=2*q){
-		int end=min(loc+block,2*q+1);
+	int fuelam;
+	lli casham;
+	int endq=2*q;
+	while(loc<=endq){
+		int end=min(loc+block,endq+1);
 		set<int> routes;
 		set<int> todote;
 		rep(i,1,n+1)routes.insert(i);
@@ -63,21 +81,36 @@ int main(){
 		}
 		int i=1;
 		for(int x:routes){
-			rep(j,1,f+1){
-				dp2[i][j]=max(dp2[i][j-1],max({dp[i-1][j],0},j>=fuel[x]?max({dp[i-1][j-fuel[x]]+cash[x].second,1},(dp2[i][j-fuel[x]].second==k-1?make_pair(cash[x].second*(k-1)+dp[i-1][j-fuel[x]*(k-1)],(k-1)):make_pair(dp2[i][j-fuel[x]].first+cash[x].second,dp2[i][j-fuel[x]].second+1))):make_pair((lli)0,0)));
-				dp[i][j]=max(dp[i][j-1],max(dp[i-1][j],j>=fuel[x]?dp2[i][j-fuel[x]].first+cash[x].first:0));
+			rep(l, 1, f + 1)dp2[l] = dp[i - 1][l];
+			rep(j, 0, sz(amounts)) {
+				for(int l=f;l>=1;l--){
+					fuelam=fuel[x] * amounts[j];
+					casham=cash[x].second * amounts[j];
+					dp2[l] =  max(dp2[l], l - fuelam >= 0 ? dp2[l - fuelam] + casham : 0);
+				}
+			}
+			rep(l, 1, f + 1) {
+				dp[i][l] = max(dp[i][l - 1], max(dp[i - 1][l], l >= fuel[x] ? dp2[l - fuel[x]] + cash[x].first : 0));
 			}
 			i++;
 		}
 		vector<int> todo;
 		for(int x:todote)todo.push_back(x);
+		int te=i;
 		rep(cur,loc,end){
 			cash[eulertour[cur].second.first]=eulertour[cur].second.second;
-			i=sz(routes)+1;
+			i=te;
 			for(int x:todo){
-				rep(j,1,f+1){
-					dp2[i][j]=max(dp2[i][j-1],max({dp[i-1][j],0},j>=fuel[x]?max({dp[i-1][j-fuel[x]]+cash[x].second,1},(dp2[i][j-fuel[x]].second==k-1?make_pair(cash[x].second*(k-1)+dp[i-1][j-fuel[x]*(k-1)],(k-1)):make_pair(dp2[i][j-fuel[x]].first+cash[x].second,dp2[i][j-fuel[x]].second+1))):make_pair((lli)0,0)));
-					dp[i][j]=max(dp[i][j-1],max(dp[i-1][j],j>=fuel[x]?dp2[i][j-fuel[x]].first+cash[x].first:0));
+				rep(l, 1, f + 1)dp2[l] = dp[i - 1][l];
+				rep(j, 0, sz(amounts)) {
+					fuelam=fuel[x] * amounts[j];
+					casham=cash[x].second * amounts[j];
+					for(int l=f;l>=1;l--){
+						dp2[l] =  max(dp2[l], l - fuelam >= 0 ? dp2[l - fuelam] + casham : 0);
+					}
+				}
+				rep(l, 1, f + 1) {
+					dp[i][l] = max(dp[i][l - 1], max(dp[i - 1][l], l >= fuel[x] ? dp2[l - fuel[x]] + cash[x].first : 0));
 				}
 				i++;
 			}
@@ -86,5 +119,7 @@ int main(){
 		loc=end;
 	}
 	rep(i,1,q+1)prl(ans[i]);
+	duration = ( std::clock() - start ) / (double) CLOCKS_PER_SEC;
+	prl(duration);
     return 0;
 }
