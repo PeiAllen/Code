@@ -1,3 +1,6 @@
+#pragma GCC optimize "Ofast"
+#pragma GCC optimize "unroll-loops"
+#pragma GCC target "sse,sse2,sse3,sse4,abm,avx,mmx,popcnt,tune=native"
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long int lli;
@@ -40,10 +43,6 @@ void dfs(int loc, int parent){
 int main(){
     cin.tie(NULL);
     ios_base::sync_with_stdio(false);
-	std::clock_t start;
-	double duration;
-	start = std::clock();
-    freopen("/Users/allen/Downloads/data 2/1.6.in","r",stdin);
 	int n,q,f,k;
 	sc(n,q,f,k);
 	vector<int> amounts;
@@ -65,37 +64,36 @@ int main(){
 	}
 	for(int x:matrix[0])dfs(x,0);
 	int loc=0;
-	int block=sqrt(5*q);
+	int block=max(1,(int)sqrt(0.25*q));
 	lli ans[q+1];
 	int fuelam;
 	lli casham;
 	int endq=2*q;
+	int end;
 	while(loc<=endq){
-		int end=min(loc+block,endq+1);
+		end=min(loc+block,endq+1);
 		set<int> routes;
-		set<int> todote;
+		vector<int> todo;
 		rep(i,1,n+1)routes.insert(i);
 		rep(i,loc,end){
+			if(routes.count(eulertour[i].second.first))todo.push_back(eulertour[i].second.first);
 			routes.erase(eulertour[i].second.first);
-			todote.insert(eulertour[i].second.first);
 		}
 		int i=1;
 		for(int x:routes){
 			rep(l, 1, f + 1)dp2[l] = dp[i - 1][l];
 			rep(j, 0, sz(amounts)) {
+				fuelam=fuel[x] * amounts[j];
+				casham=cash[x].second * amounts[j];
 				for(int l=f;l>=1;l--){
-					fuelam=fuel[x] * amounts[j];
-					casham=cash[x].second * amounts[j];
 					dp2[l] =  max(dp2[l], l - fuelam >= 0 ? dp2[l - fuelam] + casham : 0);
 				}
 			}
 			rep(l, 1, f + 1) {
-				dp[i][l] = max(dp[i][l - 1], max(dp[i - 1][l], l >= fuel[x] ? dp2[l - fuel[x]] + cash[x].first : 0));
+				dp[i][l] =  max(dp[i - 1][l], l >= fuel[x] ? dp2[l - fuel[x]] + cash[x].first : 0);
 			}
 			i++;
 		}
-		vector<int> todo;
-		for(int x:todote)todo.push_back(x);
 		int te=i;
 		rep(cur,loc,end){
 			cash[eulertour[cur].second.first]=eulertour[cur].second.second;
@@ -110,7 +108,7 @@ int main(){
 					}
 				}
 				rep(l, 1, f + 1) {
-					dp[i][l] = max(dp[i][l - 1], max(dp[i - 1][l], l >= fuel[x] ? dp2[l - fuel[x]] + cash[x].first : 0));
+					dp[i][l] = max(dp[i - 1][l], l >= fuel[x] ? dp2[l - fuel[x]] + cash[x].first : 0);
 				}
 				i++;
 			}
@@ -119,7 +117,5 @@ int main(){
 		loc=end;
 	}
 	rep(i,1,q+1)prl(ans[i]);
-	duration = ( std::clock() - start ) / (double) CLOCKS_PER_SEC;
-	prl(duration);
-    return 0;
+	return 0;
 }
