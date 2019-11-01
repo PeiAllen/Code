@@ -18,9 +18,12 @@ template<typename T>
 int sz(const T &a){return (int)a.size();}
 #define rep(i, begin, end) for (__typeof(end) i = (begin) - ((begin) > (end)); i != (end) - ((begin) > (end)); i += 1 - 2 * ((begin) > (end)))
 lli mod=998244353;
-inline lli fix(lli a){
-	if(a<0)a+=mod;
-	if(a>=mod)a-=mod;
+inline lli fixa(lli a){
+	if(a>=mod)return a-mod;
+	return a;
+}
+inline lli fixs(lli a){
+	if(a<0)return a+mod;
 	return a;
 }
 inline lli fastpow(lli a,lli b){
@@ -45,8 +48,8 @@ void fhwt(int ind, bool inver){
 			for(int j=0;j<len;j++){
 				lli a=dp[ind][i+j];
 				lli b=dp[ind][i+j+len];
-				dp[ind][i+j]=fix(a+b);
-				dp[ind][i+j+len]=fix(a-b);
+				dp[ind][i+j]=fixa(a+b);
+				dp[ind][i+j+len]=fixs(a-b);
 			}
 		}
 	}
@@ -125,21 +128,21 @@ int main(){
 					if (i & (1 << (k + j * 4)))tot += scare[k];
 				}
 			}
-			anste[tot] =fix(anste[tot]+dp[0][i]);
+			anste[tot] =fixa(anste[tot]+dp[0][i]);
 		}
 	}
 	vector<pll> ans;
 	ans.push_back({-1,0});
 	for(auto x:anste){
 		ans.push_back(x);
-		ans.back().second=fix(ans.back().second+ans[sz(ans)-2].second);
+		ans.back().second=fixa(ans.back().second+ans[sz(ans)-2].second);
 	}
 	lli a,b;
 	while(q--){
 		sc(a,b);
 		int rloc=upper_bound(ans.begin(),ans.end(),make_pair(b,LLONG_MAX))-ans.begin();
 		int lloc=lower_bound(ans.begin(),ans.end(),make_pair(a,(lli)0))-ans.begin();
-		prl(fix(ans[rloc-1].second-ans[lloc-1].second));
+		prl(fixs(ans[rloc-1].second-ans[lloc-1].second));
 	}
 	return 0;
 }

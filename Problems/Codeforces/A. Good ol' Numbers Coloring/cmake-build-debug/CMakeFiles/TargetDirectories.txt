@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/A. Good ol' Numbers Coloring/cmake-build-debug/CMakeFiles/A__Good_ol__Numbers_Coloring.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/A. Good ol' Numbers Coloring/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/A. Good ol' Numbers Coloring/cmake-build-debug/CMakeFiles/rebuild_cache.dir
