@@ -5,7 +5,7 @@ typedef pair<int,int> pii;
 typedef pair<lli,lli> pll;
 const int MAXN=1e5+1;
 const int MAXB=30;
-int bit[MAXB][MAXN];
+int bit[MAXB+1][MAXN];
 int arr[MAXN];
 int n,q;
 void update(int b, int loc, int am){
