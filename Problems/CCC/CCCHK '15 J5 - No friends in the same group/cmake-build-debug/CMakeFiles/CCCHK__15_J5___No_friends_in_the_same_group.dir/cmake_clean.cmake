@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CCCHK__15_J5___No_friends_in_the_same_group.dir/main.cpp.obj"
+  "CMakeFiles/CCCHK__15_J5___No_friends_in_the_same_group.dir/main.cpp.o"
   "CCCHK__15_J5___No_friends_in_the_same_group.pdb"
-  "CCCHK__15_J5___No_friends_in_the_same_group.exe"
-  "CCCHK__15_J5___No_friends_in_the_same_group.exe.manifest"
-  "libCCCHK__15_J5___No_friends_in_the_same_group.dll.a"
+  "CCCHK__15_J5___No_friends_in_the_same_group"
 )
 
 # Per-language clean rules from dependency scanning.
