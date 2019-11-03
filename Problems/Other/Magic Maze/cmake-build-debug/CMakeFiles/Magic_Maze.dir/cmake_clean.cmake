@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Magic_Maze.dir/main.cpp.o"
+  "CMakeFiles/Magic_Maze.dir/main.cpp.obj"
   "Magic_Maze.pdb"
-  "Magic_Maze"
+  "Magic_Maze.exe"
+  "Magic_Maze.exe.manifest"
+  "libMagic_Maze.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
