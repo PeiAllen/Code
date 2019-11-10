@@ -61,7 +61,7 @@ int main(){
 	lli lo=0;
 	lli hi=1e12;
 	while(lo!=hi){
-		
+
 	}
     return 0;
 }
