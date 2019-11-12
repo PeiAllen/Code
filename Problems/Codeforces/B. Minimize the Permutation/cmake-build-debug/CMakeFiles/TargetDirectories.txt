@@ -1,0 +1,3 @@
+/Users/allen/Documents/GitHub/Code/Problems/Codeforces/B. Minimize the Permutation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/allen/Documents/GitHub/Code/Problems/Codeforces/B. Minimize the Permutation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/allen/Documents/GitHub/Code/Problems/Codeforces/B. Minimize the Permutation/cmake-build-debug/CMakeFiles/B__Minimize_the_Permutation.dir
