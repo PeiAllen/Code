@@ -239,10 +239,10 @@ CMAKE_STRIP:FILEPATH=C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
 //Value Computed by CMake
-E__Keyboard_Purchase_BINARY_DIR:STATIC=C:/Users/allen/Documents/Code/Problems/Codeforces/E. Keyboard Purchase/cmake-build-debug
+E__Keyboard_Purchase_BINARY_DIR:STATIC=C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/E. Keyboard Purchase/cmake-build-debug/
 
 //Value Computed by CMake
-E__Keyboard_Purchase_SOURCE_DIR:STATIC=C:/Users/allen/Documents/Code/Problems/Codeforces/E. Keyboard Purchase
+E__Keyboard_Purchase_SOURCE_DIR:STATIC=C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/E. Keyboard Purchase
 
 
 ########################
@@ -252,7 +252,7 @@ E__Keyboard_Purchase_SOURCE_DIR:STATIC=C:/Users/allen/Documents/Code/Problems/Co
 //ADVANCED property for variable: CMAKE_AR
 CMAKE_AR-ADVANCED:INTERNAL=1
 //This is the directory where this CMakeCache.txt was created
-CMAKE_CACHEFILE_DIR:INTERNAL=c:/Users/allen/Documents/Code/Problems/Codeforces/E. Keyboard Purchase/cmake-build-debug
+CMAKE_CACHEFILE_DIR:INTERNAL=C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/E. Keyboard Purchase/cmake-build-debug/
 //Major version of cmake used to create the current loaded cache
 CMAKE_CACHE_MAJOR_VERSION:INTERNAL=3
 //Minor version of cmake used to create the current loaded cache
@@ -335,7 +335,7 @@ CMAKE_GENERATOR_PLATFORM:INTERNAL=
 CMAKE_GENERATOR_TOOLSET:INTERNAL=
 //Source directory with the top level CMakeLists.txt file for this
 // project
-CMAKE_HOME_DIRECTORY:INTERNAL=C:/Users/allen/Documents/Code/Problems/Codeforces/E. Keyboard Purchase
+CMAKE_HOME_DIRECTORY:INTERNAL=C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/E. Keyboard Purchase
 //ADVANCED property for variable: CMAKE_LINKER
 CMAKE_LINKER-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_MAKE_PROGRAM

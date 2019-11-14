@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/COCI/COCI '07 Contest 5 #5 Barica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/COCI/COCI '07 Contest 5 #5 Barica/cmake-build-debug/CMakeFiles/COCI__07_Contest_5__5_Barica.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/COCI/COCI '07 Contest 5 #5 Barica/cmake-build-debug/CMakeFiles/edit_cache.dir

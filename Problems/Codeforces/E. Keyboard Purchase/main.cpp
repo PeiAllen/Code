@@ -17,52 +17,39 @@ void prl(T a, Args... args) {cout<<a<<" ",prl(args...);}
 template<typename T>
 int sz(const T &a){return (int)a.size();}
 #define rep(i, begin, end) for (__typeof(end) i = (begin) - ((begin) > (end)); i != (end) - ((begin) > (end)); i += 1 - 2 * ((begin) > (end)))
-pair<lli,vector<int>> dp[(1<<20)];
-lli am[21][21];
-lli mut[21][21][24];
+int am[20][20];
+int dp[(1<<20)];
 int main(){
     cin.tie(NULL);
     ios_base::sync_with_stdio(false);
-	int n,m;
-	sc(n,m);
-	string s;
-	sc(s);
-	rep(i,0,n-1){
-		am[s[i]-'a'][s[i+1]-'a']+=1;
-		am[s[i+1]-'a'][s[i]-'a']+=1;
-	}
-	rep(i,0,m)rep(j,0,m)rep(k,0,24){
-		mut[i][j][k]=am[i][j]*k;
-	}
-	dp[0]={0,{}};
-	vector<int> te2;
-	rep(i,1,(1<<m)){
-		dp[i]={LLONG_MAX,{}};
-		te2.resize(__builtin_popcount(i));
-		rep(j,0,m){
-			if(i&(1<<j)){
-				int oth=i^(1<<j);
-				lli te=dp[oth].first;
-				te2[0]=j;
-				rep(k,0,sz(dp[oth].second)){
-					te+=mut[j][dp[oth].second[k]][k+1];
-					te2[k+1]=dp[oth].second[k];
-				}
-				if(te<dp[i].first){
-					dp[i]={te,te2};
-				}
-				te=dp[oth].first;
-				te2[sz(te2)-1]=j;
-				rep(k,sz(dp[oth].second),0){
-					te+=mut[j][dp[oth].second[k]][sz(dp[oth].second)-k];
-					te2[sz(dp[oth].second)-k-1]=dp[oth].second[k];
-				}
-				if(te<dp[i].first){
-					dp[i]={te,te2};
-				}
-			}
-		}
-	}
-	prl(dp[(1<<m)-1].first);
+    int n,m;
+    sc(n,m);
+    string a;
+    sc(a);
+    rep(i,0,sz(a)-1){
+    	am[a[i]-'a'][a[i+1]-'a']+=1;
+	    am[a[i+1]-'a'][a[i]-'a']+=1;
+    }
+    rep(i,1,(1<<m)){
+    	dp[i]=INT_MAX;//like prefix sum array total contribution that all predertimned characters have, and their subtraction contribution to future characters
+    	//runs true dp, cause for every put character it gets that characters total contribution to everything, no matter where future characters go
+    	rep(cur,0,m){//end character
+    		if(i&(1<<cur)) {
+			    int contri=0;//contribution that the character has(if one movement)
+			    rep(j, 0, m) {
+				    if(cur!=j){
+				    	if(i&(1<<j)){//old character add prefixsum, get total end cost
+				    		contri+=am[cur][j];
+				    	}
+				    	else{//new character will be placed evantually, get the contribution of cur character to the new one based off of prefix sum
+				    		contri-=am[cur][j];
+				    	}
+				    }
+			    }
+			    dp[i]=min(dp[i],dp[i^(1<<cur)]+contri*__builtin_popcount(i));//prefix sum array, cur dist, left index
+		    }
+    	}
+    }
+    prl(dp[(1<<m)-1]);
     return 0;
 }
