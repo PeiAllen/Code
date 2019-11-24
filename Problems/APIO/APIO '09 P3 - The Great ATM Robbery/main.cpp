@@ -19,6 +19,7 @@ inline int sz(const T &a){return (int)a.size();}
 #define rep(i, begin, end) for (__typeof(end) i = (begin) - ((begin) > (end)); i != (end) - ((begin) > (end)); i += 1 - 2 * ((begin) > (end)))
 const int  MAXN=5e5+1;
 int n,m;
+int s,p;
 int matrix[MAXN];
 pii matrix2[MAXN];
 int matrixg[MAXN];
@@ -28,12 +29,12 @@ int low[MAXN];
 int id[MAXN];
 lli am[MAXN];
 lli gam[MAXN];
-lli dist[MAXN];
 int rs=0;
 int st[MAXN];
 bool inst[MAXN];
 int cur=0;
 int icur=1;
+lli dp[MAXN];
 void tarjan(int loc){
 	ind[loc]=cur++;
 	low[loc]=ind[loc];
@@ -56,6 +57,18 @@ void tarjan(int loc){
 		icur++;
 	}
 }
+lli run(int loc){
+	if(dp[loc]!=-1)return dp[loc];
+	int xloc=matrixg[loc];
+	while(xloc!=-1){
+		int x=matrix2g[xloc].first;
+		dp[loc]=max(dp[loc],run(x));
+		xloc=matrix2g[xloc].second;
+	}
+	if(dp[loc]!=-1)dp[loc]+=gam[loc];
+	else if(loc==id[s])dp[loc]=gam[loc];
+	return dp[loc];
+}
 int main(){
     cin.tie(NULL);
     ios_base::sync_with_stdio(false);
@@ -70,8 +83,10 @@ int main(){
 		matrix2[r]={b,matrix[a]};
 		matrix[a]=r++;
 	}
-	for(int i=1;i<=n;i++)sc(am[i]);
-	int s,p;
+	for(int i=1;i<=n;i++) {
+		sc(am[i]);
+		dp[i] = -1;
+	}
 	sc(s,p);
 	tarjan(s);
 	for(int i=1;i<=n;i++){
@@ -80,34 +95,19 @@ int main(){
 		while(xloc!=-1){
 			int x=matrix2[xloc].first;
 			if(id[i]!=id[x]){
-				matrix2g[rg]={id[x],matrixg[id[i]]};
-				matrixg[id[i]]=rg++;
+				matrix2g[rg]={id[i],matrixg[id[x]]};
+				matrixg[id[x]]=rg++;
 			}
 			xloc=matrix2[xloc].second;
 		}
 	}
-	priority_queue<pair<lli,int>> q;
-	dist[id[s]]=gam[id[s]];
-	q.push({gam[id[s]],id[s]});
-	while(sz(q)){
-		auto cur=q.top();
-		q.pop();
-		if(cur.first>=dist[cur.second]){
-			int xloc=matrixg[cur.second];
-			while(xloc!=-1){
-				int x=matrix2g[xloc].first;
-				if(dist[x]<cur.first+gam[x]){
-					dist[x]=cur.first+gam[x];
-					q.push({dist[x],x});
-				}
-				xloc=matrix2g[xloc].second;
-			}
-		}
+	rep(i,1,icur){
+		if(dp[i]==-1)run(i);
 	}
 	lli best=0;
 	while(p--){
 		sc(a);
-		best=max(best,dist[id[a]]);
+		best=max(best,dp[id[a]]);
 	}
 	prl(best);
     return 0;

@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/allen/Documents/GitHub/Code/Problems/APIO/APIO '14 P3 - Beads and Wires/main.cpp
+bits/stdc++.h
+-
+
