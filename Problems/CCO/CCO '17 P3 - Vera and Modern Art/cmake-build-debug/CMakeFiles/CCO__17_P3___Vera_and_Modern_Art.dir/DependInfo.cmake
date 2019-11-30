@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO '17 P3 - Vera and Modern Art/main.cpp" "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO '17 P3 - Vera and Modern Art/cmake-build-debug/CMakeFiles/CCO__17_P3___Vera_and_Modern_Art.dir/main.cpp.obj"
+  "/Users/allen/Documents/GitHub/Code/Problems/CCO/CCO '17 P3 - Vera and Modern Art/main.cpp" "/Users/allen/Documents/GitHub/Code/Problems/CCO/CCO '17 P3 - Vera and Modern Art/cmake-build-debug/CMakeFiles/CCO__17_P3___Vera_and_Modern_Art.dir/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

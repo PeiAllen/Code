@@ -1,11 +1,6 @@
-#include<bits/stdc++.h>
-
-using namespace std;
-typedef long long int lli;
+#include <iostream>
 
 int main() {
-	cin.tie(NULL);
-	ios_base::sync_with_stdio(false);
-
+	std::cout << "Hello, World!" << std::endl;
 	return 0;
 }

@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Walk.dir/main.cpp.obj"
+  "CMakeFiles/Walk.dir/main.cpp.o"
   "Walk.pdb"
-  "Walk.exe"
-  "Walk.exe.manifest"
-  "libWalk.dll.a"
+  "Walk"
 )
 
 # Per-language clean rules from dependency scanning.
