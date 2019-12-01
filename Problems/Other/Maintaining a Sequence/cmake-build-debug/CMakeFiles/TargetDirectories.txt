@@ -1,3 +1,3 @@
-C:/Users/allen/CLionProjects/Maintaining a Sequence/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/allen/CLionProjects/Maintaining a Sequence/cmake-build-debug/CMakeFiles/Maintaining_a_Sequence.dir
-C:/Users/allen/CLionProjects/Maintaining a Sequence/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/allen/Documents/Code/Problems/Other/Maintaining a Sequence/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Code/Problems/Other/Maintaining a Sequence/cmake-build-debug/CMakeFiles/Maintaining_a_Sequence.dir
+C:/Users/allen/Documents/Code/Problems/Other/Maintaining a Sequence/cmake-build-debug/CMakeFiles/rebuild_cache.dir
