@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/GProblem2.Sleepy Cow Sorting/cmake-build-debug/CMakeFiles/GProblem2_Sleepy_Cow_Sorting.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/GProblem2.Sleepy Cow Sorting/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/GProblem2.Sleepy Cow Sorting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
