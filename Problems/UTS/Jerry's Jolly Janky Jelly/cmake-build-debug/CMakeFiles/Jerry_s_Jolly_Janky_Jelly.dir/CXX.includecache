@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/allen/Documents/GitHub/Code/Problems/UTS/Jerry's Jolly Janky Jelly/main.cpp
+bits/stdc++.h
+-
+testlib.h
+/Users/allen/Documents/GitHub/Code/Problems/UTS/Jerry's Jolly Janky Jelly/testlib.h
+
+/Users/allen/Documents/GitHub/Code/Problems/UTS/Jerry's Jolly Janky Jelly/testlib.h
+stdlib.h
+-
+cstdlib
+-
+climits
+-
+algorithm
+-
+cstdio
+-
+cctype
+-
+string
+-
+vector
+-
+map
+-
+set
+-
+cmath
+-
+iostream
+-
+sstream
+-
+fstream
+-
+cstring
+-
+limits
+-
+stdarg.h
+-
+fcntl.h
+-
+windows.h
+-
+unistd.h
+-
+io.h
+-
+unistd.h
+-
+
