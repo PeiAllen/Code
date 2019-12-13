@@ -23,6 +23,6 @@ int main(){
     ios_base::sync_with_stdio(false);
     int n,k,m;
     sc(n,k,m);
-    
+
     return 0;
 }
