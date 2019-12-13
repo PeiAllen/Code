@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CCO__15_P6___Eggscavation.dir/main.cpp.o"
+  "CMakeFiles/CCO__15_P6___Eggscavation.dir/main.cpp.obj"
   "CCO__15_P6___Eggscavation.pdb"
-  "CCO__15_P6___Eggscavation"
+  "CCO__15_P6___Eggscavation.exe"
+  "CCO__15_P6___Eggscavation.exe.manifest"
+  "libCCO__15_P6___Eggscavation.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
