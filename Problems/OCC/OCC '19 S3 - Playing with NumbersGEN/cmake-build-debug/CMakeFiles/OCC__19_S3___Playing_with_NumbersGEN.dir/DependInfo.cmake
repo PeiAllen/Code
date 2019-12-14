@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/OCC/OCC '19 S3 - Playing with NumbersGEN/main.cpp" "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/OCC/OCC '19 S3 - Playing with NumbersGEN/cmake-build-debug/CMakeFiles/OCC__19_S3___Playing_with_NumbersGEN.dir/main.cpp.obj"
+  "/Users/allen/Documents/GitHub/Code/Problems/OCC/OCC '19 S3 - Playing with NumbersGEN/main.cpp" "/Users/allen/Documents/GitHub/Code/Problems/OCC/OCC '19 S3 - Playing with NumbersGEN/cmake-build-debug/CMakeFiles/OCC__19_S3___Playing_with_NumbersGEN.dir/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
