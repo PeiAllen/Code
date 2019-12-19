@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.1.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Expensive_Chair_Stacking.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Expensive_Chair_Stacking.dir/objects.a @CMakeFiles\Expensive_Chair_Stacking.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Expensive_Chair_Stacking.dir/objects.a -Wl,--no-whole-archive  -o Expensive_Chair_Stacking.exe -Wl,--out-implib,libExpensive_Chair_Stacking.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Expensive_Chair_Stacking.dir\linklibs.rsp
