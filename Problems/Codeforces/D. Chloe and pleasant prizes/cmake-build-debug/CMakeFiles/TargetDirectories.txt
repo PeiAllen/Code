@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Code/Problems/Codeforces/D. Chloe and pleasant prizes/cmake-build-debug/CMakeFiles/D__Chloe_and_pleasant_prizes.dir
+C:/Users/allen/Documents/Code/Problems/Codeforces/D. Chloe and pleasant prizes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Code/Problems/Codeforces/D. Chloe and pleasant prizes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
