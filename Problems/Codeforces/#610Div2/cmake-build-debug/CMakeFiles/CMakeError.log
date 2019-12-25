@@ -1,0 +1,24 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: C:/Users/allen/Documents/Code/Problems/Codeforces/#610Div2/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe cmTC_3878c/fast 
+C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f CMakeFiles\cmTC_3878c.dir\build.make CMakeFiles/cmTC_3878c.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/allen/Documents/Code/Problems/Codeforces/#610Div2/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target 'C:/Users/allen/Documents/Code/Problems/Codeforces/', needed by 'CMakeFiles/cmTC_3878c.dir/feature_tests.c.obj'.  Stop.
+mingw32-make.exe[1]: Leaving directory 'C:/Users/allen/Documents/Code/Problems/Codeforces/#610Div2/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:120: cmTC_3878c/fast] Error 2
+
+
+
+Detecting CXX [-std=c++2a] compiler features failed to compile with the following output:
+Change Dir: C:/Users/allen/Documents/Code/Problems/Codeforces/#610Div2/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe cmTC_00bdb/fast 
+C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f CMakeFiles\cmTC_00bdb.dir\build.make CMakeFiles/cmTC_00bdb.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/allen/Documents/Code/Problems/Codeforces/#610Div2/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target 'C:/Users/allen/Documents/Code/Problems/Codeforces/', needed by 'CMakeFiles/cmTC_00bdb.dir/feature_tests.cxx.obj'.  Stop.
+mingw32-make.exe[1]: Leaving directory 'C:/Users/allen/Documents/Code/Problems/Codeforces/#610Div2/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:120: cmTC_00bdb/fast] Error 2
+
+
+

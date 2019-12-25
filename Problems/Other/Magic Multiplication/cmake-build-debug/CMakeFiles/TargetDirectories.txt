@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Code/Problems/Other/Magic Multiplication/cmake-build-debug/CMakeFiles/Magic_Multiplication.dir
+C:/Users/allen/Documents/Code/Problems/Other/Magic Multiplication/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Code/Problems/Other/Magic Multiplication/cmake-build-debug/CMakeFiles/rebuild_cache.dir

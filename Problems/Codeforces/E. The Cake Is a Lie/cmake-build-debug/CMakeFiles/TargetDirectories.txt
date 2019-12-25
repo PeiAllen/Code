@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Code/Problems/Codeforces/E. The Cake Is a Lie/cmake-build-debug/CMakeFiles/E__The_Cake_Is_a_Lie.dir
+C:/Users/allen/Documents/Code/Problems/Codeforces/E. The Cake Is a Lie/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Code/Problems/Codeforces/E. The Cake Is a Lie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
