@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 typedef long long int lli;
 typedef pair<int,int> pii;
@@ -17,10 +17,13 @@ void prl(T a, Args... args) {cout<<a<<" ",prl(args...);}
 template<typename T>
 int sz(const T &a){return (int)a.size();}
 #define rep(i, begin, end) for (__typeof(end) i = (begin) - ((begin) > (end)); i != (end) - ((begin) > (end)); i += 1 - 2 * ((begin) > (end)))
+vector<int> check_validity(int N, vector<int> X, vector<int> Y, vector<int> S, vector<int> E, vector<int> L, vector<int> R){
+
+}
 
 int main(){
     cin.tie(NULL);
     ios_base::sync_with_stdio(false);
-    
+
     return 0;
 }

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(Wesley_s_Anger_Contest_1_Problem_4_Hard___A_Harder_Red_Black_Tree_Problem)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Wesley_s_Anger_Contest_1_Problem_4_Hard___A_Harder_Red_Black_Tree_Problem main.cpp)
