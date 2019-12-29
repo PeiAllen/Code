@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/DMOPC19December.dir/main.cpp.obj"
+  "CMakeFiles/DMOPC19December.dir/main.cpp.o"
   "DMOPC19December.pdb"
-  "DMOPC19December.exe"
-  "DMOPC19December.exe.manifest"
-  "libDMOPC19December.dll.a"
+  "DMOPC19December"
 )
 
 # Per-language clean rules from dependency scanning.
