@@ -39,7 +39,7 @@ void dfs(int loc, int parent, int dep){
     depth[loc]=dep;
     eind[loc].first=ecur++;
     for(int x:matrix[loc])if(x!=parent)dfs(x,loc,dep+1);
-    eind[loc].second=ecur;
+    eind[loc].second=ecur-1;
 }
 int main(){
     cin.tie(NULL);
@@ -62,6 +62,7 @@ int main(){
             update(eind[roads[i].second].first,1);
             update(eind[roads[i].second].second+1,-1);
         }
+        if(depth[roads[i].second]<depth[roads[i].first])swap(roads[i].second,roads[i].first);
     }
     while(q--){
         sc(a,b);
