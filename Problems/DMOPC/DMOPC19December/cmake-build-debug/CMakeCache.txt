@@ -213,10 +213,10 @@ CMAKE_STRIP:FILEPATH=/Library/Developer/CommandLineTools/usr/bin/strip
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
 //Value Computed by CMake
-DMOPC19December_BINARY_DIR:STATIC=/Users/allen/Documents/GitHub/Code/Problems/DMOPC/DMOPC19December/cmake-build-debug
+DMOPC19December_BINARY_DIR:STATIC=/Users/allen/Documents/Code/Problems/DMOPC/DMOPC19December/cmake-build-debug
 
 //Value Computed by CMake
-DMOPC19December_SOURCE_DIR:STATIC=/Users/allen/Documents/GitHub/Code/Problems/DMOPC/DMOPC19December
+DMOPC19December_SOURCE_DIR:STATIC=/Users/allen/Documents/Code/Problems/DMOPC/DMOPC19December
 
 //Path to a program.
 ProcessorCount_cmd_sysctl:FILEPATH=/usr/sbin/sysctl
@@ -229,7 +229,7 @@ ProcessorCount_cmd_sysctl:FILEPATH=/usr/sbin/sysctl
 //ADVANCED property for variable: CMAKE_AR
 CMAKE_AR-ADVANCED:INTERNAL=1
 //This is the directory where this CMakeCache.txt was created
-CMAKE_CACHEFILE_DIR:INTERNAL=/Users/allen/Documents/GitHub/Code/Problems/DMOPC/DMOPC19December/cmake-build-debug
+CMAKE_CACHEFILE_DIR:INTERNAL=/Users/allen/Documents/Code/Problems/DMOPC/DMOPC19December/cmake-build-debug
 //Major version of cmake used to create the current loaded cache
 CMAKE_CACHE_MAJOR_VERSION:INTERNAL=3
 //Minor version of cmake used to create the current loaded cache

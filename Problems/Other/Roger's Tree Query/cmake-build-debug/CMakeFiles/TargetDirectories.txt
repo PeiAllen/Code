@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Code/Problems/Other/Roger's Tree Query/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Code/Problems/Other/Roger's Tree Query/cmake-build-debug/CMakeFiles/Roger_s_Tree_Query.dir
+C:/Users/allen/Documents/Code/Problems/Other/Roger's Tree Query/cmake-build-debug/CMakeFiles/rebuild_cache.dir

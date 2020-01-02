@@ -19,7 +19,7 @@ int sz(const T &a){return (int)a.size();}
 #define rep(i, begin, end) for (__typeof(end) i = (begin) - ((begin) > (end)); i != (end) - ((begin) > (end)); i += 1 - 2 * ((begin) > (end)))
 set<pair<pair<long double,int>,long double>> radi[501];
 pair<long double,long double> coords[501];
-long double prec=1e-7;
+long double prec=1e-11;
 int main(){
     cin.tie(NULL);
     ios_base::sync_with_stdio(false);
@@ -55,10 +55,36 @@ int main(){
                     radi[i].insert(np);
 		        }
 		    }
+		    bool insert=true;
 		    while(pt!=radi[i].end()){
 		        if(pt->first.first>cur.second)break;
-		        if(pt)
+		        if(pt->second>=cur.second){
+			        if(pt->first.second>cur.first.second){
+				        cur.second=pt->first.first-prec;
+			        }
+			        else{
+				        pt++;
+				        radi[i].erase(prev(pt,1));
+			        }
+			        break;
+		        }
+		        else{
+			        if(pt->first.second>cur.first.second){
+			        	radi[i].insert(pair<pair<long double,int>,long double>{pair<long double,int>{cur.first.first,cur.first.second},pt->first.first-prec});
+				        cur.first.first=pt->second+prec;
+				        pt++;
+				        if(cur.second<cur.first.first){
+				        	insert=false;
+				        	break;
+				        }
+			        }
+			        else{
+				        pt++;
+				        radi[i].erase(prev(pt,1));
+			        }
+		        }
 		    }
+		    if(insert)radi[i].insert(cur);
 		}
 		lli len=sqrt(pow(bx-x,2)+pow(by-y,2));
 		auto pt=radi[i].upper_bound({{len,n+1},len});
@@ -67,6 +93,7 @@ int main(){
 			if(pt->second>=len)ans=min(ans,pt->first.second);
 		}
     }
-    prl(-1);
+    if(ans==INT_MAX)prl(-1);
+    else prl(ans);
     return 0;
 }
