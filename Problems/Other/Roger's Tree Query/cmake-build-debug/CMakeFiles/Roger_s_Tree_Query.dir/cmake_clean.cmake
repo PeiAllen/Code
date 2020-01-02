@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Roger_s_Tree_Query.dir/main.cpp.obj"
+  "CMakeFiles/Roger_s_Tree_Query.dir/main.cpp.o"
   "Roger_s_Tree_Query.pdb"
-  "Roger_s_Tree_Query.exe"
-  "Roger_s_Tree_Query.exe.manifest"
-  "libRoger_s_Tree_Query.dll.a"
+  "Roger_s_Tree_Query"
 )
 
 # Per-language clean rules from dependency scanning.
