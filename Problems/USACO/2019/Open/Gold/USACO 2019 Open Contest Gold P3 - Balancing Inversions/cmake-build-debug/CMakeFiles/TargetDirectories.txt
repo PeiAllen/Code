@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Code/Problems/USACO/2019/Open/Gold/USACO 2019 Open Contest Gold P3 - Balancing Inversions/cmake-build-debug/CMakeFiles/USACO_2019_Open_Contest_Gold_P3___Balancing_Inversions.dir
+C:/Users/allen/Documents/Code/Problems/USACO/2019/Open/Gold/USACO 2019 Open Contest Gold P3 - Balancing Inversions/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Code/Problems/USACO/2019/Open/Gold/USACO 2019 Open Contest Gold P3 - Balancing Inversions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
