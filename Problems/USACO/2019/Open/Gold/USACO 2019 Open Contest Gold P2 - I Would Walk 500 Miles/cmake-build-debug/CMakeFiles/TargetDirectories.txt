@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/2019/Open/Gold/USACO 2019 Open Contest Gold P2 - I Would Walk 500 Miles/cmake-build-debug/CMakeFiles/USACO_2019_Open_Contest_Gold_P2___I_Would_Walk_500_Miles.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/2019/Open/Gold/USACO 2019 Open Contest Gold P2 - I Would Walk 500 Miles/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/2019/Open/Gold/USACO 2019 Open Contest Gold P2 - I Would Walk 500 Miles/cmake-build-debug/CMakeFiles/rebuild_cache.dir

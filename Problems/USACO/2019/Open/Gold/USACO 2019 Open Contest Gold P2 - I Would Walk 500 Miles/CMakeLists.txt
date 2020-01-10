@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(USACO_2019_Open_Contest_Gold_P2___I_Would_Walk_500_Miles)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(USACO_2019_Open_Contest_Gold_P2___I_Would_Walk_500_Miles main.cpp)

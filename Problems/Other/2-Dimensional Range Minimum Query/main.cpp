@@ -18,39 +18,41 @@ template<typename T>
 int sz(const T &a){return (int)a.size();}
 #define rep(i, begin, end) for (__typeof(end) i = (begin) - ((begin) > (end)); i != (end) - ((begin) > (end)); i += 1 - 2 * ((begin) > (end)))
 const int MAXN=1e3;
-int sparse[MAXN][10][MAXN][10];
+int sparse[10][10][MAXN][MAXN];
 int n;
-void init(std::vector<std::vector<int>> arr){
-	n=sz(arr);
-	rep(i,0,n)rep(j,0,n)sparse[i][0][j][0]=arr[i][j];
-	for (int i = 0; i < n; i++) {
-		for (int b = 1; b <= log2(n); b++) {
-			for (int j = 0; j <= n - (1 << b); j++) {
-				sparse[i][0][j][b]=min(sparse[i][0][j][b-1],sparse[i][0][j+(1<<(b-1))][b-1]);
-			}
-		}
-	}
-	for(int a=1;a<=log2(n);a++) {
-		for (int i = 0; i <= n - (1 << a); i++) {
-			for (int j = 0; j <n; j++) {
-				sparse[i][a][j][0] = min(sparse[i][a-1][j][0], sparse[i+(1<<(a-1))][a-1][j][0]);
-			}
-		}
-	}
-	for(int a=1;a<=log2(n);a++) {
-		for (int i = 0; i <= n - (1 << a); i++) {
-			for(int b=1;b<=log2(n);b++){
-				for(int j=0;j<=n-(1<<b);j++){
-					sparse[i][a][j][b]=min(sparse[i][a-1][j][b-1],min(sparse[i+(1<<(a-1))][a-1][j][b-1],min(sparse[i][a-1][j+(1<<(b-1))][b-1],sparse[i+(1<<(a-1))][a-1][j+(1<<(b-1))][b-1])));
-				}
-			}
-		}
-	}
+void init(vector<vector<int>> arr){
+    n=sz(arr);
+    int lgn=31-__builtin_clz(n);
+    rep(i,0,n)rep(j,0,n)sparse[0][0][i][j]=arr[i][j];
+    for (int b = 1; b <= lgn; b++) {
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j <= n - (1 << b); j++) {
+                sparse[0][b][i][j]=min(sparse[0][b-1][i][j],sparse[0][b-1][i][j+(1<<(b-1))]);
+            }
+        }
+    }
+    for(int a=1;a<=lgn;a++) {
+        for (int i = 0; i <= n - (1 << a); i++) {
+            for (int j = 0; j <n; j++) {
+                sparse[a][0][i][j] = min(sparse[a-1][0][i][j], sparse[a-1][0][i+(1<<(a-1))][j]);
+            }
+        }
+    }
+    for(int a=1;a<=lgn;a++) {
+        for(int b=1;b<=lgn;b++){
+            for (int i = 0; i <= n - (1 << a); i++) {
+                for(int j=0;j<=n-(1<<b);j++){
+                    sparse[a][b][i][j]=min(sparse[a-1][b-1][i][j],min(sparse[a-1][b-1][i+(1<<(a-1))][j],min(sparse[a-1][b-1][i][j+(1<<(b-1))],sparse[a-1][b-1][i+(1<<(a-1))][j+(1<<(b-1))])));
+                }
+            }
+        }
+    }
 }
 int query(int a, int b, int c, int d){
-	int k1=log2(b-a+1);
-	int k2=log2(d-c+1);
-	return min(sparse[a][k1][c][k2],min(sparse[b-(1<<k1)+1][k1][c][k2],min(sparse[a][k1][d-(1<<k2)+1][k2],sparse[b-(1<<k1)+1][k1][d-(1<<k2)+1][k2])));
+    int k1=31-__builtin_clz(b-a+1);
+    int k2=31-__builtin_clz(d-c+1);
+    int k1s=(1<<k1),k2s=(1<<k2);
+    return min(sparse[k1][k2][a][c],min(sparse[k1][k2][b-k1s+1][c],min(sparse[k1][k2][a][d-k2s+1],sparse[k1][k2][b-k1s+1][d-k2s+1])));
 }
 //int main(){
 //    cin.tie(NULL);

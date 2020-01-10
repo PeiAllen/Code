@@ -1,3 +1,3 @@
-C:/Users/allen/Documents/Code/Problems/Other/2-Dimensional Range Minimum Query/cmake-build-debug/CMakeFiles/2_Dimensional_Range_Minimum_Query.dir
-C:/Users/allen/Documents/Code/Problems/Other/2-Dimensional Range Minimum Query/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/allen/Documents/Code/Problems/Other/2-Dimensional Range Minimum Query/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Other/2-Dimensional Range Minimum Query/cmake-build-debug/CMakeFiles/2_Dimensional_Range_Minimum_Query.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Other/2-Dimensional Range Minimum Query/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Other/2-Dimensional Range Minimum Query/cmake-build-debug/CMakeFiles/rebuild_cache.dir
