@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Code/Problems/CCC/CCC '12 S4 - A Coin Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Code/Problems/CCC/CCC '12 S4 - A Coin Game/cmake-build-debug/CMakeFiles/CCC__12_S4___A_Coin_Game.dir
+C:/Users/allen/Documents/Code/Problems/CCC/CCC '12 S4 - A Coin Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir

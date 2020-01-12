@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Code/Problems/Codeforces/A. Mezo Playing Zoma/cmake-build-debug/CMakeFiles/A__Mezo_Playing_Zoma.dir
+C:/Users/allen/Documents/Code/Problems/Codeforces/A. Mezo Playing Zoma/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Code/Problems/Codeforces/A. Mezo Playing Zoma/cmake-build-debug/CMakeFiles/rebuild_cache.dir
