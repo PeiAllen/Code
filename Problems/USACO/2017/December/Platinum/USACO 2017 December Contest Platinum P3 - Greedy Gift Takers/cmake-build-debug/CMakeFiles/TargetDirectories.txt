@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/2017/December/Platinum/USACO 2017 December Contest Platinum P3 - Greedy Gift Takers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/2017/December/Platinum/USACO 2017 December Contest Platinum P3 - Greedy Gift Takers/cmake-build-debug/CMakeFiles/USACO_2017_December_Contest_Platinum_P3___Greedy_Gift_Takers.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/2017/December/Platinum/USACO 2017 December Contest Platinum P3 - Greedy Gift Takers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

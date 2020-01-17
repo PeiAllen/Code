@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(USACO_2018_February_Contest_Gold_P3___Taming_the_Herd)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(USACO_2018_February_Contest_Gold_P3___Taming_the_Herd main.cpp)

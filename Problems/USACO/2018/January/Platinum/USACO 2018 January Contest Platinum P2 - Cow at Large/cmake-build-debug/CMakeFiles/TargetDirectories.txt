@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/2018/January/Platinum/USACO 2018 January Contest Platinum P2 - Cow at Large/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/2018/January/Platinum/USACO 2018 January Contest Platinum P2 - Cow at Large/cmake-build-debug/CMakeFiles/USACO_2018_January_Contest_Platinum_P2___Cow_at_Large.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/2018/January/Platinum/USACO 2018 January Contest Platinum P2 - Cow at Large/cmake-build-debug/CMakeFiles/rebuild_cache.dir

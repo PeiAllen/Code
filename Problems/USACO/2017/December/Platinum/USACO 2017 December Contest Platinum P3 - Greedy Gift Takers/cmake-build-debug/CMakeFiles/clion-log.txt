@@ -1,0 +1,32 @@
+"C:\Program Files\JetBrains\CLion 2019.1.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\USACO\2017\December\Platinum\USACO 2017 December Contest Platinum P3 - Greedy Gift Takers"
+-- The C compiler identification is GNU 6.3.0
+-- The CXX compiler identification is GNU 6.3.0
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: C:/MinGW/bin/g++.exe
+-- Check for working CXX compiler: C:/MinGW/bin/g++.exe -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+CMake Warning in CMakeLists.txt:
+  The object file directory
+
+    C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/2017/December/Platinum/USACO 2017 December Contest Platinum P3 - Greedy Gift Takers/cmake-build-debug/CMakeFiles/USACO_2017_December_Contest_Platinum_P3___Greedy_Gift_Takers.dir/
+
+  has 239 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    main.cpp.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Generating done
+-- Build files have been written to: C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/2017/December/Platinum/USACO 2017 December Contest Platinum P3 - Greedy Gift Takers/cmake-build-debug

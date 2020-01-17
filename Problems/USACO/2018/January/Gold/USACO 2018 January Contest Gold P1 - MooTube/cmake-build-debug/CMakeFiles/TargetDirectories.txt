@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/2018/January/Gold/USACO 2018 January Contest Gold P1 - MooTube/cmake-build-debug/CMakeFiles/USACO_2018_January_Contest_Gold_P1___MooTube.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/2018/January/Gold/USACO 2018 January Contest Gold P1 - MooTube/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/2018/January/Gold/USACO 2018 January Contest Gold P1 - MooTube/cmake-build-debug/CMakeFiles/rebuild_cache.dir

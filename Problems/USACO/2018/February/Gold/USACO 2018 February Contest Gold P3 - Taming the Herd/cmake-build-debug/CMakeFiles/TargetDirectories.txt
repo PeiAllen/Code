@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/2018/February/Gold/USACO 2018 February Contest Gold P3 - Taming the Herd/cmake-build-debug/CMakeFiles/USACO_2018_February_Contest_Gold_P3___Taming_the_Herd.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/2018/February/Gold/USACO 2018 February Contest Gold P3 - Taming the Herd/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/2018/February/Gold/USACO 2018 February Contest Gold P3 - Taming the Herd/cmake-build-debug/CMakeFiles/rebuild_cache.dir
