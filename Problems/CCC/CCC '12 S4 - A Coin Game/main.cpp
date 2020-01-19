@@ -30,6 +30,7 @@ int main(){
         string wanted;
         wanted.resize(n,' ');
         dist.clear();
+
         for(int i=0;i<n;i++){
             sc(in);
             in-=1;
