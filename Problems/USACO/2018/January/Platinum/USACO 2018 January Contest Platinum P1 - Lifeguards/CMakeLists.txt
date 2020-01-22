@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(USACO_2018_January_Contest_Platinum_P1___Lifeguards)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(USACO_2018_January_Contest_Platinum_P1___Lifeguards main.cpp)
