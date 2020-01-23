@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/2017/March/Platinum/USACO 2017 March Contest Platinum P1 - Modern Art/cmake-build-debug/CMakeFiles/USACO_2017_March_Contest_Platinum_P1___Modern_Art.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/2017/March/Platinum/USACO 2017 March Contest Platinum P1 - Modern Art/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/2017/March/Platinum/USACO 2017 March Contest Platinum P1 - Modern Art/cmake-build-debug/CMakeFiles/rebuild_cache.dir

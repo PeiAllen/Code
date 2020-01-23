@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(USACO_2017_March_Contest_Platinum_P1___Modern_Art)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(USACO_2017_March_Contest_Platinum_P1___Modern_Art main.cpp)

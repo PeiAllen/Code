@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/2017/Open/Platinum/USACO 2017 Open Contest Platinum P2- Switch Grass/cmake-build-debug/CMakeFiles/USACO_2017_Open_Contest_Platinum_P2__Switch_Grass.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/2017/Open/Platinum/USACO 2017 Open Contest Platinum P2- Switch Grass/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/2017/Open/Platinum/USACO 2017 Open Contest Platinum P2- Switch Grass/cmake-build-debug/CMakeFiles/rebuild_cache.dir

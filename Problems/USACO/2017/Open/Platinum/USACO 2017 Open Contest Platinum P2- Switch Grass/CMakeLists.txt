@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(USACO_2017_Open_Contest_Platinum_P2__Switch_Grass)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(USACO_2017_Open_Contest_Platinum_P2__Switch_Grass main.cpp)
