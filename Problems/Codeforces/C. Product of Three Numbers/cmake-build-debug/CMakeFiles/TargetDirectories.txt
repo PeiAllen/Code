@@ -1,0 +1,3 @@
+/Users/allen/Documents/GitHub/Code/Problems/Codeforces/C. Product of Three Numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/allen/Documents/GitHub/Code/Problems/Codeforces/C. Product of Three Numbers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/allen/Documents/GitHub/Code/Problems/Codeforces/C. Product of Three Numbers/cmake-build-debug/CMakeFiles/C__Product_of_Three_Numbers.dir

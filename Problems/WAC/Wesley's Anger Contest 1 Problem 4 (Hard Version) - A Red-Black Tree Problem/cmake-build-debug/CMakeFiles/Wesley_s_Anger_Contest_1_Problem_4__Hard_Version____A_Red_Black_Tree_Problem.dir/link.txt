@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Wesley_s_Anger_Contest_1_Problem_4__Hard_Version____A_Red_Black_Tree_Problem.dir/main.cpp.o  -o Wesley_s_Anger_Contest_1_Problem_4__Hard_Version____A_Red_Black_Tree_Problem 
