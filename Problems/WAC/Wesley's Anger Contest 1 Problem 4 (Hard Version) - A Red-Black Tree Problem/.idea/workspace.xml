@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f7e7061-a085-43b1-99e4-aab7cbbf3550" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Other/A Knapsack Problem/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Other/A Knapsack Problem/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Wesley's Anger Contest 1 Problem 4 (Hard Version) - A Red-Black Tree Problem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/.idea/Wesley's Anger Contest 1 Problem 4 (Hard Version) - A Red-Black Tree Problem.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.5/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/3.14.5/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.5/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/3.14.5/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.5/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/3.14.5/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_1_Problem_4__Hard_Version____A_Red_Black_Tree_Problem.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_1_Problem_4__Hard_Version____A_Red_Black_Tree_Problem.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_1_Problem_4__Hard_Version____A_Red_Black_Tree_Problem.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_1_Problem_4__Hard_Version____A_Red_Black_Tree_Problem.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_1_Problem_4__Hard_Version____A_Red_Black_Tree_Problem.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_1_Problem_4__Hard_Version____A_Red_Black_Tree_Problem.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_1_Problem_4__Hard_Version____A_Red_Black_Tree_Problem.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_1_Problem_4__Hard_Version____A_Red_Black_Tree_Problem.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_1_Problem_4__Hard_Version____A_Red_Black_Tree_Problem.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_1_Problem_4__Hard_Version____A_Red_Black_Tree_Problem.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_1_Problem_4__Hard_Version____A_Red_Black_Tree_Problem.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_1_Problem_4__Hard_Version____A_Red_Black_Tree_Problem.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_1_Problem_4__Hard_Version____A_Red_Black_Tree_Problem.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_1_Problem_4__Hard_Version____A_Red_Black_Tree_Problem.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_1_Problem_4__Hard_Version____A_Red_Black_Tree_Problem.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_1_Problem_4__Hard_Version____A_Red_Black_Tree_Problem.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_1_Problem_4__Hard_Version____A_Red_Black_Tree_Problem.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_1_Problem_4__Hard_Version____A_Red_Black_Tree_Problem.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_1_Problem_4__Hard_Version____A_Red_Black_Tree_Problem.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_1_Problem_4__Hard_Version____A_Red_Black_Tree_Problem.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Wesley_s_Anger_Contest_1_Problem_4__Hard_Version____A_Red_Black_Tree_Problem" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/Wesley_s_Anger_Contest_1_Problem_4__Hard_Version____A_Red_Black_Tree_Problem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Wesley_s_Anger_Contest_1_Problem_4__Hard_Version____A_Red_Black_Tree_Problem.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/Wesley_s_Anger_Contest_1_Problem_4__Hard_Version____A_Red_Black_Tree_Problem.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/main.cpp" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wkn7eVPoOGOiMHfsuprBcmsFwk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f7e7061-a085-43b1-99e4-aab7cbbf3550" name="Default Changelist" comment="" />
+      <created>1579702293509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579702293509</updated>
+      <workItem from="1579702295177" duration="2063000" />
+      <workItem from="1580189127434" duration="53000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/../WAC1P4 (Hard Version) - A Red-Black Tree Problem/main.cpp</url>
+          <line>52</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="dp" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
