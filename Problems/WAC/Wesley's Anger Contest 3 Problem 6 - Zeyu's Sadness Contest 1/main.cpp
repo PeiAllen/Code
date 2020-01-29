@@ -1,8 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 typedef pair<int,int> pii;
-const int MAXN=1e5+1;
-const int MAXK=3e5+1;
+const int MAXN=2e5+1;
+const int MAXK=6e5+1;
 template <typename T>
 int sz(T &a){return (int)a.size();}
 struct block{
