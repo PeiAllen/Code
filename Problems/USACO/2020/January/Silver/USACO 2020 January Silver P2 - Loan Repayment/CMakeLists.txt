@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(USACO_2020_January_Silver_P2___Loan_Repayment)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(USACO_2020_January_Silver_P2___Loan_Repayment main.cpp)
