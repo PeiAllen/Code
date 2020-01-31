@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/WAC/Wesley's Anger Contest 3 Problem 7 - Mirrors/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_3_Problem_7___Mirrors.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/WAC/Wesley's Anger Contest 3 Problem 7 - Mirrors/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/WAC/Wesley's Anger Contest 3 Problem 7 - Mirrors/cmake-build-debug/CMakeFiles/rebuild_cache.dir

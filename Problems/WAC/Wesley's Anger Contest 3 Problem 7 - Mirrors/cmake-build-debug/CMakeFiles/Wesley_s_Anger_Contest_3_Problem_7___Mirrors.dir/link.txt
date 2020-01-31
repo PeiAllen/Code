@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.1.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Wesley_s_Anger_Contest_3_Problem_7___Mirrors.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Wesley_s_Anger_Contest_3_Problem_7___Mirrors.dir/objects.a @CMakeFiles\Wesley_s_Anger_Contest_3_Problem_7___Mirrors.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Wesley_s_Anger_Contest_3_Problem_7___Mirrors.dir/objects.a -Wl,--no-whole-archive  -o Wesley_s_Anger_Contest_3_Problem_7___Mirrors.exe -Wl,--out-implib,libWesley_s_Anger_Contest_3_Problem_7___Mirrors.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Wesley_s_Anger_Contest_3_Problem_7___Mirrors.dir\linklibs.rsp

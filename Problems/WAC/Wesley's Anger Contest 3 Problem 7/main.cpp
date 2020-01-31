@@ -4,6 +4,10 @@ using namespace std;
 typedef long long int lli;
 typedef pair<lli,lli> pll;
 const int MAXN=2001;
+const int MAXRND=20;
+mt19937 rd(time(NULL));
+template <typename T>
+int sz(T &a){return (int)a.size();}
 pll fix(pll a){
     lli te=__gcd(abs(a.first),abs(a.second));
     return {a.first/te,a.second/te};
@@ -14,28 +18,21 @@ int best[MAXN][MAXN];
 pair<pll,pll> loc[MAXN];
 set<int> gone;
 int cnt=0;
+int n;
 lli mandist(int a, int b){
     return abs(loc[a].first.first-loc[b].first.first)+abs(loc[a].first.second-loc[b].first.second);
 }
+vector<int> path;
 int go(int a, int b){
     if(gone.count(a))return 0;
+    path.push_back(a);
     if(b==0)return 1;
-    //if(best[a][b]!=-1)return best[a][b]; fails on loops
     gone.insert(a);
-    return best[a][b]=go(b,st[a][b])+1;
-}
-void prun(int a, int b){
-    if(gone.count(a))return;
-    printf("%d ",a);
-    cnt++;
-    if(b==0)return;
-    gone.insert(a);
-    prun(b,st[a][b]);
+    return go(b,st[a][b])+1;
 }
 int main() {
     cin.tie(NULL);
     ios_base::sync_with_stdio(false);
-    int n;
     cin>>n;
     for(int i=1;i<=n;i++){
         cin>>loc[i].first.first>>loc[i].first.second>>loc[i].second.first>>loc[i].second.second;
@@ -67,26 +64,34 @@ int main() {
             }
         }
     }
-    int best=0;
-    int a=-1,b=-1;
-    for(int i=1;i<=n;i++) {
+    uniform_int_distribution<int> dis(1,n);
+    for(int i=1;i<=MAXRND;i++) {
+        int cur=dis(rd);
         for (int j = 1; j <= n; j++) {
-            if (j != i) {
+            if (j != cur) {
                 gone.clear();
+                path.clear();
                 int te=go(i,j);
-                if(te>best){
-                    best=te;
-                    a=i,b=j;
+                go(j,i);
+                if(sz(path)-2>=(3*n+3)/4){
+                    reverse(path.begin()+te+2,path.end());
+                    path.insert(path.begin(),path.begin()+te+2,path.end());
+                    for(int l=0;l<(3*n+3)/4;l++)printf("%d ",path[l]);
+                    return 0;
+                }
+                gone.clear();
+                path.clear();
+                te=go(j,i);
+                go(i,j);
+                if(sz(path)-2>=(3*n+3)/4){
+                    reverse(path.begin()+te+2,path.end());
+                    path.insert(path.begin(),path.begin()+te+2,path.end());
+                    for(int l=0;l<(3*n+3)/4;l++)printf("%d ",path[l]);
+                    return 0;
                 }
             }
         }
     }
-    if(best>=(3*n+3)/4){
-        printf("%d\n",best);
-        gone.clear();
-        prun(a,b);
-        assert(cnt==best);
-    }
-    else printf("-1\n");
+    printf("-1\n");
     return 0;
 }
