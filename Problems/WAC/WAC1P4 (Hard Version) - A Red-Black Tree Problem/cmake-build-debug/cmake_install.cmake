@@ -1,8 +1,8 @@
-# Install script for directory: /Users/allen/Documents/GitHub/Code/Problems/WAC/Wesley's Anger Contest 1 Problem 4 (Hard Version) - A Red-Black Tree Problem
+# Install script for directory: C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/WAC/WAC1P4 (Hard Version) - A Red-Black Tree Problem
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/usr/local")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Wesley_s_Anger_Contest_1_Problem_4__Hard_Version____A_Red_Black_Tree_Problem")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/allen/Documents/GitHub/Code/Problems/WAC/Wesley's Anger Contest 1 Problem 4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/WAC/WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

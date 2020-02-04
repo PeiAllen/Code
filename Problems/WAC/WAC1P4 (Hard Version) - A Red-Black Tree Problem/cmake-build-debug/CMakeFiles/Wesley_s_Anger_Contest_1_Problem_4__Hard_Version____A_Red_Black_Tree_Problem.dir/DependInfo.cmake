@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/allen/Documents/GitHub/Code/Problems/WAC/Wesley's Anger Contest 1 Problem 4 (Hard Version) - A Red-Black Tree Problem/main.cpp" "/Users/allen/Documents/GitHub/Code/Problems/WAC/Wesley's Anger Contest 1 Problem 4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_1_Problem_4__Hard_Version____A_Red_Black_Tree_Problem.dir/main.cpp.o"
+  "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/WAC/WAC1P4 (Hard Version) - A Red-Black Tree Problem/main.cpp" "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/WAC/WAC1P4 (Hard Version) - A Red-Black Tree Problem/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_1_Problem_4__Hard_Version____A_Red_Black_Tree_Problem.dir/main.cpp.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
