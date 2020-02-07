@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/2017/February/Platinum/USACO 2017 February Contest Platinum P1 - Why Did the Cow Cross the Road/cmake-build-debug/CMakeFiles/USACO_2017_February_Contest_Platinum_P1___Why_Did_the_Cow_Cross_the_Road.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/2017/February/Platinum/USACO 2017 February Contest Platinum P1 - Why Did the Cow Cross the Road/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/2017/February/Platinum/USACO 2017 February Contest Platinum P1 - Why Did the Cow Cross the Road/cmake-build-debug/CMakeFiles/rebuild_cache.dir

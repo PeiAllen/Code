@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(USACO_2017_February_Contest_Platinum_P1___Why_Did_the_Cow_Cross_the_Road)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(USACO_2017_February_Contest_Platinum_P1___Why_Did_the_Cow_Cross_the_Road main.cpp)
