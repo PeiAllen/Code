@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Code/Problems/USACO/2020/January/Platinum/USACO 2020 January Platinum P2 - Non-Decreasing Subsequences/main.cpp
+bits/stdc++.h
+-
+
