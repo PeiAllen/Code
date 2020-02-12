@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/C. Seating Arrangement/cmake-build-debug/CMakeFiles/C__Seating_Arrangement.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/C. Seating Arrangement/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/C. Seating Arrangement/cmake-build-debug/CMakeFiles/rebuild_cache.dir
