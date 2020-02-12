@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/allen/Documents/GitHub/Code/Problems/WAC/Wesley's Anger Contest 3 Bonus Problem - Game of Death/main.cpp
+bits/stdc++.h
+-
+
