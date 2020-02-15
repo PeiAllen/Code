@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/duel.dir/main.cpp.o"
+  "CMakeFiles/duel.dir/main.cpp.obj"
   "duel.pdb"
-  "duel"
+  "duel.exe"
+  "duel.exe.manifest"
+  "libduel.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
