@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Code/Problems/CCC/Searching for Strings/cmake-build-debug/CMakeFiles/Searching_for_Strings.dir
+C:/Users/allen/Documents/Code/Problems/CCC/Searching for Strings/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Code/Problems/CCC/Searching for Strings/cmake-build-debug/CMakeFiles/rebuild_cache.dir

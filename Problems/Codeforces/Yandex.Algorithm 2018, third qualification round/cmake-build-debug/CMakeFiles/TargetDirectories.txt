@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Code/Problems/Codeforces/Yandex.Algorithm 2018, third qualification round/cmake-build-debug/CMakeFiles/Yandex_Algorithm_2018__third_qualification_round.dir
+C:/Users/allen/Documents/Code/Problems/Codeforces/Yandex.Algorithm 2018, third qualification round/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Code/Problems/Codeforces/Yandex.Algorithm 2018, third qualification round/cmake-build-debug/CMakeFiles/rebuild_cache.dir

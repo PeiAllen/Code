@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(Yandex_Algorithm_2018__third_qualification_round)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Yandex_Algorithm_2018__third_qualification_round main.cpp)
