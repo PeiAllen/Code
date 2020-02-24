@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2019.1.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Josh_s_Double_Bacon_Deluxe.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\Josh_s_Double_Bacon_Deluxe.dir/objects.a @CMakeFiles\Josh_s_Double_Bacon_Deluxe.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Josh_s_Double_Bacon_Deluxe.dir/objects.a -Wl,--no-whole-archive  -o Josh_s_Double_Bacon_Deluxe.exe -Wl,--out-implib,libJosh_s_Double_Bacon_Deluxe.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Josh_s_Double_Bacon_Deluxe.dir\linklibs.rsp
