@@ -11,7 +11,6 @@ pii arr[MAXN];
 lli bit[11][MAXN];
 lli precalc[11];
 lli dp[11][11];
-lli old[11][MAXN];
 lli fix(lli a){
     while(a<0)a+=mod;
     return a%mod;
@@ -77,7 +76,7 @@ int main(){
     }
     printf("%lli\n",anst);
     for(int x:ends)coord.push_back(x);
-    update(0,1,1);
+    update(k,1,1);
     lli ans=0;
     for(int i=0;i<n;i++){
         int cur=(lower_bound(coord.begin(),coord.end(),arr[i].first)-coord.begin())+1;
@@ -92,13 +91,15 @@ int main(){
             }
         }
         for(int j=0;j<=k;j++){
-            te=query(j,cur-1);//left query
+            te=fix(choose(k,j)*query(j,cur-1));//left query
+            printf("%lli %lli\n",te,fix(choose(k,j)*query(j,cur-1)));
             ans=fix(ans+te);
-            update(0,en,te);//left ans update
+//            update(0,en,te);//left ans update
         }
-        for(int j=1;j<=k;j++){
-                update(j, en, choose(k,j));//left move update
-                update(j, en, fix(fix(query(j, cur - 1) * precalc[j])-(query(j, cur - 1)?choose(k,j) :0)));//left move update
+        for(int j=k;j>=0;j--){
+            for(int l=0;l<=k-j;l++) {
+                update(j, en, fix(choose(k-j,l)*query(k-l,cur-1)));//left move update
+            }
         }
     }
     printf("%lli\n",ans);
