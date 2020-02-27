@@ -1,0 +1,26 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/COCI/COCI '06 Contest 5 #6 Dvaput/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_9e136/fast 
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_9e136.dir\build.make CMakeFiles/cmTC_9e136.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/COCI/COCI '06 Contest 5 #6 Dvaput/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: Leaving directory 'C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/COCI/COCI '06 Contest 5 #6 Dvaput/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target 'C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/COCI/COCI '06 Contest 5\', needed by 'CMakeFiles/cmTC_9e136.dir/feature_tests.c.obj'.  Stop.
+Makefile:120: recipe for target 'cmTC_9e136/fast' failed
+mingw32-make.exe: *** [cmTC_9e136/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/COCI/COCI '06 Contest 5 #6 Dvaput/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_88fd0/fast 
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_88fd0.dir\build.make CMakeFiles/cmTC_88fd0.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/COCI/COCI '06 Contest 5 #6 Dvaput/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: Leaving directory 'C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/COCI/COCI '06 Contest 5 #6 Dvaput/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target 'C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/COCI/COCI '06 Contest 5\', needed by 'CMakeFiles/cmTC_88fd0.dir/feature_tests.cxx.obj'.  Stop.
+Makefile:120: recipe for target 'cmTC_88fd0/fast' failed
+mingw32-make.exe: *** [cmTC_88fd0/fast] Error 2
+
+
+
