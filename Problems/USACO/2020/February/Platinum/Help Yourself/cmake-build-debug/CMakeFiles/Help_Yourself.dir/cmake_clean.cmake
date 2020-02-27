@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Help_Yourself.dir/main.cpp.obj"
+  "CMakeFiles/Help_Yourself.dir/main.cpp.o"
   "Help_Yourself.pdb"
-  "Help_Yourself.exe"
-  "Help_Yourself.exe.manifest"
-  "libHelp_Yourself.dll.a"
+  "Help_Yourself"
 )
 
 # Per-language clean rules from dependency scanning.
