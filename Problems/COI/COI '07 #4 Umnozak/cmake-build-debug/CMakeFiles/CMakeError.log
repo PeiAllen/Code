@@ -1,0 +1,20 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /Users/allen/Documents/GitHub/Code/Problems/COI/COI '07 #4 Umnozak/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_b8c8f/fast 
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_b8c8f.dir/build.make CMakeFiles/cmTC_b8c8f.dir/build
+make[1]: *** No rule to make target `/Users/allen/Documents/GitHub/Code/Problems/COI/COI '07\', needed by `CMakeFiles/cmTC_b8c8f.dir/feature_tests.c.o'.  Stop.
+make: *** [cmTC_b8c8f/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /Users/allen/Documents/GitHub/Code/Problems/COI/COI '07 #4 Umnozak/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_ab76c/fast 
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_ab76c.dir/build.make CMakeFiles/cmTC_ab76c.dir/build
+make[1]: *** No rule to make target `/Users/allen/Documents/GitHub/Code/Problems/COI/COI '07\', needed by `CMakeFiles/cmTC_ab76c.dir/feature_tests.cxx.o'.  Stop.
+make: *** [cmTC_ab76c/fast] Error 2
+
+
+
