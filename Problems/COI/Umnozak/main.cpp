@@ -67,7 +67,7 @@ int main(){
     }
     lli a,b;
     cin>>a>>b;
-    printf("%lli\n",ways(0,0,1,b));
-   // printf("%lli\n",ways(0,0,1,b)-ways(0,0,1,a-1));
+    printf("%lli %lli\n",ways(0,0,1,b,1),ways(0,0,1,a-1,1));
+    printf("%lli\n",ways(0,0,1,b,1)-ways(0,0,1,a-1,1));
     return 0;
 }

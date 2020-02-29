@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Umnozak.dir/main.cpp.o"
+  "CMakeFiles/Umnozak.dir/main.cpp.obj"
   "Umnozak.pdb"
-  "Umnozak"
+  "Umnozak.exe"
+  "Umnozak.exe.manifest"
+  "libUmnozak.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
