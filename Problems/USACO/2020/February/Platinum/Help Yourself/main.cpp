@@ -83,8 +83,8 @@ vector<int> coord;
 int main(){
     cin.tie(NULL);
     ios_base::sync_with_stdio(false);
-//    freopen("help.in", "r", stdin);
-//    freopen("help.out", "w", stdout);
+    freopen("C:\\Users\\allen\\Downloads\\help_platinum_feb20\\11.in", "r", stdin);
+    freopen("answer.out", "w", stdout);
     int n,k;
     cin>>n>>k;
     set<int> ends;
@@ -119,9 +119,11 @@ int main(){
             ans=fix(ans+te);
         }
         for(int j=k;j>=0;j--){
+            lli toup=0;
             for(int l=0;l<=k-j;l++) {
-                seg[j].update(en, fix(choose(k-j,l)*seg[k-l].query(1,cur-1)));//left move update
+                 toup=fix(toup+fix(choose(k-j,l)*seg[k-l].query(1,cur-1)));//left move update
             }
+            seg[j].update(en,toup);
         }
     }
     printf("%lli\n",ans);

@@ -1,3 +1,3 @@
-/Users/allen/Documents/GitHub/Code/Problems/USACO/2020/February/Platinum/Help Yourself/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/allen/Documents/GitHub/Code/Problems/USACO/2020/February/Platinum/Help Yourself/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/allen/Documents/GitHub/Code/Problems/USACO/2020/February/Platinum/Help Yourself/cmake-build-debug/CMakeFiles/Help_Yourself.dir
+C:/Users/allen/Documents/Code/Problems/USACO/2020/February/Platinum/Help Yourself/cmake-build-debug/CMakeFiles/Help_Yourself.dir
+C:/Users/allen/Documents/Code/Problems/USACO/2020/February/Platinum/Help Yourself/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Code/Problems/USACO/2020/February/Platinum/Help Yourself/cmake-build-debug/CMakeFiles/rebuild_cache.dir
