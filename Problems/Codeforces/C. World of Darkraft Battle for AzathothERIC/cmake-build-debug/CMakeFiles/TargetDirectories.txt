@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/C. World of Darkraft Battle for AzathothERIC/cmake-build-debug/CMakeFiles/C__World_of_Darkraft_Battle_for_AzathothERIC.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/C. World of Darkraft Battle for AzathothERIC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/C. World of Darkraft Battle for AzathothERIC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
