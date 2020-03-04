@@ -7,11 +7,11 @@ template<typename T>
 int sz(const T &a){return (int)a.size();}
 lli am[10];
 lli fact[19];
-lli ways(int dig,int last, lli cur,lli top, bool be){
+lli ways(int dig,int last, lli cur,lli top){
     if(dig==2){
         lli tot=fact[2];
         lli te[10];
-        for(int i=0;i<=9;i++){
+        for(int i=1;i<=9;i++){
             tot/=fact[am[i]];
             te[i]=am[i];
         }
@@ -23,7 +23,7 @@ lli ways(int dig,int last, lli cur,lli top, bool be){
         reverse(a.begin(),a.end());
         lli ans=0;
         for(int i=0;i<2;i++){
-            for(int j=0;j<a[i]-'0';j++){
+            for(int j=1;j<a[i]-'0';j++){
                 if(te[j]){
                     lli tetot=tot;
                     tetot=tetot/fact[2-i]*fact[2-i-1];
@@ -41,7 +41,7 @@ lli ways(int dig,int last, lli cur,lli top, bool be){
     lli ans=0;
     for(int i=last;i<=9;i++){
         am[i]++;
-        ans+=ways(dig+1,i,cur*(lli)(be&&i==0?1:i),top,(be&&i==0));
+        ans+=ways(dig+1,i,cur*(i==0?1:i),top);
         am[i]--;
     }
     return ans;
@@ -67,7 +67,7 @@ int main(){
     }
     lli a,b;
     cin>>a>>b;
-    printf("%lli %lli\n",ways(0,0,1,b,1),ways(0,0,1,a-1,1));
-    printf("%lli\n",ways(0,0,1,b,1)-ways(0,0,1,a-1,1));
+    printf("%lli %lli\n",ways(0,0,1,b),ways(0,0,1,a-1));
+    printf("%lli\n",ways(0,0,1,b)-ways(0,0,1,a-1));
     return 0;
 }

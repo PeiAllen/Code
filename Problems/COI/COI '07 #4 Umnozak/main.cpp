@@ -15,7 +15,7 @@ lli am=0;
 void cnt(int dig, int last){
     if(dig==18){
         am++;
-        return;
+        break;
     }
     for(int i=last;i<=9;i++){
         cnt(dig+1,i);
@@ -25,7 +25,7 @@ int main(){
     cin.tie(NULL);
     ios_base::sync_with_stdio(false);
     cnt(0,0);
-    printf("%lli\n",am);
+    printf("%lli\n")
 //    lli a,b;
 ////    cin>>a>>b;
 //    printf("%lli\n",ways(0,0,1,b)-ways(0,0,1,a));

@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2019.1.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\COCI__06_Contest_5__6_Dvaput.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\COCI__06_Contest_5__6_Dvaput.dir/objects.a @CMakeFiles\COCI__06_Contest_5__6_Dvaput.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\COCI__06_Contest_5__6_Dvaput.dir/objects.a -Wl,--no-whole-archive  -o COCI__06_Contest_5__6_Dvaput.exe -Wl,--out-implib,libCOCI__06_Contest_5__6_Dvaput.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\COCI__06_Contest_5__6_Dvaput.dir\linklibs.rsp
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/COCI__06_Contest_5__6_Dvaput.dir/main.cpp.o  -o COCI__06_Contest_5__6_Dvaput 

@@ -1,30 +1,44 @@
 #include <bits/stdc++.h>
+//#include <ext/pb_ds/assoc_container.hpp>
+//using namespace __gnu_pbds;
 using namespace std;
 typedef long long int lli;
 typedef pair<int,int> pii;
 typedef pair<lli,lli> pll;
 template<typename T>
 int sz(const T &a){return (int)a.size();}
-const int MAXHSH=3;
+const int MAXHSH=2;
 const int MAXN=2e5+1;
-lli base[MAXHSH]={37,131,137};
-lli mod[MAXHSH]={(lli)1e9+9,(lli)4e9+7,((lli)1<<(lli)31)-1};
+template <class T> struct RIT :iterator<random_access_iterator_tag, T,lli,const T*,T>{
+    T elt,skip;
+    RIT(T t, T jump) : elt(t), skip(jump) {}
+    bool operator == (const RIT &other) const { return elt == other.elt; }
+    bool operator != (const RIT &other) const { return elt != other.elt; }
+    T &operator * ()  { return elt; }
+    RIT &operator ++ () { elt += skip; return *this; }
+    RIT &operator -- () { elt -= skip; return *this; }
+    RIT &operator += (lli am) { elt += am*skip; return *this; }
+    RIT operator + (lli am) const { auto ret = RIT(elt + am * skip,skip); return ret; }
+    lli operator - (const RIT& other) const{return (elt-other.elt)/skip;}
+};
+lli base[MAXHSH]={37,131};
+lli mod[MAXHSH]={(lli)1e9+9,(lli)1e9+7};
 lli hsh[MAXN][MAXHSH];
-lli fix(lli a, int type){
-    if(a<0)a+=mod[type];
-    if(a>=mod[type])a-=mod[type];
+inline lli fix(lli a, lli tmod){
+    if(a<0)a+=tmod;
+    if(a>=tmod)a-=tmod;
     return a;
 }
 lli prepow[MAXN][MAXHSH];
-set<lli> used[MAXHSH];
+map<int, int> used[MAXHSH];
 int n;
 bool work(int len){
     for(int j=0;j<MAXHSH;j++)used[j].clear();
     for(int i=len;i<=n;i++){
         bool happened=true;
         for(int j=0;j<MAXHSH;j++){
-            lli te=fix(hsh[i][j]-hsh[i-len][j],j)*prepow[n-i][j]%mod[j];
-            if(!used[j].count(te))happened=false,used[j].insert(te);
+            int te=fix(hsh[i][j]-hsh[i-len][j],mod[j])*prepow[n-i][j]%mod[j];
+            if(!used[j][te])happened=false,used[j][te]=1;
         }
         if(happened)return true;
     }
@@ -42,16 +56,11 @@ int main(){
     }
     for(int i=1;i<=n;i++){
         for(int j=0;j<MAXHSH;j++){
-            hsh[i][j]=fix(hsh[i-1][j]+(((a[i-1]-'a')+1)*prepow[i-1][j]%mod[j]),j);
+            hsh[i][j]=fix(hsh[i-1][j]+(((a[i-1]-'a')+1)*prepow[i-1][j]%mod[j]),mod[j]);
         }
     }
-    int lo=0;
-    int hi=n-1;
-    while(lo!=hi){
-        int mid=(lo+hi)/2+1;
-        if(work(mid))lo=mid;
-        else hi=mid-1;
-    }
-    printf("%d\n",lo);
+    printf("%d\n",*lower_bound(RIT<int>(0,1),RIT<int>(n-1,1),work,[&](auto lhs, auto f){
+        return !f(lhs);
+    }));
     return 0;
 }
