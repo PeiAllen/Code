@@ -88,6 +88,7 @@ int main(){
     set<int> ends;
     precalc[0]=1;
     for(int i=0;i<=k;i++)for(int j=0;j<=k;j++)dp[i][j]=-1;
+    for(int i=0;i<=k;i++)for(int j=0;j<=k;j++)choose(i,j);
     for(int i=1;i<=k;i++){
         precalc[i]=precalc[i-1]*2%mod;
     }
