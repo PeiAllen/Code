@@ -1,3 +1,0 @@
-C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/PIB/PIB '20 P1/cmake-build-debug/CMakeFiles/PIB__20_P1.dir
-C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/PIB/PIB '20 P1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/PIB/PIB '20 P1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
