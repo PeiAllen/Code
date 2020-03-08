@@ -27,11 +27,11 @@ int main(int argc, char * argv[]){
             te.push_back(arr[j][i]);
         }
         sort(te.begin(),te.end());
-        ans.push_back(te[n/2]);
+        ans.push_back(te[(n-1)/2]);
     }
     sort(ans.begin(),ans.end());
     printf("YES\n");
-    for(int i=0;i<n;i++)printf("%d\n",ans[n/2]);
+    for(int i=0;i<n;i++)printf("%lli ",-ans[(n-1)/2]);
 //    for(int i=0;i<n;i++){
 //        for(int j=0;j<n;j++)arr[i][j]-=ans[n/2];
 //    }
