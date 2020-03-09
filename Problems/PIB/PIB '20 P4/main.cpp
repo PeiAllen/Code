@@ -5,8 +5,9 @@ typedef pair<int,int> pii;
 typedef pair<lli,lli> pll;
 template<typename T>
 int sz(const T &a){return (int)a.size();}
-const int MAXN=1e5+1;
+const int MAXN=2e3+1;
 lli mod=1e9+7;
+lli pr=5;
 lli fix(lli a){
     if(a<0)a+=mod;
     if(a>=mod)a-=mod;
@@ -20,34 +21,57 @@ lli fastpow(lli a,lli b){
     }
     return ans;
 }
+void mut(int l, int r, vector<lli>& poly,vector<lli>& values){
+    if(l==r){
+        values[l*2]=1+poly[l];//ntt later
+        values[l*2+1]=1-poly[l];//ntt later
+        return;
+    }
+    int mid=(l+r)/2;
+    mut(l,mid,poly,values),mut(mid+1,r,poly,values);
+
+}
 lli fact[MAXN];
 lli inv[MAXN];
 lli choose(lli a,lli b){
     return ((fact[a]*inv[b]%mod)*inv[a-b])%mod;
 }
 vector<int> matrix[MAXN];
-lli dp[MAXN][17];
-lli sum[MAXN][17];
+lli dp[MAXN][17][142];
 int height;
+int degree;
 void dfsdown(int loc,int parent){
-    dp[loc][0]=1;
-    sum[loc][0]=1;
-    for(int i=1;i<height;i++)dp[loc][i]=0,sum[loc][i]=0;
+    lli ways[17][317];
+    for(int i=0;i<=degree;i++)dp[loc][0][i]=0;
+    dp[loc][0][degree]=1;
+    for(int i=1;i<height;i++){
+        for(int k=0;k<=degree;k++)ways[i][k]=0;
+        ways[i][0]=1;
+    }
     for(int x:matrix[loc]){
         if(x!=parent){
             dfsdown(x,loc);
             for(int i=0;i<height-1;i++){
-                dp[loc][i+1]=fix(dp[loc][i+1]+(dp[x][i]*sum[loc][i]%mod));
-                sum[loc][i]=fix(sum[loc][i]+dp[x][i]);
+                for(int j=degree;j>=1;j--) {
+                    ways[i+1][j]=fix(ways[i+1][j]+(ways[i+1][j-1]*dp[x][i][degree]%mod));
+                }
             }
         }
     }
+    for(int i=1;i<height;i++) {
+        for(int j=0;j<=degree;j++)dp[loc][i][j] = ways[i][j];
+    }
 }
 void dfsup(int loc, int parent){
-    for(int i=0;i<height-1;i++){
-        lli up=fix(dp[parent][i]-(i?dp[loc][i-1]*fix(sum[parent][i-1]-dp[loc][i-1])%mod:(lli)0));
-        dp[loc][i+1]=fix(dp[loc][i+1]+(up*sum[loc][i]%mod));
-        sum[loc][i]=fix(sum[loc][i]+up);
+    if(loc!=1)for(int i=height-1;i>=0;i--){
+        lli up=1;
+        if(i) {
+            up = fix(dp[parent][i][1] - dp[loc][i - 1][degree]);
+            for (int j = 2; j <= degree; j++) {
+                up = fix(dp[parent][i][j] - (up * dp[loc][i - 1][degree]%mod));
+            }
+        }
+        for(int j=degree;j>=1;j--)dp[loc][i+1][j]=fix(dp[loc][i+1][j]+(up*dp[loc][i+1][j-1]%mod));
     }
     for(int x:matrix[loc]){
         if(x!=parent){
@@ -77,11 +101,11 @@ int main(){
     for(int i=1;i<=n;i++)for(int j=l3m+1;j<=sz(matrix[i]);j++){
         ans=fix(ans+choose(sz(matrix[i]),j));
     }
-    for(int i=2;i<=l3m;i++){
-        height=log((double)n)/log((double)i)+1;
+    for(degree=2;degree<=l3m;degree++){
+        height=log((double)n)/log((double)degree)+1;
         dfsdown(1,0),dfsup(1,0);
         for(int j=1;j<=n;j++){
-            for(int l=1;l<height;l++)ans=fix(ans+dp[j][l]);
+            for(int l=1;l<height;l++)ans=fix(ans+dp[j][l][degree]);
         }
     }
     printf("%lli\n",ans);
