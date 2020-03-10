@@ -7,7 +7,6 @@ template<typename T>
 int sz(const T &a){return (int)a.size();}
 const int MAXN=2e3+1;
 lli mod=1e9+7;
-lli pr=5;
 lli fix(lli a){
     if(a<0)a+=mod;
     if(a>=mod)a-=mod;
@@ -20,16 +19,6 @@ lli fastpow(lli a,lli b){
         a=a*a%mod;
     }
     return ans;
-}
-void mut(int l, int r, vector<lli>& poly,vector<lli>& values){
-    if(l==r){
-        values[l*2]=1+poly[l];//ntt later
-        values[l*2+1]=1-poly[l];//ntt later
-        return;
-    }
-    int mid=(l+r)/2;
-    mut(l,mid,poly,values),mut(mid+1,r,poly,values);
-
 }
 lli fact[MAXN];
 lli inv[MAXN];
