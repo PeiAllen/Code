@@ -6,6 +6,7 @@ typedef pair<lli,lli> pll;
 template<typename T>
 int sz(const T &a){return (int)a.size();}
 char arr[3001][3001];
+
 int dp[3];
 int te[3];
 int main(){

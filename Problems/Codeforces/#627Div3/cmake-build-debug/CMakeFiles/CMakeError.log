@@ -1,0 +1,26 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/#627Div3/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_68e79/fast 
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_68e79.dir\build.make CMakeFiles/cmTC_68e79.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/#627Div3/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: Leaving directory 'C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/#627Div3/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target 'C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/', needed by 'CMakeFiles/cmTC_68e79.dir/feature_tests.c.obj'.  Stop.
+Makefile:120: recipe for target 'cmTC_68e79/fast' failed
+mingw32-make.exe: *** [cmTC_68e79/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/#627Div3/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_33ca1/fast 
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_33ca1.dir\build.make CMakeFiles/cmTC_33ca1.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/#627Div3/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: Leaving directory 'C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/#627Div3/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target 'C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/', needed by 'CMakeFiles/cmTC_33ca1.dir/feature_tests.cxx.obj'.  Stop.
+Makefile:120: recipe for target 'cmTC_33ca1/fast' failed
+mingw32-make.exe: *** [cmTC_33ca1/fast] Error 2
+
+
+
