@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Swapping_Seats.dir/main.cpp.o"
+  "CMakeFiles/Swapping_Seats.dir/main.cpp.obj"
   "Swapping_Seats.pdb"
-  "Swapping_Seats"
+  "Swapping_Seats.exe"
+  "Swapping_Seats.exe.manifest"
+  "libSwapping_Seats.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
