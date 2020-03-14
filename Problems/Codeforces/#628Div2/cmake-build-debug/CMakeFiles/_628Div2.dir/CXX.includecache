@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/#628Div2/main.cpp
+algorithm
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/#628Div2/algorithm
+iostream
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/#628Div2/iostream
+numeric
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/#628Div2/numeric
+iomanip
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/#628Div2/iomanip
+cstring
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/#628Div2/cstring
+math.h
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/#628Div2/math.h
+bitset
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/#628Div2/bitset
+string
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/#628Div2/string
+vector
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/#628Div2/vector
+ctime
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/#628Div2/ctime
+queue
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/#628Div2/queue
+stack
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/#628Div2/stack
+map
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/#628Div2/map
+set
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/#628Div2/set
+
