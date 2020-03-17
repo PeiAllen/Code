@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/allen/CLionProjects/Old Christmas Lights II /main.cpp" "/Users/allen/CLionProjects/Old Christmas Lights II /cmake-build-debug/CMakeFiles/Old_Christmas_Lights_II_.dir/main.cpp.o"
+  "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Other/Old Christmas Lights II/main.cpp" "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Other/Old Christmas Lights II/cmake-build-debug/CMakeFiles/Old_Christmas_Lights_II_.dir/main.cpp.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
