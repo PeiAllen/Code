@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/E. Ehab's REAL Number Theory Problem/main.cpp
+bits/stdc++.h
+-
+../../tr.h
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/tr.h
+
