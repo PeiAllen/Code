@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(Olympiads_School_lvl6_Biweekly_Quiz__Mar_21_)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Olympiads_School_lvl6_Biweekly_Quiz__Mar_21_ main.cpp)

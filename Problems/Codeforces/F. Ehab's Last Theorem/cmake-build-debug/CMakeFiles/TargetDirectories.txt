@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/F. Ehab's Last Theorem/cmake-build-debug/CMakeFiles/F__Ehab_s_Last_Theorem.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/F. Ehab's Last Theorem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/F. Ehab's Last Theorem/cmake-build-debug/CMakeFiles/rebuild_cache.dir

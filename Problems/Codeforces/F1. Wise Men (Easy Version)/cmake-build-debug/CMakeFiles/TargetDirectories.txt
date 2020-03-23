@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/F1. Wise Men (Easy Version)/cmake-build-debug/CMakeFiles/F1__Wise_Men__Easy_Version_.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/F1. Wise Men (Easy Version)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/F1. Wise Men (Easy Version)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
