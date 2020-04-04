@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/#399Div12/cmake-build-debug/CMakeFiles/_399Div12.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/#399Div12/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/#399Div12/cmake-build-debug/CMakeFiles/rebuild_cache.dir

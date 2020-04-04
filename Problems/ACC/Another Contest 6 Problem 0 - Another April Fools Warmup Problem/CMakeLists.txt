@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(Another_Contest_6_Problem_0___Another_April_Fools_Warmup_Problem)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Another_Contest_6_Problem_0___Another_April_Fools_Warmup_Problem main.cpp)

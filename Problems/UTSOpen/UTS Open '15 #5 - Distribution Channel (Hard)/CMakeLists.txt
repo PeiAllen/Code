@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(UTS_Open__15__5___Distribution_Channel__Hard_)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(UTS_Open__15__5___Distribution_Channel__Hard_ main.cpp)

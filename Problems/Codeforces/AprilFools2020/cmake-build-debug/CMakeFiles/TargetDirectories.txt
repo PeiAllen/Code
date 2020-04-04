@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/AprilFools2020/cmake-build-debug/CMakeFiles/AprilFools2020.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/AprilFools2020/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/AprilFools2020/cmake-build-debug/CMakeFiles/rebuild_cache.dir
