@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(DMOPC__18_Contest_4_P5___Dr__Henri_and_Wormholes)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(DMOPC__18_Contest_4_P5___Dr__Henri_and_Wormholes main.cpp)

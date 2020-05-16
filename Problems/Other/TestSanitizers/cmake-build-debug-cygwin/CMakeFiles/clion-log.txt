@@ -1,0 +1,4 @@
+C:\Users\allen\.CLion2019.2\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/c/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Other/TestSanitizers
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Other/TestSanitizers/cmake-build-debug-cygwin

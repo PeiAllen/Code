@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(Mock_CCO__18_Contest_2_Problem_5___Victor_s_Triangles)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Mock_CCO__18_Contest_2_Problem_5___Victor_s_Triangles main.cpp)

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(JOI_Open_2016_P2____Selling_RNA_Strands)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(JOI_Open_2016_P2____Selling_RNA_Strands main.cpp)

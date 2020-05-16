@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Other/2-D Permutations/cmake-build-debug/CMakeFiles/2_D_Permutations.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Other/2-D Permutations/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Other/2-D Permutations/cmake-build-debug/CMakeFiles/rebuild_cache.dir

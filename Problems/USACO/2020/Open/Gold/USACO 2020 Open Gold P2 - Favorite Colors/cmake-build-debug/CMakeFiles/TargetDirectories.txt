@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/2020/Open/Gold/USACO 2020 Open Gold P2 - Favorite Colors/cmake-build-debug/CMakeFiles/USACO_2020_Open_Gold_P2___Favorite_Colors.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/2020/Open/Gold/USACO 2020 Open Gold P2 - Favorite Colors/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/USACO/2020/Open/Gold/USACO 2020 Open Gold P2 - Favorite Colors/cmake-build-debug/CMakeFiles/rebuild_cache.dir

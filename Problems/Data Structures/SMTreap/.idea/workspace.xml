@@ -12,52 +12,93 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3d8a36b-6c04-4406-b152-bc7ce82fd4dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../CCO/Mock CCO '18 Contest 2 Problem 5 - Victor's Triangles/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COCI/COCI '19 Contest 3 #4 Lampice/.idea/COCI '19 Contest 3 #4 Lampice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COCI/COCI '19 Contest 3 #5 Sob/.idea/COCI '19 Contest 3 #5 Sob.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Codeforces/#633Div1/.idea/#633Div1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Codeforces/#634Div3/.idea/#634Div3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Codeforces/#635Div1/.idea/#635Div1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Codeforces/E. Aquarium decoration/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Codeforces/E. Aquarium decoration/.idea/E. Aquarium decoration.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Codeforces/Edu85/.idea/Edu85.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GCJ/Round1A2020/.idea/Round1A2020.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JOI/JOI '14 - Pinball/.idea/JOI '14 - Pinball.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MCPT/Competitive Branch Contest #7/.idea/Competitive Branch Contest #7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Other/2-D Permutations/.idea/2-D Permutations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Other/Art Academy Contest/.idea/Art Academy Contest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Other/Art Academy III Sabotage/.idea/Art Academy III Sabotage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Other/Construction of Highway/.idea/Construction of Highway.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Other/MockCCOApril4/.idea/MockCCOApril4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Other/Wac4P1/tasks/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../USACO/2020/Open/Gold/USACO 2020 Open Gold P2 - Favorite Colors/.idea/USACO 2020 Open Gold P2 - Favorite Colors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WAC/WAC4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WAC/WAC4/.idea/WAC4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WAC/Wesley's Anger Contest 4 Problem 3/.idea/Wesley's Anger Contest 4 Problem 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WAC/Wesley's Anger Contest 4 Problem 6/.idea/Wesley's Anger Contest 4 Problem 6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WAC/Wesley's Anger Contest 4 Problem 6/brute.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WAC/Wesley's Anger Contest 4 Problem 6/gen.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WAC/Wesley's Anger Contest 5 Problem 4/.idea/Wesley's Anger Contest 5 Problem 4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WAC/Wesley's Anger Contest 5 Problem 4/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SMTreap.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SMTreap.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SMTreap.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SMTreap.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SMTreap.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SMTreap.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SMTreap.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SMTreap.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/SMTreap.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/SMTreap.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/SMTreap.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/SMTreap.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/.idea/OCC '19 S5 - City Tolls.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/3.14.3/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/3.14.3/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/3.14.3/CMakeRCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/3.14.3/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/OCC__19_S5___City_Tolls.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/OCC__19_S5___City_Tolls.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/OCC__19_S5___City_Tolls.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/OCC__19_S5___City_Tolls.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/OCC__19_S5___City_Tolls.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/OCC__19_S5___City_Tolls.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/OCC__19_S5___City_Tolls.dir/linklibs.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/OCC__19_S5___City_Tolls.dir/objects1.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/OCC__19_S5___City_Tolls.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/OCC__19_S5___City_Tolls.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OCC/OCC '19 S5 - City Tolls/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/3.14.5/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/3.14.5/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/3.14.5/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/3.14.5/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/3.14.5/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/3.14.5/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/UTS_Open__19_P3___Government_TaxesGEN.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/UTS_Open__19_P3___Government_TaxesGEN.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/UTS_Open__19_P3___Government_TaxesGEN.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/UTS_Open__19_P3___Government_TaxesGEN.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/UTS_Open__19_P3___Government_TaxesGEN.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/UTS_Open__19_P3___Government_TaxesGEN.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/UTS_Open__19_P3___Government_TaxesGEN.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/UTS_Open__19_P3___Government_TaxesGEN.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/UTS_Open__19_P3___Government_TaxesGEN.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/UTS_Open__19_P3___Government_TaxesGEN.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/UTS_Open__19_P3___Government_TaxesGEN.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/UTS_Open__19_P3___Government_TaxesGEN.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/UTS_Open__19_P3___Government_TaxesGEN.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/UTS_Open__19_P3___Government_TaxesGEN.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/UTS_Open__19_P3___Government_TaxesGEN.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" afterPath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/UTS_Open__19_P3___Government_TaxesGEN.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/UTS_Open__19_P3___Government_TaxesGEN.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../UTS Open/UTS Open '19 P3 - Government TaxesGEN/cmake-build-debug/cmake_install.cmake" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,61 +109,14 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/main.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="87" column="12" lean-forward="true" selection-end-line="107" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://C:/MinGW/include/stdio.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="772">
-              <caret line="474" column="9" selection-start-line="474" selection-start-column="9" selection-end-line="474" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/main.cpp" />
-      </list>
-    </option>
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="ZacAITdE" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1273" />
-    <option name="width" value="1294" />
-    <option name="height" value="1407" />
-  </component>
+  <component name="ProjectId" id="1bJ8u1wy2n6zJcaHrslX279Gsea" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -169,59 +163,28 @@
       <workItem from="1566743216200" duration="216000" />
       <workItem from="1566754967278" duration="207000" />
       <workItem from="1567013248528" duration="2497000" />
+      <workItem from="1588339060492" duration="3087000" />
+      <workItem from="1588376267274" duration="868000" />
+      <workItem from="1588430059425" duration="1018000" />
+      <workItem from="1588604335150" duration="1277000" />
+      <workItem from="1588791017659" duration="4752000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13890000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="1273" y="0" width="1294" height="1407" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29254457" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Messages" order="8" visible="true" weight="0.32967034" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32967034" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="CMake" order="12" weight="0.32967034" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Cargo" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://C:/MinGW/include/stdio.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="772">
-          <caret line="474" column="9" selection-start-line="474" selection-start-column="9" selection-end-line="474" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="87" column="12" lean-forward="true" selection-end-line="107" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

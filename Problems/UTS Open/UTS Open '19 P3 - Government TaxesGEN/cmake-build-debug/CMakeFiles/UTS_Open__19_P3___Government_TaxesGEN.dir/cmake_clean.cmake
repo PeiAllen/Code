@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/UTS_Open__19_P3___Government_TaxesGEN.dir/main.cpp.o"
+  "CMakeFiles/UTS_Open__19_P3___Government_TaxesGEN.dir/main.cpp.obj"
   "UTS_Open__19_P3___Government_TaxesGEN.pdb"
-  "UTS_Open__19_P3___Government_TaxesGEN"
+  "UTS_Open__19_P3___Government_TaxesGEN.exe"
+  "UTS_Open__19_P3___Government_TaxesGEN.exe.manifest"
+  "libUTS_Open__19_P3___Government_TaxesGEN.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

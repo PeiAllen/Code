@@ -1,108 +1,97 @@
-#include<bits/stdc++.h>
-
+#include <bits/stdc++.h>
 using namespace std;
 typedef long long int lli;
-typedef pair<int, int> pii;
-typedef pair <lli, lli> pll;
-random_device rd;
-struct node {
-	int data, size;
-	struct node *child[2];
-	unsigned int priority;
-	node(int a) {
-		size = 1;
-		data = a;
-		child[0] = NULL;
-		child[1] = NULL;
-		priority = rd();
-	}
-	int gtsz(int a) { return (child[a] ? child[a]->size : 0); }
-	void recalc() { size = gtsz(0) + gtsz(1) + 1; }
-	void split(int key, node *&left, node *&right) {//inclusive left
-		if (data <= key) {
-			if (child[1])child[1]->split(key, child[1], right), left = this;
-			else right = NULL, left = this;
-		} else {
-			if (child[0])child[0]->split(key, left, child[0]), right = this;
-			else left = NULL, right = this;
-		}
-		recalc();
-	}
-	void merge(node* & toset, node* left, node * right) {
-		if (!left || !right)toset = (left ? left : right);
-		else if (left->priority > right->priority)merge(left->child[1], left->child[1], right), toset = left;
-		else merge(right->child[0], left, right->child[0]), toset = right;
-		toset->recalc();
-	}
-	void erase(int a, node* & toset){
-		if(data==a){
-			merge(toset,child[0],child[1]);
-			free(this);
-		}
-		int ch=(data<a);
-		if(child[ch])erase(a,child[ch]);
-	}
-	int at(int a){
-		if(gtsz(0)+1==a)return data;
-		if(gtsz(0)+1>a)return child[0]->at(a);
-		return (child[1]?child[1]->at(a-gtsz(0)-1):INT_MAX);
-	}
-	int getind(int a){
-		if(data==a){
-			int te=(child[0]?child[0]->getind(a):INT_MIN);
-			return (te<1?gtsz(0)+1:te);
-		}
-		if(a<data)return child[0]->getind(a);
-		return (child[1]?child[1]->getind(a)+gtsz(0)+1:INT_MIN);
-	}
-	void print(){
-		if(child[0])child[0]->print();
-		printf("%d ",data);
-		if(child[1])child[1]->print();
-	}
+typedef pair<int,int> pii;
+typedef pair<lli,lli> pll;
+template<typename T>
+int sz(const T &a){return (int)a.size();}
+struct node{
+    int data,size;
+    int prio;
+    node* l,*r;
+    node(int d,int p){
+        data=d,size=1,prio=p,l=NULL,r=NULL;
+    }
+    void calc(){size=1+(l?l->size:0)+(r?r->size:0);}
 };
-struct SMTreap {
-	node* rt;
-	SMTreap(){
-		rt=NULL;
-	}
-	void insert(int a){
-		if(!rt)rt= new node(a);
-		else{
-			node* te= new node(a);
-			rt->split(a,te->child[0],te->child[1]);
-			rt=te;
-		}
-	}
-	void erase(int a){if(rt)rt->erase(a,rt);}
-	int operator[](int a){return (rt&&a>0?rt->at(a):INT_MAX);}
-	int getind(int a){
-		int te=(rt?rt->getind(a):INT_MIN);
-		return (te<1?-1:te);
-	}
-	void print(){if(rt)rt->print();}
-};
-int main() {
-	cin.tie(NULL);
-	ios_base::sync_with_stdio(false);
-	int n,m;
-	cin>>n>>m;
-	int a;
-	SMTreap root;
-	for(int i=0;i<n;i++){
-		cin>>a;
-		root.insert(a);
-	}
-	char in;
-	int last=0;
-	while(m--){
-		cin>>in>>a;
-		a^=last;
-		if(in=='I')root.insert(a);
-		else if(in=='R')root.erase(a);
-		else if(in=='S')printf("%d\n",last=root[a]);
-		else printf("%d\n",last=root.getind(a));
-	}
-	root.print();
-	return 0;
+struct Treap{
+    node *root;
+    Treap(){
+        root=NULL;
+    }
+    int gtsz(node* cur){
+        return (cur?cur->size:0);
+    }
+    void split(node* cur,node*& l, node*& r, int mid){
+        if(!cur)l=r=NULL;
+        else if(cur->data>=mid)split(cur->l,l,cur->l,mid),r=cur;
+        else split(cur->r,cur->r,r,mid),l=cur;
+        if(cur)cur->calc();
+    }
+    void merge(node*& rt,node* l, node* r){
+        if(!l||!r)rt=(l?l:r);
+        else if(l->prio>r->prio)rt=l,merge(l->r,l->r,r);
+        else rt=r,merge(r->l,l,r->l);
+        if(rt)rt->calc();
+    }
+    void insert(node*& cur,node* ne){
+        if(!cur)cur=ne;
+        else if(cur->prio<ne->prio)split(cur,ne->l,ne->r,ne->data),cur=ne;
+        else insert(ne->data>=cur->data?cur->r:cur->l,ne);
+        cur->calc();
+    }
+    void insert(node* ne){insert(root,ne);}
+    void erase(node*& cur,int val){
+        if(!cur)return;
+        if(cur->data==val)merge(cur,cur->l,cur->r);
+        else erase(val>cur->data?cur->r:cur->l,val);
+        if(cur)cur->calc();
+    }
+    void erase(int val){erase(root,val);}
+    int at(node* cur,int ind){
+        if(!cur)return -1;
+        if(gtsz(cur->l)+1==ind)return cur->data;
+        if(gtsz(cur->l)+1<ind)return at(cur->r,ind-gtsz(cur->l)-1);
+        return at(cur->l,ind);
+    }
+    int at(int ind){return at(root,ind);}
+    int find(node* cur,int val){
+        if(!cur)return -1;
+        if(cur->data==val)return gtsz(cur->l)+1;
+        if(val>cur->data){
+            int te=find(cur->r,val);
+            return (te==-1?te:te+gtsz(cur->l)+1);
+        }
+        return find(cur->l,val);
+    }
+    int find(int val){return find(root,val);}
+    void pt(node* cur){
+        if(!cur)return;
+        pt(cur->l),printf("%d ",cur->data),pt(cur->r);
+    }
+    void pt(){pt(root);}
+}tree;
+
+int main(){
+    cin.tie(NULL);
+    ios_base::sync_with_stdio(false);
+    int n,m;
+    cin>>n>>m;
+    int a;
+    for(int i=0;i<n;i++){
+        cin>>a;
+        tree.insert(new node(a,rand()));
+    }
+    int last=0;
+    char x;
+    while(m--){
+        cin>>x>>a;
+        a^=last;
+        if(x=='I')tree.insert(new node(a,rand()));
+        else if(x=='R')tree.erase(a);
+        else if(x=='S')printf("%d\n",last=tree.at(a));
+        else printf("%d\n",last=tree.find(a));
+    }
+    tree.pt();
+    return 0;
 }

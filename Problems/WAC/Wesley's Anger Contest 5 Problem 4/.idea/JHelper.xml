@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Configurator">
+    <option name="author" value="Allen" />
+    <option name="outputFile" value="output" />
+    <option name="runFile" value="main.cpp" />
+  </component>
+</project>

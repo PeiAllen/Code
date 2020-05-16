@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(Olympiads_School_lvl7_Homework__Mock_CCO_May_09_)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Olympiads_School_lvl7_Homework__Mock_CCO_May_09_ main.cpp)

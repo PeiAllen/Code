@@ -1,0 +1,26 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/MCPT/Competitive Branch Contest #7/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_5cf7e/fast 
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_5cf7e.dir\build.make CMakeFiles/cmTC_5cf7e.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/MCPT/Competitive Branch Contest #7/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: Leaving directory 'C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/MCPT/Competitive Branch Contest #7/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target 'C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/MCPT/Competitive Branch Contest\', needed by 'CMakeFiles/cmTC_5cf7e.dir/feature_tests.c.obj'.  Stop.
+Makefile:120: recipe for target 'cmTC_5cf7e/fast' failed
+mingw32-make.exe: *** [cmTC_5cf7e/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/MCPT/Competitive Branch Contest #7/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_8dd3c/fast 
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_8dd3c.dir\build.make CMakeFiles/cmTC_8dd3c.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/MCPT/Competitive Branch Contest #7/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: Leaving directory 'C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/MCPT/Competitive Branch Contest #7/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target 'C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/MCPT/Competitive Branch Contest\', needed by 'CMakeFiles/cmTC_8dd3c.dir/feature_tests.cxx.obj'.  Stop.
+Makefile:120: recipe for target 'cmTC_8dd3c/fast' failed
+mingw32-make.exe: *** [cmTC_8dd3c/fast] Error 2
+
+
+
