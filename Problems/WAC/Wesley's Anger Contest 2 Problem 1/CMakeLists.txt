@@ -3,4 +3,4 @@ project(Wesley_s_Anger_Contest_2_Problem_1)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Wesley_s_Anger_Contest_2_Problem_1 main.cpp)
+add_executable(Wesley_s_Anger_Contest_2_Problem_1 main.cpp brute.cpp gen.cpp)

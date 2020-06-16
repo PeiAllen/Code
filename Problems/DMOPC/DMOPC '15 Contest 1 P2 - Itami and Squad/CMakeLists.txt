@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(DMOPC__15_Contest_1_P2___Itami_and_Squad)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(DMOPC__15_Contest_1_P2___Itami_and_Squad main.cpp)

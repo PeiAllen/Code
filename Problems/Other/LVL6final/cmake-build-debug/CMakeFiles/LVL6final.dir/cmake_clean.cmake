@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LVL6final.dir/main.cpp.o"
+  "CMakeFiles/LVL6final.dir/main.cpp.obj"
+  "LVL6final.exe"
+  "LVL6final.exe.manifest"
   "LVL6final.pdb"
-  "LVL6final"
+  "libLVL6final.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

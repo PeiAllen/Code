@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(Another_Contest_5_Problem_3___Cutting_Cheese_Costs)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Another_Contest_5_Problem_3___Cutting_Cheese_Costs main.cpp)

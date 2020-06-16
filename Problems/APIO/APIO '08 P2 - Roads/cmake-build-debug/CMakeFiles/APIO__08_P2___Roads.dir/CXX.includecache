@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/APIO/APIO '08 P2 - Roads/main.cpp
+bits/stdc++.h
+-
+

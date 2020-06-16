@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCC/CCC '12 S3 - Absolutely Acidic/main.cpp
+bits/stdc++.h
+-
+

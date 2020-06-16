@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="191e6b1f-51e7-49b8-a106-3c4d5ec0cc54" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../ACC/Another Contest 5 Problem 3 - Cutting Cheese Costs/.idea/Another Contest 5 Problem 3 - Cutting Cheese Costs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../APIO/APIO '07 P1 - Mobiles/.idea/APIO '07 P1 - Mobiles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../APIO/APIO '07 P2 - Backup/.idea/APIO '07 P2 - Backup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../APIO/APIO '08 P2 - Roads/.idea/APIO '08 P2 - Roads.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../APIO/APIO '08 P3 - DNA/.idea/APIO '08 P3 - DNA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CCC/CCC '02 S2 - Fraction Action/.idea/CCC '02 S2 - Fraction Action.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CCC/CCC '12 S3 - Absolutely Acidic/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CCC/CCC '12 S3 - Absolutely Acidic/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CCC/CCC '12 S3 - Absolutely Acidic/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CCO/04P1/.idea/04P1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CCO/2004P1/.idea/2004P1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CCO/2020ContestDay1/.idea/2020ContestDay1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CCO/CCO '04 P1 - Scribble/.idea/CCO '04 P1 - Scribble.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CCO/CCO '04 P3 - S and K/.idea/CCO '04 P3 - S and K.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CCO/CCO '20 P4 - Travelling Salesperson/.idea/CCO '20 P4 - Travelling Salesperson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CCO/CCO '20 P5 - Interval Collection/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CCO/CCO '20 P5 - Interval Collection/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CCO/CCO '20 P5 - Interval Collection/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CCO/CCO '20 P5 - Interval Collection/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CCO/CCO '20 P5 - Interval Collection/.idea/CCO '20 P5 - Interval Collection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CCO/CCO '20 P6 - Shopping Plans/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CCO/CCO '20 P6 - Shopping Plans/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CCO/CCO '20 P6 - Shopping Plans/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CCO/CCO '20 P6 - Shopping Plans/.idea/CCO '20 P6 - Shopping Plans.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CCO/ContestDay2/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CCO/ContestDay2/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CCO/ContestDay2/.idea/ContestDay2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CCO/REE/.idea/REE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../COCI/COCI '09 Contest 3 #5 Patuljci/.idea/COCI '09 Contest 3 #5 Patuljci.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../COCI/COCI '15 Contest 7 #1 NIZOVI/.idea/COCI '15 Contest 7 #1 NIZOVI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Codeforces/#368Div2/.idea/#368Div2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Codeforces/#641Div1/.idea/#641Div1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Codeforces/D. Remainders Game/.idea/D. Remainders Game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Codeforces/D. Yet Another Yet Another Task/.idea/D. Yet Another Yet Another Task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Codeforces/E. The Values You Can Make/.idea/E. The Values You Can Make.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Codeforces/Stable Decrease/.idea/Stable Decrease.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../DMOPC/DMOPC '14 Contest 1 P1 - Median Mark/.idea/DMOPC '14 Contest 1 P1 - Median Mark.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../DMOPC/DMOPC '14 Contest 5 P5 - Aircraft Carrier Akagi/.idea/DMOPC '14 Contest 5 P5 - Aircraft Carrier Akagi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../DMOPC/DMOPC '14 Contest 6 P5 - Attack on Anti-Spiral/.idea/DMOPC '14 Contest 6 P5 - Attack on Anti-Spiral.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../DMOPC/DMOPC '15 Contest 1 P2 - Itami and Squad/.idea/DMOPC '15 Contest 1 P2 - Itami and Squad.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../DMOPC/DMOPC '19 Contest 6 P6 - Math is Difficult/.idea/DMOPC '19 Contest 6 P6 - Math is Difficult.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../DMOPC/DMOPC '19 Contest 7 P4 - Bob and Continued Fractions/.idea/DMOPC '19 Contest 7 P4 - Bob and Continued Fractions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../DMOPC/DMOPC '19 Contest 7 P7 - Fluid Dynamics/.idea/DMOPC '19 Contest 7 P7 - Fluid Dynamics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Data Structures/Binary Search Tree Test Sqrt/.idea/Binary Search Tree Test Sqrt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Other/Akame/.idea/Akame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Other/Bob Valley/.idea/Bob Valley.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Other/Bob and Hocky Game/.idea/Bob and Hocky Game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Other/Bob's Kitchen/.idea/Bob's Kitchen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Other/Fast LCA/.idea/Fast LCA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Other/Olympiads School lvl7 Homework (Mock CCO May 14)/.idea/Olympiads School lvl7 Homework (Mock CCO May 14).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Other/Pathfinder/.idea/Pathfinder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Other/Pleasework/.idea/Pleasework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Other/REEE/.idea/REEE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Other/TestEdward/.idea/TestEdward.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Other/TestGen/.idea/TestGen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Other/TestGen/gen.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Other/TestPBDS/.idea/TestPBDS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Other/Testing/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Other/Testing/.idea/Testing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Other/Testing2/.idea/Testing2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Other/We Need To Talk About Fifty-Five/.idea/We Need To Talk About Fifty-Five.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Other/blobsad/.idea/blobsad.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Other/pleaseowrk/.idea/pleaseowrk.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Other/ree/.idea/ree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Other/workpleaselmfao/.idea/workpleaselmfao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/brute.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/gen.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CEOI__17_P4___Building_Bridges.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CEOI__17_P4___Building_Bridges.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/3.14.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/3.14.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/3.14.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/3.14.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/CEOI__17_P4___Building_Bridges.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/CEOI__17_P4___Building_Bridges.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/CEOI__17_P4___Building_Bridges.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/CEOI__17_P4___Building_Bridges.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/CEOI__17_P4___Building_Bridges.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/CEOI__17_P4___Building_Bridges.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/CEOI__17_P4___Building_Bridges.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/CEOI__17_P4___Building_Bridges.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/CEOI__17_P4___Building_Bridges.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/CEOI__17_P4___Building_Bridges.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../CEOI/CEOI '17 P4 - Building Bridges/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../DMOPC/DMOPC '19 Contest 7 P5 - Soriya's Programming Project/cmake-build-debug/CMakeFiles/DMOPC__19_Contest_7_P5___Soriya_s_Programming_Project.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../DMOPC/DMOPC '19 Contest 7 P5 - Soriya's Programming Project/cmake-build-debug/CMakeFiles/DMOPC__19_Contest_7_P5___Soriya_s_Programming_Project.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../DMOPC/DMOPC '19 Contest 7 P5 - Soriya's Programming Project/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../DMOPC/DMOPC '19 Contest 7 P5 - Soriya's Programming Project/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/3.14.5/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/3.14.5/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/3.14.5/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/LVL6final.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/LVL6final.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/LVL6final.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/LVL6final.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/LVL6final.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/LVL6final.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/LVL6final.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/LVL6final.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/LVL6final.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/LVL6final.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/LVL6final.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/LVL6final.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/LVL6final.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/LVL6final.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/LVL6final.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/LVL6final.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/LVL6final.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Other/LVL6final/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/Olympiads_School_lvl7_Homework__Mock_CCO_May_09_.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/Olympiads_School_lvl7_Homework__Mock_CCO_May_09_.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/Olympiads_School_lvl7_Homework__Mock_CCO_May_09_.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/Olympiads_School_lvl7_Homework__Mock_CCO_May_09_.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/Olympiads_School_lvl7_Homework__Mock_CCO_May_09_.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/Olympiads_School_lvl7_Homework__Mock_CCO_May_09_.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/3.14.5/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/3.14.5/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/3.14.5/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/3.14.5/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_1.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_1.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_1.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_1.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_1.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_1.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_1.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_1.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_1.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_1.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_1.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_1.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_1.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_1.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_1.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_1.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_1.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_1.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_1.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_1.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/Wesley_s_Anger_Contest_2_Problem_1.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/Wesley_s_Anger_Contest_2_Problem_1.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/3.14.5/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/3.14.5/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/3.14.5/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/3.14.5/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_4.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_4.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_4.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_4.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_4.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_4.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_4.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_4.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_4.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_4.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_4.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_4.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_4.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_4.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/Wesley_s_Anger_Contest_2_Problem_4.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WAC/Wesley's Anger Contest 2 Problem 4/cmake-build-debug/Wesley_s_Anger_Contest_2_Problem_4.cbp" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\Templates\Graph\Undirected\Components\Bridges\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dMy3stFwgNWDKWSXlg6791YZHW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="191e6b1f-51e7-49b8-a106-3c4d5ec0cc54" name="Default Changelist" comment="" />
+      <created>1592249060235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592249060235</updated>
+      <workItem from="1592249061437" duration="20000" />
+      <workItem from="1592249089131" duration="105000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

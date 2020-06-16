@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/DMOPC/DMOPC '14 Contest 1 P1 - Median Mark/main.cpp
+bits/stdc++.h
+-
+

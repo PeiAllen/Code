@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Other/Lvl6FinalQuiz/cmake-build-debug/CMakeFiles/Lvl6FinalQuiz.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Other/Lvl6FinalQuiz/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Other/Lvl6FinalQuiz/cmake-build-debug/CMakeFiles/rebuild_cache.dir

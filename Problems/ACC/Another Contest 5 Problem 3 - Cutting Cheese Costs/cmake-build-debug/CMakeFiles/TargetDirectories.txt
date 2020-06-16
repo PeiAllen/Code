@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/ACC/Another Contest 5 Problem 3 - Cutting Cheese Costs/cmake-build-debug/CMakeFiles/Another_Contest_5_Problem_3___Cutting_Cheese_Costs.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/ACC/Another Contest 5 Problem 3 - Cutting Cheese Costs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/ACC/Another Contest 5 Problem 3 - Cutting Cheese Costs/cmake-build-debug/CMakeFiles/rebuild_cache.dir

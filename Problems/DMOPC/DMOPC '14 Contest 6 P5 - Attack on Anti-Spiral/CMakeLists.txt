@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(DMOPC__14_Contest_6_P5___Attack_on_Anti_Spiral)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(DMOPC__14_Contest_6_P5___Attack_on_Anti_Spiral main.cpp)

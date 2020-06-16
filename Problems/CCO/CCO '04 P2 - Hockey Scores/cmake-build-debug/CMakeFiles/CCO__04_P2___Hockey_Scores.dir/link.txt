@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.1.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\CCO__04_P2___Hockey_Scores.dir/objects.a
+C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\ar.exe cr CMakeFiles\CCO__04_P2___Hockey_Scores.dir/objects.a @CMakeFiles\CCO__04_P2___Hockey_Scores.dir\objects1.rsp
+C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\CCO__04_P2___Hockey_Scores.dir/objects.a -Wl,--no-whole-archive  -o CCO__04_P2___Hockey_Scores.exe -Wl,--out-implib,libCCO__04_P2___Hockey_Scores.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CCO__04_P2___Hockey_Scores.dir\linklibs.rsp

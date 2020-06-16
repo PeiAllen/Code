@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Wesley_s_Anger_Contest_2_Problem_4.dir/main.cpp.obj"
-  "Wesley_s_Anger_Contest_2_Problem_4.pdb"
   "Wesley_s_Anger_Contest_2_Problem_4.exe"
   "Wesley_s_Anger_Contest_2_Problem_4.exe.manifest"
+  "Wesley_s_Anger_Contest_2_Problem_4.pdb"
   "libWesley_s_Anger_Contest_2_Problem_4.dll.a"
 )
 

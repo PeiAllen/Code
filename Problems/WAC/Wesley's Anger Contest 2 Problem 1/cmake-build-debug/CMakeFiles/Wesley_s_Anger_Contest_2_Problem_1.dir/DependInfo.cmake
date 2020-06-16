@@ -4,6 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/WAC/Wesley's Anger Contest 2 Problem 1/brute.cpp" "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_1.dir/brute.cpp.obj"
+  "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/WAC/Wesley's Anger Contest 2 Problem 1/gen.cpp" "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_1.dir/gen.cpp.obj"
   "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/WAC/Wesley's Anger Contest 2 Problem 1/main.cpp" "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/WAC/Wesley's Anger Contest 2 Problem 1/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_2_Problem_1.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

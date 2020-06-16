@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO '04 P3 - S and K/main.cpp
+iostream
+-
+string
+-
+map
+-
+

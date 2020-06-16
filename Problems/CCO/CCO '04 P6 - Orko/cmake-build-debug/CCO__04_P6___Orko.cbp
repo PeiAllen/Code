@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CCO__04_P6___Orko"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO &apos;04 P6 - Orko/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO &apos;04 P6 - Orko/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO &apos;04 P6 - Orko/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO &apos;04 P6 - Orko/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO &apos;04 P6 - Orko/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CCO__04_P6___Orko">
+				<Option output="C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO &apos;04 P6 - Orko/cmake-build-debug/CCO__04_P6___Orko.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO &apos;04 P6 - Orko/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO &apos;04 P6 - Orko/cmake-build-debug/Makefile&quot;  VERBOSE=1 CCO__04_P6___Orko"/>
+					<CompileFile command="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO &apos;04 P6 - Orko/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO &apos;04 P6 - Orko/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO &apos;04 P6 - Orko/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CCO__04_P6___Orko/fast">
+				<Option output="C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO &apos;04 P6 - Orko/cmake-build-debug/CCO__04_P6___Orko.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO &apos;04 P6 - Orko/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO &apos;04 P6 - Orko/cmake-build-debug/Makefile&quot;  VERBOSE=1 CCO__04_P6___Orko/fast"/>
+					<CompileFile command="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO &apos;04 P6 - Orko/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO &apos;04 P6 - Orko/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO &apos;04 P6 - Orko/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO &apos;04 P6 - Orko/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO &apos;04 P6 - Orko/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO &apos;04 P6 - Orko/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO &apos;04 P6 - Orko/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO &apos;04 P6 - Orko/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO &apos;04 P6 - Orko/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO &apos;04 P6 - Orko/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO &apos;04 P6 - Orko/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO &apos;04 P6 - Orko/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO &apos;04 P6 - Orko/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO &apos;04 P6 - Orko/main.cpp">
+			<Option target="CCO__04_P6___Orko"/>
+		</Unit>
+		<Unit filename="C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO &apos;04 P6 - Orko/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

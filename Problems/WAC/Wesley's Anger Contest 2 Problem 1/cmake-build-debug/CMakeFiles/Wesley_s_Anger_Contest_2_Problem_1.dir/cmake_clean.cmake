@@ -1,8 +1,10 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Wesley_s_Anger_Contest_2_Problem_1.dir/brute.cpp.obj"
+  "CMakeFiles/Wesley_s_Anger_Contest_2_Problem_1.dir/gen.cpp.obj"
   "CMakeFiles/Wesley_s_Anger_Contest_2_Problem_1.dir/main.cpp.obj"
-  "Wesley_s_Anger_Contest_2_Problem_1.pdb"
   "Wesley_s_Anger_Contest_2_Problem_1.exe"
   "Wesley_s_Anger_Contest_2_Problem_1.exe.manifest"
+  "Wesley_s_Anger_Contest_2_Problem_1.pdb"
   "libWesley_s_Anger_Contest_2_Problem_1.dll.a"
 )
 
