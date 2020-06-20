@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(Back_From_Summer__17_P5_Confusing_Codeforces_Contest)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Back_From_Summer__17_P5_Confusing_Codeforces_Contest main.cpp)

@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Fast_LCA.dir/main.cpp.obj"
-  "Fast_LCA.pdb"
   "Fast_LCA.exe"
   "Fast_LCA.exe.manifest"
+  "Fast_LCA.pdb"
   "libFast_LCA.dll.a"
 )
 

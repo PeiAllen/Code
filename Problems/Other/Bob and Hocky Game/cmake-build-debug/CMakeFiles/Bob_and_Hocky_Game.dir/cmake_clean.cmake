@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Bob_and_Hocky_Game.dir/main.cpp.obj"
-  "Bob_and_Hocky_Game.pdb"
   "Bob_and_Hocky_Game.exe"
   "Bob_and_Hocky_Game.exe.manifest"
+  "Bob_and_Hocky_Game.pdb"
+  "CMakeFiles/Bob_and_Hocky_Game.dir/main.cpp.obj"
   "libBob_and_Hocky_Game.dll.a"
 )
 
