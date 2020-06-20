@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "Bob_s_Olympiads.exe"
-  "Bob_s_Olympiads.exe.manifest"
+  "CMakeFiles/Bob_s_Olympiads.dir/main.cpp.o"
   "Bob_s_Olympiads.pdb"
-  "CMakeFiles/Bob_s_Olympiads.dir/main.cpp.obj"
-  "libBob_s_Olympiads.dll.a"
+  "Bob_s_Olympiads"
 )
 
 # Per-language clean rules from dependency scanning.

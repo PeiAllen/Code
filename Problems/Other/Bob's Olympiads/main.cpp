@@ -29,6 +29,7 @@ int main(){
             choose[i][j]=choose[i-1][j-1]+choose[i-1][j];
         }
     }
+    printf("%lli\n",choose[429][5]);
     int n,k;
     ll c;
     cin>>n>>k>>c;
@@ -61,39 +62,40 @@ int main(){
             return 0;
         }
         c-=cur.am;
-        for(int i=1;i<(1<<k);i++){
+        set<int> used;
+        for(int i=0;i<k;i++){
+            if(used.count(i))continue;
             vector<int> godown;
-            set<int> gpeeps;
-            for(int j=0;j<k;j++){
-                if(i&(1<<j))godown.push_back(j),gpeeps.insert(arr[j][cur.locs[j]].second);
+            for(int j=i;j<k;j++){
+                if(arr[j][cur.locs[j]].second==arr[i][cur.locs[i]].second)godown.push_back(j),used.insert(j);
             }
-            if(sz(gpeeps)>1)continue;
             state te=cur;
             bool work=true;
             for(auto x:godown) {
                 te.score -= arr[x][te.locs[x]].first;
-                int miloc = INT_MAX;
-                for (int j = 0; j < k; j++) {
-                    if (j != x)miloc = min(miloc, standing[arr[j][te.locs[j]].second][x]);
-                }
-                while (te.locs[i] + 1 < n && te.locs[i] + 1 <= miloc) {
-                    te.locs[i]++;
+                bool done=false;
+                while (te.locs[x] + 1 < n) {
+                    te.locs[x]++;
                     bool baf = false;
                     int add = 1;
                     for (int j = 0; j < k && !baf; j++) {
-                        if (standing[arr[i][te.locs[i]].second][j] < te.locs[j]) {
+                        if (standing[arr[x][te.locs[x]].second][j] < te.locs[j]) {
                             baf = true;
-                        } else if (standing[arr[i][te.locs[i]].second][j] == te.locs[j])add = 0;
+                        } else if (j!=x&&standing[arr[x][te.locs[x]].second][j] == te.locs[j])add = 0;
                     }
                     if (baf)continue;
                     te.unique += add;
-                    set<int> tepeeps;
-                    te.score += arr[i][te.locs[i]].first;
-                    for (int j = 0; j < k; j++)tepeeps.insert(arr[j][te.locs[j]].second);
-                    te.am = choose[n - te.unique][k - sz(tepeeps)];
-                    q.push(te);
+                    te.score += arr[x][te.locs[x]].first;
+                    done=true;
                     break;
                 }
+                work&=done;
+            }
+            if(work){
+                set<int> tepeeps;
+                for (int j = 0; j < k; j++)tepeeps.insert(arr[j][te.locs[j]].second);
+                te.am = choose[n - te.unique][k - sz(tepeeps)];
+                q.push(te);
             }
         }
     }
