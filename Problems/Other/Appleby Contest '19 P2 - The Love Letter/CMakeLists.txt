@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(Appleby_Contest__19_P2___The_Love_Letter)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Appleby_Contest__19_P2___The_Love_Letter main.cpp)

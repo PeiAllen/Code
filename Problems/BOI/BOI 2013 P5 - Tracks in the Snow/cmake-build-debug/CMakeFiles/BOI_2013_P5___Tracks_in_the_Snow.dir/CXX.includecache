@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/BOI/BOI 2013 P5 - Tracks in the Snow/main.cpp
+bits/stdc++.h
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/BOI/BOI 2013 P5 - Tracks in the Snow/bits/stdc++.h
+

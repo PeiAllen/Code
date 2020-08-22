@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/COCI/COCI '18 Contest 6 #5 Mobitel/cmake-build-debug/CMakeFiles/COCI__18_Contest_6__5_Mobitel.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/COCI/COCI '18 Contest 6 #5 Mobitel/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/COCI/COCI '18 Contest 6 #5 Mobitel/cmake-build-debug/CMakeFiles/rebuild_cache.dir

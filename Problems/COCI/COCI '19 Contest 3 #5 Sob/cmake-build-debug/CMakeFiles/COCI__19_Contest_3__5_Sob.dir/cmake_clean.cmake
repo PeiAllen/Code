@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/COCI__19_Contest_3__5_Sob.dir/main.cpp.obj"
-  "COCI__19_Contest_3__5_Sob.pdb"
   "COCI__19_Contest_3__5_Sob.exe"
   "COCI__19_Contest_3__5_Sob.exe.manifest"
+  "COCI__19_Contest_3__5_Sob.pdb"
   "libCOCI__19_Contest_3__5_Sob.dll.a"
 )
 

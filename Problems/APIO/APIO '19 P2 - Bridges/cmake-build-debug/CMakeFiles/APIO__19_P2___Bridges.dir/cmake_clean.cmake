@@ -1,8 +1,10 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/APIO__19_P2___Bridges.dir/main.cpp.obj"
-  "APIO__19_P2___Bridges.pdb"
   "APIO__19_P2___Bridges.exe"
   "APIO__19_P2___Bridges.exe.manifest"
+  "APIO__19_P2___Bridges.pdb"
+  "CMakeFiles/APIO__19_P2___Bridges.dir/brute.cpp.obj"
+  "CMakeFiles/APIO__19_P2___Bridges.dir/gen.cpp.obj"
+  "CMakeFiles/APIO__19_P2___Bridges.dir/main.cpp.obj"
   "libAPIO__19_P2___Bridges.dll.a"
 )
 

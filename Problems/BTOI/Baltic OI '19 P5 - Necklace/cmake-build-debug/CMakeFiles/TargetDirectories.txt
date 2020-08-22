@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/BTOI/Baltic OI '19 P5 - Necklace/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/BTOI/Baltic OI '19 P5 - Necklace/cmake-build-debug/CMakeFiles/Baltic_OI__19_P5___Necklace.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/BTOI/Baltic OI '19 P5 - Necklace/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/JOI/JOI '13 - Synchronization/cmake-build-debug/CMakeFiles/JOI__13___Synchronization.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/JOI/JOI '13 - Synchronization/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/JOI/JOI '13 - Synchronization/cmake-build-debug/CMakeFiles/rebuild_cache.dir

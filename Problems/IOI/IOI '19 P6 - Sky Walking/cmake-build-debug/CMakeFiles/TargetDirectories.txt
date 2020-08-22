@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/IOI/IOI '19 P6 - Sky Walking/cmake-build-debug/CMakeFiles/IOI__19_P6___Sky_Walking.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/IOI/IOI '19 P6 - Sky Walking/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/IOI/IOI '19 P6 - Sky Walking/cmake-build-debug/CMakeFiles/rebuild_cache.dir

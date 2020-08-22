@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/JOI_Open_2016_P2____Selling_RNA_Strands.dir/main.cpp.obj"
-  "JOI_Open_2016_P2____Selling_RNA_Strands.pdb"
   "JOI_Open_2016_P2____Selling_RNA_Strands.exe"
   "JOI_Open_2016_P2____Selling_RNA_Strands.exe.manifest"
+  "JOI_Open_2016_P2____Selling_RNA_Strands.pdb"
   "libJOI_Open_2016_P2____Selling_RNA_Strands.dll.a"
 )
 

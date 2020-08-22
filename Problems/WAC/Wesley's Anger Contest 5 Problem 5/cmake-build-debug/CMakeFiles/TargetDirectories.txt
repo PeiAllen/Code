@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/WAC/Wesley's Anger Contest 5 Problem 5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/WAC/Wesley's Anger Contest 5 Problem 5/cmake-build-debug/CMakeFiles/Wesley_s_Anger_Contest_5_Problem_5.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/WAC/Wesley's Anger Contest 5 Problem 5/cmake-build-debug/CMakeFiles/edit_cache.dir

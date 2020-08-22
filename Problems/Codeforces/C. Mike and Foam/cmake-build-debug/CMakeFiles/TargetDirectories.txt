@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/C. Mike and Foam/cmake-build-debug/CMakeFiles/C__Mike_and_Foam.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/C. Mike and Foam/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/C. Mike and Foam/cmake-build-debug/CMakeFiles/rebuild_cache.dir

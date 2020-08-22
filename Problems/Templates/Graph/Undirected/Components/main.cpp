@@ -13,25 +13,22 @@ bool apoint[MAXN];
 bool bridge[MAXN];
 bool gone[MAXN];
 int components=0;
-int root;
 void GetComponents(int loc, int edgeindex, int dep){
     depth[loc]=dep,lowestdepth[loc]=dep;
-    int telowestdepth=dep;
-    int childcnt=0;
+    int degree=(edgeindex!=-1);
     for(auto x:matrix[loc]){
         if(x.second!=edgeindex){
-            if(depth[x.first])telowestdepth=min(telowestdepth,depth[x.first]);
+            if(depth[x.first])lowestdepth[loc]=min(lowestdepth[loc],depth[x.first]);
             else{
-                childcnt++;
+                degree++;
                 GetComponents(x.first,x.second,dep+1);
+                if(lowestdepth[x.first]>=dep)apoint[loc]=true;
                 lowestdepth[loc]=min(lowestdepth[loc],lowestdepth[x.first]);
             }
         }
     }
-    apoint[loc]=(lowestdepth[loc]==dep);
-    if(loc==root&&childcnt==1)apoint[loc]=false;
-    lowestdepth[loc]=min(lowestdepth[loc],telowestdepth);
-    if(loc!=root) {
+    apoint[loc]&=(degree>=2);
+    if(edgeindex!=-1) {
         bridge[edgeindex] = (lowestdepth[loc] == dep);
         components += bridge[edgeindex];
     }
@@ -50,8 +47,7 @@ int main(){
     for(int i=0;i<n;i++) {
         if(!depth[i]) {
             components++;
-            root = i;
-            GetComponents(i, 0, 1);
+            GetComponents(i, -1, 1);
         }
     }
     printf("%d\n",components);

@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/BOI/Baltic OI '17 P1 - Political Development/cmake-build-debug/CMakeFiles/Baltic_OI__17_P1___Political_Development.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/BOI/Baltic OI '17 P1 - Political Development/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/BOI/Baltic OI '17 P1 - Political Development/cmake-build-debug/CMakeFiles/rebuild_cache.dir

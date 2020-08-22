@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/BOI/BOI 2013 P2 - Palindrome-Free Numbers/cmake-build-debug/CMakeFiles/BOI_2013_P2___Palindrome_Free_Numbers.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/BOI/BOI 2013 P2 - Palindrome-Free Numbers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/BOI/BOI 2013 P2 - Palindrome-Free Numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

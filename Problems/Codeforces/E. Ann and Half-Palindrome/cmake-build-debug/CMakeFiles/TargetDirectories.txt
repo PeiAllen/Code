@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/E. Ann and Half-Palindrome/cmake-build-debug/CMakeFiles/E__Ann_and_Half_Palindrome.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/E. Ann and Half-Palindrome/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Codeforces/E. Ann and Half-Palindrome/cmake-build-debug/CMakeFiles/rebuild_cache.dir

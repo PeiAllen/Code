@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Maintaining_a_Sequence.dir/main.cpp.obj"
-  "Maintaining_a_Sequence.pdb"
   "Maintaining_a_Sequence.exe"
   "Maintaining_a_Sequence.exe.manifest"
+  "Maintaining_a_Sequence.pdb"
   "libMaintaining_a_Sequence.dll.a"
 )
 

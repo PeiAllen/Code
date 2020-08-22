@@ -1,4 +1,4 @@
-/* 
+/*
  * File:   main.cpp
  * Author: allen
  *
@@ -344,7 +344,7 @@ void printarray() {
 }
 
 /*
- * 
+ *
  */
 int main(int argc, char** argv) {
     cin.tie(NULL);

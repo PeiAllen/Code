@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/BTOI/Baltic OI '18 P1 - Love Polygon/cmake-build-debug/CMakeFiles/Baltic_OI__18_P1___Love_Polygon.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/BTOI/Baltic OI '18 P1 - Love Polygon/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/BTOI/Baltic OI '18 P1 - Love Polygon/cmake-build-debug/CMakeFiles/rebuild_cache.dir

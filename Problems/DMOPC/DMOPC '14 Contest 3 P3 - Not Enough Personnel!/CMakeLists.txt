@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(DMOPC__14_Contest_3_P3___Not_Enough_Personnel_)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(DMOPC__14_Contest_3_P3___Not_Enough_Personnel_ main.cpp)

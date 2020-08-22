@@ -8,6 +8,7 @@ int sz(const T &a){return (int)a.size();}
 pii arr[6][501];
 int standing[501][6];
 ll choose[501][7];
+set<vector<int>> algo;
 struct state{
     int score, locs[6],unique;
     ll am;
@@ -29,7 +30,6 @@ int main(){
             choose[i][j]=choose[i-1][j-1]+choose[i-1][j];
         }
     }
-    printf("%lli\n",choose[429][5]);
     int n,k;
     ll c;
     cin>>n>>k>>c;
@@ -44,6 +44,11 @@ int main(){
         sort(arr[j],arr[j]+n,greater<>());
         for(int i=0;i<n;i++)standing[arr[j][i].second][j]=i;
     }
+    vector<int> ree;
+    for(int i=0;i<k;i++){
+        ree.push_back(0);
+    }
+    algo.insert(ree);
     set<int> peeps;
     int sum=0;
     for(int i=0;i<k;i++){
@@ -93,9 +98,13 @@ int main(){
             }
             if(work){
                 set<int> tepeeps;
-                for (int j = 0; j < k; j++)tepeeps.insert(arr[j][te.locs[j]].second);
+                vector<int> reete;
+                for (int j = 0; j < k; j++)tepeeps.insert(arr[j][te.locs[j]].second),reete.push_back(te.locs[j]);
                 te.am = choose[n - te.unique][k - sz(tepeeps)];
-                q.push(te);
+                if(!algo.count(reete)) {
+                    q.push(te);
+                    algo.insert(reete);
+                }
             }
         }
     }

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(Mock_CCC__19_Contest_2_J4___Tudor_Buys_Some_Cheesecake)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Mock_CCC__19_Contest_2_J4___Tudor_Buys_Some_Cheesecake main.cpp)

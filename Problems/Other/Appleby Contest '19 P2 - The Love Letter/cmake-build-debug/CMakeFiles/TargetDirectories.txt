@@ -1,0 +1,3 @@
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Other/Appleby Contest '19 P2 - The Love Letter/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Other/Appleby Contest '19 P2 - The Love Letter/cmake-build-debug/CMakeFiles/Appleby_Contest__19_P2___The_Love_Letter.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/Other/Appleby Contest '19 P2 - The Love Letter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
