@@ -1,3 +1,3 @@
-C:/Users/allen/Documents/Code/Problems/COCI/COCI '18 Contest 5 #4 Parametriziran/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/allen/Documents/Code/Problems/COCI/COCI '18 Contest 5 #4 Parametriziran/cmake-build-debug/CMakeFiles/COCI__18_Contest_5__4_Parametriziran.dir
-C:/Users/allen/Documents/Code/Problems/COCI/COCI '18 Contest 5 #4 Parametriziran/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/COCI/COCI '18 Contest 5 #4 Parametriziran/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/COCI/COCI '18 Contest 5 #4 Parametriziran/cmake-build-debug/CMakeFiles/COCI__18_Contest_5__4_Parametriziran.dir
+C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/COCI/COCI '18 Contest 5 #4 Parametriziran/cmake-build-debug/CMakeFiles/edit_cache.dir

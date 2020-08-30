@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/allen/Documents/Code/Problems/COCI/COCI '18 Contest 5 #4 Parametriziran
+# Install script for directory: C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/COCI/COCI '18 Contest 5 #4 Parametriziran
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/allen/Documents/Code/Problems/COCI/COCI '18 Contest 5 #4 Parametriziran/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/COCI/COCI '18 Contest 5 #4 Parametriziran/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

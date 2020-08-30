@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/COCI__18_Contest_5__4_Parametriziran.dir/main.cpp.obj"
-  "COCI__18_Contest_5__4_Parametriziran.pdb"
   "COCI__18_Contest_5__4_Parametriziran.exe"
   "COCI__18_Contest_5__4_Parametriziran.exe.manifest"
+  "COCI__18_Contest_5__4_Parametriziran.pdb"
   "libCOCI__18_Contest_5__4_Parametriziran.dll.a"
 )
 
