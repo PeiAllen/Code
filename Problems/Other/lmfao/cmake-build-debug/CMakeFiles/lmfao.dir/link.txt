@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/lmfao.dir/main.cpp.o  -o lmfao 
