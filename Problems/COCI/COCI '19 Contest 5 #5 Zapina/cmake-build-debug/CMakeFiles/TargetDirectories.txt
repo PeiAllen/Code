@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/COCI/COCI '19 Contest 5 #5 Zapina/cmake-build-debug/CMakeFiles/COCI__19_Contest_5__5_Zapina.dir
+C:/Users/allen/Documents/Github/Code/Problems/COCI/COCI '19 Contest 5 #5 Zapina/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/COCI/COCI '19 Contest 5 #5 Zapina/cmake-build-debug/CMakeFiles/rebuild_cache.dir

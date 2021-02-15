@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.16)
+project(IOI__11_P4___Crocodile_s_Underground_City)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(IOI__11_P4___Crocodile_s_Underground_City main.cpp)

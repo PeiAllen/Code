@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/Codeforces/E. Bricks/cmake-build-debug/CMakeFiles/E__Bricks.dir
+C:/Users/allen/Documents/Github/Code/Problems/Codeforces/E. Bricks/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/Codeforces/E. Bricks/cmake-build-debug/CMakeFiles/rebuild_cache.dir

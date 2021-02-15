@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/JOI/JOI '16 P3 - Skyscraper/main.cpp" "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/JOI/JOI '16 P3 - Skyscraper/cmake-build-debug/CMakeFiles/JOI__16_P3___Skyscraper.dir/main.cpp.obj"
+  "C:/Users/allen/Documents/Github/Code/Problems/JOI/JOI '16 P3 - Skyscraper/main.cpp" "C:/Users/allen/Documents/Github/Code/Problems/JOI/JOI '16 P3 - Skyscraper/cmake-build-debug/CMakeFiles/JOI__16_P3___Skyscraper.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

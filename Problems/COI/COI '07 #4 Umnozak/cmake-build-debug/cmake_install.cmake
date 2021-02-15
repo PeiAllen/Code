@@ -1,8 +1,8 @@
-# Install script for directory: /Users/allen/Documents/GitHub/Code/Problems/COI/COI '07 #4 Umnozak
+# Install script for directory: C:/Users/allen/Documents/Github/Code/Problems/COI/COI '07 #4 Umnozak
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/usr/local")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/COI__07__4_Umnozak")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/allen/Documents/GitHub/Code/Problems/COI/COI '07 #4 Umnozak/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/allen/Documents/Github/Code/Problems/COI/COI '07 #4 Umnozak/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(DMOPC__17_Contest_3_P4___Solitaire_Logic)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(DMOPC__17_Contest_3_P4___Solitaire_Logic main.cpp)

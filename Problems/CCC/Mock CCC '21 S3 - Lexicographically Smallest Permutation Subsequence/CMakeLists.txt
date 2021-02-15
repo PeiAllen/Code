@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.16)
+project(Mock_CCC__21_S3___Lexicographically_Smallest_Permutation_Subsequence)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Mock_CCC__21_S3___Lexicographically_Smallest_Permutation_Subsequence main.cpp)

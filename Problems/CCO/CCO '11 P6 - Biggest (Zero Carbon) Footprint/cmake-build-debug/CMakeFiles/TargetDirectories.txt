@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/CCO/CCO '11 P6 - Biggest (Zero Carbon) Footprint/cmake-build-debug/CMakeFiles/CCO__11_P6___Biggest__Zero_Carbon__Footprint.dir
+C:/Users/allen/Documents/Github/Code/Problems/CCO/CCO '11 P6 - Biggest (Zero Carbon) Footprint/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/CCO/CCO '11 P6 - Biggest (Zero Carbon) Footprint/cmake-build-debug/CMakeFiles/rebuild_cache.dir

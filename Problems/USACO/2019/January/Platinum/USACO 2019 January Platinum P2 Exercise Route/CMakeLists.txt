@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(USACO_2019_January_Platinum_P2_Exercise_Route)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(USACO_2019_January_Platinum_P2_Exercise_Route main.cpp)

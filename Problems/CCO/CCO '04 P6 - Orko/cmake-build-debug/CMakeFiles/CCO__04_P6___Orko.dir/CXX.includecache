@@ -6,13 +6,7 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO '04 P6 - Orko/main.cpp
-stdio.h
--
-vector
--
-algorithm
--
-map
--
+C:/Users/allen/Documents/Github/Code/Problems/CCO/CCO '04 P6 - Orko/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/CCO/CCO '04 P6 - Orko/bits/stdc++.h
 

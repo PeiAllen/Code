@@ -10,7 +10,7 @@ int depth[MAXN],ldepth[MAXN];
 vector<pii> matrix[MAXN];
 stack<int> st;
 vector<vector<int>> comps;
-void dfs(int loc, int edgeind, int dep){
+void dfs(int loc, int edgeind, int dep){//splits graph by bridges
     depth[loc]=dep,ldepth[loc]=dep;
     st.push(loc);
     for(auto x:matrix[loc]){

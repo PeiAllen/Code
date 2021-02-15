@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(USACO_2020_December_Gold_P2___Bovine_Genetics)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(USACO_2020_December_Gold_P2___Bovine_Genetics main.cpp)

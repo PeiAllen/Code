@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/CCC/Mock CCC '21 S3 - Lexicographically Smallest Permutation Subsequence/cmake-build-debug/CMakeFiles/Mock_CCC__21_S3___Lexicographically_Smallest_Permutation_Subsequence.dir
+C:/Users/allen/Documents/Github/Code/Problems/CCC/Mock CCC '21 S3 - Lexicographically Smallest Permutation Subsequence/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/CCC/Mock CCC '21 S3 - Lexicographically Smallest Permutation Subsequence/cmake-build-debug/CMakeFiles/rebuild_cache.dir

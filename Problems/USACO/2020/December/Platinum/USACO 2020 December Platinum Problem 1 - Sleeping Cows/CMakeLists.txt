@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(USACO_2020_December_Platinum_Problem_1___Sleeping_Cows)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(USACO_2020_December_Platinum_Problem_1___Sleeping_Cows main.cpp)

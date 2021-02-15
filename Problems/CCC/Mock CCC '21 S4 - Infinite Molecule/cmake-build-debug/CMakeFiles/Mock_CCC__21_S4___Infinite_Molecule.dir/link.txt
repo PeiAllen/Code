@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.5\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Mock_CCC__21_S4___Infinite_Molecule.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\Mock_CCC__21_S4___Infinite_Molecule.dir/objects.a @CMakeFiles\Mock_CCC__21_S4___Infinite_Molecule.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\Mock_CCC__21_S4___Infinite_Molecule.dir/objects.a -Wl,--no-whole-archive  -o Mock_CCC__21_S4___Infinite_Molecule.exe -Wl,--out-implib,libMock_CCC__21_S4___Infinite_Molecule.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Mock_CCC__21_S4___Infinite_Molecule.dir\linklibs.rsp

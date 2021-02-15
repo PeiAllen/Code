@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/Other/WC '17 Contest 4 S3 - Guardians of the Cash/cmake-build-debug/CMakeFiles/WC__17_Contest_4_S3___Guardians_of_the_Cash.dir
+C:/Users/allen/Documents/Github/Code/Problems/Other/WC '17 Contest 4 S3 - Guardians of the Cash/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/Other/WC '17 Contest 4 S3 - Guardians of the Cash/cmake-build-debug/CMakeFiles/rebuild_cache.dir

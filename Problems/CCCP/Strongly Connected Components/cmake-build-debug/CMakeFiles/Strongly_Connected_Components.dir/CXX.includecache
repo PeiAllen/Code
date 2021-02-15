@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/CCCP/Strongly Connected Components/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/CCCP/Strongly Connected Components/bits/stdc++.h
+

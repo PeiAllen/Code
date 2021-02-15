@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\helpguga.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\helpguga.dir/objects.a @CMakeFiles\helpguga.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\helpguga.dir/objects.a -Wl,--no-whole-archive  -o helpguga.exe -Wl,--out-implib,libhelpguga.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\helpguga.dir\linklibs.rsp

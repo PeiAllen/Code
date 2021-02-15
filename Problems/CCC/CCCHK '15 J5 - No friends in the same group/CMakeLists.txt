@@ -1,6 +1,6 @@
-cmake_minimum_required(VERSION 3.14)
-project(CCCHK__15_J5___No_friends_in_the_same_group)
+cmake_minimum_required(VERSION 3.17)
+project(CCCHK__15_J5___No_friends_in_the_same_group_)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(CCCHK__15_J5___No_friends_in_the_same_group main.cpp)
+add_executable(CCCHK__15_J5___No_friends_in_the_same_group_ main.cpp)

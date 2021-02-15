@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/Other/The Order of the Fox/cmake-build-debug/CMakeFiles/The_Order_of_the_Fox.dir
+C:/Users/allen/Documents/Github/Code/Problems/Other/The Order of the Fox/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/Other/The Order of the Fox/cmake-build-debug/CMakeFiles/rebuild_cache.dir

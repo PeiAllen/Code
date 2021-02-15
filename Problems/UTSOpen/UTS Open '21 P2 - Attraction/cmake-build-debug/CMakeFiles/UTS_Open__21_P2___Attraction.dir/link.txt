@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/UTS_Open__21_P2___Attraction.dir/main.cpp.o  -o UTS_Open__21_P2___Attraction 

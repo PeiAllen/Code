@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(CCC__20_S5___Josh_s_Double_Bacon_Deluxe)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(CCC__20_S5___Josh_s_Double_Bacon_Deluxe main.cpp)

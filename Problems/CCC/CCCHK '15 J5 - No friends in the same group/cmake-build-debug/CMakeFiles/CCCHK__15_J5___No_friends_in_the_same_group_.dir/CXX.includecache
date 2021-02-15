@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/CCC/CCCHK '15 J5 - No friends in the same group/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/CCC/CCCHK '15 J5 - No friends in the same group/bits/stdc++.h
+

@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/WC/WC '99 Suicidal P4 - Good Ethan Hunt/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/WC/WC '99 Suicidal P4 - Good Ethan Hunt/bits/stdc++.h
+

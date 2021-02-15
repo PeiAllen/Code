@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/Codeforces/D. Domino for Young/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/Codeforces/D. Domino for Young/bits/stdc++.h
+

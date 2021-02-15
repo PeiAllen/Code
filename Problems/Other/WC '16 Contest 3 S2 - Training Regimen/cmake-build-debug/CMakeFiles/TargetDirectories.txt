@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/Other/WC '16 Contest 3 S2 - Training Regimen/cmake-build-debug/CMakeFiles/WC__16_Contest_3_S2___Training_Regimen.dir
+C:/Users/allen/Documents/Github/Code/Problems/Other/WC '16 Contest 3 S2 - Training Regimen/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/Other/WC '16 Contest 3 S2 - Training Regimen/cmake-build-debug/CMakeFiles/rebuild_cache.dir

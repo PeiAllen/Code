@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/NOI/NOI '01 P1 - Food Chain/cmake-build-debug/CMakeFiles/NOI__01_P1___Food_Chain.dir
+C:/Users/allen/Documents/Github/Code/Problems/NOI/NOI '01 P1 - Food Chain/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/NOI/NOI '01 P1 - Food Chain/cmake-build-debug/CMakeFiles/rebuild_cache.dir

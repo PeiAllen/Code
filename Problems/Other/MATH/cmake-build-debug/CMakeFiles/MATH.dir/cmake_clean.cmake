@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/MATH.dir/main.cpp.obj"
-  "MATH.pdb"
   "MATH.exe"
   "MATH.exe.manifest"
+  "MATH.pdb"
   "libMATH.dll.a"
 )
 

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(USACO_2019_December_Platinum_P2___Bessie_s_Snow_Cow)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(USACO_2019_December_Platinum_P2___Bessie_s_Snow_Cow main.cpp)

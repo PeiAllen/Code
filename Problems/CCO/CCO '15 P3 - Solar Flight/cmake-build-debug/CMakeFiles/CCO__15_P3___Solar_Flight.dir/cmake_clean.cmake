@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CCO__15_P3___Solar_Flight.dir/main.cpp.o"
+  "CCO__15_P3___Solar_Flight.exe"
+  "CCO__15_P3___Solar_Flight.exe.manifest"
   "CCO__15_P3___Solar_Flight.pdb"
-  "CCO__15_P3___Solar_Flight"
+  "CMakeFiles/CCO__15_P3___Solar_Flight.dir/main.cpp.obj"
+  "libCCO__15_P3___Solar_Flight.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/allen/Documents/Github/Code/Problems/Codeforces/G. Mercenaries/main.cpp
+bits/stdc++.h
+/mnt/c/Users/allen/Documents/Github/Code/Problems/Codeforces/G. Mercenaries/bits/stdc++.h
+

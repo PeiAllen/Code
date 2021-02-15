@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/CCC/CCC '10 S4 - Animal Farm/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/CCC/CCC '10 S4 - Animal Farm/bits/stdc++.h
+

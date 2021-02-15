@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(TLE__16_Contest_7_P4___Abstract_Problem)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(TLE__16_Contest_7_P4___Abstract_Problem main.cpp)

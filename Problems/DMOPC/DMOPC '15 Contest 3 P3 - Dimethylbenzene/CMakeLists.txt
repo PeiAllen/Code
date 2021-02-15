@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(DMOPC__15_Contest_3_P3___Dimethylbenzene)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(DMOPC__15_Contest_3_P3___Dimethylbenzene main.cpp)

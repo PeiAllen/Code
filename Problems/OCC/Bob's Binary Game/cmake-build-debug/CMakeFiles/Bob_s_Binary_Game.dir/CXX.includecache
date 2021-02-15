@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/OCC/Bob's Binary Game/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/OCC/Bob's Binary Game/bits/stdc++.h
+

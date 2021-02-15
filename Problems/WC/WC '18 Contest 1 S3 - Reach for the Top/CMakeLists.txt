@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(WC__18_Contest_1_S3___Reach_for_the_Top)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(WC__18_Contest_1_S3___Reach_for_the_Top main.cpp)

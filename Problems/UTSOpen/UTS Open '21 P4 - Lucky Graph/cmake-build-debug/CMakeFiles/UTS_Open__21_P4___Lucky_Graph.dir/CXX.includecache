@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/UTSO/UTS Open '21 P4 - Lucky Graph/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/UTSO/UTS Open '21 P4 - Lucky Graph/bits/stdc++.h
+

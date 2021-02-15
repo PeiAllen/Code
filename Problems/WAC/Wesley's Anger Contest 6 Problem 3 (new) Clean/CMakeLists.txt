@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(Wesley_s_Anger_Contest_6_Problem_3__new__Clean)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Wesley_s_Anger_Contest_6_Problem_3__new__Clean main.cpp)

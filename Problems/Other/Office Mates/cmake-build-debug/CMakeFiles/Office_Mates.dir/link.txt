@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Office_Mates.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\Office_Mates.dir/objects.a @CMakeFiles\Office_Mates.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\Office_Mates.dir/objects.a -Wl,--no-whole-archive  -o Office_Mates.exe -Wl,--out-implib,libOffice_Mates.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Office_Mates.dir\linklibs.rsp

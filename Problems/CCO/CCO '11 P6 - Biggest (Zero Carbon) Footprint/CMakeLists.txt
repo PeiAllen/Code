@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(CCO__11_P6___Biggest__Zero_Carbon__Footprint)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(CCO__11_P6___Biggest__Zero_Carbon__Footprint main.cpp)

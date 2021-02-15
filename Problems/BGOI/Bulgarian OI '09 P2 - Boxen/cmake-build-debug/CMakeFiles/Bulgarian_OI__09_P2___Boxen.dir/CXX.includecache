@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/BGOI/Bulgarian OI '09 P2 - Boxen/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/BGOI/Bulgarian OI '09 P2 - Boxen/bits/stdc++.h
+

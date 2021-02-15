@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\DMOPC__17_Contest_3_P4___Solitaire_Logic.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\DMOPC__17_Contest_3_P4___Solitaire_Logic.dir/objects.a @CMakeFiles\DMOPC__17_Contest_3_P4___Solitaire_Logic.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\DMOPC__17_Contest_3_P4___Solitaire_Logic.dir/objects.a -Wl,--no-whole-archive  -o DMOPC__17_Contest_3_P4___Solitaire_Logic.exe -Wl,--out-implib,libDMOPC__17_Contest_3_P4___Solitaire_Logic.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\DMOPC__17_Contest_3_P4___Solitaire_Logic.dir\linklibs.rsp

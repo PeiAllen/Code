@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Colourful_Confinement.dir/main.cpp.o  -o Colourful_Confinement 

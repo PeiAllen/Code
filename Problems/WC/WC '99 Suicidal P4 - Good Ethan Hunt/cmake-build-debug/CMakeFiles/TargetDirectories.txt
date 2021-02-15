@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/WC/WC '99 Suicidal P4 - Good Ethan Hunt/cmake-build-debug/CMakeFiles/WC__99_Suicidal_P4___Good_Ethan_Hunt.dir
+C:/Users/allen/Documents/Github/Code/Problems/WC/WC '99 Suicidal P4 - Good Ethan Hunt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/WC/WC '99 Suicidal P4 - Good Ethan Hunt/cmake-build-debug/CMakeFiles/rebuild_cache.dir

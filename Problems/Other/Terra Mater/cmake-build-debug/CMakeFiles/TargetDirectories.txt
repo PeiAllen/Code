@@ -1,0 +1,3 @@
+/mnt/c/Users/allen/Documents/Github/Code/Problems/Other/Terra Mater/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/allen/Documents/Github/Code/Problems/Other/Terra Mater/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/allen/Documents/Github/Code/Problems/Other/Terra Mater/cmake-build-debug/CMakeFiles/Terra_Mater.dir

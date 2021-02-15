@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(DMOPC__20_Contest_2_P4___Hungry_Pigeons)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(DMOPC__20_Contest_2_P4___Hungry_Pigeons main.cpp)

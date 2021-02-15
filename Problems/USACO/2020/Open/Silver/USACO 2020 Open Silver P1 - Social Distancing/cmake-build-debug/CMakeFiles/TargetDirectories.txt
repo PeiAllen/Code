@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2020/Open/Silver/USACO 2020 Open Silver P1 - Social Distancing/cmake-build-debug/CMakeFiles/USACO_2020_Open_Silver_P1___Social_Distancing.dir
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2020/Open/Silver/USACO 2020 Open Silver P1 - Social Distancing/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2020/Open/Silver/USACO 2020 Open Silver P1 - Social Distancing/cmake-build-debug/CMakeFiles/rebuild_cache.dir

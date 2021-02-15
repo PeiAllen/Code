@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(Summer_Institute__17_Contest_1_P4___Clips_of_Video)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Summer_Institute__17_Contest_1_P4___Clips_of_Video main.cpp)

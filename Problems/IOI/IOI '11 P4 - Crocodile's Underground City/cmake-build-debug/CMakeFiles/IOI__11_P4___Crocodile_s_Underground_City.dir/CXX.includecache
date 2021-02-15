@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/allen/Documents/Github/Code/Problems/IOI/IOI '11 P4 - Crocodile's Underground City/main.cpp
+bits/stdc++.h
+/mnt/c/Users/allen/Documents/Github/Code/Problems/IOI/IOI '11 P4 - Crocodile's Underground City/bits/stdc++.h
+

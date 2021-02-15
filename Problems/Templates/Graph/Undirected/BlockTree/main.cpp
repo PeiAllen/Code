@@ -11,7 +11,7 @@ vector<int> bmatrix[2*MAXN];
 int depth[MAXN],ldepth[MAXN];
 stack<int> st;
 int nodeind;
-void GetBlockTree(int loc, int edgeind, int dep){
+void GetBlockTree(int loc, int edgeind, int dep){//split graph by articulation point
     depth[loc]=dep,ldepth[loc]=dep;
     st.push(loc);
     for(auto x:matrix[loc]){

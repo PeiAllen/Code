@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Dreaming_Again.dir/main.cpp.o"
+  "CMakeFiles/Dreaming_Again.dir/main.cpp.obj"
+  "Dreaming_Again.exe"
+  "Dreaming_Again.exe.manifest"
   "Dreaming_Again.pdb"
-  "Dreaming_Again"
+  "libDreaming_Again.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

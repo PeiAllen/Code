@@ -1,123 +1,53 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/* 
- * File:   main.cpp
- * Author: Allen
- *
- * Created on February 19, 2019, 6:40 PM
- */
-
-#include <bits/stdc++.h>
-
+#include "bits/stdc++.h"
 using namespace std;
-struct dis{
-    int parent,size;
-    dis(){
-        parent=0;
-        size=1;
+using ll = long long;
+using pii = pair<int,int>;
+using pll = pair<ll,ll>;
+template<typename T>
+int sz(const T &a){return int(a.size());}
+const int MN=1e3+1;
+map<pii,pair<int,vector<int>>> edges;
+struct dsu{
+    pii arr[MN];
+    void reset(int n){
+        for(int i=0;i<=n;i++)arr[i]={i,1};
     }
-    dis(int a, int b):parent(a),size(b){
+    int find(int a){
+        if(arr[a].first==a)return a;
+        return arr[a].first=find(arr[a].first);
     }
-};
-dis disjoint[102];
-int find(int a){
-    if(disjoint[a].parent==a){
-        return a;
+    bool uni(int a, int b){
+        int ap=find(a),bp=find(b);
+        if(ap==bp)return false;
+        if(arr[ap].second<arr[bp].second)swap(ap,bp);
+        arr[ap].second+=arr[bp].second,arr[bp].first=ap;
+        return true;
     }
-    return find(disjoint[a].parent);
-}
-void uni(int a, int b){
-    int aparent=find(a);
-    int bparent=find(b);
-    if(disjoint[aparent].size>disjoint[bparent].size){
-        disjoint[bparent].parent=aparent;
-        disjoint[aparent].size+=disjoint[bparent].size;
-    }
-    else{
-        disjoint[aparent].parent=bparent;
-        disjoint[bparent].size+=disjoint[aparent].size;
-    }
-}
-struct pa{
-    int pen,dist,num;
-    pa(){
-        pen=0;
-        dist=0;
-        num=0;
-    }
-    pa(int a, int c, int d):pen(a),dist(c),num(d){
-    }
-};
-struct ihate{
-    int one,other,dist;
-    ihate(){
-        one=0;
-        other=0;
-        dist=0;
-    }
-    ihate(int x,int y,int z):one(x),other(y),dist(z){
-    }
-    bool operator<(const ihate& rhs) const {
-        return dist>rhs.dist;
-    }
-};
-/*
- * 
- */
-    pa arr[1001][1001];
-int main(int argc, char** argv) {
+}one,two;
+int main(){
     cin.tie(NULL);
     ios_base::sync_with_stdio(false);
-    int n;
-    cin>>n;
-    int in;
-    priority_queue<ihate> qu;
-    for(int i=1;i<=n;i++){
-        disjoint[i].parent=i;
-        cin>>in;
-        int temp[in];
-        for(int j=0;j<in;j++){
-            cin>>temp[j];
-        }
-        int te;
-        for(int j=0;j<in;j++){
-            cin>>te;
-            if(arr[min(temp[j],temp[(j+1)%in])][max(temp[j],temp[(j+1)%in])].num){
-                qu.push(ihate(arr[min(temp[j],temp[(j+1)%in])][max(temp[j],temp[(j+1)%in])].pen,i,arr[min(temp[j],temp[(j+1)%in])][max(temp[j],temp[(j+1)%in])].dist));
-                arr[min(temp[j],temp[(j+1)%in])][max(temp[j],temp[(j+1)%in])].num=2;
-            }
-            else{
-                arr[min(temp[j],temp[(j+1)%in])][max(temp[j],temp[(j+1)%in])]=pa(i,te,1);
-            }
-        }
+    int m;
+    cin>>m;
+    int a,b;
+    for(int i=0;i<m;i++){
+        cin>>a;
+        vector<int> te(a);
+        for(int j=0;j<a;j++)cin>>te[j];
+        for(int j=0;j<a;j++)cin>>b,edges[{min(te[j],te[(j+1)%a]),max(te[j],te[(j+1)%a])}].first=b,edges[{min(te[j],te[(j+1)%a]),max(te[j],te[(j+1)%a])}].second.push_back(i);
     }
-    for(int i=0;i<=1000;i++){
-    for(int j=i+1;j<=1000;j++){
-        if(arr[i][j].num==1){
-            qu.push(ihate(0,arr[i][j].pen,arr[i][j].dist));
-        }
+    vector<pair<int,pii>> edge;
+    for(auto x:edges){
+        if(sz(x.second.second)==1)edge.push_back({x.second.first,{x.second.second[0],m}});
+        else edge.push_back({x.second.first,{x.second.second[0],x.second.second[1]}});
     }
+    sort(edge.begin(),edge.end());
+    one.reset(m-1),two.reset(m);
+    int onecost=0,twocost=0;
+    for(auto x:edge){
+        if(x.second.second!=m)if(one.uni(x.second.first,x.second.second))onecost+=x.first;
+        if(two.uni(x.second.first,x.second.second))twocost+=x.first;
     }
-    int edges=0;
-    int tot=0;
-    bool outside=false;
-    while(!qu.empty()&&((outside&&edges<n)||(!outside&&edges<n-1))){
-        ihate cur=qu.top();
-        qu.pop();
-        if(find(cur.one)!=find(cur.other)){
-            if(cur.one==0){
-                outside=true;
-            }
-            uni(cur.one,cur.other);
-            tot+=cur.dist;
-            edges+=1;
-        }
-    }
-    printf("%d",tot);
+    printf("%d\n",min(onecost,twocost));
     return 0;
-    
 }

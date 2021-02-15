@@ -1,28 +1,46 @@
-#include <bits/stdc++.h>
+#include "bits/stdc++.h"
 using namespace std;
-
-main() {
-	int i, j, x, y, n, N;
-    freopen("out.txt","w",stdout);
-	for( scanf( " %d", &N ); N--; ) {
-		scanf( " %d", &n );
-		vector<pair<int, int> > hs;
-		for( i = 0; i < n; i++ ) {
-			scanf( " %d-%d", &x, &y );
-			hs.push_back(make_pair(min(x,y), max(x,y)));
-		}
-		sort(hs.begin(), hs.end());
-		vector<vector<int> > seqs;
-		for( i = 0; i < hs.size(); i++ ) {
-			for( j = 0; j < seqs.size(); j++ )
-				if( hs[seqs[j].back()].second <= hs[i].second ) break;
-			if( j == seqs.size() ) seqs.push_back(vector<int>());
-			seqs[j].push_back(i);
-		}
-		printf( "%d\n", seqs.size() );
-		for( i = 0; i < seqs.size(); i++ )
-			for( j = 0; j < seqs[i].size(); j++ )
-				printf( "%d-%d%c", hs[seqs[i][j]].first, hs[seqs[i][j]].second,
-						(j == seqs[i].size()-1) ? '\n' : ' ' );
-	}
+using ll = long long;
+using pii = pair<int,int>;
+using pll = pair<ll,ll>;
+template<typename T>
+int sz(const T &a){return int(a.size());}
+const int MAXN=1e3+1;
+pii times[MAXN];
+bool done[MAXN];
+int main(){
+    cin.tie(NULL);
+    ios_base::sync_with_stdio(false);
+    int t;
+    scanf(" %d",&t);
+    while(t--){
+        int n;
+        scanf(" %d",&n);
+        for(int i=0;i<n;i++){
+            scanf(" %d-%d",&times[i].first,&times[i].second);
+            done[i]=false;
+            if(times[i].first<times[i].second)swap(times[i].first,times[i].second);
+        }
+        sort(times,times+n);
+        int cnt=0;
+        vector<vector<pii>> ans;
+        while(cnt<n){
+            pii cur={0,0};
+            ans.push_back({});
+            for(int i=0;i<n;i++){
+                if(!done[i]&&times[i].first>=cur.first&&times[i].second>=cur.second){
+                    ans.back().push_back(times[i]);
+                    cur=times[i];
+                    cnt++;
+                    done[i]=true;
+                }
+            }
+        }
+        printf("%d\n",sz(ans));
+        for(auto x:ans){
+            for(auto y:x)printf("%d-%d ",y.first,y.second);
+            printf("\n");
+        }
+    }
+    return 0;
 }

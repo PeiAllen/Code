@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2019/January/Gold/USACO 2019 January Gold P1 - Cow Poetry/cmake-build-debug/CMakeFiles/USACO_2019_January_Gold_P1___Cow_Poetry.dir
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2019/January/Gold/USACO 2019 January Gold P1 - Cow Poetry/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2019/January/Gold/USACO 2019 January Gold P1 - Cow Poetry/cmake-build-debug/CMakeFiles/rebuild_cache.dir

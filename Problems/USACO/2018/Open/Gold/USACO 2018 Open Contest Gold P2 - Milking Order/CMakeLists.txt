@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(USACO_2018_Open_Contest_Gold_P2___Milking_Order)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(USACO_2018_Open_Contest_Gold_P2___Milking_Order main.cpp)

@@ -55,7 +55,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TestPBDS" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RunManager">
@@ -82,7 +82,7 @@
       <workItem from="1598895058575" duration="28000" />
       <workItem from="1598895088690" duration="9000" />
       <workItem from="1598895108377" duration="17000" />
-      <workItem from="1598895139683" duration="43000" />
+      <workItem from="1598895139683" duration="191000" />
     </task>
     <servers />
   </component>
@@ -102,10 +102,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1700" y="454" key="FileChooserDialogImpl" timestamp="1598895178472">
+    <state x="1700" y="454" key="FileChooserDialogImpl" timestamp="1598895330764">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1700" y="454" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1598895178472" />
+    <state x="1700" y="454" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1598895330764" />
     <state x="1421" y="344" key="SettingsEditor" timestamp="1598895170157">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
