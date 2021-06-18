@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2021/February/Bronze/USACO 2021 February Bronze P3 - Clockwise Fence/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2021/February/Bronze/USACO 2021 February Bronze P3 - Clockwise Fence/bits/stdc++.h
+

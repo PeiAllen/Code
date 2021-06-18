@@ -1,0 +1,7 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/allen/Documents/Github/Code/Problems/COCI/COCI '17 Contest 7 #5 Dostavljač/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe cmTC_1cc79/fast && mingw32-make.exe: *** INTERNAL: readdir: No such file or directory.  Stop.
+
+
+

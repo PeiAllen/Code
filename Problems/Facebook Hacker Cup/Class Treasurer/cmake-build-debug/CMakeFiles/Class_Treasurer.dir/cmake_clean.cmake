@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Class_Treasurer.dir/main.cpp.o"
+  "CMakeFiles/Class_Treasurer.dir/main.cpp.obj"
+  "Class_Treasurer.exe"
+  "Class_Treasurer.exe.manifest"
   "Class_Treasurer.pdb"
-  "Class_Treasurer"
+  "libClass_Treasurer.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

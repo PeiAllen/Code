@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/WC/WC '16 Finals S2 - Rational Recipes/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/WC/WC '16 Finals S2 - Rational Recipes/bits/stdc++.h
+

@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2019/February/Silver/USACO 2019 February Silver P1 - Sleepy Cow Herding/cmake-build-debug/CMakeFiles/USACO_2019_February_Silver_P1___Sleepy_Cow_Herding.dir
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2019/February/Silver/USACO 2019 February Silver P1 - Sleepy Cow Herding/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2019/February/Silver/USACO 2019 February Silver P1 - Sleepy Cow Herding/cmake-build-debug/CMakeFiles/rebuild_cache.dir

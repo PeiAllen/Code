@@ -6,7 +6,7 @@ using pll = pair<ll,ll>;
 template<typename T>
 int sz(const T &a){return int(a.size());}
 template<typename T> struct LCT{
-    const static T defq=0,defu=0,bad=LLONG_MIN;//change if T is not ll
+    constexpr static T defq=0,defu=0,bad=LLONG_MIN;//change if T is not ll
     static T Fq(T a, T b){return a+b;}//sum for this one
     static T Fu(T a, T b){return a+b;}//sum for this one(need to change apply if funciton changed)
     struct node{
@@ -15,7 +15,7 @@ template<typename T> struct LCT{
         T d,td,lazy;
         node *p,*ch[2];
         node(){d=defq,td=defq,lazy=defu,rev=false,s=1,p=nullptr,ch[0]=ch[1]=nullptr;}
-        node(int v){d=v,td=v,lazy=defu,rev=false,s=1,p=nullptr,ch[0]=ch[1]=nullptr;}
+        node(T v){d=v,td=v,lazy=defu,rev=false,s=1,p=nullptr,ch[0]=ch[1]=nullptr;}
         int dir(){return p&&(p->ch[0]==this||p->ch[1]==this)?p->ch[1]==this:-1;}
         void apply(T l, bool r){
             rev^=r;

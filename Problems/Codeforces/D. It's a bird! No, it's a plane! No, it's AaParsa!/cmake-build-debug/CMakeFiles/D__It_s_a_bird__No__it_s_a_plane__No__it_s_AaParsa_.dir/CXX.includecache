@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/Codeforces/D. It's a bird! No, it's a plane! No, it's AaParsa!/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/Codeforces/D. It's a bird! No, it's a plane! No, it's AaParsa!/bits/stdc++.h
+

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(USACO_2019_February_Silver_P1___Sleepy_Cow_Herding)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(USACO_2019_February_Silver_P1___Sleepy_Cow_Herding main.cpp)

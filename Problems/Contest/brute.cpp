@@ -1,131 +1,124 @@
-#include <bits/stdc++.h>
+// ./bobs-christmas-tree-lights.yml
+#include "bits/stdc++.h"
 using namespace std;
-using pii = pair<int,int>;
-template<typename T>
-int sz(const T &a){return int(a.size());}
-const int MN=1e3+1;
-char arr[MN][MN];
-bool gone[MN][MN];
-int xc[4]={1,-1,0,0},yc[4]={0,0,1,-1};
-int psa[MN][MN];
-int main() {
-    cin.tie(NULL);
-    ios_base::sync_with_stdio(false);
-    int n,m,query;
-    cin>>n>>m>>query;
-    for(int i=1;i<=n;i++)for(int j=1;j<=m;j++)cin>>arr[i][j];
 
-    if(n<=50&&m<=50){
-        int a,b,c,d;
-        while(query--){
-            cin>>a>>b>>c>>d;
-            for(int i=a;i<=c;i++)for(int j=b;j<=d;j++)gone[i][j]=false;
-            int ans=0;
-            for(int i=a;i<=c;i++){
-                for(int j=b;j<=d;j++){
-                    if(!gone[i][j]){
-                        ans++;
-                        gone[i][j]=true;
-                        queue<pii> q;
-                        q.push({i,j});
-                        while(sz(q)){
-                            auto cur=q.front();
-                            q.pop();
-                            for(int k=0;k<4;k++){
-                                pii ne={xc[k]+cur.first,yc[k]+cur.second};
-                                if(ne.first>=a&&ne.first<=c&&ne.second>=b&&ne.second<=d){
-                                    if(!gone[ne.first][ne.second]&&arr[ne.first][ne.second]==arr[i][j]){
-                                        gone[ne.first][ne.second]=true;
-                                        q.push(ne);
-                                    }
-                                }
-                            }
-                        }
-                    }
-                }
-            }
-            printf("%d\n",ans);
-        }
-        return 0;
+// Defines
+#define fs first
+#define sn second
+#define pb push_back
+#define eb emplace_back
+#define mpr make_pair
+#define mtp make_tuple
+#define all(x) (x).begin(), (x).end()
+// Basic type definitions
+using ll = long long; using ull = unsigned long long; using ld = long double;
+using pii = pair<int, int>; using pll = pair<long long, long long>;
+#ifdef __GNUG__
+// PBDS order statistic tree
+#include <ext/pb_ds/assoc_container.hpp> // Common file 
+#include <ext/pb_ds/tree_policy.hpp>
+using namespace __gnu_pbds;
+template <typename T, class comp = less<T>> using os_tree = tree<T, null_type, comp, rb_tree_tag, tree_order_statistics_node_update>;
+template <typename K, typename V, class comp = less<K>> using treemap = tree<K, V, comp, rb_tree_tag, tree_order_statistics_node_update>;
+// HashSet
+#include <ext/pb_ds/assoc_container.hpp>
+template <typename T, class Hash> using hashset = gp_hash_table<T, null_type, Hash>;
+template <typename K, typename V, class Hash> using hashmap = gp_hash_table<K, V, Hash>;
+const ll RANDOM = chrono::high_resolution_clock::now().time_since_epoch().count();
+struct chash { ll operator()(ll x) const { return x ^ RANDOM; } };
+#endif
+// More utilities
+int SZ(string &v) { return v.length(); }
+template <typename C> int SZ(C &v) { return v.size(); }
+template <typename C> void UNIQUE(vector<C> &v) { sort(v.begin(), v.end()); v.resize(unique(v.begin(), v.end()) - v.begin()); }
+template <typename T, typename U> void maxa(T &a, U b) { a = max(a, b); }
+template <typename T, typename U> void mina(T &a, U b) { a = min(a, b); }
+const ll INF = 0x3f3f3f3f, LLINF = 0x3f3f3f3f3f3f3f3f;
+
+ostream& operator<<(ostream& out, const pii o) {
+    out << "(fs=" << o.fs << ", sn=" << o.sn << ")";
+    return out;
+}
+
+// template is 1-indexed
+template <typename T> struct Ranks {
+    vector<T> ranks;
+    void init() {
+        sort(ranks.begin(), ranks.end());
+        ranks.resize(unique(ranks.begin(), ranks.end()) - ranks.begin());
     }
-    for(int i=1;i<=n;i++){
-        for(int j=1;j<=m;j++){
-            psa[i][j]=psa[i-1][j]+psa[i][j-1]-psa[i-1][j-1];
-            if(!gone[i][j]){
-                psa[i][j]++;
-                gone[i][j]=true;
-                queue<pii> q;
-                q.push({i,j});
-                while(sz(q)){
-                    auto cur=q.front();
-                    q.pop();
-                    for(int k=0;k<4;k++){
-                        pii ne={xc[k]+cur.first,yc[k]+cur.second};
-                        if(ne.first>=1&&ne.first<=n&&ne.second>=1&&ne.second<=m){
-                            if(!gone[ne.first][ne.second]&&arr[ne.first][ne.second]==arr[i][j]){
-                                gone[ne.first][ne.second]=true;
-                                q.push(ne);
-                            }
-                        }
-                    }
-                }
-            }
+    template <typename It> void init(It st, It en) { ranks = vector<T>(st, en); init(); }
+    void add(T v) { ranks.push_back(v); }
+    int get(T v) { return lower_bound(ranks.begin(), ranks.end(), v) - ranks.begin() + 1; }
+    int size() { return ranks.size(); }
+};
+
+const int MN = 1e5 + 1;
+int N, Q,
+        C[MN], seq[MN], sz;
+
+// tree
+vector<int> g[MN];
+int in[MN], out[MN], ctr = 0;
+void dfs(int c, int p) {
+    in[c] = ++ctr;
+    seq[ctr] = c;
+    for (auto to : g[c]) {
+        if (to != p) {
+            dfs(to, c);
         }
     }
-    int a,b,c,d;
-    while(query--){
-        cin>>a>>b>>c>>d;
-        int ans=psa[c][d]-psa[a-1][d]-psa[c][b-1]+psa[a-1][b-1];
-        for(int i=max(1,a-2);i<=min(n,c+2);i++){
-            for(int j=1;j<=2;j++){
-                if(b-j>=1)gone[i][b-j]=false;
-                if(d+j<=m)gone[i][d+j]=false;
-            }
+    out[c] = ctr;
+}
+bool ant(int upper, int downer) {
+    return in[upper] <= in[downer] && out[downer] <= out[upper];
+}
+
+int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+
+    cin >> N >> Q;
+    {
+        Ranks<int> rs;
+        for (auto i = 1; i <= N; i++) {
+            cin >> C[i];
+            rs.add(C[i]);
         }
-        for(int i=max(1,b-2);i<=min(m,d+2);i++){
-            for(int j=1;j<=2;j++){
-                if(a-j>=1)gone[a-j][i]=false;
-                if(c+j<=n)gone[c+j][i]=false;
-            }
-        }
-        queue<pii> q;
-        for(int i=a;i<=c;i++){
-            q.push({i,b});
-            if(b!=d)q.push({i,d});
-        }
-        for(int i=b+1;i<=d-1;i++){
-            q.push({a,i});
-            if(a!=c)q.push({c,i});
-        }
-        while(sz(q)){
-            auto cur=q.front();
-            q.pop();
-            if(cur.first<a||cur.first>c||cur.second<b||cur.second>d){
-                if(psa[cur.first][cur.second]-psa[cur.first-1][cur.second]-psa[cur.first][cur.second-1]+psa[cur.first-1][cur.second-1]>0)ans++;
-            }
-            for(int k=0;k<4;k++){
-                pii ne={xc[k]+cur.first,yc[k]+cur.second};
-                if(ne.first>=1&&ne.first<=n&&ne.second>=1&&ne.second<=m){
-                    if(!gone[ne.first][ne.second]&&arr[ne.first][ne.second]==arr[cur.first][cur.second]){
-                        gone[ne.first][ne.second]=true;
-                        q.push(ne);
-                    }
-                }
-            }
-        }
-        for(int i=max(1,a-2);i<=min(n,c+2);i++){
-            for(int j=1;j<=2;j++){
-                if(b-j>=1)gone[i][b-j]=true;
-                if(d+j<=m)gone[i][d+j]=true;
-            }
-        }
-        for(int i=max(1,b-2);i<=min(m,d+2);i++){
-            for(int j=1;j<=2;j++){
-                if(a-j>=1)gone[a-j][i]=true;
-                if(c+j<=n)gone[c+j][i]=true;
-            }
-        }
-        printf("%d\n",ans);
+        rs.init();
+        for (auto i = 1; i <= N; i++) C[i] = rs.get(C[i]);
+        sz = SZ(rs);
     }
+    for (auto i = 0; i < N-1; i++) {
+        int a, b; cin >> a >> b;
+        g[a].pb(b);
+        g[b].pb(a);
+    }
+
+    // dfs get in/out
+    dfs(1, -1);
+    // SQRT
+    int r = 1;
+    while (Q--) {
+        int T; cin >> T;
+        if (T == 1) {
+            cin >> r;
+            ctr = 0;
+            dfs(r, -1);
+        }
+        else {
+            int x, y; cin >> x >> y;
+
+            vector<ll> f1(N+1), f2(N+1);
+            for (auto i = 1; i <= N; i++) {
+                if (ant(x, i)) f1[C[i]]++;
+                if (ant(y, i)) f2[C[i]]++;
+            }
+            ll ans = 0;
+            for (auto i = 1; i <= N; i++) ans += f1[i]*f2[i];
+            cout << (ans) << '\n';
+        }
+    }
+
     return 0;
 }

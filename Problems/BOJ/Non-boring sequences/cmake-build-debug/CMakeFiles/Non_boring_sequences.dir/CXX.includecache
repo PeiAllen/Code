@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/BOJ/Non-boring sequences/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/BOJ/Non-boring sequences/bits/stdc++.h
+

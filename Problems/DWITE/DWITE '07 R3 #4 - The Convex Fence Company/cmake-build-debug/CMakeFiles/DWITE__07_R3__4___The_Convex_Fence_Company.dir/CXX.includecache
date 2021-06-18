@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/DWITE/DWITE '07 R3 #4 - The Convex Fence Company/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/DWITE/DWITE '07 R3 #4 - The Convex Fence Company/bits/stdc++.h
+

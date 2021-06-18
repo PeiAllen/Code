@@ -11,14 +11,21 @@ int main(int argc, char* argv[]){
     cin.tie(NULL);
     ios_base::sync_with_stdio(false);
     registerGen(argc,argv,0);
-    int n=10,m=5;
-    printf("%d %d\n",n,m);
-    for(int i=1;i<=m;i++)printf("%d%c",rnd.next(1,100)," \n"[i==m]);
-    int q=20;
-    printf("%d\n",q);
+    int n=7,q=20;
+    printf("%d %d\n",n,q);
+    for(int i=1;i<=n;i++)printf("%d%c",rnd.next(1,int(1e9))," \n"[i==n]);
+    for(int i=2;i<=n;i++){
+        printf("%d %d\n",i,rnd.next(1,i-1));
+    }
     while(q--){
-        int a=rnd.next(1,n),b=rnd.next(1,m);
-        printf("%d %d\n",a,b);
+        int t=rnd.next(1,2);
+        printf("%d ",t);
+        if(t==1){
+            printf("%d\n",rnd.next(1,n));
+        }
+        else{
+            printf("%d %d\n",rnd.next(1,n),rnd.next(1,n));
+        }
     }
     return 0;
 }

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(JOI__20_Spring_Camp_Day_4_P1___Capital_City)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(JOI__20_Spring_Camp_Day_4_P1___Capital_City main.cpp)

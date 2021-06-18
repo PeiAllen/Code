@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Tower.dir/main.cpp.obj"
-  "Tower.pdb"
   "Tower.exe"
   "Tower.exe.manifest"
+  "Tower.pdb"
   "libTower.dll.a"
 )
 

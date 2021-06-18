@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/Typing/SAM/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/Typing/SAM/bits/stdc++.h
+

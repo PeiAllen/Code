@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(Summer_Institute__17_Contest_3_P4___Customs)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Summer_Institute__17_Contest_3_P4___Customs main.cpp)

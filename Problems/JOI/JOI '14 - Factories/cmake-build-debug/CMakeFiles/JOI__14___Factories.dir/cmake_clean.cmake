@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/JOI__14___Factories.dir/main.cpp.obj"
-  "JOI__14___Factories.pdb"
   "JOI__14___Factories.exe"
   "JOI__14___Factories.exe.manifest"
+  "JOI__14___Factories.pdb"
   "libJOI__14___Factories.dll.a"
 )
 

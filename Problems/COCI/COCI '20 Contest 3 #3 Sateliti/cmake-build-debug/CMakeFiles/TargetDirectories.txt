@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/COCI/COCI '20 Contest 3 #3 Sateliti/cmake-build-debug/CMakeFiles/COCI__20_Contest_3__3_Sateliti.dir
+C:/Users/allen/Documents/Github/Code/Problems/COCI/COCI '20 Contest 3 #3 Sateliti/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/COCI/COCI '20 Contest 3 #3 Sateliti/cmake-build-debug/CMakeFiles/rebuild_cache.dir

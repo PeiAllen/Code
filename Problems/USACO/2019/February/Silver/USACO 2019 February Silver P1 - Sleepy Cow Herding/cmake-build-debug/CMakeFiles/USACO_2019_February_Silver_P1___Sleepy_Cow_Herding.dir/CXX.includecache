@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2019/February/Silver/USACO 2019 February Silver P1 - Sleepy Cow Herding/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2019/February/Silver/USACO 2019 February Silver P1 - Sleepy Cow Herding/bits/stdc++.h
+

@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/CCO/CCO '21 P2 - Weird Numeral System/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/CCO/CCO '21 P2 - Weird Numeral System/bits/stdc++.h
+

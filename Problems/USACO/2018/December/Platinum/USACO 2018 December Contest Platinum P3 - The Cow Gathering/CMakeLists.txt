@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(USACO_2018_December_Contest_Platinum_P3___The_Cow_Gathering)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(USACO_2018_December_Contest_Platinum_P3___The_Cow_Gathering main.cpp)

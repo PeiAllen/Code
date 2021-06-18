@@ -1,0 +1,48 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/allen/Documents/Github/Code/Problems/Other/Bruce’s Brittle Bridges/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe cmTC_34610/fast && C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_34610.dir\build.make CMakeFiles/cmTC_34610.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/allen/Documents/Github/Code/Problems/Other/BruceÆs Brittle Bridges/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_34610.dir/testCCompiler.c.obj
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe    -o CMakeFiles\cmTC_34610.dir\testCCompiler.c.obj   -c "C:\Users\allen\Documents\Github\Code\Problems\Other\BruceΓÇÖs Brittle Bridges\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+gcc.exe: error: C:\Users\allen\Documents\Github\Code\Problems\Other\BruceΓÇÖs Brittle Bridges\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_34610.dir\build.make:85: CMakeFiles/cmTC_34610.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/allen/Documents/Github/Code/Problems/Other/BruceÆs Brittle Bridges/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:140: cmTC_34610/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/allen/Documents/Github/Code/Problems/Other/Bruce’s Brittle Bridges/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe cmTC_6c15b/fast && C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_6c15b.dir\build.make CMakeFiles/cmTC_6c15b.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/allen/Documents/Github/Code/Problems/Other/BruceÆs Brittle Bridges/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6c15b.dir/testCCompiler.c.obj
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe    -o CMakeFiles\cmTC_6c15b.dir\testCCompiler.c.obj   -c "C:\Users\allen\Documents\Github\Code\Problems\Other\BruceΓÇÖs Brittle Bridges\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+gcc.exe: error: C:\Users\allen\Documents\Github\Code\Problems\Other\BruceΓÇÖs Brittle Bridges\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_6c15b.dir\build.make:85: CMakeFiles/cmTC_6c15b.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/allen/Documents/Github/Code/Problems/Other/BruceÆs Brittle Bridges/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:140: cmTC_6c15b/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/allen/Documents/Github/Code/Problems/Other/Bruce’s Brittle Bridges/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe cmTC_1fd5d/fast && C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_1fd5d.dir\build.make CMakeFiles/cmTC_1fd5d.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/allen/Documents/Github/Code/Problems/Other/BruceÆs Brittle Bridges/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1fd5d.dir/testCCompiler.c.obj
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe    -o CMakeFiles\cmTC_1fd5d.dir\testCCompiler.c.obj   -c "C:\Users\allen\Documents\Github\Code\Problems\Other\BruceΓÇÖs Brittle Bridges\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+gcc.exe: error: C:\Users\allen\Documents\Github\Code\Problems\Other\BruceΓÇÖs Brittle Bridges\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_1fd5d.dir\build.make:85: CMakeFiles/cmTC_1fd5d.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/allen/Documents/Github/Code/Problems/Other/BruceÆs Brittle Bridges/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:140: cmTC_1fd5d/fast] Error 2
+
+
+

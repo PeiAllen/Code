@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/Other/Bob's Permutation/cmake-build-debug/CMakeFiles/Bob_s_Permutation.dir
+C:/Users/allen/Documents/Github/Code/Problems/Other/Bob's Permutation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/Other/Bob's Permutation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

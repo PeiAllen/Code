@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/JOI__14___Pinball.dir/main.cpp.obj"
-  "JOI__14___Pinball.pdb"
   "JOI__14___Pinball.exe"
   "JOI__14___Pinball.exe.manifest"
+  "JOI__14___Pinball.pdb"
   "libJOI__14___Pinball.dll.a"
 )
 

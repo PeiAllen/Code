@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/APIO__09_P2___The_Siruseri_Convention_Centre.dir/main.cpp.o"
+  "APIO__09_P2___The_Siruseri_Convention_Centre.exe"
+  "APIO__09_P2___The_Siruseri_Convention_Centre.exe.manifest"
   "APIO__09_P2___The_Siruseri_Convention_Centre.pdb"
-  "APIO__09_P2___The_Siruseri_Convention_Centre"
+  "CMakeFiles/APIO__09_P2___The_Siruseri_Convention_Centre.dir/main.cpp.obj"
+  "libAPIO__09_P2___The_Siruseri_Convention_Centre.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

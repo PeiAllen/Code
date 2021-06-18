@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/MCC/Riolku's Mock CCC S2 - Keen Keener Sequence (Hard version)/main.cpp
+bits/stdc++.h
+-
+ext/pb_ds/assoc_container.hpp
+-
+ext/pb_ds/tree_policy.hpp
+-
+

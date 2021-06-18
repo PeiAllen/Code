@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/Other/Mine and Tree/cmake-build-debug/CMakeFiles/Mine_and_Tree.dir
+C:/Users/allen/Documents/Github/Code/Problems/Other/Mine and Tree/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/Other/Mine and Tree/cmake-build-debug/CMakeFiles/rebuild_cache.dir

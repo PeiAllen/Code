@@ -42,7 +42,9 @@ void adfs(int loc, int eind, int dep){
         if(nadj[loc].back()>n)comp[loc]=nadj[loc].back(),nadj[comp[loc]].pop_back(),nadj[loc].pop_back();
         else{
             nodes++;
-            nadj[nodes].push_back(nadj[loc].);
+            comp[loc]=nodes;
+            nadj[nodes].push_back(nadj[loc].back());
+            nadj[nadj[loc].back()].back()=nodes;
             nadj[loc].pop_back();
         }
     }
@@ -53,5 +55,12 @@ int main(){
     ll p;
     cin>>n>>m>>k>>p;
     nodes=n;
+    int a,b;
+    for(int i=0;i<m;i++){
+        cin>>a>>b;
+        oadj[a].push_back({b,i}),oadj[b].push_back({a,i});
+    }
+    adfs(1,-1,1);
+
     return 0;
 }
