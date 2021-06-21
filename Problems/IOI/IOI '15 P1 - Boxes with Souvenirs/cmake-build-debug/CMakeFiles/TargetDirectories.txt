@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/IOI/IOI '15 P1 - Boxes with Souvenirs/cmake-build-debug/CMakeFiles/IOI__15_P1___Boxes_with_Souvenirs.dir
+C:/Users/allen/Documents/Github/Code/Problems/IOI/IOI '15 P1 - Boxes with Souvenirs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/IOI/IOI '15 P1 - Boxes with Souvenirs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
