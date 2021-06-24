@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.5\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\COCI__06_Contest_4__5_Jogurt.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\COCI__06_Contest_4__5_Jogurt.dir/objects.a @CMakeFiles\COCI__06_Contest_4__5_Jogurt.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\COCI__06_Contest_4__5_Jogurt.dir/objects.a -Wl,--no-whole-archive  -o COCI__06_Contest_4__5_Jogurt.exe -Wl,--out-implib,libCOCI__06_Contest_4__5_Jogurt.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\COCI__06_Contest_4__5_Jogurt.dir\linklibs.rsp
