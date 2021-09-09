@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/Codeforces/C. AquaMoon and Permutations/cmake-build-debug/CMakeFiles/C__AquaMoon_and_Permutations.dir
+C:/Users/allen/Documents/Github/Code/Problems/Codeforces/C. AquaMoon and Permutations/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/Codeforces/C. AquaMoon and Permutations/cmake-build-debug/CMakeFiles/rebuild_cache.dir

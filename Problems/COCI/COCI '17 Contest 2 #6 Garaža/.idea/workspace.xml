@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da01f0a1-5907-4211-a0ff-9237b17419b6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../BKOI/Balkan OI '11 P5 - Time Is Money/.idea/Balkan OI '11 P5 - Time Is Money.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BOJ/Binary Supersonic Utahraptors/.idea/Binary Supersonic Utahraptors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BOJ/Digital Art/.idea/Digital Art.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BOJ/Even Electricity/.idea/Even Electricity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BOJ/Gophers/.idea/Gophers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BOJ/Harmonious Matrix/.idea/Harmonious Matrix.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BOJ/Logistics/.idea/Logistics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BOJ/Meow Factor 2/.idea/Meow Factor 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BOJ/Party/.idea/Party.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BOJ/Ramen Buy (Small)/.idea/Ramen Buy (Small).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BOJ/Tower/.idea/Tower.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BOJ/number/.idea/number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COCI '17 Contest 3 #5 Dojave/.idea/COCI '17 Contest 3 #5 Dojave.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COCI '17 Contest 6 #4 Cover/.idea/COCI '17 Contest 6 #4 Cover.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COI/COI '06 #1 Patrik/.idea/COI '06 #1 Patrik.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Codeforces/A. AquaMoon and Strange Sort/.idea/A. AquaMoon and Strange Sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Codeforces/C. AquaMoon and Permutations/.idea/C. AquaMoon and Permutations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Codeforces/D. Kindergarten/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Codeforces/E. Playing with String/.idea/E. Playing with String.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Codeforces/E2. Abnormal Permutation Pairs (hard version)/.idea/E2. Abnormal Permutation Pairs (hard version).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Codeforces/H. XOR and Distance/.idea/H. XOR and Distance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ECOO/ECOO '16 R1 P3 - Railway Sort/.idea/ECOO '16 R1 P3 - Railway Sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FHC/Temporal Revision/.idea/Temporal Revision.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IOI/Dungeons Game/.idea/Dungeons Game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IOI/IOI '08 P3 - Fish/.idea/IOI '08 P3 - Fish.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IOI/IOI '15 P3 - Teams/.idea/IOI '15 P3 - Teams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IOI/Keys/.idea/Keys.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NOI/NOI '05 P4 - CongCong and KoKo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NOI/NOI '05 P4 - CongCong and KoKo/.idea/NOI '05 P4 - CongCong and KoKo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NOI/NOI '10 P2 - Super Piano/.idea/NOI '10 P2 - Super Piano.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Other/24Game/.idea/24Game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Other/Bob's Trip/.idea/Bob's Trip.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Other/Canada Day Contest 2021 - Half Heart/.idea/Canada Day Contest 2021 - Half Heart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Other/City Game/.idea/City Game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Other/Figurines/.idea/Figurines.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Templates/Math/LinearSieve/.idea/LinearSieve.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../USACO/2017/January/Platinum/Promotion Counting/.idea/Promotion Counting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../USACO/2017/January/Platinum/USACO 2017 January Contest, Platinum Problem 1. Promotion Counting/.idea/USACO 2017 January Contest, Platinum Problem 1. Promotion Counting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WC/WC '18 Contest 4 S3 - Dance Royale/.idea/WC '18 Contest 4 S3 - Dance Royale.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COCI '14 Contest 5 #6 Divljak/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COCI '14 Contest 5 #6 Divljak/cmake-build-debug/CMakeFiles/COCI__14_Contest_5__6_Divljak.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../COCI '14 Contest 5 #6 Divljak/cmake-build-debug/CMakeFiles/COCI__14_Contest_5__6_Divljak.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COCI '14 Contest 5 #6 Divljak/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../COCI '14 Contest 5 #6 Divljak/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COCI '14 Contest 5 #6 Divljak/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../COCI '14 Contest 5 #6 Divljak/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COCI '14 Contest 5 #6 Divljak/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../COCI '14 Contest 5 #6 Divljak/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/Contest.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/Contest.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/in" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/main" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/3.14.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/3.14.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/3.14.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/3.14.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/linklibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/CMakeFiles/Progress/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/CMakeFiles/Progress/count.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/CMakeFiles/TLE__17_Contest_1_P6___Investment.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/CMakeFiles/TLE__17_Contest_1_P6___Investment.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/CMakeFiles/TLE__17_Contest_1_P6___Investment.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/CMakeFiles/TLE__17_Contest_1_P6___Investment.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/TLE__17_Contest_1_P6___Investment.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/TLE__17_Contest_1_P6___Investment.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TLE/TLE '17 Contest 1 P6 - Investment/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../TLE/TLE '17 Contest 1 P6 - Investment/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1vsWLoi3YkculqeO1EcLVDrTjAF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da01f0a1-5907-4211-a0ff-9237b17419b6" name="Default Changelist" comment="" />
+      <created>1627351223628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627351223628</updated>
+      <workItem from="1627351224988" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

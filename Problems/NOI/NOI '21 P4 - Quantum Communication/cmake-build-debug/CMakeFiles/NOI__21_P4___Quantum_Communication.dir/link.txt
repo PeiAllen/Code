@@ -1,0 +1,3 @@
+C:\Users\allen\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5080.54\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\NOI__21_P4___Quantum_Communication.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\NOI__21_P4___Quantum_Communication.dir/objects.a @CMakeFiles\NOI__21_P4___Quantum_Communication.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\NOI__21_P4___Quantum_Communication.dir/objects.a -Wl,--no-whole-archive -o NOI__21_P4___Quantum_Communication.exe -Wl,--out-implib,libNOI__21_P4___Quantum_Communication.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\NOI__21_P4___Quantum_Communication.dir\linklibs.rsp

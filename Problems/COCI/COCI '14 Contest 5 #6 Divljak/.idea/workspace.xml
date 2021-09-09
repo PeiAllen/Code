@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="COCI__14_Contest_5__6_Divljak" targetName="COCI__14_Contest_5__6_Divljak" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63c50bf1-8566-4ff4-aa21-53619a3bf0dd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/COCI__14_Contest_5__6_Divljak.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/COCI__14_Contest_5__6_Divljak.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/Contest.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/Contest.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/CMakeFiles/Progress/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/CMakeFiles/Progress/count.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/CMakeFiles/TLE__17_Contest_1_P6___Investment.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/CMakeFiles/TLE__17_Contest_1_P6___Investment.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/CMakeFiles/TLE__17_Contest_1_P6___Investment.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/CMakeFiles/TLE__17_Contest_1_P6___Investment.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/TLE__17_Contest_1_P6___Investment.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/TLE__17_Contest_1_P6___Investment.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TLE/TLE '17 Contest 1 P6 - Investment/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../TLE/TLE '17 Contest 1 P6 - Investment/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1uadhdbwIhvv7kK4JCQoPUkqCCW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../WAC" />
+  </component>
+  <component name="RunManager">
+    <configuration name="COCI__14_Contest_5__6_Divljak" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="COCI__14_Contest_5__6_Divljak" TARGET_NAME="COCI__14_Contest_5__6_Divljak" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="COCI__14_Contest_5__6_Divljak" RUN_TARGET_NAME="COCI__14_Contest_5__6_Divljak">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63c50bf1-8566-4ff4-aa21-53619a3bf0dd" name="Default Changelist" comment="" />
+      <created>1624907753959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624907753959</updated>
+      <workItem from="1624907755222" duration="1330000" />
+      <workItem from="1624976963901" duration="9191000" />
+      <workItem from="1624989411685" duration="6376000" />
+      <workItem from="1625007974688" duration="399000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1675" y="406" key="#xdebugger.evaluate" timestamp="1624993272416">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1675" y="406" key="#xdebugger.evaluate/0.0.2560.1400@0.0.2560.1400" timestamp="1624993272416" />
+    <state x="1700" y="458" key="FileChooserDialogImpl" timestamp="1624990374710">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1700" y="458" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1624990374710" />
+    <state width="2517" height="486" key="GridCell.Tab.0.bottom" timestamp="1624995877221">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="486" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1624995877221" />
+    <state width="2517" height="486" key="GridCell.Tab.0.center" timestamp="1624995877221">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="486" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1624995877221" />
+    <state width="2517" height="486" key="GridCell.Tab.0.left" timestamp="1624995877221">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="486" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1624995877221" />
+    <state width="2517" height="486" key="GridCell.Tab.0.right" timestamp="1624995877221">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="486" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1624995877221" />
+    <state width="2517" height="486" key="GridCell.Tab.1.bottom" timestamp="1624995877221">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="486" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1624995877221" />
+    <state width="2517" height="486" key="GridCell.Tab.1.center" timestamp="1624995877221">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="486" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1624995877221" />
+    <state width="2517" height="486" key="GridCell.Tab.1.left" timestamp="1624995877221">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="486" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1624995877221" />
+    <state width="2517" height="486" key="GridCell.Tab.1.right" timestamp="1624995877221">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="486" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1624995877221" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="type&#10;" language="ObjectiveC" />
+        <watch expression="qnode&#10;" language="ObjectiveC" />
+        <watch expression="st&#10;" language="ObjectiveC" />
+        <watch expression="en&#10;" language="ObjectiveC" />
+        <watch expression="bit&#10;" language="ObjectiveC" />
+        <watch expression="relatednodes&#10;" language="ObjectiveC" />
+        <watch expression="solver&#10;" language="ObjectiveC" />
+        <watch expression="adj&#10;" language="ObjectiveC" />
+        <watch expression="qnode&#10;" />
+        <watch expression="par&#10;" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

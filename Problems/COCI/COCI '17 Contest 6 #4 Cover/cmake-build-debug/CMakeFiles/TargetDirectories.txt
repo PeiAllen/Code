@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/COCI/COCI '17 Contest 6 #4 Cover/cmake-build-debug/CMakeFiles/COCI__17_Contest_6__4_Cover.dir
+C:/Users/allen/Documents/Github/Code/Problems/COCI/COCI '17 Contest 6 #4 Cover/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/COCI/COCI '17 Contest 6 #4 Cover/cmake-build-debug/CMakeFiles/rebuild_cache.dir

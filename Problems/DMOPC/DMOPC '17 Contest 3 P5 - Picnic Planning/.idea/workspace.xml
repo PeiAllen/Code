@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated>
-      <config projectName="DMOPC__17_Contest_3_P5___Picnic_Planning" targetName="DMOPC__17_Contest_3_P5___Picnic_Planning" />
-    </generated>
+    <generated />
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -11,9 +27,68 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8156f1ce-ed84-4a3e-b94b-ebe97db59688" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="b1704dbe-6c8b-4cb4-ac5b-aafdeaca5dfa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../BOJ/Digital Art/.idea/Digital Art.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BOJ/Even Electricity/.idea/Even Electricity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BOJ/Gophers/.idea/Gophers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BOJ/Party/.idea/Party.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../COCI/COCI '17 Contest 6 #4 Cover/.idea/COCI '17 Contest 6 #4 Cover.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Codeforces/E. Playing with String/.idea/E. Playing with String.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FHC/Temporal Revision/.idea/Temporal Revision.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Other/24Game/.idea/24Game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Templates/Math/LinearSieve/.idea/LinearSieve.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WC/WC '18 Contest 4 S3 - Dance Royale/.idea/WC '18 Contest 4 S3 - Dance Royale.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../COCI/COCI '14 Contest 5 #6 Divljak/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../COCI/COCI '14 Contest 5 #6 Divljak/cmake-build-debug/CMakeFiles/COCI__14_Contest_5__6_Divljak.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../COCI/COCI '14 Contest 5 #6 Divljak/cmake-build-debug/CMakeFiles/COCI__14_Contest_5__6_Divljak.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../COCI/COCI '14 Contest 5 #6 Divljak/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../COCI/COCI '14 Contest 5 #6 Divljak/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../COCI/COCI '14 Contest 5 #6 Divljak/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../COCI/COCI '14 Contest 5 #6 Divljak/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../COCI/COCI '14 Contest 5 #6 Divljak/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../COCI/COCI '14 Contest 5 #6 Divljak/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/Contest.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/Contest.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DMOPC '17 Contest 3 P5 - Picnic Planning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DMOPC '17 Contest 3 P5 - Picnic Planning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/linklibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/CMakeFiles/Progress/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/CMakeFiles/Progress/count.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/CMakeFiles/TLE__17_Contest_1_P6___Investment.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/CMakeFiles/TLE__17_Contest_1_P6___Investment.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/CMakeFiles/TLE__17_Contest_1_P6___Investment.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/CMakeFiles/TLE__17_Contest_1_P6___Investment.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/TLE__17_Contest_1_P6___Investment.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/TLE__17_Contest_1_P6___Investment.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TLE/TLE '17 Contest 1 P6 - Investment/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../TLE/TLE '17 Contest 1 P6 - Investment/main.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,131 +97,59 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/main.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="13" lean-forward="true" selection-end-line="21" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/main.cpp" />
-      </list>
-    </option>
-  </component>
-  <component name="MacroExpansionManager">
-    <option name="directoryName" value="OTeUcCmU" />
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1264" />
-    <option name="width" value="1303" />
-    <option name="height" value="1407" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1uh7IjifU1fOe0CFqShUSMXUO4S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
   </component>
   <component name="RunManager">
-    <configuration name="DMOPC__17_Contest_3_P5___Picnic_Planning" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DMOPC__17_Contest_3_P5___Picnic_Planning" TARGET_NAME="DMOPC__17_Contest_3_P5___Picnic_Planning" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DMOPC__17_Contest_3_P5___Picnic_Planning" RUN_TARGET_NAME="DMOPC__17_Contest_3_P5___Picnic_Planning">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8156f1ce-ed84-4a3e-b94b-ebe97db59688" name="Default Changelist" comment="" />
-      <created>1564000872970</created>
+      <changelist id="b1704dbe-6c8b-4cb4-ac5b-aafdeaca5dfa" name="Default Changelist" comment="" />
+      <created>1625105888327</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1564000872970</updated>
-      <workItem from="1564000874220" duration="1006000" />
+      <updated>1625105888327</updated>
+      <workItem from="1625105889606" duration="1208000" />
+      <workItem from="1625243192759" duration="599000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1006000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="1264" y="0" width="1303" height="1407" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24939662" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.32967034" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="CMake" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Cargo" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="13" lean-forward="true" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

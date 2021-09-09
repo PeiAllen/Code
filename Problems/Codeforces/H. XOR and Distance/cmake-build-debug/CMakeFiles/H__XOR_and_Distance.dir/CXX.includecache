@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/Codeforces/H. XOR and Distance/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/Codeforces/H. XOR and Distance/bits/stdc++.h
+

@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/AAC/An Animal Contest 3 P8 - Monkey Retirement/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/AAC/An Animal Contest 3 P8 - Monkey Retirement/bits/stdc++.h
+

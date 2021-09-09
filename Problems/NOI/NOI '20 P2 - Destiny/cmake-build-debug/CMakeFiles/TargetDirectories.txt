@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/NOI/NOI '20 P2 - Destiny/cmake-build-debug/CMakeFiles/NOI__20_P2___Destiny.dir
+C:/Users/allen/Documents/Github/Code/Problems/NOI/NOI '20 P2 - Destiny/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/NOI/NOI '20 P2 - Destiny/cmake-build-debug/CMakeFiles/rebuild_cache.dir

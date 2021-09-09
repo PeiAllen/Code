@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/DMOPC/DMOPC '21 Contest 1 P2 - Folding Clothes/cmake-build-debug/CMakeFiles/DMOPC__21_Contest_1_P2___Folding_Clothes.dir
+C:/Users/allen/Documents/Github/Code/Problems/DMOPC/DMOPC '21 Contest 1 P2 - Folding Clothes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/DMOPC/DMOPC '21 Contest 1 P2 - Folding Clothes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

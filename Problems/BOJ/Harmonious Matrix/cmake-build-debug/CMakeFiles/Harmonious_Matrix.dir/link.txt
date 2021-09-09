@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.5\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Harmonious_Matrix.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\Harmonious_Matrix.dir/objects.a @CMakeFiles\Harmonious_Matrix.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\Harmonious_Matrix.dir/objects.a -Wl,--no-whole-archive  -o Harmonious_Matrix.exe -Wl,--out-implib,libHarmonious_Matrix.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Harmonious_Matrix.dir\linklibs.rsp
