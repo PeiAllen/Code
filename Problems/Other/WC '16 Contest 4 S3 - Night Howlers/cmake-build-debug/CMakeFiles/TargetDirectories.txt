@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/Other/WC '16 Contest 4 S3 - Night Howlers/cmake-build-debug/CMakeFiles/WC__16_Contest_4_S3___Night_Howlers.dir
+C:/Users/allen/Documents/Github/Code/Problems/Other/WC '16 Contest 4 S3 - Night Howlers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/Other/WC '16 Contest 4 S3 - Night Howlers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(DMOPC__20_Contest_2_P5___Majority_Subarrays)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(DMOPC__20_Contest_2_P5___Majority_Subarrays main.cpp)

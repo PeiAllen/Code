@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/CCO/CCO '13 P6 - Repetitivity/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/CCO/CCO '13 P6 - Repetitivity/bits/stdc++.h
+

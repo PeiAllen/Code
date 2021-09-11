@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/Typing/Treap/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/Typing/Treap/bits/stdc++.h
+

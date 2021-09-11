@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/Other/Bob's Fighting With Monsters/cmake-build-debug/CMakeFiles/Bob_s_Fighting_With_Monsters.dir
+C:/Users/allen/Documents/Github/Code/Problems/Other/Bob's Fighting With Monsters/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/Other/Bob's Fighting With Monsters/cmake-build-debug/CMakeFiles/rebuild_cache.dir

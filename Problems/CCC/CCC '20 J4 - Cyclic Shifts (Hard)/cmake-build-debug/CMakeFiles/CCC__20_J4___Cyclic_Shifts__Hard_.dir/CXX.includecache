@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/CCC/CCC '20 J4 - Cyclic Shifts (Hard)/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/CCC/CCC '20 J4 - Cyclic Shifts (Hard)/bits/stdc++.h
+

@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO '04 P6 - Orko
+# Install script for directory: C:/Users/allen/Documents/Github/Code/Problems/CCO/CCO '04 P6 - Orko
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO '04 P6 - Orko/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/allen/Documents/Github/Code/Problems/CCO/CCO '04 P6 - Orko/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

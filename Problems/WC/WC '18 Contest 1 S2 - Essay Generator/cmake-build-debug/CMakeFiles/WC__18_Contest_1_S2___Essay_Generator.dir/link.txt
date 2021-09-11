@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\WC__18_Contest_1_S2___Essay_Generator.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\WC__18_Contest_1_S2___Essay_Generator.dir/objects.a @CMakeFiles\WC__18_Contest_1_S2___Essay_Generator.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\WC__18_Contest_1_S2___Essay_Generator.dir/objects.a -Wl,--no-whole-archive  -o WC__18_Contest_1_S2___Essay_Generator.exe -Wl,--out-implib,libWC__18_Contest_1_S2___Essay_Generator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\WC__18_Contest_1_S2___Essay_Generator.dir\linklibs.rsp

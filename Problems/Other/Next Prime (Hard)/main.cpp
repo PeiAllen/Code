@@ -1,50 +1,36 @@
-#include <bits/stdc++.h>
+#include "bits/stdc++.h"
 using namespace std;
-typedef unsigned long long int llu;
-random_device rd;
-mt19937_64 eng(rd());
-llu fastmul(llu a, llu b, llu mod){
-	llu ret=0;
-	for(llu i=1;i<=b;i<<=1){
-		if(b&i){
-			ret+=a;
-			ret%=mod;
-		}
-		a+=a;
-		a%=mod;
-	}
-	return ret;
+using ll = long long;
+using pii = pair<int,int>;
+using pll = pair<ll,ll>;
+template<typename T>
+int sz(const T &a){return int(a.size());}
+template <class T> T fp(T a, T b, T mod){
+    a%=mod;
+    T ans=1;
+    for(T i=1;i<=b;i<<=1){
+        if(b&i)ans=ans*a%mod;
+        a=a*a%mod;
+    }
+    return ans;
 }
-llu fpow(llu a, llu b, llu mod){
-	llu ret=1;
-	for(llu i=1;i<=b;i<<=1){
-		if(b&i){
-			ret=fastmul(ret,a,mod);
-			ret%=mod;
-		}
-		a=fastmul(a,a,mod);
-	}
-	return ret;
-}
-bool prime(llu a){
-	for(int i=0;i<1;i++){
-		uniform_int_distribution<llu> gen(1,a-1);
-		llu randnum=gen(eng);
-		if(fpow(randnum,a-1,a)!=1){
-			return false;
-		}
-	}
-	return true;
+template <class T> bool isprime(T x){
+    if(x<=1||x%6%4!=1)return (x|1)==3;
+    T s=0,d=x-1;
+    while(!(d&1))s++,d>>=1;
+    for(T a:{2, 325, 9375, 28178, 450775, 9780504, 1795265022}){
+        T v=fp(a,d,x),i=s-1;
+        if(v!=1)while(v!=x-1&&i--&&v>1)v=v*v%x;
+        if(v!=x-1&&a%x!=0&&i!=s-1)return false;
+    }
+    return true;
 }
 int main(){
-	cin.tie(NULL);
-	ios_base::sync_with_stdio(false);
-	llu n;
-	cin>>n;
-	if(n<=2) printf("2\n");
-	else {
-		while (!prime(n))n++;
-		printf("%llu\n", n);
-	}
-	return 0;
+    cin.tie(NULL);
+    ios_base::sync_with_stdio(false);
+    ll n;
+    cin>>n;
+    while(!isprime(__int128(n)))n++;
+    printf("%lli\n",n);
+    return 0;
 }

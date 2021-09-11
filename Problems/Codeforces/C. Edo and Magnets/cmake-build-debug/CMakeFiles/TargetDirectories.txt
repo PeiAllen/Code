@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/Codeforces/C. Edo and Magnets/cmake-build-debug/CMakeFiles/C__Edo_and_Magnets.dir
+C:/Users/allen/Documents/Github/Code/Problems/Codeforces/C. Edo and Magnets/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/Codeforces/C. Edo and Magnets/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/UTSOpen/UTS Open '21 P7 - April Fools/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/UTSOpen/UTS Open '21 P7 - April Fools/bits/stdc++.h
+

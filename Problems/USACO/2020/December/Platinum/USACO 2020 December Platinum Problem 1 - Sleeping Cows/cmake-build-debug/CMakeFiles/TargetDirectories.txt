@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2020/December/Platinum/USACO 2020 December Platinum Problem 1 - Sleeping Cows/cmake-build-debug/CMakeFiles/USACO_2020_December_Platinum_Problem_1___Sleeping_Cows.dir
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2020/December/Platinum/USACO 2020 December Platinum Problem 1 - Sleeping Cows/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2020/December/Platinum/USACO 2020 December Platinum Problem 1 - Sleeping Cows/cmake-build-debug/CMakeFiles/rebuild_cache.dir

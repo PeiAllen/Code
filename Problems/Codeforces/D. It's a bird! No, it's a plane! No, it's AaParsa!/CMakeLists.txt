@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(D__It_s_a_bird__No__it_s_a_plane__No__it_s_AaParsa_)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(D__It_s_a_bird__No__it_s_a_plane__No__it_s_AaParsa_ main.cpp)

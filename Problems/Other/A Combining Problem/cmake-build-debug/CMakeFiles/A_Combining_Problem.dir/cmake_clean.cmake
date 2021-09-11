@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/A_Combining_Problem.dir/main.cpp.obj"
-  "A_Combining_Problem.pdb"
   "A_Combining_Problem.exe"
   "A_Combining_Problem.exe.manifest"
+  "A_Combining_Problem.pdb"
+  "CMakeFiles/A_Combining_Problem.dir/main.cpp.obj"
   "libA_Combining_Problem.dll.a"
 )
 

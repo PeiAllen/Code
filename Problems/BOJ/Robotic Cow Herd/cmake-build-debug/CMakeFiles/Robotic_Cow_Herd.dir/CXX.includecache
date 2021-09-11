@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/BOJ/Robotic Cow Herd/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/BOJ/Robotic Cow Herd/bits/stdc++.h
+

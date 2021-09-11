@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/Codeforces/E. Vus the Cossack and a Field/cmake-build-debug/CMakeFiles/E__Vus_the_Cossack_and_a_Field.dir
+C:/Users/allen/Documents/Github/Code/Problems/Codeforces/E. Vus the Cossack and a Field/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/Codeforces/E. Vus the Cossack and a Field/cmake-build-debug/CMakeFiles/rebuild_cache.dir

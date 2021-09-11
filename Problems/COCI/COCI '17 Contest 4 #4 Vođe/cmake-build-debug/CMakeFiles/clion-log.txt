@@ -1,0 +1,30 @@
+"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\allen\Documents\Github\Code\Problems\COCI\COCI '17 Contest 4 #4 Vođe"
+-- The C compiler identification is GNU 8.1.0
+-- The CXX compiler identification is GNU 8.1.0
+-- Check for working C compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe
+-- Check for working C compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe - broken
+CMake Error at C:/Program Files/JetBrains/CLion 2020.2/bin/cmake/win/share/cmake-3.17/Modules/CMakeTestCCompiler.cmake:60 (message):
+  The C compiler
+
+    "C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: C:/Users/allen/Documents/Github/Code/Problems/COCI/COCI '17 Contest 4 #4 VoÄ‘e/cmake-build-debug/CMakeFiles/CMakeTmp
+    
+    Run Build Command(s):C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe cmTC_bcd4a/fast && mingw32-make.exe: *** INTERNAL: readdir: No such file or directory.  Stop.
+    
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/allen/Documents/Github/Code/Problems/COCI/COCI '17 Contest 4 #4 VoÄ‘e/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "C:/Users/allen/Documents/Github/Code/Problems/COCI/COCI '17 Contest 4 #4 VoÄ‘e/cmake-build-debug/CMakeFiles/CMakeError.log".

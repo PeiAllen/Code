@@ -1,8 +1,8 @@
-# Install script for directory: /Users/allen/Documents/GitHub/Code/Problems/CCC/CCC '10 S4 - Animal Farm
+# Install script for directory: C:/Users/allen/Documents/Github/Code/Problems/CCC/CCC '10 S4 - Animal Farm
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/usr/local")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/CCC__10_S4___Animal_Farm")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/allen/Documents/GitHub/Code/Problems/CCC/CCC '10 S4 - Animal Farm/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/allen/Documents/Github/Code/Problems/CCC/CCC '10 S4 - Animal Farm/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

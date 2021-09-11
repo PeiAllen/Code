@@ -1,3 +1,3 @@
-C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/JOI/JOI '16 P3 - Skyscraper/cmake-build-debug/CMakeFiles/JOI__16_P3___Skyscraper.dir
-C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/JOI/JOI '16 P3 - Skyscraper/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/JOI/JOI '16 P3 - Skyscraper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/JOI/JOI '16 P3 - Skyscraper/cmake-build-debug/CMakeFiles/JOI__16_P3___Skyscraper.dir
+C:/Users/allen/Documents/Github/Code/Problems/JOI/JOI '16 P3 - Skyscraper/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/JOI/JOI '16 P3 - Skyscraper/cmake-build-debug/CMakeFiles/rebuild_cache.dir

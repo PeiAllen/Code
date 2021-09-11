@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\James__XOR_Update.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\James__XOR_Update.dir/objects.a @CMakeFiles\James__XOR_Update.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\James__XOR_Update.dir/objects.a -Wl,--no-whole-archive  -o James__XOR_Update.exe -Wl,--out-implib,libJames__XOR_Update.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\James__XOR_Update.dir\linklibs.rsp

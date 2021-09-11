@@ -32,10 +32,10 @@ int main(){
         }
         for(int j=1;j<=costs[i].second.first;j++)tot+=costs[i].first[j];
     }
-    sort(costs,costs+m,[&](auto lhs, auto rhs){
+    sort(costs,costs+m,[&](const pair<vector<ll>,pii>& lhs, const pair<vector<ll>,pii>& rhs){
         return (lhs.second.first+1<sz(lhs.first)?lhs.first[lhs.second.first+1]-lhs.first[lhs.second.first]:LLONG_MAX)<(rhs.second.first+1<sz(rhs.first)?rhs.first[rhs.second.first+1]-rhs.first[rhs.second.first]:LLONG_MAX);
     });
-    priority_queue<pair<ll,pair<int,pair<int,pii>>>,vector<pair<ll,pair<int,pair<int,pii>>>>,greater<>> q;
+    priority_queue<pair<ll,pair<int,pair<int,pii>>>,vector<pair<ll,pair<int,pair<int,pii>>>>,greater<pair<ll,pair<int,pair<int,pii>>> >> q;
     q.push({tot,{0,{costs[0].second.first,{costs[0].second.first,sz(costs[0].first)}}}});
     for(int i=1;i<=k;i++){
         if(!sz(q))printf("-1\n");

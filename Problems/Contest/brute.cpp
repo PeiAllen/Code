@@ -4,58 +4,66 @@ using ll = long long;
 using pii = pair<int,int>;
 using pll = pair<ll,ll>;
 template<typename T>
-int sz(const T &a){return (int)a.size();}
-const int MAXN=1e3+1;
-int arr[MAXN];
-vector<int> matrix[MAXN];
+int SZ(const T &a){return int(a.size());}
+const int MN=3e5+1;
+vector<int> adj[MN];
+vector<int> radj[MN];
+int am[MN],ram[MN],gone[MN],rgone[MN];
+int n,m,q,k,bruteans;
+void dfs(int loc, int ti){
+    gone[loc]=ti;
+    for(auto x:adj[loc])if(gone[x]<ti)dfs(x,ti);
+}
+void rdfs(int loc, int ti){
+    rgone[loc]=ti;
+    if(gone[loc]==ti)bruteans++;
+    for(auto x:radj[loc])if(rgone[x]<ti)rdfs(x,ti);
+}
+void solvetree(){
+
+}
+void brute(){
+    int a,b,st,en;
+    fill(gone,gone+n+1,-1);
+    fill(rgone,rgone+n+1,-1);
+    for(int i=0;i<q;i++){
+        cin>>st>>en;
+        vector<int> topop,rtopop;
+        for(int j=0;j<k;j++){
+            cin>>a>>b;
+            adj[a].push_back(b);
+            topop.push_back(a);
+            radj[b].push_back(a);
+            rtopop.push_back(b);
+        }
+        bruteans=0;
+        dfs(st,i),rdfs(en,i);
+        printf("%d\n",bruteans);
+        for(auto x:topop)adj[x].pop_back();
+        for(auto x:rtopop)radj[x].pop_back();
+    }
+}
+void solvekzero(){
+
+}
 int main(){
     cin.tie(NULL);
     ios_base::sync_with_stdio(false);
-    int n;
-    cin>>n;
-    for(int i=1;i<=n;i++){
-        cin>>arr[i];
-        for(int j=1;j<i;j++){
-            if(arr[j]>arr[i]){
-                matrix[i].push_back(j);
-            }
-        }
+    int a,b;
+    cin>>n>>m>>q>>k;
+    for(int i=0;i<m;i++){
+        cin>>a>>b;
+        adj[a].push_back(b);
+        radj[b].push_back(a);
     }
-    vector<pii> order;
-    for(int i=n;i>=1;i--){
-        if(sz(matrix[i])) {
-            sort(matrix[i].begin(), matrix[i].end(), [&](auto &lhs, auto &rhs) {
-                return arr[lhs] < arr[rhs];
-            });
-            if (arr[matrix[i].back()]<arr[i]){
-                printf("baf\n");
-                assert(0);
-                return 0;
-            }
-            for (auto x:matrix[i]) {
-                order.push_back({x,i});
-                swap(arr[x],arr[i]);
-            }
-        }
-    }
-    if(!is_sorted(arr+1,arr+n+1))printf("baf\n"),assert(0);
-    else{
-        printf("%d\n",sz(order));
-        for(auto x:order)printf("%d %d\n",x.first,x.second);
-    }
-//    for(auto x:inversions){
-//        uni(x.first,x.second);
+//    if(m==n-1){
+//        solvetree();
 //    }
-//    for(int i=1;i<=n;i++){
-//        if(!done[i]&&sz(matrix[i])==dsu[find(i)].second-1){
-//
-//        }
+//    else if(k==0){
+//        solvekzero();
 //    }
-//    for(int i=1;i<=n;i++){
-//        if(!done[i]){
-//            printf("-1\n");
-//            return 0;
-//        }
+//    else{
+    brute();
 //    }
     return 0;
 }

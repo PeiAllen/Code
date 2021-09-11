@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO '04 P2 - Hockey Scores/main.cpp" "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO '04 P2 - Hockey Scores/cmake-build-debug/CMakeFiles/CCO__04_P2___Hockey_Scores.dir/main.cpp.obj"
+  "C:/Users/allen/Documents/Github/Code/Problems/CCO/CCO '04 P2 - Hockey Scores/main.cpp" "C:/Users/allen/Documents/Github/Code/Problems/CCO/CCO '04 P2 - Hockey Scores/cmake-build-debug/CMakeFiles/CCO__04_P2___Hockey_Scores.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

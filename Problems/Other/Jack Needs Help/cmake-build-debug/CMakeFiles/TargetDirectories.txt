@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/Other/Jack Needs Help/cmake-build-debug/CMakeFiles/Jack_Needs_Help.dir
+C:/Users/allen/Documents/Github/Code/Problems/Other/Jack Needs Help/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/Other/Jack Needs Help/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/DMOPC/DMOPC '15 Contest 3 P3 - Dimethylbenzene/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/DMOPC/DMOPC '15 Contest 3 P3 - Dimethylbenzene/bits/stdc++.h
+

@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/IOI__02_P4___Batch_Scheduling.dir/main.cpp.obj"
-  "IOI__02_P4___Batch_Scheduling.pdb"
   "IOI__02_P4___Batch_Scheduling.exe"
   "IOI__02_P4___Batch_Scheduling.exe.manifest"
+  "IOI__02_P4___Batch_Scheduling.pdb"
   "libIOI__02_P4___Batch_Scheduling.dll.a"
 )
 

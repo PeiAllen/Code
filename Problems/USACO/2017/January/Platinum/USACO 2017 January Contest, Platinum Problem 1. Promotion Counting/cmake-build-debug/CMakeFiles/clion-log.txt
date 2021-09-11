@@ -1,0 +1,32 @@
+"C:\Program Files\JetBrains\CLion 2020.2.5\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\allen\Documents\Github\Code\Problems\USACO\2017\January\Platinum\USACO 2017 January Contest, Platinum Problem 1. Promotion Counting"
+-- The C compiler identification is GNU 8.1.0
+-- The CXX compiler identification is GNU 8.1.0
+-- Check for working C compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe
+-- Check for working C compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe - works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/g++.exe
+-- Check for working CXX compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/g++.exe - works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+CMake Warning in CMakeLists.txt:
+  The object file directory
+
+    C:/Users/allen/Documents/Github/Code/Problems/USACO/2017/January/Platinum/USACO 2017 January Contest, Platinum Problem 1. Promotion Counting/cmake-build-debug/CMakeFiles/USACO_2017_January_Contest__Platinum_Problem_1__Promotion_Counting.dir/
+
+  has 241 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    main.cpp.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Generating done
+-- Build files have been written to: C:/Users/allen/Documents/Github/Code/Problems/USACO/2017/January/Platinum/USACO 2017 January Contest, Platinum Problem 1. Promotion Counting/cmake-build-debug

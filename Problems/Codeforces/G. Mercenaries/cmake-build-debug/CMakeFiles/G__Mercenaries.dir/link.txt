@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/G__Mercenaries.dir/main.cpp.o  -o G__Mercenaries 

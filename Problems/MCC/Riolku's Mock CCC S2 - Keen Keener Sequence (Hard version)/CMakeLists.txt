@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(Riolku_s_Mock_CCC_S2___Keen_Keener_Sequence__Hard_version_)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Riolku_s_Mock_CCC_S2___Keen_Keener_Sequence__Hard_version_ main.cpp)

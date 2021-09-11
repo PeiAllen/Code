@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/BOJ/Ice Skates/cmake-build-debug/CMakeFiles/Ice_Skates.dir
+C:/Users/allen/Documents/Github/Code/Problems/BOJ/Ice Skates/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/BOJ/Ice Skates/cmake-build-debug/CMakeFiles/rebuild_cache.dir

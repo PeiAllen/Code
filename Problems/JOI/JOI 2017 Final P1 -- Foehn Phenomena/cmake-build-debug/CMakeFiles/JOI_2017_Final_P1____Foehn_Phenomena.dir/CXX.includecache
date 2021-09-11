@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/JOI/JOI 2017 Final P1 -- Foehn Phenomena/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/JOI/JOI 2017 Final P1 -- Foehn Phenomena/bits/stdc++.h
+

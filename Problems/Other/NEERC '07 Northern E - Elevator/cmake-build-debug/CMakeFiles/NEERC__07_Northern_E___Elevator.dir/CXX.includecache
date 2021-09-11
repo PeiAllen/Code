@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/Other/NEERC '07 Northern E - Elevator/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/Other/NEERC '07 Northern E - Elevator/bits/stdc++.h
+

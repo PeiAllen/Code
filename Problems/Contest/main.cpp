@@ -4,106 +4,126 @@ using ll = long long;
 using pii = pair<int,int>;
 using pll = pair<ll,ll>;
 template<typename T>
-int sz(const T &a){return int(a.size());}
-const int MAXN=1e6+1;
+int SZ(const T &a){return int(a.size());}
 const ll mod=1e9+7;
-ll x[MAXN],y[MAXN],edge[MAXN],wei[MAXN],edgeweight[MAXN];
-multiset<ll> weights[MAXN+1][2];
-const ll maxw=1e9;
+ll fp(ll a, ll b){
+    ll ans=1;
+    for(ll i=1;i<=b;i<<=1){
+        if(b&i)ans=ans*a%mod;
+        a=a*a%mod;
+    }
+    return ans;
+}
+int n,m;
+const int MN=10001;
+int pc[MN];
+int res[MN];
+int nval[MN];
+
+void solveone(){
+    string a;
+    cin>>a;
+    vector<int> op;
+    int zerovalue=0,onevalue=1;
+    for(auto x:a){
+        if(x=='R'){
+            if(zerovalue==0&&onevalue==1)op.push_back(0);
+            else if(zerovalue==0&&onevalue==0)op.push_back(1);
+            else if(zerovalue==1&&onevalue==1)op.push_back(2);
+            else op.push_back(3);
+            zerovalue=0,onevalue=1;
+        }
+        else if(x=='0')zerovalue=0,onevalue=0;
+        else if(x=='1')zerovalue=1,onevalue=1;
+        else zerovalue^=1,onevalue^=1;
+    }
+    pc[0]=1;
+    for(int i=1;i<=n;i++){
+        pc[i]=pc[i-1]*3;
+    }
+    int ans=0;
+    for(int i=0;i<(pc[n]);i++){
+        int te=i;
+        for(int j=0;j<n;j++){
+            res[j]=te%3;
+            te/=3;
+        }
+        set<vector<int>> cnt;
+        for(int j=0;j+SZ(op)<=n;j++){
+            int loc=j;
+            for(int l=0;l<n;l++)nval[l]=res[l];
+            for(auto x:op){
+                if(res[loc]==0)nval[loc]=0;
+                else{
+                    if(x==0)nval[loc]=res[loc];
+                    else if(x==1)nval[loc]=0;
+                    else if(x==2)nval[loc]=1;
+                    else if(x==3)nval[loc]=1-res[loc];
+                }
+                loc++;
+            }
+            vector<int> te(nval,nval+n);
+            cnt.insert(te);
+        }
+        ans+=SZ(cnt);
+    }
+    printf("%d\n",ans);
+}
+void solvenor(string a){
+    vector<int> op;
+    int zerovalue=0,onevalue=1;
+    for(auto x:a){
+        if(x=='R'){
+            if(zerovalue==0&&onevalue==1)op.push_back(0);
+            else if(zerovalue==0&&onevalue==0)op.push_back(1);
+            else if(zerovalue==1&&onevalue==1)op.push_back(2);
+            else op.push_back(3);
+            zerovalue=0,onevalue=1;
+        }
+        else if(x=='0')zerovalue=0,onevalue=0;
+        else if(x=='1')zerovalue=1,onevalue=1;
+        else zerovalue^=1,onevalue^=1;
+    }
+    if(zerovalue==0&&onevalue==1)op.push_back(0);
+    else if(zerovalue==0&&onevalue==0)op.push_back(1);
+    else if(zerovalue==1&&onevalue==1)op.push_back(2);
+    else op.push_back(3);
+    zerovalue=0,onevalue=1;
+    if(op[0]==0){
+        printf("%lli\n",fp(3,n*m)*n%mod);
+    }
+    else if(op[0]==1||op[0]==2){
+        ll ans=fp(3,n*m)*n%mod;
+        ll toadd=1;
+        for(int i=0;i<n;i++){
+            ans=(ans-fp(3,(n-1)*m)*fp(2,m)%mod+mod)%mod;
+            toadd=toadd*(fp(3,m)-fp(2,m)+mod)%mod;
+        }
+        printf("%lli\n",(ans+fp(3,n*m)-toadd+mod)%mod);
+    }
+    else{
+        ll ans=fp(3,n*m)*n%mod;
+        ll toadd=1;
+        for(int i=0;i<n;i++){
+            ans=(ans-fp(3,(n-1)*m)+mod)%mod;
+            toadd=toadd*(fp(3,m)-1+mod)%mod;
+        }
+        printf("%lli\n",(ans+fp(3,n*m)-toadd+mod)%mod);
+    }
+};
 int main(){
     cin.tie(NULL);
     ios_base::sync_with_stdio(false);
-    freopen("circular_circles_input (1).txt","r",stdin);
-    freopen("output.txt","w",stdout);
-    int t;
-    cin>>t;
-    int cs=1;
-    while(t--){
-        int n,m,e,k;
-        cin>>n>>m>>e>>k;
-        for(int i=0;i<k;i++){
-            cin>>x[i];
-        }
-        for(int i=0;i<n+1;i++)weights[i][0]=multiset<ll>(),weights[i][1]=multiset<ll>();
-        ll a,b,c;
-        cin>>a>>b>>c;
-        for(int i=k;i<n;i++){
-            x[i]=(a*x[i-2]+b*x[i-1]+c)%m;
-        }
-        for(int i=0;i<k;i++){
-            cin>>y[i];
-        }
-        cin>>a>>b>>c;
-        for(int i=k;i<n;i++){
-            y[i]=(a*y[i-2]+b*y[i-1]+c)%m;
-        }
-        for(int i=0;i<k;i++){
-            cin>>edge[i];
-        }
-        cin>>a>>b>>c;
-        for(int i=k;i<e;i++){
-            edge[i]=(a*edge[i-2]+b*edge[i-1]+c)%(n*m+n);
-        }
-        for(int i=0;i<k;i++){
-            cin>>wei[i];
-        }
-        cin>>a>>b>>c;
-        for(int i=k;i<e;i++){
-            wei[i]=(a*wei[i-2]+b*wei[i-1]+c)%(maxw);
-        }
-        for(int i=0;i<n;i++)if(x[i]>y[i])swap(x[i],y[i]);
-        multiset<ll> bigcircle;
-        for(int i=0;i<n*m+n;i++){
-            edgeweight[i]=1;
-            if(i/m<n)weights[i/m][i-(i/m*m)>=x[i/m]&&i-(i/m*m)<y[i/m]].insert(1);
-            else bigcircle.insert(1);
-        }
-        ll prod=1;
-        ll sum=n*m+n-(n+1);
-        int cnt=1;
-        for(int i=0;i<n;i++){
-            if(x[i]!=y[i])bigcircle.insert(1),cnt++;
-        }
-        for(int i=0;i<e;i++){
-            int circind=edge[i]/m;
-            if(circind<n) {
-                int side=edge[i]-(edge[i]/m*m)>=x[circind]&&edge[i]-(edge[i]/m*m)<y[circind];
-                if(sz(weights[circind][!side])==0){
-                    sum = (sum + *weights[circind][side].rbegin()) % mod;
-                    sum = (((sum - edgeweight[edge[i]]) % mod) + mod) % mod;
-                    sum = (sum + wei[i]) % mod;
-                    weights[circind][side].erase(weights[circind][side].find(edgeweight[edge[i]]));
-                    weights[circind][side].insert(wei[i]);
-                    edgeweight[edge[i]] = wei[i];
-                    sum = (((sum - *weights[circind][side].rbegin()) % mod) + mod) % mod;
-                }
-                else {
-                    sum = (sum + max(*weights[circind][0].rbegin(),*weights[circind][1].rbegin())) % mod;
-                    sum = (sum + *bigcircle.rbegin()) % mod;
-                    sum = (((sum - edgeweight[edge[i]]) % mod) + mod) % mod;
-                    sum = (sum + wei[i]) % mod;
-                    bigcircle.erase(bigcircle.find(min(*weights[circind][0].rbegin(),*weights[circind][1].rbegin())));
-                    weights[circind][side].erase(weights[circind][side].find(edgeweight[edge[i]]));
-                    edgeweight[edge[i]] = wei[i];
-                    weights[circind][side].insert(wei[i]);
-                    bigcircle.insert(min(*weights[circind][0].rbegin(),*weights[circind][1].rbegin()));
-                    sum = (((sum - max(*weights[circind][0].rbegin(),*weights[circind][1].rbegin())) % mod) + mod) % mod;
-                    sum = (((sum - *bigcircle.rbegin()) % mod) + mod) % mod;
-                }
-            }
-            else{
-                sum = (sum + *bigcircle.rbegin()) % mod;
-                sum = (((sum - edgeweight[edge[i]]) % mod) + mod) % mod;
-                sum = (sum + wei[i]) % mod;
-                bigcircle.erase(bigcircle.find(edgeweight[edge[i]]));
-                edgeweight[edge[i]] = wei[i];
-                bigcircle.insert(wei[i]);
-                sum = (((sum - *bigcircle.rbegin()) % mod) + mod) % mod;
-            }
-            prod = prod * sum % mod;
-        }
-        printf("Case #%d: %lli\n",cs,prod);
-        cs++;
+    cin>>n>>m;
+    if(m==1) {
+        solveone();
+        return 0;
+    }
+    string a;
+    cin>>a;
+    if(a.find('R')==string::npos){
+        solvenor(a);
+        return 0;
     }
     return 0;
 }

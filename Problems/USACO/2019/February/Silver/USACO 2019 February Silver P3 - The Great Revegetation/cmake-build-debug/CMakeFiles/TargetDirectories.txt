@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2019/February/Silver/USACO 2019 February Silver P3 - The Great Revegetation/cmake-build-debug/CMakeFiles/USACO_2019_February_Silver_P3___The_Great_Revegetation.dir
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2019/February/Silver/USACO 2019 February Silver P3 - The Great Revegetation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2019/February/Silver/USACO 2019 February Silver P3 - The Great Revegetation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

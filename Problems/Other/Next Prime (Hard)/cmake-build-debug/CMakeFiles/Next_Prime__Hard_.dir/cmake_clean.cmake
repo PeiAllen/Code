@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Next_Prime__Hard_.dir/main.cpp.o"
+  "CMakeFiles/Next_Prime__Hard_.dir/main.cpp.obj"
+  "Next_Prime__Hard_.exe"
+  "Next_Prime__Hard_.exe.manifest"
   "Next_Prime__Hard_.pdb"
-  "Next_Prime__Hard_"
+  "libNext_Prime__Hard_.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

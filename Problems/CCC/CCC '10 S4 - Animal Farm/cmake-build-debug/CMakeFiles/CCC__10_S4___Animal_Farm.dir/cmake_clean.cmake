@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CCC__10_S4___Animal_Farm.dir/main.cpp.o"
+  "CCC__10_S4___Animal_Farm.exe"
+  "CCC__10_S4___Animal_Farm.exe.manifest"
   "CCC__10_S4___Animal_Farm.pdb"
-  "CCC__10_S4___Animal_Farm"
+  "CMakeFiles/CCC__10_S4___Animal_Farm.dir/main.cpp.obj"
+  "libCCC__10_S4___Animal_Farm.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

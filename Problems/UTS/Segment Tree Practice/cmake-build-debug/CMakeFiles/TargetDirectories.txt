@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/UTS/Segment Tree Practice/cmake-build-debug/CMakeFiles/Segment_Tree_Practice.dir
+C:/Users/allen/Documents/Github/Code/Problems/UTS/Segment Tree Practice/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/UTS/Segment Tree Practice/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.5\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Cheap_cost.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\Cheap_cost.dir/objects.a @CMakeFiles\Cheap_cost.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\Cheap_cost.dir/objects.a -Wl,--no-whole-archive  -o Cheap_cost.exe -Wl,--out-implib,libCheap_cost.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Cheap_cost.dir\linklibs.rsp

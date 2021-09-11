@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/Codeforces/C. Continuous City/cmake-build-debug/CMakeFiles/C__Continuous_City.dir
+C:/Users/allen/Documents/Github/Code/Problems/Codeforces/C. Continuous City/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/Codeforces/C. Continuous City/cmake-build-debug/CMakeFiles/rebuild_cache.dir

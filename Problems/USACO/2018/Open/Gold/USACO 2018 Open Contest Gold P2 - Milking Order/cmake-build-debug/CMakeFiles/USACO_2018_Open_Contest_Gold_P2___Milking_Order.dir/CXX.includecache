@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2018/Open/Gold/USACO 2018 Open Contest Gold P2 - Milking Order/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2018/Open/Gold/USACO 2018 Open Contest Gold P2 - Milking Order/bits/stdc++.h
+

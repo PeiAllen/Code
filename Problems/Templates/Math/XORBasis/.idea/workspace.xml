@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="XORBasis" targetName="XORBasis" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef49a2a7-fe40-4335-b160-aa4af21c17fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Atcoder/C - Sqrt Inequality/.idea/C - Sqrt Inequality.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DMOPC/DMOPC '16 Contest 1 P3 - Shoe Shopping/.idea/DMOPC '16 Contest 1 P3 - Shoe Shopping.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GHC/Simulate/.idea/Simulate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GHC/Solve/.idea/Solve.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOI/IOI '07 P3 - Sails/.idea/IOI '07 P3 - Sails.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MCC/Riolku's Mock CCC S2 - Keen Keener Sequence (Hard version)/.idea/Riolku's Mock CCC S2 - Keen Keener Sequence (Hard version).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Other/BBB/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Other/Bob's Bitwise Operation/.idea/Bob's Bitwise Operation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Other/Bob's Dungeon/.idea/Bob's Dungeon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Other/Bob's Perfect Square/.idea/Bob's Perfect Square.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Other/Bruce’s Brittle Bridges/.idea/Bruce’s Brittle Bridges.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Other/Dynamic MST/.idea/Dynamic MST.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Other/Mine and Tree/.idea/Mine and Tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SlopeTrick/.idea/SlopeTrick.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../USACO 2018 December Contest Platinum P3 - The Cow Gathering/.idea/USACO 2018 December Contest Platinum P3 - The Cow Gathering.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../USACO/2018/December/Platinum/USACO 2018 December Contest Platinum P3 - The Cow Gathering/.idea/USACO 2018 December Contest Platinum P3 - The Cow Gathering.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../USACO/2019/February/Silver/USACO 2019 February Silver P1 - Sleepy Cow Herding/.idea/USACO 2019 February Silver P1 - Sleepy Cow Herding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../USACO/2019/February/Silver/USACO 2019 February Silver P3 - The Great Revegetation/.idea/USACO 2019 February Silver P3 - The Great Revegetation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../UTS/Segment Tree Practice/.idea/Segment Tree Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WC/WC '15 Contest 2 S2 - Attack of the Clones/.idea/WC '15 Contest 2 S2 - Attack of the Clones.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Contest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Contest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Contest/bits/stdc++.h.gch" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Contest/bits/stdc++.h.gch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Contest/brute" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Contest/brute" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Contest/brute.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Contest/brute.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/brute.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/brute.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Contest/cmake-build-debug/Contest.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Contest/cmake-build-debug/Contest.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Contest/gen" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Contest/gen" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Contest/gen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Contest/gen.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Contest/in" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Contest/in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Contest/main" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Contest/main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Contest/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Contest/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/3.14.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/3.14.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/3.14.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/Class_Treasurer.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/Class_Treasurer.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/Class_Treasurer.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/Class_Treasurer.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/Class_Treasurer.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/Class_Treasurer.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/Class_Treasurer.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/Class_Treasurer.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/Class_Treasurer.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/Class_Treasurer.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/Class_Treasurer.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/Class_Treasurer.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/Class_Treasurer.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/Class_Treasurer.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/Class_Treasurer.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/Class_Treasurer.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/Class_Treasurer.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Facebook Hacker Cup/Class Treasurer/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/3.14.5/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/3.14.5/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/3.14.5/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/3.14.5/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/Olympiads_School_lvl7_Homework__Mock_CCO_May_09_.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/Olympiads_School_lvl7_Homework__Mock_CCO_May_09_.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/Olympiads_School_lvl7_Homework__Mock_CCO_May_09_.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/Olympiads_School_lvl7_Homework__Mock_CCO_May_09_.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/Olympiads_School_lvl7_Homework__Mock_CCO_May_09_.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/Olympiads_School_lvl7_Homework__Mock_CCO_May_09_.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/Olympiads_School_lvl7_Homework__Mock_CCO_May_09_.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/Olympiads_School_lvl7_Homework__Mock_CCO_May_09_.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/Olympiads_School_lvl7_Homework__Mock_CCO_May_09_.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/Olympiads_School_lvl7_Homework__Mock_CCO_May_09_.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/Olympiads_School_lvl7_Homework__Mock_CCO_May_09_.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/Olympiads_School_lvl7_Homework__Mock_CCO_May_09_.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/Olympiads_School_lvl7_Homework__Mock_CCO_May_09_.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/Olympiads_School_lvl7_Homework__Mock_CCO_May_09_.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/Olympiads_School_lvl7_Homework__Mock_CCO_May_09_.dir/linklibs.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/Olympiads_School_lvl7_Homework__Mock_CCO_May_09_.dir/linklibs.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/Olympiads_School_lvl7_Homework__Mock_CCO_May_09_.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/Olympiads_School_lvl7_Homework__Mock_CCO_May_09_.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/Olympiads_School_lvl7_Homework__Mock_CCO_May_09_.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/Olympiads_School_lvl7_Homework__Mock_CCO_May_09_.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Other/Olympiads School lvl7 Homework (Mock CCO May 09)/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/CMakeFiles/TLE__17_Contest_1_P6___Investment.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/CMakeFiles/TLE__17_Contest_1_P6___Investment.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TLE/TLE '17 Contest 1 P6 - Investment/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../TLE/TLE '17 Contest 1 P6 - Investment/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStructures/Tree/LinkCutTree/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStructures/Tree/LinkCutTree/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStructures/Tree/LinkCutTree/cmake-build-debug/CMakeFiles/LinkCutTree.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStructures/Tree/LinkCutTree/cmake-build-debug/CMakeFiles/LinkCutTree.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStructures/Tree/LinkCutTree/cmake-build-debug/CMakeFiles/LinkCutTree.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStructures/Tree/LinkCutTree/cmake-build-debug/CMakeFiles/LinkCutTree.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStructures/Tree/LinkCutTree/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStructures/Tree/LinkCutTree/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStructures/Tree/LinkCutTree/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStructures/Tree/LinkCutTree/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStructures/Tree/LinkCutTree/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStructures/Tree/LinkCutTree/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStructures/Tree/LinkCutTree/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStructures/Tree/LinkCutTree/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStructures/Tree/LinkCutTree/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStructures/Tree/LinkCutTree/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/XORBasis.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/XORBasis.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/XORBasis.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/XORBasis.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="owjzkn99" />
+  </component>
+  <component name="ProjectId" id="1jQdKMBiikoAdsfPyJpr0tTEyhI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="XORBasis" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="XORBasis" TARGET_NAME="XORBasis" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="XORBasis" RUN_TARGET_NAME="XORBasis">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef49a2a7-fe40-4335-b160-aa4af21c17fc" name="Default Changelist" comment="" />
+      <created>1603740184851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603740184851</updated>
+      <workItem from="1603740186205" duration="13000" />
+      <workItem from="1606235360221" duration="594000" />
+      <workItem from="1606243385703" duration="18000" />
+      <workItem from="1609342047886" duration="611000" />
+      <workItem from="1609377451321" duration="604000" />
+      <workItem from="1613612507848" duration="715000" />
+      <workItem from="1613657329881" duration="453000" />
+      <workItem from="1614021639276" duration="597000" />
+      <workItem from="1614095015509" duration="14000" />
+      <workItem from="1615416109965" duration="748000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

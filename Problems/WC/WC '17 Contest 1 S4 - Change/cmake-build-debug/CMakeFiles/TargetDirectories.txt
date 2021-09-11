@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/WC/WC '17 Contest 1 S4 - Change/cmake-build-debug/CMakeFiles/WC__17_Contest_1_S4___Change.dir
+C:/Users/allen/Documents/Github/Code/Problems/WC/WC '17 Contest 1 S4 - Change/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/WC/WC '17 Contest 1 S4 - Change/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2018/Open/Gold/USACO 2018 Open Contest Gold P3 - Talent Show/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2018/Open/Gold/USACO 2018 Open Contest Gold P3 - Talent Show/cmake-build-debug/CMakeFiles/USACO_2018_Open_Contest_Gold_P3___Talent_Show.dir
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2018/Open/Gold/USACO 2018 Open Contest Gold P3 - Talent Show/cmake-build-debug/CMakeFiles/rebuild_cache.dir

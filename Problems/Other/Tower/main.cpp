@@ -1,33 +1,40 @@
-#include <bits/stdc++.h>
+#include "bits/stdc++.h"
 using namespace std;
-typedef long long int lli;
-typedef pair<int,int> pii;
-typedef pair<lli,lli> pll;
-void sc(){}
-template<typename T,typename... Args>
-void sc(T& a, Args&... args) {cin>>a,sc(args...);}
+using ll = long long;
+using pii = pair<int,int>;
+using pll = pair<ll,ll>;
 template<typename T>
-void pr(T a){cout<<a;}
-template<typename T,typename... Args>
-void pr(T a, Args... args) {cout<<a<<" ",pr(args...);}
-template<typename T>
-void prl(T a){cout<<a<<"\n";}
-template<typename T,typename... Args>
-void prl(T a, Args... args) {cout<<a<<" ",prl(args...);}
-template<typename T>
-int sz(const T &a){return (int)a.size();}
-#define rep(i, begin, end) for (__typeof(end) i = (begin) - ((begin) > (end)); i != (end) - ((begin) > (end)); i += 1 - 2 * ((begin) > (end)))
-int n;
-const int MAXN=1e3+1;
-const int MAXW=1e4+1;
-lli dp[MAXN][MAXW];
-pair<>
+int sz(const T &a){return int(a.size());}
+const int MN=1e3+1;
+const int MV=1e4+1;
+ll dp[MN][2*MV];
 int main(){
     cin.tie(NULL);
     ios_base::sync_with_stdio(false);
-    sc(n);
-    rep(i,1,n){
-
+    int n;
+    cin>>n;
+    vector<pair<pii,ll>> arr;
+    int a,b;
+    ll c;
+    for(int i=0;i<n;i++){
+        cin>>a>>b>>c;
+        arr.push_back({{a,b},c});
     }
+    sort(arr.begin(),arr.end(),[&](const auto &lhs, const auto &rhs){
+        return lhs.first.first+lhs.first.second<rhs.first.first+rhs.first.second;
+    });
+    for(int i=1;i<=n;i++){
+        for(int j=0;j<2*MV;j++){
+            dp[i][j]=dp[i-1][j];
+            if(j>=arr[i-1].first.first&&j-arr[i-1].first.first<=arr[i-1].first.second){
+                dp[i][j]=max(dp[i][j],dp[i-1][j-arr[i-1].first.first]+arr[i-1].second);
+            }
+        }
+    }
+    ll ans=0;
+    for(int i=0;i<2*MV;i++){
+        ans=max(ans,dp[n][i]);
+    }
+    printf("%lli\n",ans);
     return 0;
 }

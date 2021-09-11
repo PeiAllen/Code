@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/mnt/c/Users/allen/Documents/Github/Code/Problems/BOI/Baltic OI '05 P1 - Camouflaged camp"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/allen/Documents/Github/Code/Problems/BOI/Baltic OI '05 P1 - Camouflaged camp/cmake-build-debug

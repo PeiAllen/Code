@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(DWITE__07_R3__4___The_Convex_Fence_Company)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(DWITE__07_R3__4___The_Convex_Fence_Company main.cpp)

@@ -1,3 +1,3 @@
-/Users/allen/Documents/GitHub/Code/Problems/COI/COI '07 #4 Umnozak/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/allen/Documents/GitHub/Code/Problems/COI/COI '07 #4 Umnozak/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/allen/Documents/GitHub/Code/Problems/COI/COI '07 #4 Umnozak/cmake-build-debug/CMakeFiles/COI__07__4_Umnozak.dir
+C:/Users/allen/Documents/Github/Code/Problems/COI/COI '07 #4 Umnozak/cmake-build-debug/CMakeFiles/COI__07__4_Umnozak.dir
+C:/Users/allen/Documents/Github/Code/Problems/COI/COI '07 #4 Umnozak/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/COI/COI '07 #4 Umnozak/cmake-build-debug/CMakeFiles/rebuild_cache.dir

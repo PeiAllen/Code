@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/ECOO/ECOO '16 R1 P3 - Railway Sort/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/ECOO/ECOO '16 R1 P3 - Railway Sort/bits/stdc++.h
+

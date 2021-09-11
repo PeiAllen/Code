@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(USACO_2019_February_Silver_P3___The_Great_Revegetation)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(USACO_2019_February_Silver_P3___The_Great_Revegetation main.cpp)

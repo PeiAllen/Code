@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Shoes_in_Dark_Room.dir/main.cpp.obj"
-  "Shoes_in_Dark_Room.pdb"
   "Shoes_in_Dark_Room.exe"
   "Shoes_in_Dark_Room.exe.manifest"
+  "Shoes_in_Dark_Room.pdb"
   "libShoes_in_Dark_Room.dll.a"
 )
 

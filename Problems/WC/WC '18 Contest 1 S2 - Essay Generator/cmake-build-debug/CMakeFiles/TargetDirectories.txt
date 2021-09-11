@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/WC/WC '18 Contest 1 S2 - Essay Generator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/WC/WC '18 Contest 1 S2 - Essay Generator/cmake-build-debug/CMakeFiles/WC__18_Contest_1_S2___Essay_Generator.dir
+C:/Users/allen/Documents/Github/Code/Problems/WC/WC '18 Contest 1 S2 - Essay Generator/cmake-build-debug/CMakeFiles/edit_cache.dir

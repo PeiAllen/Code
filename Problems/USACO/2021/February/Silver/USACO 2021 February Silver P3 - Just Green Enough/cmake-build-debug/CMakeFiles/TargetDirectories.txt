@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2021/February/Silver/USACO 2021 February Silver P3 - Just Green Enough/cmake-build-debug/CMakeFiles/USACO_2021_February_Silver_P3___Just_Green_Enough.dir
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2021/February/Silver/USACO 2021 February Silver P3 - Just Green Enough/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2021/February/Silver/USACO 2021 February Silver P3 - Just Green Enough/cmake-build-debug/CMakeFiles/rebuild_cache.dir

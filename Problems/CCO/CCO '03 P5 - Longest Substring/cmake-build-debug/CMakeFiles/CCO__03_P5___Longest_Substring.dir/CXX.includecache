@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/CCO/CCO '03 P5 - Longest Substring/main.cpp
+stdio.h
+C:/Users/allen/Documents/Github/Code/Problems/CCO/CCO '03 P5 - Longest Substring/stdio.h
+bitset
+C:/Users/allen/Documents/Github/Code/Problems/CCO/CCO '03 P5 - Longest Substring/bitset
+

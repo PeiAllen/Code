@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\WC__18_Contest_4_S2___Farming_Simulator.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\WC__18_Contest_4_S2___Farming_Simulator.dir/objects.a @CMakeFiles\WC__18_Contest_4_S2___Farming_Simulator.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\WC__18_Contest_4_S2___Farming_Simulator.dir/objects.a -Wl,--no-whole-archive  -o WC__18_Contest_4_S2___Farming_Simulator.exe -Wl,--out-implib,libWC__18_Contest_4_S2___Farming_Simulator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\WC__18_Contest_4_S2___Farming_Simulator.dir\linklibs.rsp

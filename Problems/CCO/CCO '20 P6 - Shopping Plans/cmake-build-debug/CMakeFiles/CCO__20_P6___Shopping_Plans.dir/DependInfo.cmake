@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO '20 P6 - Shopping Plans/main.cpp" "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CCO/CCO '20 P6 - Shopping Plans/cmake-build-debug/CMakeFiles/CCO__20_P6___Shopping_Plans.dir/main.cpp.obj"
+  "C:/Users/allen/Documents/Github/Code/Problems/CCO/CCO '20 P6 - Shopping Plans/main.cpp" "C:/Users/allen/Documents/Github/Code/Problems/CCO/CCO '20 P6 - Shopping Plans/cmake-build-debug/CMakeFiles/CCO__20_P6___Shopping_Plans.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

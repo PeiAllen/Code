@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/UTS/Tree Practice 2/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/UTS/Tree Practice 2/bits/stdc++.h
+

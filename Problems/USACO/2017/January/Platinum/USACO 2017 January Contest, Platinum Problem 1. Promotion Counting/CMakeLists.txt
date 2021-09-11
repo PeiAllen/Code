@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(USACO_2017_January_Contest__Platinum_Problem_1__Promotion_Counting)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(USACO_2017_January_Contest__Platinum_Problem_1__Promotion_Counting main.cpp)

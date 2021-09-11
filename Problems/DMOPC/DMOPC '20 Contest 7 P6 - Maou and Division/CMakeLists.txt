@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(DMOPC__20_Contest_7_P6___Maou_and_Division)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(DMOPC__20_Contest_7_P6___Maou_and_Division main.cpp)

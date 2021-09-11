@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2021/February/Gold/USACO 2021 February Gold P3 - Count the Cows/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2021/February/Gold/USACO 2021 February Gold P3 - Count the Cows/cmake-build-debug/CMakeFiles/USACO_2021_February_Gold_P3___Count_the_Cows.dir
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2021/February/Gold/USACO 2021 February Gold P3 - Count the Cows/cmake-build-debug/CMakeFiles/edit_cache.dir

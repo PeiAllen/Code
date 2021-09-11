@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/allen/Documents/Github/Code/Problems/Other/Colourful Confinement/main.cpp
+bits/stdc++.h
+/mnt/c/Users/allen/Documents/Github/Code/Problems/Other/Colourful Confinement/bits/stdc++.h
+

@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/allen/Documents/Github/Code/Problems/BOI/Baltic OI '05 P1 - Camouflaged camp/main.cpp
+bits/stdc++.h
+/mnt/c/Users/allen/Documents/Github/Code/Problems/BOI/Baltic OI '05 P1 - Camouflaged camp/bits/stdc++.h
+

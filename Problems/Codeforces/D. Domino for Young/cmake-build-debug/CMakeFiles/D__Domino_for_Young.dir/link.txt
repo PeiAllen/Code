@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\D__Domino_for_Young.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\D__Domino_for_Young.dir/objects.a @CMakeFiles\D__Domino_for_Young.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\D__Domino_for_Young.dir/objects.a -Wl,--no-whole-archive  -o D__Domino_for_Young.exe -Wl,--out-implib,libD__Domino_for_Young.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\D__Domino_for_Young.dir\linklibs.rsp

@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.14)
+cmake_minimum_required(VERSION 3.17)
 project(APIO__09_P2___The_Siruseri_Convention_Centre)
 
 set(CMAKE_CXX_STANDARD 14)

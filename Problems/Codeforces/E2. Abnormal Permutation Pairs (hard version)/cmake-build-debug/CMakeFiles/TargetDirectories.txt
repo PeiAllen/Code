@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/Codeforces/E2. Abnormal Permutation Pairs (hard version)/cmake-build-debug/CMakeFiles/E2__Abnormal_Permutation_Pairs__hard_version_.dir
+C:/Users/allen/Documents/Github/Code/Problems/Codeforces/E2. Abnormal Permutation Pairs (hard version)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/Codeforces/E2. Abnormal Permutation Pairs (hard version)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

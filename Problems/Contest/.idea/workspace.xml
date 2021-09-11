@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Contest" targetName="Contest" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bbd7c8ac-dfe2-4e3b-a49c-9309ddbfcf1f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BKOI/Balkan OI '11 P5 - Time Is Money/.idea/Balkan OI '11 P5 - Time Is Money.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BOJ/Binary Supersonic Utahraptors/.idea/Binary Supersonic Utahraptors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BOJ/Digital Art/.idea/Digital Art.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BOJ/Even Electricity/.idea/Even Electricity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BOJ/Gophers/.idea/Gophers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BOJ/Harmonious Matrix/.idea/Harmonious Matrix.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BOJ/Logistics/.idea/Logistics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BOJ/Meow Factor 2/.idea/Meow Factor 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BOJ/Party/.idea/Party.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BOJ/Ramen Buy (Small)/.idea/Ramen Buy (Small).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BOJ/Tower/.idea/Tower.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BOJ/number/.idea/number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COCI/COCI '17 Contest 3 #5 Dojave/.idea/COCI '17 Contest 3 #5 Dojave.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COCI/COCI '17 Contest 6 #4 Cover/.idea/COCI '17 Contest 6 #4 Cover.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COI/COI '06 #1 Patrik/.idea/COI '06 #1 Patrik.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codeforces/A. AquaMoon and Strange Sort/.idea/A. AquaMoon and Strange Sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codeforces/C. AquaMoon and Permutations/.idea/C. AquaMoon and Permutations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codeforces/D. Kindergarten/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codeforces/E. Playing with String/.idea/E. Playing with String.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codeforces/E2. Abnormal Permutation Pairs (hard version)/.idea/E2. Abnormal Permutation Pairs (hard version).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codeforces/H. XOR and Distance/.idea/H. XOR and Distance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ECOO/ECOO '16 R1 P3 - Railway Sort/.idea/ECOO '16 R1 P3 - Railway Sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FHC/Temporal Revision/.idea/Temporal Revision.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOI/Dungeons Game/.idea/Dungeons Game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOI/IOI '08 P3 - Fish/.idea/IOI '08 P3 - Fish.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOI/IOI '15 P3 - Teams/.idea/IOI '15 P3 - Teams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOI/Keys/.idea/Keys.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kattis/Easy Query/gen.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NOI/NOI '05 P4 - CongCong and KoKo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NOI/NOI '05 P4 - CongCong and KoKo/.idea/NOI '05 P4 - CongCong and KoKo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NOI/NOI '10 P2 - Super Piano/.idea/NOI '10 P2 - Super Piano.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Other/24Game/.idea/24Game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Other/Bob's Trip/.idea/Bob's Trip.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Other/Canada Day Contest 2021 - Half Heart/.idea/Canada Day Contest 2021 - Half Heart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Other/City Game/.idea/City Game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Other/Figurines/.idea/Figurines.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Templates/Math/LinearSieve/.idea/LinearSieve.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../USACO/2017/January/Platinum/Promotion Counting/.idea/Promotion Counting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../USACO/2017/January/Platinum/USACO 2017 January Contest, Platinum Problem 1. Promotion Counting/.idea/USACO 2017 January Contest, Platinum Problem 1. Promotion Counting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WC/WC '18 Contest 4 S3 - Dance Royale/.idea/WC '18 Contest 4 S3 - Dance Royale.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BOJ/Money for Nothing/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BOJ/Money for Nothing/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../BOJ/Money for Nothing/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BOJ/Money for Nothing/cmake-build-debug/CMakeFiles/Money_for_Nothing.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../BOJ/Money for Nothing/cmake-build-debug/CMakeFiles/Money_for_Nothing.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BOJ/Money for Nothing/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../BOJ/Money for Nothing/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BOJ/Money for Nothing/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../BOJ/Money for Nothing/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COCI/COCI '14 Contest 5 #6 Divljak/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COCI/COCI '14 Contest 5 #6 Divljak/cmake-build-debug/CMakeFiles/COCI__14_Contest_5__6_Divljak.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../COCI/COCI '14 Contest 5 #6 Divljak/cmake-build-debug/CMakeFiles/COCI__14_Contest_5__6_Divljak.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COCI/COCI '14 Contest 5 #6 Divljak/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../COCI/COCI '14 Contest 5 #6 Divljak/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COCI/COCI '14 Contest 5 #6 Divljak/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../COCI/COCI '14 Contest 5 #6 Divljak/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COCI/COCI '14 Contest 5 #6 Divljak/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../COCI/COCI '14 Contest 5 #6 Divljak/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brute" beforeDir="false" afterPath="$PROJECT_DIR$/brute" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brute.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/brute.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Contest.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Contest.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Contest.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Contest.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Contest.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Contest.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Contest.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Contest.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gen" beforeDir="false" afterPath="$PROJECT_DIR$/gen" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/gen.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in" beforeDir="false" afterPath="$PROJECT_DIR$/in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main" beforeDir="false" afterPath="$PROJECT_DIR$/main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out" beforeDir="false" afterPath="$PROJECT_DIR$/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/3.14.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/3.14.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/3.14.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/3.14.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/linklibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/DMOPC__17_Contest_3_P5___Picnic_Planning.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../DMOPC/DMOPC '17 Contest 3 P5 - Picnic Planning/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/CMakeFiles/Progress/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/CMakeFiles/Progress/count.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/CMakeFiles/TLE__17_Contest_1_P6___Investment.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/CMakeFiles/TLE__17_Contest_1_P6___Investment.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/CMakeFiles/TLE__17_Contest_1_P6___Investment.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/CMakeFiles/TLE__17_Contest_1_P6___Investment.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/TLE__17_Contest_1_P6___Investment.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../TLE/TLE '17 Contest 1 P6 - Investment/cmake-build-debug/TLE__17_Contest_1_P6___Investment.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TLE/TLE '17 Contest 1 P6 - Investment/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../TLE/TLE '17 Contest 1 P6 - Investment/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/String/SAM/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/String/SAM/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/String/SAM/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/String/SAM/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/String/SAM/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/String/SAM/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/String/SAM/cmake-build-debug/CMakeFiles/SAM.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/String/SAM/cmake-build-debug/CMakeFiles/SAM.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/String/SAM/cmake-build-debug/CMakeFiles/SAM.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/String/SAM/cmake-build-debug/CMakeFiles/SAM.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/String/SAM/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/String/SAM/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/String/SAM/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/String/SAM/cmake-build-debug/Makefile" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="clangTidyViaClangd" value="false" />
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="zspoooyj" />
+  </component>
+  <component name="ProjectId" id="1lq5wpNTlfEFCkTqpDxuxPBnSUy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NOI/NOI '21 P3 - Celebration" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Contest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Contest" TARGET_NAME="Contest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Contest" RUN_TARGET_NAME="Contest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbd7c8ac-dfe2-4e3b-a49c-9309ddbfcf1f" name="Default Changelist" comment="" />
+      <created>1608312023472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608312023472</updated>
+      <workItem from="1608312025923" duration="802000" />
+      <workItem from="1608476313227" duration="9576000" />
+      <workItem from="1608497000087" duration="594000" />
+      <workItem from="1608570654935" duration="91000" />
+      <workItem from="1608575590562" duration="7605000" />
+      <workItem from="1608583312455" duration="7622000" />
+      <workItem from="1609338252543" duration="15486000" />
+      <workItem from="1610145136903" duration="12975000" />
+      <workItem from="1610214301379" duration="8035000" />
+      <workItem from="1610226649034" duration="7398000" />
+      <workItem from="1610243321324" duration="59000" />
+      <workItem from="1611508877774" duration="15092000" />
+      <workItem from="1611605025817" duration="14337000" />
+      <workItem from="1611687322347" duration="758000" />
+      <workItem from="1611798905107" duration="759000" />
+      <workItem from="1612040944633" duration="11162000" />
+      <workItem from="1612113456003" duration="10973000" />
+      <workItem from="1612195848042" duration="604000" />
+      <workItem from="1612224640214" duration="5693000" />
+      <workItem from="1612554616544" duration="15166000" />
+      <workItem from="1612708149813" duration="23817000" />
+      <workItem from="1613151465046" duration="5913000" />
+      <workItem from="1613319212998" duration="64000" />
+      <workItem from="1613323522226" duration="13737000" />
+      <workItem from="1613410726166" duration="16940000" />
+      <workItem from="1613433682261" duration="150000" />
+      <workItem from="1613434986715" duration="40000" />
+      <workItem from="1613581189106" duration="6377000" />
+      <workItem from="1613698690795" duration="2856000" />
+      <workItem from="1613743876831" duration="862000" />
+      <workItem from="1613847379438" duration="10000" />
+      <workItem from="1613926682834" duration="13908000" />
+      <workItem from="1613944804366" duration="30000" />
+      <workItem from="1614282327920" duration="80000" />
+      <workItem from="1614361189840" duration="14755000" />
+      <workItem from="1614488724230" duration="28000" />
+      <workItem from="1614488762730" duration="7000" />
+      <workItem from="1614532552460" duration="16642000" />
+      <workItem from="1614611809921" duration="366000" />
+      <workItem from="1615138049667" duration="14360000" />
+      <workItem from="1615166083204" duration="10000" />
+      <workItem from="1615475775461" duration="15739000" />
+      <workItem from="1615492809108" duration="603000" />
+      <workItem from="1615643728231" duration="10638000" />
+      <workItem from="1615669655538" duration="99000" />
+      <workItem from="1615739074484" duration="13760000" />
+      <workItem from="1616331083423" duration="25977000" />
+      <workItem from="1616369211697" duration="599000" />
+      <workItem from="1616431506911" duration="3711000" />
+      <workItem from="1616436141176" duration="14835000" />
+      <workItem from="1616454818538" duration="168000" />
+      <workItem from="1616518360793" duration="1611000" />
+      <workItem from="1616713997462" duration="1103000" />
+      <workItem from="1616715219487" duration="1192000" />
+      <workItem from="1616772797901" duration="601000" />
+      <workItem from="1616775061602" duration="7876000" />
+      <workItem from="1616949745715" duration="15669000" />
+      <workItem from="1616983642689" duration="595000" />
+      <workItem from="1617023423075" duration="595000" />
+      <workItem from="1617048097739" duration="32000" />
+      <workItem from="1617048142767" duration="3052000" />
+      <workItem from="1617129629637" duration="506000" />
+      <workItem from="1617288063529" duration="4114000" />
+      <workItem from="1617313695456" duration="1168000" />
+      <workItem from="1617380199071" duration="22988000" />
+      <workItem from="1617459929777" duration="10932000" />
+      <workItem from="1617491013414" duration="595000" />
+      <workItem from="1617553717080" duration="15397000" />
+      <workItem from="1617638691392" duration="5557000" />
+      <workItem from="1617735771716" duration="82000" />
+      <workItem from="1618015920577" duration="8006000" />
+      <workItem from="1618067724813" duration="595000" />
+      <workItem from="1618158579836" duration="14799000" />
+      <workItem from="1618239640998" duration="608000" />
+      <workItem from="1618503727614" duration="4259000" />
+      <workItem from="1618583364655" duration="7942000" />
+      <workItem from="1618592399394" duration="1391000" />
+      <workItem from="1618763733448" duration="13832000" />
+      <workItem from="1619052845811" duration="187000" />
+      <workItem from="1619129499533" duration="1485000" />
+      <workItem from="1619188166863" duration="12329000" />
+      <workItem from="1619298279013" duration="155000" />
+      <workItem from="1619366985295" duration="18366000" />
+      <workItem from="1619880536560" duration="11809000" />
+      <workItem from="1619909994487" duration="13732000" />
+      <workItem from="1619965833046" duration="11240000" />
+      <workItem from="1620233219741" duration="2569000" />
+      <workItem from="1620578113819" duration="3625000" />
+      <workItem from="1620581840056" duration="10919000" />
+      <workItem from="1620659433953" duration="7000" />
+      <workItem from="1620742674456" duration="26000" />
+      <workItem from="1620847151067" duration="2342000" />
+      <workItem from="1620919306841" duration="603000" />
+      <workItem from="1621086659362" duration="11076000" />
+      <workItem from="1621684695726" duration="2775000" />
+      <workItem from="1621701450116" duration="17962000" />
+      <workItem from="1621787843665" duration="10445000" />
+      <workItem from="1621866344765" duration="8844000" />
+      <workItem from="1621883216541" duration="235000" />
+      <workItem from="1622384808941" duration="9686000" />
+      <workItem from="1622406752440" duration="12017000" />
+      <workItem from="1622475561978" duration="577000" />
+      <workItem from="1622757889704" duration="1798000" />
+      <workItem from="1622846024030" duration="54000" />
+      <workItem from="1622911044167" duration="16398000" />
+      <workItem from="1622945275702" duration="128000" />
+      <workItem from="1623806914415" duration="1560000" />
+      <workItem from="1623854583204" duration="1430000" />
+      <workItem from="1624818523918" duration="10049000" />
+      <workItem from="1624893179458" duration="598000" />
+      <workItem from="1625244549926" duration="7177000" />
+      <workItem from="1625269314397" duration="590000" />
+      <workItem from="1625327315378" duration="345000" />
+      <workItem from="1626011329317" duration="15715000" />
+      <workItem from="1626051357838" duration="64000" />
+      <workItem from="1626532383342" duration="23011000" />
+      <workItem from="1626558335883" duration="39000" />
+      <workItem from="1626626253253" duration="608000" />
+      <workItem from="1626964091848" duration="9802000" />
+      <workItem from="1626985256180" duration="2282000" />
+      <workItem from="1627052274724" duration="1194000" />
+      <workItem from="1627222596781" duration="26717000" />
+      <workItem from="1627316480512" duration="612000" />
+      <workItem from="1627410760794" duration="2747000" />
+      <workItem from="1627667359588" duration="9276000" />
+      <workItem from="1627749037969" duration="14819000" />
+      <workItem from="1627828050148" duration="8985000" />
+      <workItem from="1627924713413" duration="597000" />
+      <workItem from="1627951389862" duration="602000" />
+      <workItem from="1628423923818" duration="7367000" />
+      <workItem from="1628441764863" duration="18434000" />
+      <workItem from="1628556169780" duration="623000" />
+      <workItem from="1628614434932" duration="17716000" />
+      <workItem from="1628705948238" duration="612000" />
+      <workItem from="1628786540781" duration="8013000" />
+      <workItem from="1629042553193" duration="716000" />
+      <workItem from="1629048947070" duration="1000" />
+      <workItem from="1629133571030" duration="595000" />
+      <workItem from="1629212751426" duration="3000" />
+      <workItem from="1629218171250" duration="16083000" />
+      <workItem from="1629301616994" duration="594000" />
+      <workItem from="1629388969133" duration="599000" />
+      <workItem from="1629484118287" duration="14910000" />
+      <workItem from="1629562693844" duration="601000" />
+      <workItem from="1629633442073" duration="6338000" />
+      <workItem from="1629734162416" duration="594000" />
+      <workItem from="1629738112087" duration="454000" />
+      <workItem from="1629814803694" duration="11483000" />
+      <workItem from="1629993134138" duration="15000" />
+      <workItem from="1630247445174" duration="12761000" />
+      <workItem from="1630342353967" duration="18579000" />
+      <workItem from="1630372137896" duration="729000" />
+      <workItem from="1630424767836" duration="594000" />
+      <workItem from="1630426450161" duration="837000" />
+      <workItem from="1630599254199" duration="17625000" />
+      <workItem from="1630689614610" duration="1197000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/Other/Summer Institute '17 Contest 1 P4 - Clips of Video/cmake-build-debug/CMakeFiles/Summer_Institute__17_Contest_1_P4___Clips_of_Video.dir
+C:/Users/allen/Documents/Github/Code/Problems/Other/Summer Institute '17 Contest 1 P4 - Clips of Video/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/Other/Summer Institute '17 Contest 1 P4 - Clips of Video/cmake-build-debug/CMakeFiles/rebuild_cache.dir

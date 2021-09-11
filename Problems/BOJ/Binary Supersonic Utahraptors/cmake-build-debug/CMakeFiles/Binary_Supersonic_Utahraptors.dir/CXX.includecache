@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/BOJ/Binary Supersonic Utahraptors/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/BOJ/Binary Supersonic Utahraptors/bits/stdc++.h
+

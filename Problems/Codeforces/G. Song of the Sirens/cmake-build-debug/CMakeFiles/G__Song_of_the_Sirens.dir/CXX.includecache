@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/Codeforces/G. Song of the Sirens/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/Codeforces/G. Song of the Sirens/bits/stdc++.h
+

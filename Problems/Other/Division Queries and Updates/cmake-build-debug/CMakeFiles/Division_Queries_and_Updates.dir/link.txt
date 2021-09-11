@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Division_Queries_and_Updates.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\Division_Queries_and_Updates.dir/objects.a @CMakeFiles\Division_Queries_and_Updates.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\Division_Queries_and_Updates.dir/objects.a -Wl,--no-whole-archive  -o Division_Queries_and_Updates.exe -Wl,--out-implib,libDivision_Queries_and_Updates.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Division_Queries_and_Updates.dir\linklibs.rsp

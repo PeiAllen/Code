@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/AAC/An Animal Contest 3 P7 - Monkey Lasers/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/AAC/An Animal Contest 3 P7 - Monkey Lasers/bits/stdc++.h
+

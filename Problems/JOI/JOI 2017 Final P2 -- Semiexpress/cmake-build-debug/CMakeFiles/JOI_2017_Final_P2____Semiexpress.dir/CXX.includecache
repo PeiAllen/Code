@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/JOI/JOI 2017 Final P2 -- Semiexpress/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/JOI/JOI 2017 Final P2 -- Semiexpress/bits/stdc++.h
+
