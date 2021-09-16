@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ColourTheFlag"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ColourTheFlag">
+				<Option output="C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/cmake-build-debug/ColourTheFlag.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/cmake-build-debug/Makefile&quot;  VERBOSE=1 ColourTheFlag"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ColourTheFlag/fast">
+				<Option output="C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/cmake-build-debug/ColourTheFlag.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/cmake-build-debug/Makefile&quot;  VERBOSE=1 ColourTheFlag/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/dormi_wa1.cpp">
+			<Option target="ColourTheFlag"/>
+		</Unit>
+		<Unit filename="C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/dormi_wa10.cpp">
+			<Option target="ColourTheFlag"/>
+		</Unit>
+		<Unit filename="C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/dormi_wa11.cpp">
+			<Option target="ColourTheFlag"/>
+		</Unit>
+		<Unit filename="C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/dormi_wa12.cpp">
+			<Option target="ColourTheFlag"/>
+		</Unit>
+		<Unit filename="C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/dormi_wa13.cpp">
+			<Option target="ColourTheFlag"/>
+		</Unit>
+		<Unit filename="C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/dormi_wa14.cpp">
+			<Option target="ColourTheFlag"/>
+		</Unit>
+		<Unit filename="C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/dormi_wa15.cpp">
+			<Option target="ColourTheFlag"/>
+		</Unit>
+		<Unit filename="C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/dormi_wa16.cpp">
+			<Option target="ColourTheFlag"/>
+		</Unit>
+		<Unit filename="C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/dormi_wa17.cpp">
+			<Option target="ColourTheFlag"/>
+		</Unit>
+		<Unit filename="C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/dormi_wa18.cpp">
+			<Option target="ColourTheFlag"/>
+		</Unit>
+		<Unit filename="C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/dormi_wa19.cpp">
+			<Option target="ColourTheFlag"/>
+		</Unit>
+		<Unit filename="C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/dormi_wa2.cpp">
+			<Option target="ColourTheFlag"/>
+		</Unit>
+		<Unit filename="C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/dormi_wa3.cpp">
+			<Option target="ColourTheFlag"/>
+		</Unit>
+		<Unit filename="C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/dormi_wa4.cpp">
+			<Option target="ColourTheFlag"/>
+		</Unit>
+		<Unit filename="C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/dormi_wa5.cpp">
+			<Option target="ColourTheFlag"/>
+		</Unit>
+		<Unit filename="C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/dormi_wa6.cpp">
+			<Option target="ColourTheFlag"/>
+		</Unit>
+		<Unit filename="C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/dormi_wa7.cpp">
+			<Option target="ColourTheFlag"/>
+		</Unit>
+		<Unit filename="C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/dormi_wa8.cpp">
+			<Option target="ColourTheFlag"/>
+		</Unit>
+		<Unit filename="C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/dormi_wa9.cpp">
+			<Option target="ColourTheFlag"/>
+		</Unit>
+		<Unit filename="C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/main.cpp">
+			<Option target="ColourTheFlag"/>
+		</Unit>
+		<Unit filename="C:/Users/allen/Documents/Github/Code/Problems/CFRound/ColourTheFlag/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
