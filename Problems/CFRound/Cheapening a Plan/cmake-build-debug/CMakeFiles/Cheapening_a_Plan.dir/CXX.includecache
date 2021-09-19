@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/CFRound/Cheapening a Plan/brute.cpp
+
+C:/Users/allen/Documents/Github/Code/Problems/CFRound/Cheapening a Plan/gen.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/CFRound/Cheapening a Plan/bits/stdc++.h
+testlib.h
+C:/Users/allen/Documents/Github/Code/Problems/CFRound/Cheapening a Plan/testlib.h
+
+C:/Users/allen/Documents/Github/Code/Problems/CFRound/Cheapening a Plan/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/CFRound/Cheapening a Plan/bits/stdc++.h
+
+C:/Users/allen/Documents/Github/Code/Problems/CFRound/Cheapening a Plan/validator.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/CFRound/Cheapening a Plan/bits/stdc++.h
+

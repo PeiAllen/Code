@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/CFRound/H. Why is Coding so Hard Help/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/CFRound/H. Why is Coding so Hard Help/bits/stdc++.h
+
