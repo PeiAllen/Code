@@ -1,129 +1,51 @@
 #include "bits/stdc++.h"
 using namespace std;
-using ll = long long;
 using pii = pair<int,int>;
-using pll = pair<ll,ll>;
+using ll=long long;
 template<typename T>
-int SZ(const T &a){return int(a.size());}
-const ll mod=1e9+7;
-ll fp(ll a, ll b){
-    ll ans=1;
-    for(ll i=1;i<=b;i<<=1){
-        if(b&i)ans=ans*a%mod;
-        a=a*a%mod;
+int sz(const T &a){return int(a.size());}
+struct slopefunc{
+    priority_queue<pair<ll,ll>> q;
+    ll m,b;
+    slopefunc(){
+        q={};
+        m=0,b=0;
     }
-    return ans;
-}
-int n,m;
-const int MN=10001;
-int pc[MN];
-int res[MN];
-int nval[MN];
-
-void solveone(){
-    string a;
-    cin>>a;
-    vector<int> op;
-    int zerovalue=0,onevalue=1;
-    for(auto x:a){
-        if(x=='R'){
-            if(zerovalue==0&&onevalue==1)op.push_back(0);
-            else if(zerovalue==0&&onevalue==0)op.push_back(1);
-            else if(zerovalue==1&&onevalue==1)op.push_back(2);
-            else op.push_back(3);
-            zerovalue=0,onevalue=1;
+    void add(slopefunc a){
+        while(sz(a.q)){
+            q.push(a.q.top());
+            a.q.pop();
         }
-        else if(x=='0')zerovalue=0,onevalue=0;
-        else if(x=='1')zerovalue=1,onevalue=1;
-        else zerovalue^=1,onevalue^=1;
-    }
-    pc[0]=1;
-    for(int i=1;i<=n;i++){
-        pc[i]=pc[i-1]*3;
-    }
-    int ans=0;
-    for(int i=0;i<(pc[n]);i++){
-        int te=i;
-        for(int j=0;j<n;j++){
-            res[j]=te%3;
-            te/=3;
-        }
-        set<vector<int>> cnt;
-        for(int j=0;j+SZ(op)<=n;j++){
-            int loc=j;
-            for(int l=0;l<n;l++)nval[l]=res[l];
-            for(auto x:op){
-                if(res[loc]==0)nval[loc]=0;
-                else{
-                    if(x==0)nval[loc]=res[loc];
-                    else if(x==1)nval[loc]=0;
-                    else if(x==2)nval[loc]=1;
-                    else if(x==3)nval[loc]=1-res[loc];
-                }
-                loc++;
-            }
-            vector<int> te(nval,nval+n);
-            cnt.insert(te);
-        }
-        ans+=SZ(cnt);
-    }
-    printf("%d\n",ans);
-}
-void solvenor(string a){
-    vector<int> op;
-    int zerovalue=0,onevalue=1;
-    for(auto x:a){
-        if(x=='R'){
-            if(zerovalue==0&&onevalue==1)op.push_back(0);
-            else if(zerovalue==0&&onevalue==0)op.push_back(1);
-            else if(zerovalue==1&&onevalue==1)op.push_back(2);
-            else op.push_back(3);
-            zerovalue=0,onevalue=1;
-        }
-        else if(x=='0')zerovalue=0,onevalue=0;
-        else if(x=='1')zerovalue=1,onevalue=1;
-        else zerovalue^=1,onevalue^=1;
-    }
-    if(zerovalue==0&&onevalue==1)op.push_back(0);
-    else if(zerovalue==0&&onevalue==0)op.push_back(1);
-    else if(zerovalue==1&&onevalue==1)op.push_back(2);
-    else op.push_back(3);
-    zerovalue=0,onevalue=1;
-    if(op[0]==0){
-        printf("%lli\n",fp(3,n*m)*n%mod);
-    }
-    else if(op[0]==1||op[0]==2){
-        ll ans=fp(3,n*m)*n%mod;
-        ll toadd=1;
-        for(int i=0;i<n;i++){
-            ans=(ans-fp(3,(n-1)*m)*fp(2,m)%mod+mod)%mod;
-            toadd=toadd*(fp(3,m)-fp(2,m)+mod)%mod;
-        }
-        printf("%lli\n",(ans+fp(3,n*m)-toadd+mod)%mod);
-    }
-    else{
-        ll ans=fp(3,n*m)*n%mod;
-        ll toadd=1;
-        for(int i=0;i<n;i++){
-            ans=(ans-fp(3,(n-1)*m)+mod)%mod;
-            toadd=toadd*(fp(3,m)-1+mod)%mod;
-        }
-        printf("%lli\n",(ans+fp(3,n*m)-toadd+mod)%mod);
+        m+=a.m,b+=a.b;
     }
 };
-int main(){
+int k;
+vector<int> lol(1000000,2);
+vector<vector<int>> pain(1000,vector<int>(1000,2));
+map<int,pair<pii,ll>> pain2;
+int main(){// i dont think this is intended LOL
     cin.tie(NULL);
     ios_base::sync_with_stdio(false);
-    cin>>n>>m;
-    if(m==1) {
-        solveone();
-        return 0;
+    int n;
+    cin>>n;
+    ll p,w,d;
+    slopefunc cur=slopefunc();
+    pain2[2]={{2,3},3};
+    for(int i=0;i<n;i++){
+        cin>>p>>w>>d;
+        slopefunc te=slopefunc();
+        te.m=w;
+        te.b=-(p+d)*w;
+        te.q.push({p+d,w});
+        te.q.push({p-d,w});
+        cur.add(te);
     }
-    string a;
-    cin>>a;
-    if(a.find('R')==string::npos){
-        solvenor(a);
-        return 0;
+    while(cur.m>0){
+        ll needed=min(cur.q.top().second,cur.m);
+        cur.m-=needed;
+        cur.b+=(needed*cur.q.top().first);
+        cur.q.pop();
     }
+    printf("%lli\n",cur.b);
     return 0;
 }
