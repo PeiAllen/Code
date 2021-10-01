@@ -12,13 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b78f9612-2754-412b-8d81-74e42cdc0a17" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Contest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DMOPC/DMOPC '21 Contest 1 P4 - Uneven Forest/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../DMOPC/DMOPC '21 Contest 1 P4 - Uneven Forest/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../NOI/NOI '21 P4 - Quantum Communication/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../NOI/NOI '21 P4 - Quantum Communication/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../NOI/NOI '21 P4 - Quantum Communication/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../NOI/NOI '21 P4 - Quantum Communication/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../NOI/NOI '21 P4 - Quantum Communication/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../NOI/NOI '21 P4 - Quantum Communication/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../NOI/NOI '21 P4 - Quantum Communication/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../NOI/NOI '21 P4 - Quantum Communication/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../NOI/NOI '21 P4 - Quantum Communication/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +22,6 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
@@ -51,11 +44,6 @@
     <property name="cmake.loaded.for.project" value="true" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="COCI__08_Contest_1__6_Krtica" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="COCI__08_Contest_1__6_Krtica" TARGET_NAME="COCI__08_Contest_1__6_Krtica" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="COCI__08_Contest_1__6_Krtica" RUN_TARGET_NAME="COCI__08_Contest_1__6_Krtica">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -76,6 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1631757212818</updated>
       <workItem from="1631757214257" duration="1418000" />
+      <workItem from="1632965121295" duration="133000" />
     </task>
     <servers />
   </component>
