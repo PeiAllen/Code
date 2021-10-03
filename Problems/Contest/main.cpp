@@ -1,51 +1,46 @@
 #include "bits/stdc++.h"
 using namespace std;
+using ll = long long;
 using pii = pair<int,int>;
-using ll=long long;
-template<typename T>
-int sz(const T &a){return int(a.size());}
-struct slopefunc{
-    priority_queue<pair<ll,ll>> q;
-    ll m,b;
-    slopefunc(){
-        q={};
-        m=0,b=0;
-    }
-    void add(slopefunc a){
-        while(sz(a.q)){
-            q.push(a.q.top());
-            a.q.pop();
-        }
-        m+=a.m,b+=a.b;
-    }
-};
-int k;
-vector<int> lol(1000000,2);
-vector<vector<int>> pain(1000,vector<int>(1000,2));
-map<int,pair<pii,ll>> pain2;
-int main(){// i dont think this is intended LOL
+using pll = pair<ll,ll>;
+#define A first
+#define B second
+template<typename T> int SZ(const T &a){return int(a.size());}
+const int MN=2e5+1;
+const long double PI=acos((long double)-1);
+bool why(pll a,pll b){
+    long double te=atan2(b.B,b.A)-atan2(a.B,a.A);
+    if(te<0)te+=2*PI;
+    return te<PI;
+}
+pll arr[MN];
+int main(){
     cin.tie(NULL);
     ios_base::sync_with_stdio(false);
     int n;
     cin>>n;
-    ll p,w,d;
-    slopefunc cur=slopefunc();
-    pain2[2]={{2,3},3};
     for(int i=0;i<n;i++){
-        cin>>p>>w>>d;
-        slopefunc te=slopefunc();
-        te.m=w;
-        te.b=-(p+d)*w;
-        te.q.push({p+d,w});
-        te.q.push({p-d,w});
-        cur.add(te);
+        cin>>arr[i].A>>arr[i].B;
     }
-    while(cur.m>0){
-        ll needed=min(cur.q.top().second,cur.m);
-        cur.m-=needed;
-        cur.b+=(needed*cur.q.top().first);
-        cur.q.pop();
+    sort(arr,arr+n,[&](const auto &lhs, const auto &rhs){
+        return atan2((long double)lhs.B,(long double)lhs.A)<atan2((long double)rhs.B,(long double)rhs.A);
+    });
+    int rptr=0;
+    pll loc={0,0};
+    ll best=0;
+    for(int i=0;i<n;i++){
+        best=max(best,loc.A*loc.A+loc.B*loc.B);
+        while(rptr<i+n&&((i==rptr)||why(arr[i],arr[rptr%n]))){
+            loc.A+=arr[rptr%n].A;
+            loc.B+=arr[rptr%n].B;
+            best=max(best,loc.A*loc.A+loc.B*loc.B);
+            rptr++;
+        }
+        loc.A-=arr[i].A;
+        loc.B-=arr[i].B;
+        best=max(best,loc.A*loc.A+loc.B*loc.B);
     }
-    printf("%lli\n",cur.b);
+    printf("%lli\n",best);
     return 0;
 }
+
