@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CEOI__17_P6___Chase.dir/main.cpp.obj"
-  "CEOI__17_P6___Chase.pdb"
   "CEOI__17_P6___Chase.exe"
   "CEOI__17_P6___Chase.exe.manifest"
+  "CEOI__17_P6___Chase.pdb"
+  "CMakeFiles/CEOI__17_P6___Chase.dir/main.cpp.obj"
   "libCEOI__17_P6___Chase.dll.a"
 )
 

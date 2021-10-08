@@ -1,15 +1,23 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
   "CXX"
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CEOI/CEOI '17 P6 - Chase/main.cpp" "C:/Users/allen/OneDrive/Documents/GitHub/Code/Problems/CEOI/CEOI '17 P6 - Chase/cmake-build-debug/CMakeFiles/CEOI__17_P6___Chase.dir/main.cpp.obj"
+  "C:/Users/allen/Documents/Github/Code/Problems/CEOI/CEOI '17 P6 - Chase/main.cpp" "C:/Users/allen/Documents/Github/Code/Problems/CEOI/CEOI '17 P6 - Chase/cmake-build-debug/CMakeFiles/CEOI__17_P6___Chase.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
   )
 
 # Targets to which this target links.
