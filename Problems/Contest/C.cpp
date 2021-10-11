@@ -6,101 +6,84 @@ using pll = pair<ll,ll>;
 #define A first
 #define B second
 template<typename T> int SZ(const T &a){return int(a.size());}
-const int MN=1001;
-pair<pll,ll> arr[MN];
-ll lcm(ll a, ll b){
-    ll gc=__gcd(a,b);
-    return (a/gc)*b;
-}
-// Extended Euclidean Algorithm to compute x and y, where ax + by = gcd(a, b)
-// Template Arguments:
-//   T: the type of a and b
-// Function Arguments:
-//   a: the first value
-//   b: the second value
-//   x: a reference to a variable to store x
-//   y: a reference to a variable to store y
-// Return Value: the greatest common divisor of a and b
-// In practice, has a small constant
-// Time Complexity: O(log(min(a, b)))
-// Memory Complexity: O(1)
-// Tested:
-//   https://dmoj.ca/problem/modinv
-//   https://www.spoj.com/problems/CEQU/
-//   https://codeforces.com/problemsets/acmsguru/problem/99999/106
-template <class T> T EEA(T a, T b, T &x, T &y) {
-    T xx = y = 0, yy = x = 1; while (b != 0) {
-        T q = a / b; a %= b; swap(a, b);
-        x -= q * xx; swap(x, xx); y -= q * yy; swap(y, yy);
+const int MN=2e5+1;
+int depth[MN],ldepth[MN],n,m;
+vector<int> nodes;
+vector<int> badj[2*MN];
+vector<int> adj[MN];
+vector<vector<int>> finalcomps;
+int col[MN];
+bool bipartite(int loc, int c){
+    col[loc]=c;
+    for(auto x:adj[loc]){
+        if(col[x]==2&&!bipartite(x,!c))return false;
+        if(col[x]==c)return false;
     }
-    if (a < 0) { a = -a; x = -x; y = -y; }
-    return a;
-}
-// Solves the Linear Diophantine Equation ax + by = c
-// All pairs of integers (s, t) where s = x.first + k * x.second
-//   and t = y.first + k * y.second for all integers k are solutions
-// Edge cases:
-//   1. a == 0 && b == 0 is satisfied by all integer pairs (s, t) if c == 0,
-//     no solutions otherwise
-//   2. a == 0 is satisfied by all integer pairs (s, t) with t = c / b if c is
-//     divisible by b, no solutions otherwise
-//   3. b == 0 is satisfied by all integer pairs (s, t) with s = c / a if c is
-//     divisible by a, no solutions otherwise
-// Template Arguments:
-//   T: the type of a, b, c
-// Function Arguments:
-//   a: the first value
-//   b: the second value
-//   c: the value of ax + by
-//   x: a reference to a pair storing x and its mod (equal to b / gcd(a, b))
-//   y: a reference to a pair storing y and its mod (equal to -a / gcd(a, b))
-// Return Value: true if there is a solution, false otherwise
-// In practice, has a small constant
-// Time Complexity: O(log(min(a, b)))
-// Memory Complexity: O(1)
-// Tested:
-//   https://www.spoj.com/problems/CEQU/
-//   https://codeforces.com/problemsets/acmsguru/problem/99999/106
-template <class T> bool LDE(T a, T b, T c, pair<T, T> &x, pair<T, T> &y) {
-    assert(a != 0 && b != 0); T xg, yg, g = EEA(a, b, xg, yg);
-    if (c % g != 0) return false;
-    x = make_pair(xg * (c / g), b / g); y = make_pair(yg * (c / g), -a / g);
     return true;
+}
+void addedge(int a, int b){
+    badj[a].push_back(b);
+    badj[b].push_back(a);
+}
+void dfs(int loc, int parent, int dep){
+    depth[loc]=ldepth[loc]=dep;
+    nodes.push_back(loc);
+    for(auto x:adj[loc]){
+        if(x!=parent){
+            if(!depth[x]){
+                dfs(x,loc,dep+1);
+                if(ldepth[x]==dep){
+                    finalcomps.push_back({});
+                    while(1){
+                        int cur=nodes.back();
+                        nodes.pop_back();
+                        finalcomps.back().push_back(cur);
+                        addedge(SZ(finalcomps)+n,cur);
+                        if(cur==x)break;
+                    }
+                }
+                else if(ldepth[x]==depth[x])addedge(loc,x);
+                ldepth[loc]=min(ldepth[loc],ldepth[x]);
+            }
+            else ldepth[loc]=min(ldepth[loc],depth[x]);
+        }
+    }
+    if(ldepth[loc]==dep)nodes.pop_back();
 }
 int main(){
     cin.tie(NULL);
     ios_base::sync_with_stdio(false);
-    int n;
-    cin>>n;
-    for(int i=1;i<=n;i++){
-        cin>>arr[i].A.A>>arr[i].A.B>>arr[i].B;
-    }
-    ll start=0,interval=1;
-    for(int i=n;i>=1;i--){
-        start-=arr[i].B;
-        ll te=(abs(start)+interval-1)/interval;
-        start+=interval*te;
-        ll c=start-arr[i].A.A;
-        ll a=-interval,b=arr[i].A.B;
-        if(c%__gcd(a,b)==0){
-            pll x,y;
-            LDE(a,b,c,x,y);
-            while(x.first<0){
-                x.first+=x.second;
-                y.first+=y.second;
-            }
-            while(y.first<0){
-                x.first+=x.second;
-                y.first+=y.second;
-            }
-            start=a*x.first+start;
+    int t;
+    cin>>t;
+    while(t--){
+        int a,b;
+        cin>>n>>m;
+        finalcomps=vector<vector<int>>();
+        for(int i=1;i<=n;i++)adj[i]=vector<int>(),col[i]=2,depth[i]=ldepth[i]=0;
+        for(int i=1;i<=2*n;i++)badj[i]=vector<int>();
+        for(int i=0;i<m;i++){
+            cin>>a>>b;
+            adj[a].push_back(b);
+            adj[b].push_back(a);
         }
-        else{
-            printf("-1\n");
-            return 0;
+        if(!bipartite(1,0)){
+            printf("No\n");
+            continue;
         }
-        interval=lcm(interval,arr[i].A.B);
+        dfs(1,0,1);
+        bool work=true;
+        for(int i=1;i<=n;i++){
+            int cnt=0;
+            for(auto x:badj[i]){
+                if(x>n)cnt++;
+            }
+            if(cnt>=2)work=false;
+        }
+        if(!work){
+            printf("No\n");
+            continue;
+        }
+
     }
-    printf("%lli\n",start);
     return 0;
 }
