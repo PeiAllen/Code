@@ -56,10 +56,10 @@ RM = C:\Users\allen\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5080.54\
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\allen\Documents\GitHub\Code\Problems\UTS\Arrays
+CMAKE_SOURCE_DIR = C:\Users\allen\Documents\Github\Code\Problems\UTS\Arrays
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\allen\Documents\GitHub\Code\Problems\UTS\Arrays\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\allen\Documents\Github\Code\Problems\UTS\Arrays\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\allen\Documents\GitHub\Code\Problems\UTS\Arrays\cmake-build-debug\CMakeFiles C:\Users\allen\Documents\GitHub\Code\Problems\UTS\Arrays\cmake-build-debug\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\allen\Documents\Github\Code\Problems\UTS\Arrays\cmake-build-debug\CMakeFiles C:\Users\allen\Documents\Github\Code\Problems\UTS\Arrays\cmake-build-debug\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\allen\Documents\GitHub\Code\Problems\UTS\Arrays\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\allen\Documents\Github\Code\Problems\UTS\Arrays\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -128,53 +128,29 @@ Arrays/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Arrays.dir\build.make CMakeFiles/Arrays.dir/build
 .PHONY : Arrays/fast
 
-gen.obj: gen.cpp.obj
-.PHONY : gen.obj
+initymlgenerator.obj: initymlgenerator.cpp.obj
+.PHONY : initymlgenerator.obj
 
 # target to build an object file
-gen.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Arrays.dir\build.make CMakeFiles/Arrays.dir/gen.cpp.obj
-.PHONY : gen.cpp.obj
+initymlgenerator.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Arrays.dir\build.make CMakeFiles/Arrays.dir/initymlgenerator.cpp.obj
+.PHONY : initymlgenerator.cpp.obj
 
-gen.i: gen.cpp.i
-.PHONY : gen.i
-
-# target to preprocess a source file
-gen.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Arrays.dir\build.make CMakeFiles/Arrays.dir/gen.cpp.i
-.PHONY : gen.cpp.i
-
-gen.s: gen.cpp.s
-.PHONY : gen.s
-
-# target to generate assembly for a file
-gen.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Arrays.dir\build.make CMakeFiles/Arrays.dir/gen.cpp.s
-.PHONY : gen.cpp.s
-
-main.obj: main.cpp.obj
-.PHONY : main.obj
-
-# target to build an object file
-main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Arrays.dir\build.make CMakeFiles/Arrays.dir/main.cpp.obj
-.PHONY : main.cpp.obj
-
-main.i: main.cpp.i
-.PHONY : main.i
+initymlgenerator.i: initymlgenerator.cpp.i
+.PHONY : initymlgenerator.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Arrays.dir\build.make CMakeFiles/Arrays.dir/main.cpp.i
-.PHONY : main.cpp.i
+initymlgenerator.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Arrays.dir\build.make CMakeFiles/Arrays.dir/initymlgenerator.cpp.i
+.PHONY : initymlgenerator.cpp.i
 
-main.s: main.cpp.s
-.PHONY : main.s
+initymlgenerator.s: initymlgenerator.cpp.s
+.PHONY : initymlgenerator.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Arrays.dir\build.make CMakeFiles/Arrays.dir/main.cpp.s
-.PHONY : main.cpp.s
+initymlgenerator.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Arrays.dir\build.make CMakeFiles/Arrays.dir/initymlgenerator.cpp.s
+.PHONY : initymlgenerator.cpp.s
 
 # Help Target
 help:
@@ -185,12 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Arrays
-	@echo ... gen.obj
-	@echo ... gen.i
-	@echo ... gen.s
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
+	@echo ... initymlgenerator.obj
+	@echo ... initymlgenerator.i
+	@echo ... initymlgenerator.s
 .PHONY : help
 
 

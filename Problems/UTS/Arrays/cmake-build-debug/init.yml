@@ -1,0 +1,23 @@
+archive: data.zip
+checker: standard
+test_cases:
+- batched:
+  - {in: sample.in, out: sample.out}
+  points: 0
+- batched:
+  - {in: in1.txt, out: out1.txt}
+  - {in: in2.txt, out: out2.txt}
+  - {in: in3.txt, out: out3.txt}
+  - {in: in4.txt, out: out4.txt}
+  - {in: in5.txt, out: out5.txt}
+  - {in: in6.txt, out: out6.txt}
+  - {in: in7.txt, out: out7.txt}
+  - {in: in8.txt, out: out8.txt}
+  - {in: in9.txt, out: out9.txt}
+  - {in: in10.txt, out: out10.txt}
+  - {in: in11.txt, out: out11.txt}
+  - {in: in12.txt, out: out12.txt}
+  - {in: in13.txt, out: out13.txt}
+  - {in: in14.txt, out: out14.txt}
+  - {in: in15.txt, out: out15.txt}
+  points: 100

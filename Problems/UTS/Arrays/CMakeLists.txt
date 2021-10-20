@@ -3,4 +3,4 @@ project(Arrays)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Arrays main.cpp gen.cpp)
+add_executable(Arrays initymlgenerator.cpp)

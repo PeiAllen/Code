@@ -12,12 +12,12 @@ int main(){
     ios_base::sync_with_stdio(false);
     int n;
     cin>>n;
-    ll a=0,sum=0;
+    ll a=0,sum=0,cur;
     for(int i=1;i<=n;i++){
         cin>>a;
-        ll cur=(sum+a)%mod;
-        printf("%lli\n",cur);
+        cur=(sum+a)%mod;
         sum=(sum+cur)%mod;
     }
+    printf("%lli\n",cur);
     return 0;
 }

@@ -8,8 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/allen/Documents/GitHub/Code/Problems/UTS/Arrays/gen.cpp" "C:/Users/allen/Documents/GitHub/Code/Problems/UTS/Arrays/cmake-build-debug/CMakeFiles/Arrays.dir/gen.cpp.obj"
-  "C:/Users/allen/Documents/GitHub/Code/Problems/UTS/Arrays/main.cpp" "C:/Users/allen/Documents/GitHub/Code/Problems/UTS/Arrays/cmake-build-debug/CMakeFiles/Arrays.dir/main.cpp.obj"
+  "C:/Users/allen/Documents/Github/Code/Problems/UTS/Arrays/initymlgenerator.cpp" "C:/Users/allen/Documents/Github/Code/Problems/UTS/Arrays/cmake-build-debug/CMakeFiles/Arrays.dir/initymlgenerator.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

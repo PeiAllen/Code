@@ -52,10 +52,10 @@ RM = C:\Users\allen\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5080.54\
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\allen\Documents\GitHub\Code\Problems\UTS\Arrays
+CMAKE_SOURCE_DIR = C:\Users\allen\Documents\Github\Code\Problems\UTS\Arrays
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\allen\Documents\GitHub\Code\Problems\UTS\Arrays\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\allen\Documents\Github\Code\Problems\UTS\Arrays\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Arrays.dir/depend.make
@@ -65,47 +65,32 @@ include CMakeFiles/Arrays.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Arrays.dir/flags.make
 
-CMakeFiles/Arrays.dir/main.cpp.obj: CMakeFiles/Arrays.dir/flags.make
-CMakeFiles/Arrays.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\allen\Documents\GitHub\Code\Problems\UTS\Arrays\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Arrays.dir/main.cpp.obj"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Arrays.dir\main.cpp.obj -c C:\Users\allen\Documents\GitHub\Code\Problems\UTS\Arrays\main.cpp
+CMakeFiles/Arrays.dir/initymlgenerator.cpp.obj: CMakeFiles/Arrays.dir/flags.make
+CMakeFiles/Arrays.dir/initymlgenerator.cpp.obj: ../initymlgenerator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\allen\Documents\Github\Code\Problems\UTS\Arrays\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Arrays.dir/initymlgenerator.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Arrays.dir\initymlgenerator.cpp.obj -c C:\Users\allen\Documents\Github\Code\Problems\UTS\Arrays\initymlgenerator.cpp
 
-CMakeFiles/Arrays.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Arrays.dir/main.cpp.i"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\allen\Documents\GitHub\Code\Problems\UTS\Arrays\main.cpp > CMakeFiles\Arrays.dir\main.cpp.i
+CMakeFiles/Arrays.dir/initymlgenerator.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Arrays.dir/initymlgenerator.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\allen\Documents\Github\Code\Problems\UTS\Arrays\initymlgenerator.cpp > CMakeFiles\Arrays.dir\initymlgenerator.cpp.i
 
-CMakeFiles/Arrays.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Arrays.dir/main.cpp.s"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\allen\Documents\GitHub\Code\Problems\UTS\Arrays\main.cpp -o CMakeFiles\Arrays.dir\main.cpp.s
-
-CMakeFiles/Arrays.dir/gen.cpp.obj: CMakeFiles/Arrays.dir/flags.make
-CMakeFiles/Arrays.dir/gen.cpp.obj: ../gen.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\allen\Documents\GitHub\Code\Problems\UTS\Arrays\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Arrays.dir/gen.cpp.obj"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Arrays.dir\gen.cpp.obj -c C:\Users\allen\Documents\GitHub\Code\Problems\UTS\Arrays\gen.cpp
-
-CMakeFiles/Arrays.dir/gen.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Arrays.dir/gen.cpp.i"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\allen\Documents\GitHub\Code\Problems\UTS\Arrays\gen.cpp > CMakeFiles\Arrays.dir\gen.cpp.i
-
-CMakeFiles/Arrays.dir/gen.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Arrays.dir/gen.cpp.s"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\allen\Documents\GitHub\Code\Problems\UTS\Arrays\gen.cpp -o CMakeFiles\Arrays.dir\gen.cpp.s
+CMakeFiles/Arrays.dir/initymlgenerator.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Arrays.dir/initymlgenerator.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\allen\Documents\Github\Code\Problems\UTS\Arrays\initymlgenerator.cpp -o CMakeFiles\Arrays.dir\initymlgenerator.cpp.s
 
 # Object files for target Arrays
 Arrays_OBJECTS = \
-"CMakeFiles/Arrays.dir/main.cpp.obj" \
-"CMakeFiles/Arrays.dir/gen.cpp.obj"
+"CMakeFiles/Arrays.dir/initymlgenerator.cpp.obj"
 
 # External object files for target Arrays
 Arrays_EXTERNAL_OBJECTS =
 
-Arrays.exe: CMakeFiles/Arrays.dir/main.cpp.obj
-Arrays.exe: CMakeFiles/Arrays.dir/gen.cpp.obj
+Arrays.exe: CMakeFiles/Arrays.dir/initymlgenerator.cpp.obj
 Arrays.exe: CMakeFiles/Arrays.dir/build.make
 Arrays.exe: CMakeFiles/Arrays.dir/linklibs.rsp
 Arrays.exe: CMakeFiles/Arrays.dir/objects1.rsp
 Arrays.exe: CMakeFiles/Arrays.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\allen\Documents\GitHub\Code\Problems\UTS\Arrays\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Arrays.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\allen\Documents\Github\Code\Problems\UTS\Arrays\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Arrays.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Arrays.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -117,6 +102,6 @@ CMakeFiles/Arrays.dir/clean:
 .PHONY : CMakeFiles/Arrays.dir/clean
 
 CMakeFiles/Arrays.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\allen\Documents\GitHub\Code\Problems\UTS\Arrays C:\Users\allen\Documents\GitHub\Code\Problems\UTS\Arrays C:\Users\allen\Documents\GitHub\Code\Problems\UTS\Arrays\cmake-build-debug C:\Users\allen\Documents\GitHub\Code\Problems\UTS\Arrays\cmake-build-debug C:\Users\allen\Documents\GitHub\Code\Problems\UTS\Arrays\cmake-build-debug\CMakeFiles\Arrays.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\allen\Documents\Github\Code\Problems\UTS\Arrays C:\Users\allen\Documents\Github\Code\Problems\UTS\Arrays C:\Users\allen\Documents\Github\Code\Problems\UTS\Arrays\cmake-build-debug C:\Users\allen\Documents\Github\Code\Problems\UTS\Arrays\cmake-build-debug C:\Users\allen\Documents\Github\Code\Problems\UTS\Arrays\cmake-build-debug\CMakeFiles\Arrays.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Arrays.dir/depend
 

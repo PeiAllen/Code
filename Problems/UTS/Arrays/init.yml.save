@@ -1,0 +1,6 @@
+archive: data.zip
+checker: standard
+test_cases:
+- batched:
+  - {in: sample.in, out: sample.out}
+

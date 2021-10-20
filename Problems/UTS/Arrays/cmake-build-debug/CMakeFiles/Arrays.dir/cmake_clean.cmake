@@ -2,8 +2,7 @@ file(REMOVE_RECURSE
   "Arrays.exe"
   "Arrays.exe.manifest"
   "Arrays.pdb"
-  "CMakeFiles/Arrays.dir/gen.cpp.obj"
-  "CMakeFiles/Arrays.dir/main.cpp.obj"
+  "CMakeFiles/Arrays.dir/initymlgenerator.cpp.obj"
   "libArrays.dll.a"
 )
 
