@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/NOI/NOI '02 P6 - Robot No. M/cmake-build-debug/CMakeFiles/NOI__02_P6___Robot_No__M.dir
+C:/Users/allen/Documents/Github/Code/Problems/NOI/NOI '02 P6 - Robot No. M/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/NOI/NOI '02 P6 - Robot No. M/cmake-build-debug/CMakeFiles/rebuild_cache.dir

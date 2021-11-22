@@ -1,0 +1,3 @@
+C:\Users\allen\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5080.54\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\NOI__02_P6___Robot_No__M.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\NOI__02_P6___Robot_No__M.dir/objects.a @CMakeFiles\NOI__02_P6___Robot_No__M.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\NOI__02_P6___Robot_No__M.dir/objects.a -Wl,--no-whole-archive -o NOI__02_P6___Robot_No__M.exe -Wl,--out-implib,libNOI__02_P6___Robot_No__M.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\NOI__02_P6___Robot_No__M.dir\linklibs.rsp

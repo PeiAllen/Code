@@ -1,0 +1,3 @@
+C:\Users\allen\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5080.54\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\APIO__12_P2___Guard.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\APIO__12_P2___Guard.dir/objects.a @CMakeFiles\APIO__12_P2___Guard.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\APIO__12_P2___Guard.dir/objects.a -Wl,--no-whole-archive -o APIO__12_P2___Guard.exe -Wl,--out-implib,libAPIO__12_P2___Guard.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\APIO__12_P2___Guard.dir\linklibs.rsp

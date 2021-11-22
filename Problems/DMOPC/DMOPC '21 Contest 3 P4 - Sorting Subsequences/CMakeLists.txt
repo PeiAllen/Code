@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.20)
+project(DMOPC__21_Contest_3_P4___Sorting_Subsequences)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(DMOPC__21_Contest_3_P4___Sorting_Subsequences main.cpp)
