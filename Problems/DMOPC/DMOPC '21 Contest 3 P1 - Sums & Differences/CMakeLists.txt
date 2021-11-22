@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(DMOPC__21_Contest_3_P1___Sums___Differences)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(DMOPC__21_Contest_3_P1___Sums___Differences main.cpp)
