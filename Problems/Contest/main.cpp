@@ -6,40 +6,34 @@ using pll = pair<ll,ll>;
 #define A first
 #define B second
 template<typename T> int sz(const T &a){return int(a.size());}
-const int MN=1e5+1;
-const ll MV=2e9;
-ll gc[MN+2];
-ll gc2[MN+2];
+const int MN=1e6+1;
+ll arr[MN];
+struct data{
+    int cnt[19],mi;
+    data(){
+        mi=INT_MAX;
+        for(int i=0;i<19;i++)cnt[i]=0;
+    }
+};
+data mergeleft(const data &a, const data &b){
+    if(b.mi==INT_MAX)return a;
+    if(a.mi==INT_MAX)return b;
+    return
+}
+struct seg{
+    struct node{
+        data fl,fr;
+        node(){
+            fl=data(),fr=data();
+        }
+    };
+
+}tree;
 int main(){
     cin.tie(NULL);
     ios_base::sync_with_stdio(false);
-    int t;
-    cin>>t;
-    while(t--){
-        int n;
-        ll a;
-        cin>>n;
-        gc[1]=1;
-        for(int i=2;i<=n+1;i++){
-            if(gc[i-1]>MV)gc[i]=gc[i-1];
-            gc[i]=gc[i-1]*ll(i)/__gcd(gc[i-1],ll(i));
-            if(gc2[i-1]>MV)gc2[i]=gc2[i-1];
-            else gc2[i]=gc2[i-1]*ll(i)/__gcd(gc2[i-1],ll(i));
-            if(gc2[i]>=MV)assert(gc[i]>MV||gc[i]<-MV);
-        }
-        bool work=true;
-//        for(int i=1;i<=n;i++){
-//            cin>>a;
-//            int lo=1,hi=n+1;
-//            while(lo!=hi){
-//                int mid=(lo+hi+1)/2;
-//                if(a%gc[mid]==0)lo=mid;
-//                else hi=mid-1;
-//            }
-//            if(lo>i)work=false;
-//        }
-//        if(work)printf("YES\n");
-//        else printf("NO\n");
-    }
+    int n;
+    cin>>n;
+    for(int i=1;i<=n;i++)cin>>arr[i];
     return 0;
 }
