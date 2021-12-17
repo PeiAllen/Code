@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/COCI/COCI '21 Contest 2 #5 Osumnjičeni/cmake-build-debug/CMakeFiles/COCI__21_Contest_2__5_Osumnjieni.dir
+C:/Users/allen/Documents/Github/Code/Problems/COCI/COCI '21 Contest 2 #5 Osumnjičeni/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/COCI/COCI '21 Contest 2 #5 Osumnjičeni/cmake-build-debug/CMakeFiles/rebuild_cache.dir
