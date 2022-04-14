@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/CCC2022/cmake-build-debug/CMakeFiles/CCC2022.dir
+C:/Users/allen/Documents/Github/Code/Problems/CCC2022/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/CCC2022/cmake-build-debug/CMakeFiles/rebuild_cache.dir

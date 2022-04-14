@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/CCCTraining/CCC '03 S4 - Substrings/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/CCCTraining/CCC '03 S4 - Substrings/bits/stdc++.h
+

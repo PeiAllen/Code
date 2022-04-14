@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/COCI/COCI '08 Contest 4 #5 Trezor/cmake-build-debug/CMakeFiles/COCI__08_Contest_4__5_Trezor.dir
+C:/Users/allen/Documents/Github/Code/Problems/COCI/COCI '08 Contest 4 #5 Trezor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/COCI/COCI '08 Contest 4 #5 Trezor/cmake-build-debug/CMakeFiles/rebuild_cache.dir

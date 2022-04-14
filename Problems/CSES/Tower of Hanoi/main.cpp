@@ -1,0 +1,23 @@
+#include "bits/stdc++.h"
+using namespace std;
+using ll = long long;
+using pii = pair<int,int>;
+using pll = pair<ll,ll>;
+template<typename T> int sz(const T &a){return int(a.size());}
+void solve(int n, int a, int b, int c){
+    if(n==0)return;
+    solve(n-1,a,c,b);
+    printf("%d %d\n",a,c);
+    solve(n-1,b,a,c);
+}
+int main(){
+    cin.tie(NULL);
+    ios_base::sync_with_stdio(false);
+    int n;
+    cin>>n;
+    int am=0;
+    for(int i=1;i<=n;i++)am=2*am+1;
+    printf("%d\n",am);
+    solve(n,1,2,3);
+    return 0;
+}

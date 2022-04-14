@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2022/January/Gold/USACO 2022 January Gold P1 - Drought/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2022/January/Gold/USACO 2022 January Gold P1 - Drought/cmake-build-debug/CMakeFiles/USACO_2022_January_Gold_P1___Drought.dir
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2022/January/Gold/USACO 2022 January Gold P1 - Drought/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,42 @@
+#include "bits/stdc++.h"
+using namespace std;
+using ll = long long;
+using pii = pair<int,int>;
+using pll = pair<ll,ll>;
+template<typename T>
+int sz(const T &a){return int(a.size());}
+const int MN=300001;
+map<string,int> group;
+int main(){
+    cin.tie(NULL);
+    ios_base::sync_with_stdio(false);
+    int samep;
+    cin>>samep;
+    vector<pair<string,string>> same(samep);
+    for(int i=0;i<samep;i++)cin>>same[i].first>>same[i].second;
+    int diffp;
+    cin>>diffp;
+    vector<pair<string,string>> diff(diffp);
+    for(int i=0;i<diffp;i++)cin>>diff[i].first>>diff[i].second;
+    int groups;
+    cin>>groups;
+    string a;
+    int am;
+    for(int i=0;i<groups;i++){
+        cin>>a;
+        group[a]=i;
+        cin>>a;
+        group[a]=i;
+        cin>>a;
+        group[a]=i;
+    }
+    int violate=0;
+    for(auto x:same){
+        if(group[x.first]!=group[x.second])violate++;
+    }
+    for(auto x:diff){
+        if(group[x.first]==group[x.second])violate++;
+    }
+    printf("%d\n",violate);
+    return 0;
+}

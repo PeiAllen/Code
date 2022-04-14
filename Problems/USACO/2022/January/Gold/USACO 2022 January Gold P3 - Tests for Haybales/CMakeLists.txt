@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.20)
+project(USACO_2022_January_Gold_P3___Tests_for_Haybales)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(USACO_2022_January_Gold_P3___Tests_for_Haybales main.cpp)

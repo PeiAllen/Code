@@ -1,0 +1,7 @@
+"C:\Program Files\JetBrains\CLion 2020.2.5\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\allen\Documents\Github\Code\Problems\USACO\2021\December\Platinum\HILO
+CMake Error at CMakeLists.txt:1 (cmake_minimum_required):
+  CMake 3.20 or higher is required.  You are running version 3.17.3
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/allen/Documents/Github/Code/Problems/USACO/2021/December/Platinum/HILO/cmake-build-debug/CMakeFiles/CMakeOutput.log".

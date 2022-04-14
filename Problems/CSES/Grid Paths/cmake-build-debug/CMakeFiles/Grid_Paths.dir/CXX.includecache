@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/CSES/Grid Paths/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/CSES/Grid Paths/bits/stdc++.h
+

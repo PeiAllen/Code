@@ -1,0 +1,45 @@
+#include "bits/stdc++.h"
+using namespace std;
+using ll = long long;
+using pii = pair<int,int>;
+using pll = pair<ll,ll>;
+template<typename T>
+int sz(const T &a){return int(a.size());}
+const int MN=1e6+1;
+ll am[MN];
+int main(){
+    cin.tie(NULL);
+    ios_base::sync_with_stdio(false);
+    ll n,m,k;
+    cin>>n>>m>>k;
+    for(ll i=1;i<=n;i++){
+        am[i]=am[i-1]+min(m,i);
+    }
+    if(k>am[n]||k<n){
+        printf("-1\n");
+        return 0;
+    }
+    ll ptr=n;
+    int last=1;
+    vector<int> arr;
+    for(int i=1;i<=n;i++){
+        while(ptr>n-i+1||am[ptr]+n-i+1-ptr>k)ptr--;
+        for(int j=0;j<ptr;j++){
+            arr.push_back(last);
+            if(j!=ptr-1) {
+                last++;
+                if (last == m + 1)last = 1;
+            }
+        }
+        k-=am[ptr];
+        i+=ptr-1;
+    }
+    if(k!=0) {
+//        assert(k <= m);
+        arr[n - 1] = arr[n - 2 - k];
+    }
+    for(int i=0;i<n;i++){
+        printf("%d%c",arr[i]," \n"[i==n-1]);
+    }
+    return 0;
+}
