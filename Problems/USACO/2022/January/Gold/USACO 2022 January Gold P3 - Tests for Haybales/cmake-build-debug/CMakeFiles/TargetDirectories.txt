@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2022/January/Gold/USACO 2022 January Gold P3 - Tests for Haybales/cmake-build-debug/CMakeFiles/USACO_2022_January_Gold_P3___Tests_for_Haybales.dir
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2022/January/Gold/USACO 2022 January Gold P3 - Tests for Haybales/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2022/January/Gold/USACO 2022 January Gold P3 - Tests for Haybales/cmake-build-debug/CMakeFiles/rebuild_cache.dir

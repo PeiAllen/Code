@@ -1,0 +1,3 @@
+C:\Users\allen\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5080.54\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\Point_Location_Test.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\Point_Location_Test.dir/objects.a @CMakeFiles\Point_Location_Test.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\Point_Location_Test.dir/objects.a -Wl,--no-whole-archive -o Point_Location_Test.exe -Wl,--out-implib,libPoint_Location_Test.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Point_Location_Test.dir\linklibs.rsp

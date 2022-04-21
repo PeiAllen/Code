@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2021/December/Platinum/HILO/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2021/December/Platinum/HILO/bits/stdc++.h
+

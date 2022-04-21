@@ -6,27 +6,29 @@ using pii = pair<int,int>;
 using pll = pair<ll,ll>;
 template<typename T>
 int sz(const T &a){return (int)a.size();}
-const int MV=5e4;
+
 int main(int argc, char* argv[]){
     cin.tie(NULL);
     ios_base::sync_with_stdio(false);
     registerGen(argc,argv,0);
-    int p=5,n=10;
-    printf("%d %d\n",p,n);
-    for(int i=1;i<=p;i++)printf("%d ",i);
-    for(int i=p+1;i<=n;i++)printf("%d%c",rnd.next(1,p)," \n"[i==n]);
-    int k=rnd.next(0,10);
-    printf("%d\n",k);
-    set<pii> used;
-    for(int i=0;i<k;i++){
-        int a=rnd.next(1,n-1);
-        int b=rnd.next(a+1,n);
-        while(used.count({a,b})){
-            a=rnd.next(1,n-1);
-            b=rnd.next(a+1,n);
+    int n=rnd.next(3,10),q=rnd.next(3,10);
+    printf("%d %d\n",n,q);
+    for(int i=1;i<=n;i++){
+        printf("%d%c",rnd.next(-10,10)," \n"[i==n]);
+    }
+    for(int i=1;i<=q;i++){
+        int type=rnd.next(0,1);
+        printf("%d ",type);
+        if(type==0){
+            int l=rnd.next(1,n);
+            int r=rnd.next(l,n);
+            printf("%d %d %d\n",l,r,rnd.next(-10,10));
         }
-        used.insert({a,b});
-        printf("%d %d\n",a,b);
+        else{
+            int l=rnd.next(1,n);
+            int r=rnd.next(l,n);
+            printf("%d %d\n",l,r);
+        }
     }
     return 0;
 }

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.20)
+project(Mock_CCO__18_Contest_3_Problem_2___Roger_Delegates_Work_to_Jessica)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Mock_CCO__18_Contest_3_Problem_2___Roger_Delegates_Work_to_Jessica main.cpp)

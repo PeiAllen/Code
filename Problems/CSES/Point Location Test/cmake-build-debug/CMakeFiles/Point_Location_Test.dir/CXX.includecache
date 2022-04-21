@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/CSES/Point Location Test/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/CSES/Point Location Test/bits/stdc++.h
+

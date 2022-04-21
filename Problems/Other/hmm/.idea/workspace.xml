@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="hmm" targetName="hmm" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f702290b-3b73-4627-96be-3417f72118c6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../COCI/COCI '21 Contest 2 #5 Osumnjiceni/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../COCI/COCI '21 Contest 2 #5 Osumnjiceni/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/brute" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/brute" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/brute.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/brute.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/3.20.2/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/3.20.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/brute.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/brute.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/p1.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Contest.dir/p3.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/Contest.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/Contest.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/Contest.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/Contest.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/exp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/exp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/gen" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/gen" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/gen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/gen.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/in" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/main" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/p2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/p2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Contest/p3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contest/p3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hmm.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hmm.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hmm.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hmm.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hmm.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hmm.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hmm.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hmm.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hmm.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hmm.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="zzr4mmcl" />
+  </component>
+  <component name="ProjectId" id="24tyhR7HawcQQEi5Wn6m4aGHHWi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hmm" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hmm" TARGET_NAME="hmm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="hmm" RUN_TARGET_NAME="hmm">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f702290b-3b73-4627-96be-3417f72118c6" name="Changes" comment="" />
+      <created>1644464296265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644464296265</updated>
+      <workItem from="1644464297667" duration="1741000" />
+      <workItem from="1644501661680" duration="595000" />
+      <workItem from="1644528100765" duration="594000" />
+      <workItem from="1644539071005" duration="1018000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/CSES/Increasing Array/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/CSES/Increasing Array/bits/stdc++.h
+

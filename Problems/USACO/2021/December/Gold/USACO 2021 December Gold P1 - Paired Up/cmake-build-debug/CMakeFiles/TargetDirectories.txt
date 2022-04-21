@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2021/December/Gold/USACO 2021 December Gold P1 - Paired Up/cmake-build-debug/CMakeFiles/USACO_2021_December_Gold_P1___Paired_Up.dir
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2021/December/Gold/USACO 2021 December Gold P1 - Paired Up/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/USACO/2021/December/Gold/USACO 2021 December Gold P1 - Paired Up/cmake-build-debug/CMakeFiles/rebuild_cache.dir
