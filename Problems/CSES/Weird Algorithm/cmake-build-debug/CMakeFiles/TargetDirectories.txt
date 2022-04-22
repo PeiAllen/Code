@@ -1,3 +1,3 @@
-C:/Users/allen/Documents/Github/Code/Problems/CSES/Weird Algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/allen/Documents/Github/Code/Problems/CSES/Weird Algorithm/cmake-build-debug/CMakeFiles/Weird_Algorithm.dir
-C:/Users/allen/Documents/Github/Code/Problems/CSES/Weird Algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/allen/Documents/GitHub/Code/Problems/CSES/Weird Algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/allen/Documents/GitHub/Code/Problems/CSES/Weird Algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/allen/Documents/GitHub/Code/Problems/CSES/Weird Algorithm/cmake-build-debug/CMakeFiles/Weird_Algorithm.dir

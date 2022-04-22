@@ -1,75 +1,40 @@
 #include <bits/stdc++.h>
-
 using namespace std;
-
-string s;
-string t;
-int freqs [18];
-int freqt [18];
-bool works [18][18];
-int q;
-string output;
-
-int main()
-{
-    cin.tie(NULL);
-    ios_base::sync_with_stdio(false);
-    cin >> s;
-    cin >> t;
-    for (char i: s) {
-        freqs[i-'a'] ++;
-    }
-    for (char i: t) {
-        freqt[i-'a'] ++;
-    }
-    for (char i = 'a'; i <= 'r'; i++) {
-        for (char j = 'a'; j <= 'r'; j++) {
-            string tempa;
-            string tempb;
-            for (char k: s) {
-                if (k == i || k == j) {
-                    tempa += k;
+#define ll long long
+#define int ll
+#define ld long double
+#define pii pair<int, int>
+#define f first
+#define s second
+#define boost() cin.tie(0), cin.sync_with_stdio(0)
+const int MN=1001;
+ll ans[MN];
+int32_t main() {
+    boost();
+//    for(int mod=2;mod<=100;mod++){
+        int mod=251;
+        int am=0;
+        vector<int> bad;
+        int cnt=0;
+        int totient=0;
+        for(int i=1;i<mod;i++){
+            if(__gcd(mod,i)==1)totient++;
+        }
+        for(int i=2;i<=2;i++){
+            set<int> residue;
+            for(int j=0;j<mod;j++){
+                ll v=j;
+                for(int k=1;k<i;k++){
+                    v=v*j%mod;
                 }
+                residue.insert(v);
             }
-            for (char k: s) {
-                if (k == i || k == j) {
-                    tempb += k;
-                }
-            }
-            if (tempa == tempb) {
-                works[i-'a'][j-'a'] = true;
-            }
-            else {
-                works[i-'a'][j-'a'] = false;
+            if(residue.size()<=(mod+1)/2){
+                printf("%d\n",(residue.size()));
+                for(auto x:residue)printf("%d ",x);
             }
         }
-    }
-    cin >> q;
-    for (int i = 1; i <= q; i++) {
-        bool subset = true;;
-        string temp;
-        cin >> temp;
-        int sums;
-        int sumt;
-        for (char j: temp) {
-            sums += freqs[j-'a'];
-            sumt += freqt[j-'a'];
-        }
-        if (sums == sumt) {
-            for (int j = 0; j < temp.size(); j++) {
-                for (int k = j+1; k < temp.size(); k++) {
-                    if (!works[temp[j]-'a'][temp[k]-'a']) {
-                        subset = false;
-                    }
-                }
-            }
-        }
-        else {
-            subset = false;
-        }
-        if (subset) output += 'Y';
-        else output += 'N';
-    }
-    cout << output << "\n";
+//        printf("\%d\n",cnt);
+//    }
     return 0;
 }

@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Weird_Algorithm.dir/main.cpp.obj"
-  "Weird_Algorithm.exe"
-  "Weird_Algorithm.exe.manifest"
+  "CMakeFiles/Weird_Algorithm.dir/main.cpp.o"
   "Weird_Algorithm.pdb"
-  "libWeird_Algorithm.dll.a"
+  "Weird_Algorithm"
 )
 
 # Per-language clean rules from dependency scanning.
