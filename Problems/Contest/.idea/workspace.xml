@@ -31,16 +31,10 @@
   <component name="ChangeListManager">
     <list default="true" id="bbd7c8ac-dfe2-4e3b-a49c-9309ddbfcf1f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brute" beforeDir="false" afterPath="$PROJECT_DIR$/brute" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brute.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/brute.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Contest.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Contest.dir/main.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Contest.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Contest.dir/objects.a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Contest.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Contest.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gen" beforeDir="false" afterPath="$PROJECT_DIR$/gen" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/gen.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in" beforeDir="false" afterPath="$PROJECT_DIR$/in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main" beforeDir="false" afterPath="$PROJECT_DIR$/main" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,9 +107,9 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -366,6 +360,7 @@
       <workItem from="1650299422793" duration="13228000" />
       <workItem from="1650818003277" duration="15133000" />
       <workItem from="1650836206603" duration="4110000" />
+      <workItem from="1651420882707" duration="15989000" />
     </task>
     <servers />
   </component>
@@ -394,30 +389,15 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/main.cpp</url>
-          <line>153</line>
-          <option name="timeStamp" value="115" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/main.cpp</url>
-          <line>154</line>
-          <option name="timeStamp" value="117" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/main.cpp</url>
-          <line>199</line>
-          <option name="timeStamp" value="118" />
+          <line>123</line>
+          <option name="timeStamp" value="126" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="CMakeRunConfiguration">
         <watch expression="dp&#10;" language="ObjectiveC" />
-        <watch expression="dp2&#10;" language="ObjectiveC" />
-        <watch expression="anscost&#10;" language="ObjectiveC" />
-        <watch expression="anscost&#10;" language="ObjectiveC" />
-        <watch expression="cost&#10;" language="ObjectiveC" />
-        <watch expression="items&#10;" language="ObjectiveC" />
-        <watch expression="costspec&#10;" language="ObjectiveC" />
+        <watch expression="k" language="ObjectiveC" />
       </configuration>
     </watches-manager>
   </component>
