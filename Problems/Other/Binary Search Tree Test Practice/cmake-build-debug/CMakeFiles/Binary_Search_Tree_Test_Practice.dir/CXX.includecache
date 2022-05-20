@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/Other/Binary Search Tree Test Practice/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/Other/Binary Search Tree Test Practice/bits/stdc++.h
+

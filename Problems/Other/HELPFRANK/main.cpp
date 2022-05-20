@@ -3,51 +3,44 @@
 using namespace std;
 
 int n;
-int arr [10001];
-vector<int> out;
-vector<int> newout;
-vector<int> zero;
-vector<int> one;
-vector<int> two;
+int k;
+pair<int, int> height [1000001];
+priority_queue<int> width;
+long long total;
+long long air = INT_MAX;
 
 int main()
 {
     cin.tie(NULL);
     ios_base::sync_with_stdio(false);
     cin >> n;
-    for (int i = 1; i <= n; i++) cin >> arr[i];
+    cin >> k;
     for (int i = 1; i <= n; i++) {
-        if (arr[i]%3 == 0) zero.push_back(arr[i]);
-        else if (arr[i]%3 == 1) one.push_back(arr[i]);
-        else if (arr[i]%3 == 2) two.push_back(arr[i]);
+        int a;
+        int b;
+        cin >> a;
+        cin >> b;
+        height[i].first = a;
+        height[i].second = b;
     }
-    if ((one.size()>0 && two.size()>0 && zero.size() == 0) || (zero.size() > one.size()+two.size()+1)) cout << "impossible\n";
-    else {
-        for (int i: one) {
-            out.push_back(i);
-            if (zero.size() > 0) {
-                out.push_back(zero.back());
-                zero.pop_back();
-            }
-        }
-        for (int i: two) out.push_back(i);
-        if (zero.size() > 0) {
-            out.insert(out.begin(), zero.back());
-            zero.pop_back();
-        }
-        if (zero.size() > 0) {
-            out.push_back(zero.back());
-            zero.pop_back();
-        }
-        while (out.size() > 0) {
-            newout.push_back(out.back());
-            out.pop_back();
-            if (out.size() > 0 && zero.size() > 0 && out.back()%3 == newout.back()%3) {
-                newout.push_back(zero.back());
-                zero.pop_back();
-            }
-        }
-        for (int i = 0; i < n; i++) cout << newout[i] << " \n"[i==n-1];
+    sort(height+1, height + n + 1, [&](pair<int, int> l, pair<int, int> r) {
+         return l.second < r.second;
+    });
+    for (int i = 1; i < k; i++) {
+        width.push(height[i].first);
+        total += height[i].first;
     }
+    air = (total+height[k].first)*height[k].second;
+    width.push(height[k].first);
+    total += height[k].first;
+    cout << width.size() << endl;
+    for (int i = k+1; i <= n; i++) {
+        total += height[i].first;
+        width.push(height[i].first);
+        total -= width.top();
+        width.pop();
+        air = min(air, height[i].second*total);
+    }
+    cout << air << endl;
     return 0;
 }
