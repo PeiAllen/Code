@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/WAC7/Wesley's Anger Contest 7 Problem 4 - Conservation/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/WAC7/Wesley's Anger Contest 7 Problem 4 - Conservation/bits/stdc++.h
+

@@ -1,0 +1,3 @@
+C:\Users\allen\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5080.54\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\Kingdom_Security.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\Kingdom_Security.dir/objects.a @CMakeFiles\Kingdom_Security.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\Kingdom_Security.dir/objects.a -Wl,--no-whole-archive -o Kingdom_Security.exe -Wl,--out-implib,libKingdom_Security.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Kingdom_Security.dir\linklibs.rsp

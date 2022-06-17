@@ -1,0 +1,4 @@
+C:\Users\allen\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5080.54\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" "C:\Users\allen\Documents\GitHub\Code\Problems\WAC7\Wesley's Anger Contest 7 Problem 4 - Conservation"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/allen/Documents/Github/Code/Problems/WAC7/Wesley's Anger Contest 7 Problem 4 - Conservation/cmake-build-debug

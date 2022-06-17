@@ -47,19 +47,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = C:\Users\allen\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5457.51\bin\cmake\win\bin\cmake.exe
+CMAKE_COMMAND = C:\Users\allen\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5080.54\bin\cmake\win\bin\cmake.exe
 
 # The command to remove a file.
-RM = C:\Users\allen\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5457.51\bin\cmake\win\bin\cmake.exe -E rm -f
+RM = C:\Users\allen\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5080.54\bin\cmake\win\bin\cmake.exe -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\Contest
+CMAKE_SOURCE_DIR = C:\Users\allen\Documents\Github\Code\Problems\Contest
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\Contest\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\allen\Documents\Github\Code\Problems\Contest\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -67,7 +67,7 @@ CMAKE_BINARY_DIR = C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\Contes
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	C:\Users\allen\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5457.51\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available."
+	C:\Users\allen\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5080.54\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available."
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -77,7 +77,7 @@ edit_cache/fast: edit_cache
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	C:\Users\allen\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5457.51\bin\cmake\win\bin\cmake.exe --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	C:\Users\allen\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5080.54\bin\cmake\win\bin\cmake.exe --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\Contest\cmake-build-debug\CMakeFiles C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\Contest\cmake-build-debug\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\allen\Documents\Github\Code\Problems\Contest\cmake-build-debug\CMakeFiles C:\Users\allen\Documents\Github\Code\Problems\Contest\cmake-build-debug\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\allen\OneDrive\Documents\GitHub\Code\Problems\Contest\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\allen\Documents\Github\Code\Problems\Contest\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -128,29 +128,29 @@ Contest/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Contest.dir\build.make CMakeFiles/Contest.dir/build
 .PHONY : Contest/fast
 
-main.obj: main.cpp.obj
-.PHONY : main.obj
+brute.obj: brute.cpp.obj
+.PHONY : brute.obj
 
 # target to build an object file
-main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Contest.dir\build.make CMakeFiles/Contest.dir/main.cpp.obj
-.PHONY : main.cpp.obj
+brute.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Contest.dir\build.make CMakeFiles/Contest.dir/brute.cpp.obj
+.PHONY : brute.cpp.obj
 
-main.i: main.cpp.i
-.PHONY : main.i
+brute.i: brute.cpp.i
+.PHONY : brute.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Contest.dir\build.make CMakeFiles/Contest.dir/main.cpp.i
-.PHONY : main.cpp.i
+brute.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Contest.dir\build.make CMakeFiles/Contest.dir/brute.cpp.i
+.PHONY : brute.cpp.i
 
-main.s: main.cpp.s
-.PHONY : main.s
+brute.s: brute.cpp.s
+.PHONY : brute.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Contest.dir\build.make CMakeFiles/Contest.dir/main.cpp.s
-.PHONY : main.cpp.s
+brute.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Contest.dir\build.make CMakeFiles/Contest.dir/brute.cpp.s
+.PHONY : brute.cpp.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Contest
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
+	@echo ... brute.obj
+	@echo ... brute.i
+	@echo ... brute.s
 .PHONY : help
 
 

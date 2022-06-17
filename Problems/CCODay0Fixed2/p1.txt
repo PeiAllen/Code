@@ -1,0 +1,74 @@
+#include "bits/stdc++.h"
+using namespace std;
+using ll = long long;
+using pii = pair<int,int>;
+using pll = pair<ll,ll>;
+template<typename T> int sz(const T &a){return int(a.size());}
+const int MN=2005;
+pii arr[MN];
+int dist[MN][MN];
+int xc[4]={1,-1,0,0},yc[4]={0,0,1,-1};
+int getdist(pii a, pii b){
+    return abs(a.first-b.first)+abs(a.second-b.second);
+}
+int main(){
+    cin.tie(NULL);
+    ios_base::sync_with_stdio(false);
+    int n,m,k;
+    cin>>n>>m>>k;
+    vector<int> xcoords={1,n+1},ycoords={1,m+1};
+    for(int i=0;i<k;i++){
+        cin>>arr[i].first>>arr[i].second;
+        xcoords.push_back(arr[i].first);
+        ycoords.push_back(arr[i].second);
+    }
+    sort(xcoords.begin(),xcoords.end());
+    xcoords.erase(unique(xcoords.begin(),xcoords.end()),xcoords.end());
+    sort(ycoords.begin(),ycoords.end());
+    ycoords.erase(unique(ycoords.begin(),ycoords.end()),ycoords.end());
+    for(int i=0;i<sz(xcoords);i++){
+        for(int j=0;j<sz(ycoords);j++){
+            dist[i][j]=INT_MAX;
+        }
+    }
+    priority_queue<pair<int,pii>,vector<int,pii>,greater<>> q;
+    for(int i=0;i<k;i++){
+        pii cur={lower_bound(xcoords.begin(),xcoords.end(),arr[i].first)-xcoords.begin(),lower_bound(ycoords.begin(),ycoords.end(),arr[i].second)-ycoords.begin()};
+        dist[cur.first][cur.second]=0;
+        q.push({0,cur});
+    }
+    while(sz(q)){
+        auto cur=q.front();
+        q.pop();
+        if(cur.first>dist[cur.second.first][cur.second.second])continue;
+        for(int i=0;i<4;i++){
+            int nx=cur.second.first+xc[i],ny=cur.second.second+yc[i];
+            if(nx>=0&&nx<sz(xcoords)&&ny>=0&&ny<sz(ycoords)){
+                int ndist=dist[cur.second.first][cur.second.second]+abs(xcoords[nx]-xcoords[cur.second.first])+abs(ycoords[ny]-ycoords[cur.second.second]);
+                if(ndist<dist[nx][ny]){
+                    dist[nx][ny]=ndist;
+                    q.push({ndist,{nx,ny}});
+                }
+            }
+        }
+    }
+    int wanted;
+    cin>>wanted;
+    ll cnt=0;
+    for(int i=0;i<sz(xcoords)-1;i++){
+        for(int j=0;j<sz(ycoords)-1;j++){
+            auto bestdist=[&](pii loc){
+                return min({getdist(loc,{xcoords[i],ycoords[j]})+dist[i][j],
+                     getdist(loc,{xcoords[i+1],ycoords[j]})+dist[i+1][j],
+                     getdist(loc,{xcoords[i],ycoords[j+1]})+dist[i][j+1],
+                     getdist(loc,{xcoords[i+1],ycoords[j+1]})+dist[i+1][j+1]});
+            };
+            int topleft=bestdist({xcoords[i],ycoords[j]});
+            int topright=bestdist({xcoords[i],ycoords[j+1]-1});
+            int bottomleft=bestdist({xcoords[i+1]-1,ycoords[j]});
+            int bottomright=bestdist({xcoords[i+1]-1,ycoords[j+1]-1});
+
+        }
+    }
+    return 0;
+}

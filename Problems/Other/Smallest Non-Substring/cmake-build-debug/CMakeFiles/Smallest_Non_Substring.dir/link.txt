@@ -1,0 +1,3 @@
+C:\Users\allen\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5080.54\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\Smallest_Non_Substring.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\Smallest_Non_Substring.dir/objects.a @CMakeFiles\Smallest_Non_Substring.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\Smallest_Non_Substring.dir/objects.a -Wl,--no-whole-archive -o Smallest_Non_Substring.exe -Wl,--out-implib,libSmallest_Non_Substring.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Smallest_Non_Substring.dir\linklibs.rsp

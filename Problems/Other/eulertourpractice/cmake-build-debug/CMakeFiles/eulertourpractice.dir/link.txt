@@ -1,0 +1,3 @@
+C:\Users\allen\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5080.54\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\eulertourpractice.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\eulertourpractice.dir/objects.a @CMakeFiles\eulertourpractice.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\eulertourpractice.dir/objects.a -Wl,--no-whole-archive -o eulertourpractice.exe -Wl,--out-implib,libeulertourpractice.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\eulertourpractice.dir\linklibs.rsp

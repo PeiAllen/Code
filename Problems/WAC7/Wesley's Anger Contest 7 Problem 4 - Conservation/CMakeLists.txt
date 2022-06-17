@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.20)
+project(Wesley_s_Anger_Contest_7_Problem_4___Conservation)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Wesley_s_Anger_Contest_7_Problem_4___Conservation main.cpp generator.cpp)
