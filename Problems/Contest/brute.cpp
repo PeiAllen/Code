@@ -4,51 +4,51 @@ using ll = long long;
 using pii = pair<int,int>;
 using pll = pair<ll,ll>;
 template<typename T> int sz(const T &a){return int(a.size());}
-const int MN=2e3+1;
-int arr[MN][MN];
-char grid[MN][MN];
-unordered_map<char,pii> conver={{'U',{-1,0}},{'D',{1,0}},{'L',{0,-1}},{'R',{0,1}}};
-vector<pii> adj[MN][MN];
-bool bad[MN][MN];
-bool done[MN][MN];
+const int MN=1e6+1;
+vector<int> riffle(vector<int> arr){
+    vector<int> fin;
+    for(int lptr=0,rptr=sz(arr)/2;lptr<sz(arr)/2||rptr<sz(arr);){
+        if(rptr==sz(arr)||(lptr<sz(arr)/2&&arr[lptr]<arr[rptr])){
+            fin.push_back(arr[lptr++]);
+        }
+        else{
+            fin.push_back(arr[rptr++]);
+        }
+    }
+    return fin;
+}
+int ans[MN];
 int main(){
     cin.tie(NULL);
     ios_base::sync_with_stdio(false);
-    int n,m;
-    cin>>n>>m;
-    for(int i=1;i<=n;i++){
-        for(int j=1;j<=m;j++){
-            cin>>grid[i][j];
-            pii nxt={i+conver[grid[i][j]].first,j+conver[grid[i][j]].second};
-            adj[i][j].push_back(nxt);
-            bad[nxt.first][nxt.second]=true;
-        }
+    int n,q;
+    cin>>n>>q;
+    vector<int> arr(n);
+    for(int i=0;i<n;i++)cin>>arr[i];
+    vector<pair<pii,int>> queries;
+    int a,b;
+    for(int i=0;i<q;i++){
+        cin>>a>>b;
+        queries.push_back({{a,b},i});
     }
-    int ans=0;
-    for(int i=1;i<=n;i++){
-        for(int j=1;j<=m;j++){
-            if(!bad[i][j]&&!done[i][j]){
-                ans++;
-                pii cur={i,j};
-                while(!done[cur.first][cur.second]){
-                    done[cur.first][cur.second]=true;
-                    cur=adj[cur.first][cur.second].back();
-                }
-            }
+    sort(queries.begin(),queries.end());
+    int ptr=0;
+    for(int i=0;ptr<sz(queries);i++){
+        assert(i<n);
+        while(ptr<sz(queries)&&i==queries[ptr].first.first){
+            ans[queries[ptr].second]=arr[queries[ptr].first.second-1];
+            ptr++;
         }
-    }
-    for(int i=1;i<=n;i++){
-        for(int j=1;j<=m;j++){
-            if(!done[i][j]){
-                ans++;
-                pii cur={i,j};
-                while(!done[cur.first][cur.second]){
-                    done[cur.first][cur.second]=true;
-                    cur=adj[cur.first][cur.second].back();
-                }
-            }
+        vector<int> te=riffle(arr);
+        if(te==arr){
+            break;
         }
+        arr=te;
     }
-    printf("%d\n",ans);
+    while(ptr<sz(queries)){
+        ans[queries[ptr].second]=arr[queries[ptr].first.second-1];
+        ptr++;
+    }
+    for(int i=0;i<q;i++)printf("%d\n",ans[i]);
     return 0;
 }

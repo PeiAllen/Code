@@ -128,29 +128,29 @@ Contest/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Contest.dir\build.make CMakeFiles/Contest.dir/build
 .PHONY : Contest/fast
 
-brute.obj: brute.cpp.obj
-.PHONY : brute.obj
+main.obj: main.cpp.obj
+.PHONY : main.obj
 
 # target to build an object file
-brute.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Contest.dir\build.make CMakeFiles/Contest.dir/brute.cpp.obj
-.PHONY : brute.cpp.obj
+main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Contest.dir\build.make CMakeFiles/Contest.dir/main.cpp.obj
+.PHONY : main.cpp.obj
 
-brute.i: brute.cpp.i
-.PHONY : brute.i
+main.i: main.cpp.i
+.PHONY : main.i
 
 # target to preprocess a source file
-brute.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Contest.dir\build.make CMakeFiles/Contest.dir/brute.cpp.i
-.PHONY : brute.cpp.i
+main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Contest.dir\build.make CMakeFiles/Contest.dir/main.cpp.i
+.PHONY : main.cpp.i
 
-brute.s: brute.cpp.s
-.PHONY : brute.s
+main.s: main.cpp.s
+.PHONY : main.s
 
 # target to generate assembly for a file
-brute.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Contest.dir\build.make CMakeFiles/Contest.dir/brute.cpp.s
-.PHONY : brute.cpp.s
+main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Contest.dir\build.make CMakeFiles/Contest.dir/main.cpp.s
+.PHONY : main.cpp.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Contest
-	@echo ... brute.obj
-	@echo ... brute.i
-	@echo ... brute.s
+	@echo ... main.obj
+	@echo ... main.i
+	@echo ... main.s
 .PHONY : help
 
 

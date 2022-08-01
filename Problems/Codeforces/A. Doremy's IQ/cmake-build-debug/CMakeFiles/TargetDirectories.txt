@@ -1,0 +1,3 @@
+C:/Users/allen/Documents/Github/Code/Problems/Codeforces/A. Doremy's IQ/cmake-build-debug/CMakeFiles/A__Doremy_s_IQ.dir
+C:/Users/allen/Documents/Github/Code/Problems/Codeforces/A. Doremy's IQ/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/Documents/Github/Code/Problems/Codeforces/A. Doremy's IQ/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/allen/Documents/Github/Code/Problems/Codeforces/B. Almost Ternary Matrix/main.cpp
+bits/stdc++.h
+C:/Users/allen/Documents/Github/Code/Problems/Codeforces/B. Almost Ternary Matrix/bits/stdc++.h
+

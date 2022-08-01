@@ -3,44 +3,56 @@
 using namespace std;
 
 int n;
-int k;
-pair<int, int> height [1000001];
-priority_queue<int> width;
+int sausage [100001];
+vector<int> length [100001];
+long long dp [100001][5];
+int temp [100001];
 long long total;
-long long air = INT_MAX;
+int wanted [5];
+long long choose;
+
+long long compute(int x) {
+    for (int i = 1; i <= x; i++) {
+        for (int j = 1; j <= 4; j++) {
+            if (sausage[temp[i]] != wanted[j]) {
+                dp[i][j] = dp[i-1][j];
+            }
+            if (sausage[temp[i]] == wanted[j]) {
+                dp[i][j] = dp[i-1][j] + dp[i-1][j-1];
+            }
+        }
+    }
+    return dp[x][4];
+}
 
 int main()
 {
     cin.tie(NULL);
     ios_base::sync_with_stdio(false);
     cin >> n;
-    cin >> k;
-    for (int i = 1; i <= n; i++) {
-        int a;
-        int b;
-        cin >> a;
-        cin >> b;
-        height[i].first = a;
-        height[i].second = b;
+    for (int i = 0; i <= n; i++) dp[i][0] = 1;
+    for (int i = 1; i <= n; i++) cin >> sausage[i];
+    for (int i = 1; i <= n; i++) length[sausage[i]].push_back(i);
+    for (int a = 1; a <= 100; a++) {
+        for (int b = 1; b <= 100; b++) {
+            if (a!=b) {
+                wanted[1] = a;
+                wanted[2] = b;
+                wanted[3] = b;
+                wanted[4] = a;;
+                merge(length[a].begin(), length[a].end(), length[b].begin, length[b].end(), temp+1);
+                total += compute(length[a].size() + length[b].size());
+            }
+        }
     }
-    sort(height+1, height + n + 1, [&](pair<int, int> l, pair<int, int> r) {
-         return l.second < r.second;
-    });
-    for (int i = 1; i < k; i++) {
-        width.push(height[i].first);
-        total += height[i].first;
+    for (int i = 1; i <= 100; i++) {
+        choose = (long)length[i].size()*((long)length[i].size()-1)/2;
+        choose *= length[i].size()-2;
+        choose /= 3;
+        choose *= length[i].size()-3;
+        choose /= 4;
+        total += choose;
     }
-    air = (total+height[k].first)*height[k].second;
-    width.push(height[k].first);
-    total += height[k].first;
-    cout << width.size() << endl;
-    for (int i = k+1; i <= n; i++) {
-        total += height[i].first;
-        width.push(height[i].first);
-        total -= width.top();
-        width.pop();
-        air = min(air, height[i].second*total);
-    }
-    cout << air << endl;
+    cout << total << endl;
     return 0;
 }

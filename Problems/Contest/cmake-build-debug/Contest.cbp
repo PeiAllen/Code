@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/allen/Documents/Github/Code/Problems/Contest/brute.cpp">
+		<Unit filename="C:/Users/allen/Documents/Github/Code/Problems/Contest/main.cpp">
 			<Option target="Contest"/>
 		</Unit>
 		<Unit filename="C:/Users/allen/Documents/Github/Code/Problems/Contest/CMakeLists.txt">

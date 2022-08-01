@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Contest.dir/brute.cpp.obj"
+  "CMakeFiles/Contest.dir/main.cpp.obj"
   "Contest.exe"
   "Contest.exe.manifest"
   "Contest.pdb"
