@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "ios": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "__split_buffer": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "random": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "valarray": "cpp",
+        "algorithm": "cpp",
+        "queue": "cpp"
+    }
+}

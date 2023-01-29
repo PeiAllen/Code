@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "random": "cpp",
+        "algorithm": "cpp",
+        "numbers": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "ios": "cpp",
+        "string": "cpp",
+        "filesystem": "cpp",
+        "iosfwd": "cpp",
+        "tuple": "cpp",
+        "set": "cpp",
+        "regex": "cpp",
+        "span": "cpp"
+    }
+}

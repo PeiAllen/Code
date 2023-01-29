@@ -1,0 +1,8 @@
+x and y axis seperate
+in one d, just need to minimize sum of distance ^2
+believe thats on average? 
+nvm it asks for sum of distance
+so thats
+sum of (x-ai)^2
+sum of x^2-2xai+ai^2
+x^2 * n + sum of ai^2 - 2*x*sum of ai

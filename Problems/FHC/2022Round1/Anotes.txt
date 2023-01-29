@@ -1,0 +1,20 @@
+special case when n=2,
+otherwise when you can make in <k (always possible?) -> issue when make=k-1
+its just a rotation?
+
+a b c d e f
+d e f a b c
+
+so you really just care about where in the position the fisrst number is.
+needs to be at 1, but is currently at x.
+in ones move you can move it up by any amount (looping over)
+(location must change, )
+(so always possible in one), just keep moving it off.
+
+edge case when n=2 -> just check if the kth ordering matches
+otherwise, 
+    if starts at answer, fails if k=1 (otherwise just rotate off, and back on when needed)
+    if does not start at answer, fails at k=0 (otherwise just keep off, until put back on)
+
+    -> try above algorithm for all possible starting points. (check if k=0 is possible, and check if k=1 is possible)
+    -> for distinct, you can just rotate to 1.
